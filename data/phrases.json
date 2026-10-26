@@ -1,0 +1,5196 @@
+[
+ {
+  "id": "p001",
+  "kind": "colloc",
+  "cefr": "B1",
+  "q": "We need to ___ a decision by Friday.",
+  "a": "make",
+  "d": [
+   "do",
+   "take on",
+   "give"
+  ],
+  "zh": "做決定",
+  "ex": "make a decision 是固定搭配，不說 do a decision。"
+ },
+ {
+  "id": "p002",
+  "kind": "colloc",
+  "cefr": "A2",
+  "q": "Could you do me a ___? I need help moving this desk.",
+  "a": "favor",
+  "d": [
+   "help",
+   "service",
+   "hand"
+  ],
+  "zh": "幫個忙",
+  "ex": "do someone a favor 請人幫忙；help 不能這樣接。"
+ },
+ {
+  "id": "p003",
+  "kind": "colloc",
+  "cefr": "A2",
+  "q": "I'll ___ a look at the report this afternoon.",
+  "a": "take",
+  "d": [
+   "make",
+   "see",
+   "watch"
+  ],
+  "zh": "看一下",
+  "ex": "take a look (at) 看一下，不說 see a look。"
+ },
+ {
+  "id": "p004",
+  "kind": "colloc",
+  "cefr": "A2",
+  "q": "Let's ___ a break for ten minutes.",
+  "a": "take",
+  "d": [
+   "make",
+   "do",
+   "get"
+  ],
+  "zh": "休息一下",
+  "ex": "take a break 休息一下。"
+ },
+ {
+  "id": "p005",
+  "kind": "colloc",
+  "cefr": "A2",
+  "q": "Sorry, I ___ a mistake in the invoice total.",
+  "a": "made",
+  "d": [
+   "did",
+   "took",
+   "got"
+  ],
+  "zh": "犯錯",
+  "ex": "make a mistake 犯錯，不說 do a mistake。"
+ },
+ {
+  "id": "p006",
+  "kind": "colloc",
+  "cefr": "B1",
+  "q": "Please ___ attention to the safety instructions.",
+  "a": "pay",
+  "d": [
+   "give",
+   "put",
+   "take"
+  ],
+  "zh": "注意",
+  "ex": "pay attention to 注意，台灣人常誤用 put/give。"
+ },
+ {
+  "id": "p007",
+  "kind": "colloc",
+  "cefr": "B1",
+  "q": "The new policy will ___ effect on January 1.",
+  "a": "take",
+  "d": [
+   "make",
+   "get",
+   "come"
+  ],
+  "zh": "生效",
+  "ex": "take effect 生效；come 要說 come into effect。"
+ },
+ {
+  "id": "p008",
+  "kind": "colloc",
+  "cefr": "B1",
+  "q": "He ___ a speech at the company's annual dinner.",
+  "a": "gave",
+  "d": [
+   "said",
+   "told",
+   "spoke"
+  ],
+  "zh": "發表演說",
+  "ex": "give a speech 演講；speak 不能直接接 a speech。"
+ },
+ {
+  "id": "p009",
+  "kind": "colloc",
+  "cefr": "B1",
+  "q": "I don't want to ___ any risks with this client.",
+  "a": "take",
+  "d": [
+   "make",
+   "do",
+   "put"
+  ],
+  "zh": "冒險",
+  "ex": "take a risk 冒險。"
+ },
+ {
+  "id": "p010",
+  "kind": "colloc",
+  "cefr": "B2",
+  "q": "We need to ___ the deadline, no matter what.",
+  "a": "meet",
+  "d": [
+   "catch",
+   "arrive",
+   "win"
+  ],
+  "zh": "趕上截止期限",
+  "ex": "meet a deadline 如期完成；catch 是趕車。"
+ },
+ {
+  "id": "p011",
+  "kind": "colloc",
+  "cefr": "A2",
+  "q": "I need to ___ the laundry this weekend.",
+  "a": "do",
+  "d": [
+   "make",
+   "get",
+   "give"
+  ],
+  "zh": "洗衣服",
+  "ex": "do the laundry 洗衣服，家事多用 do。"
+ },
+ {
+  "id": "p012",
+  "kind": "colloc",
+  "cefr": "A2",
+  "q": "Traffic was terrible, so we ___ the train.",
+  "a": "missed",
+  "d": [
+   "lost",
+   "failed",
+   "passed"
+  ],
+  "zh": "錯過火車",
+  "ex": "miss the train 錯過；lose 是遺失。"
+ },
+ {
+  "id": "p013",
+  "kind": "colloc",
+  "cefr": "A2",
+  "q": "Could I ___ a reservation for two at seven?",
+  "a": "make",
+  "d": [
+   "do",
+   "put",
+   "give"
+  ],
+  "zh": "訂位",
+  "ex": "make a reservation 訂位。"
+ },
+ {
+  "id": "p014",
+  "kind": "colloc",
+  "cefr": "B1",
+  "q": "He ___ his promise and finished the work on time.",
+  "a": "kept",
+  "d": [
+   "held",
+   "stayed",
+   "saved"
+  ],
+  "zh": "守信",
+  "ex": "keep a promise 守信；break a promise 食言。"
+ },
+ {
+  "id": "p015",
+  "kind": "colloc",
+  "cefr": "B2",
+  "q": "After hours of talks, both sides finally ___ a compromise.",
+  "a": "reached",
+  "d": [
+   "arrived",
+   "got",
+   "took"
+  ],
+  "zh": "達成妥協",
+  "ex": "reach a compromise/agreement 達成共識。"
+ },
+ {
+  "id": "p016",
+  "kind": "colloc",
+  "cefr": "B2",
+  "q": "The startup ___ a profit for the first time last year.",
+  "a": "made",
+  "d": [
+   "did",
+   "got",
+   "won"
+  ],
+  "zh": "獲利",
+  "ex": "make a profit 獲利。"
+ },
+ {
+  "id": "p017",
+  "kind": "colloc",
+  "cefr": "B1",
+  "q": "Let's ___ a step back and look at the big picture.",
+  "a": "take",
+  "d": [
+   "make",
+   "do",
+   "go"
+  ],
+  "zh": "退一步看",
+  "ex": "take a step back 退一步、冷靜看全局。"
+ },
+ {
+  "id": "p018",
+  "kind": "colloc",
+  "cefr": "A2",
+  "q": "There was ___ traffic on the way to the airport.",
+  "a": "heavy",
+  "d": [
+   "strong",
+   "big",
+   "thick"
+  ],
+  "zh": "交通壅塞",
+  "ex": "heavy traffic 車很多，不說 big traffic。"
+ },
+ {
+  "id": "p019",
+  "kind": "colloc",
+  "cefr": "A2",
+  "q": "We had ___ rain last night, and some roads flooded.",
+  "a": "heavy",
+  "d": [
+   "strong",
+   "big",
+   "fat"
+  ],
+  "zh": "大雨",
+  "ex": "heavy rain 大雨，不說 big rain。"
+ },
+ {
+  "id": "p020",
+  "kind": "colloc",
+  "cefr": "A2",
+  "q": "I'd like a ___ coffee, please. I'm so tired.",
+  "a": "strong",
+  "d": [
+   "heavy",
+   "thick",
+   "hard"
+  ],
+  "zh": "濃咖啡",
+  "ex": "strong coffee/tea 濃的咖啡或茶。"
+ },
+ {
+  "id": "p021",
+  "kind": "colloc",
+  "cefr": "B1",
+  "q": "My uncle is a ___ smoker. He smokes two packs a day.",
+  "a": "heavy",
+  "d": [
+   "strong",
+   "thick",
+   "fast"
+  ],
+  "zh": "老菸槍",
+  "ex": "heavy smoker/drinker 重度吸菸、酗酒者。"
+ },
+ {
+  "id": "p022",
+  "kind": "colloc",
+  "cefr": "B2",
+  "q": "There's only a ___ chance we'll finish early.",
+  "a": "slim",
+  "d": [
+   "thin",
+   "narrow",
+   "skinny"
+  ],
+  "zh": "機會渺茫",
+  "ex": "slim chance 機會很小；thin 不搭 chance。"
+ },
+ {
+  "id": "p023",
+  "kind": "colloc",
+  "cefr": "B1",
+  "q": "We need to ___ costs this quarter.",
+  "a": "cut",
+  "d": [
+   "shorten",
+   "fall",
+   "sink"
+  ],
+  "zh": "削減成本",
+  "ex": "cut costs 刪減成本；fall 是不及物動詞。"
+ },
+ {
+  "id": "p024",
+  "kind": "colloc",
+  "cefr": "B2",
+  "q": "Housing prices ___ sharply last year.",
+  "a": "rose",
+  "d": [
+   "raised",
+   "lifted",
+   "grew up"
+  ],
+  "zh": "價格上漲",
+  "ex": "rise 不及物（自己漲）；raise 要接受詞。"
+ },
+ {
+  "id": "p025",
+  "kind": "colloc",
+  "cefr": "B1",
+  "q": "Please ___ your seatbelt.",
+  "a": "fasten",
+  "d": [
+   "close",
+   "lock",
+   "tie"
+  ],
+  "zh": "繫好安全帶",
+  "ex": "fasten your seatbelt 繫安全帶。"
+ },
+ {
+  "id": "p026",
+  "kind": "colloc",
+  "cefr": "B1",
+  "q": "I ___ a cold last week and I'm still coughing.",
+  "a": "caught",
+  "d": [
+   "took",
+   "received",
+   "held"
+  ],
+  "zh": "感冒",
+  "ex": "catch a cold 感冒。"
+ },
+ {
+  "id": "p027",
+  "kind": "colloc",
+  "cefr": "C1",
+  "q": "We need to ___ the gap between sales and engineering.",
+  "a": "bridge",
+  "d": [
+   "build",
+   "cross",
+   "connect"
+  ],
+  "zh": "拉近差距",
+  "ex": "bridge the gap 彌合落差。"
+ },
+ {
+  "id": "p028",
+  "kind": "colloc",
+  "cefr": "A2",
+  "q": "Could you let me ___ when you're free?",
+  "a": "know",
+  "d": [
+   "tell",
+   "say",
+   "inform"
+  ],
+  "zh": "讓我知道",
+  "ex": "let me know 告訴我，email 超常用。"
+ },
+ {
+  "id": "p029",
+  "kind": "colloc",
+  "cefr": "A2",
+  "q": "I'm going to ___ a shower before we leave.",
+  "a": "take",
+  "d": [
+   "make",
+   "do",
+   "wash"
+  ],
+  "zh": "洗澡",
+  "ex": "take a shower 洗澡。"
+ },
+ {
+  "id": "p030",
+  "kind": "colloc",
+  "cefr": "B1",
+  "q": "Let's ___ the bill. You pay half, I pay half.",
+  "a": "split",
+  "d": [
+   "cut",
+   "break",
+   "half"
+  ],
+  "zh": "平分帳單",
+  "ex": "split the bill 各付各的／平分。"
+ },
+ {
+  "id": "p031",
+  "kind": "colloc",
+  "cefr": "B2",
+  "q": "He ___ a good impression on the interviewers.",
+  "a": "made",
+  "d": [
+   "did",
+   "took",
+   "put"
+  ],
+  "zh": "留下好印象",
+  "ex": "make an impression on 給人留下印象。"
+ },
+ {
+  "id": "p032",
+  "kind": "colloc",
+  "cefr": "A2",
+  "q": "Who's going to ___ notes during the meeting?",
+  "a": "take",
+  "d": [
+   "make",
+   "do",
+   "put"
+  ],
+  "zh": "做筆記",
+  "ex": "take notes 做筆記。"
+ },
+ {
+  "id": "p033",
+  "kind": "colloc",
+  "cefr": "B2",
+  "q": "She ___ a key role in the merger.",
+  "a": "played",
+  "d": [
+   "made",
+   "did",
+   "took"
+  ],
+  "zh": "扮演角色",
+  "ex": "play a role 扮演角色、發揮作用。"
+ },
+ {
+  "id": "p034",
+  "kind": "colloc",
+  "cefr": "A2",
+  "q": "I'll ___ you a call tomorrow morning.",
+  "a": "give",
+  "d": [
+   "make",
+   "do",
+   "take"
+  ],
+  "zh": "打電話給你",
+  "ex": "give someone a call 打給某人。"
+ },
+ {
+  "id": "p035",
+  "kind": "colloc",
+  "cefr": "A2",
+  "q": "Can you ___ the phone? My hands are full.",
+  "a": "answer",
+  "d": [
+   "reply",
+   "respond",
+   "receive"
+  ],
+  "zh": "接電話",
+  "ex": "answer the phone 接電話。"
+ },
+ {
+  "id": "p036",
+  "kind": "colloc",
+  "cefr": "B1",
+  "q": "The kids are ___ asleep in the back seat.",
+  "a": "fast",
+  "d": [
+   "quick",
+   "strong",
+   "heavy"
+  ],
+  "zh": "熟睡",
+  "ex": "fast asleep 睡得很熟（fast 不是快）。"
+ },
+ {
+  "id": "p037",
+  "kind": "colloc",
+  "cefr": "B1",
+  "q": "I ___ recommend this restaurant. The food is amazing.",
+  "a": "highly",
+  "d": [
+   "tall",
+   "heavily",
+   "greatly"
+  ],
+  "zh": "強烈推薦",
+  "ex": "highly recommend 大力推薦。"
+ },
+ {
+  "id": "p038",
+  "kind": "colloc",
+  "cefr": "C1",
+  "q": "It was ___ cold this morning, so I wore two jackets.",
+  "a": "bitterly",
+  "d": [
+   "heavily",
+   "strongly",
+   "deeply"
+  ],
+  "zh": "刺骨地冷",
+  "ex": "bitterly cold 冷得刺骨。"
+ },
+ {
+  "id": "p039",
+  "kind": "colloc",
+  "cefr": "B2",
+  "q": "We are ___ aware of the risks involved.",
+  "a": "fully",
+  "d": [
+   "heavily",
+   "strongly",
+   "widely"
+  ],
+  "zh": "完全了解",
+  "ex": "fully aware 完全清楚。"
+ },
+ {
+  "id": "p040",
+  "kind": "colloc",
+  "cefr": "B2",
+  "q": "This software is ___ used in banks.",
+  "a": "widely",
+  "d": [
+   "wildly",
+   "deeply",
+   "strongly"
+  ],
+  "zh": "廣泛使用",
+  "ex": "widely used 廣泛使用；wildly 是瘋狂地。"
+ },
+ {
+  "id": "p041",
+  "kind": "colloc",
+  "cefr": "B1",
+  "q": "She ___ a small bakery downtown.",
+  "a": "runs",
+  "d": [
+   "drives",
+   "leads",
+   "makes"
+  ],
+  "zh": "經營",
+  "ex": "run a business/shop 經營店家。"
+ },
+ {
+  "id": "p042",
+  "kind": "colloc",
+  "cefr": "B2",
+  "q": "It's too early to ___ any conclusions.",
+  "a": "draw",
+  "d": [
+   "pull",
+   "take",
+   "do"
+  ],
+  "zh": "下結論",
+  "ex": "draw a conclusion 下結論。"
+ },
+ {
+  "id": "p043",
+  "kind": "colloc",
+  "cefr": "B2",
+  "q": "This case ___ an important question about privacy.",
+  "a": "raises",
+  "d": [
+   "rises",
+   "lifts",
+   "grows"
+  ],
+  "zh": "引發問題",
+  "ex": "raise a question 提出、引發問題。"
+ },
+ {
+  "id": "p044",
+  "kind": "colloc",
+  "cefr": "B2",
+  "q": "The results didn't ___ our expectations.",
+  "a": "meet",
+  "d": [
+   "touch",
+   "arrive",
+   "fit"
+  ],
+  "zh": "符合期望",
+  "ex": "meet expectations 達到預期。"
+ },
+ {
+  "id": "p045",
+  "kind": "colloc",
+  "cefr": "A2",
+  "q": "Taking the MRT will ___ you a lot of time.",
+  "a": "save",
+  "d": [
+   "keep",
+   "win",
+   "protect"
+  ],
+  "zh": "節省時間",
+  "ex": "save time/money 省時省錢。"
+ },
+ {
+  "id": "p046",
+  "kind": "colloc",
+  "cefr": "A2",
+  "q": "Let's not ___ time arguing about small details.",
+  "a": "waste",
+  "d": [
+   "cost",
+   "pass",
+   "throw"
+  ],
+  "zh": "浪費時間",
+  "ex": "waste time 浪費時間。"
+ },
+ {
+  "id": "p047",
+  "kind": "colloc",
+  "cefr": "A2",
+  "q": "I ___ too much money on clothes last month.",
+  "a": "spent",
+  "d": [
+   "cost",
+   "paid",
+   "took"
+  ],
+  "zh": "花錢",
+  "ex": "spend money on 花錢在…；cost 主詞是物。"
+ },
+ {
+  "id": "p048",
+  "kind": "colloc",
+  "cefr": "A2",
+  "q": "Can I pay ___ cash?",
+  "a": "in",
+  "d": [
+   "by",
+   "on",
+   "at"
+  ],
+  "zh": "付現",
+  "ex": "pay in cash 付現；by cash 是常見錯誤。"
+ },
+ {
+  "id": "p049",
+  "kind": "colloc",
+  "cefr": "A2",
+  "q": "Can I pay ___ credit card?",
+  "a": "by",
+  "d": [
+   "in",
+   "on",
+   "at"
+  ],
+  "zh": "刷卡",
+  "ex": "pay by (credit) card 刷卡付款。"
+ },
+ {
+  "id": "p050",
+  "kind": "colloc",
+  "cefr": "B1",
+  "q": "It was great to meet you. Let's ___ in touch.",
+  "a": "keep",
+  "d": [
+   "hold",
+   "have",
+   "make"
+  ],
+  "zh": "保持聯絡",
+  "ex": "keep in touch 保持聯絡。"
+ },
+ {
+  "id": "p051",
+  "kind": "colloc",
+  "cefr": "A2",
+  "q": "I'm trying to ___ weight before summer.",
+  "a": "lose",
+  "d": [
+   "decrease",
+   "lower",
+   "minus"
+  ],
+  "zh": "減重",
+  "ex": "lose weight 減肥；gain weight 變胖。"
+ },
+ {
+  "id": "p052",
+  "kind": "colloc",
+  "cefr": "A2",
+  "q": "I ___ asleep during the movie.",
+  "a": "fell",
+  "d": [
+   "slept",
+   "got",
+   "became"
+  ],
+  "zh": "睡著",
+  "ex": "fall asleep 睡著（動作）。"
+ },
+ {
+  "id": "p053",
+  "kind": "colloc",
+  "cefr": "B2",
+  "q": "The company ___ bankrupt after the pandemic.",
+  "a": "went",
+  "d": [
+   "got",
+   "turned",
+   "made"
+  ],
+  "zh": "破產",
+  "ex": "go bankrupt 破產。"
+ },
+ {
+  "id": "p054",
+  "kind": "colloc",
+  "cefr": "B1",
+  "q": "Her dream of opening a café finally ___ true.",
+  "a": "came",
+  "d": [
+   "became",
+   "went",
+   "got"
+  ],
+  "zh": "成真",
+  "ex": "come true 夢想成真。"
+ },
+ {
+  "id": "p055",
+  "kind": "colloc",
+  "cefr": "B2",
+  "q": "He was accused of ___ fraud.",
+  "a": "committing",
+  "d": [
+   "making",
+   "doing",
+   "taking"
+  ],
+  "zh": "犯罪",
+  "ex": "commit a crime/fraud 犯罪、詐欺。"
+ },
+ {
+  "id": "p056",
+  "kind": "colloc",
+  "cefr": "B2",
+  "q": "We ___ a survey of 500 users last month.",
+  "a": "conducted",
+  "d": [
+   "acted",
+   "opened",
+   "played"
+  ],
+  "zh": "進行調查",
+  "ex": "conduct a survey 進行調查（正式）。"
+ },
+ {
+  "id": "p057",
+  "kind": "colloc",
+  "cefr": "C1",
+  "q": "The latest update ___ several security issues.",
+  "a": "addresses",
+  "d": [
+   "speaks",
+   "talks",
+   "answers"
+  ],
+  "zh": "處理問題",
+  "ex": "address an issue 處理、解決問題，正式商務用語。"
+ },
+ {
+  "id": "p058",
+  "kind": "colloc",
+  "cefr": "B2",
+  "q": "Apple will ___ a new product in September.",
+  "a": "launch",
+  "d": [
+   "start",
+   "open",
+   "begin"
+  ],
+  "zh": "推出產品",
+  "ex": "launch a product 推出新產品。"
+ },
+ {
+  "id": "p059",
+  "kind": "colloc",
+  "cefr": "B1",
+  "q": "We ___ a team meeting every Monday morning.",
+  "a": "hold",
+  "d": [
+   "open",
+   "make",
+   "do"
+  ],
+  "zh": "開會",
+  "ex": "hold a meeting 舉行會議。"
+ },
+ {
+  "id": "p060",
+  "kind": "colloc",
+  "cefr": "B1",
+  "q": "Let's ___ a deadline for the first draft.",
+  "a": "set",
+  "d": [
+   "put",
+   "make",
+   "place"
+  ],
+  "zh": "訂期限",
+  "ex": "set a deadline 設定期限。"
+ },
+ {
+  "id": "p061",
+  "kind": "colloc",
+  "cefr": "B1",
+  "q": "She ___ the company's sales record this year.",
+  "a": "broke",
+  "d": [
+   "hit",
+   "won",
+   "passed"
+  ],
+  "zh": "打破紀錄",
+  "ex": "break a record 打破紀錄。"
+ },
+ {
+  "id": "p062",
+  "kind": "colloc",
+  "cefr": "B2",
+  "q": "Who's going to ___ the bad news to the team?",
+  "a": "break",
+  "d": [
+   "open",
+   "crack",
+   "say"
+  ],
+  "zh": "宣布壞消息",
+  "ex": "break the news 告知（壞）消息。"
+ },
+ {
+  "id": "p063",
+  "kind": "colloc",
+  "cefr": "B1",
+  "q": "Please keep ___ mind that the office closes at six.",
+  "a": "in",
+  "d": [
+   "on",
+   "at",
+   "with"
+  ],
+  "zh": "記住",
+  "ex": "keep in mind 記得、留意。"
+ },
+ {
+  "id": "p064",
+  "kind": "colloc",
+  "cefr": "A2",
+  "q": "That doesn't ___ sense to me.",
+  "a": "make",
+  "d": [
+   "have",
+   "do",
+   "give"
+  ],
+  "zh": "合理",
+  "ex": "make sense 說得通。"
+ },
+ {
+  "id": "p065",
+  "kind": "colloc",
+  "cefr": "B1",
+  "q": "We've been ___ business with them for ten years.",
+  "a": "doing",
+  "d": [
+   "making",
+   "having",
+   "taking"
+  ],
+  "zh": "做生意",
+  "ex": "do business with 跟…做生意。"
+ },
+ {
+  "id": "p066",
+  "kind": "colloc",
+  "cefr": "A2",
+  "q": "Don't worry about the result. Just ___ your best.",
+  "a": "do",
+  "d": [
+   "make",
+   "take",
+   "get"
+  ],
+  "zh": "盡力",
+  "ex": "do your best 盡力而為。"
+ },
+ {
+  "id": "p067",
+  "kind": "colloc",
+  "cefr": "A2",
+  "q": "___ fun at the party tonight!",
+  "a": "Have",
+  "d": [
+   "Make",
+   "Play",
+   "Do"
+  ],
+  "zh": "玩得開心",
+  "ex": "have fun 玩得愉快。"
+ },
+ {
+  "id": "p068",
+  "kind": "colloc",
+  "cefr": "B1",
+  "q": "On the road trip, we ___ turns driving.",
+  "a": "took",
+  "d": [
+   "made",
+   "did",
+   "had"
+  ],
+  "zh": "輪流",
+  "ex": "take turns 輪流。"
+ },
+ {
+  "id": "p069",
+  "kind": "colloc",
+  "cefr": "B1",
+  "q": "The conference will ___ place in Taipei next May.",
+  "a": "take",
+  "d": [
+   "make",
+   "have",
+   "hold"
+  ],
+  "zh": "舉行",
+  "ex": "take place 舉行、發生（不用被動）。"
+ },
+ {
+  "id": "p070",
+  "kind": "colloc",
+  "cefr": "B2",
+  "q": "We should ___ advantage of the early-bird discount.",
+  "a": "take",
+  "d": [
+   "make",
+   "get",
+   "use"
+  ],
+  "zh": "利用",
+  "ex": "take advantage of 善用、利用。"
+ },
+ {
+  "id": "p071",
+  "kind": "colloc",
+  "cefr": "B2",
+  "q": "The manager ___ full responsibility for the error.",
+  "a": "took",
+  "d": [
+   "made",
+   "did",
+   "got"
+  ],
+  "zh": "承擔責任",
+  "ex": "take responsibility 負起責任。"
+ },
+ {
+  "id": "p072",
+  "kind": "colloc",
+  "cefr": "B1",
+  "q": "We're ___ good progress on the project.",
+  "a": "making",
+  "d": [
+   "doing",
+   "taking",
+   "getting"
+  ],
+  "zh": "有進展",
+  "ex": "make progress 有進展。"
+ },
+ {
+  "id": "p073",
+  "kind": "colloc",
+  "cefr": "B1",
+  "q": "He ___ a real effort to improve his English.",
+  "a": "made",
+  "d": [
+   "did",
+   "took",
+   "gave"
+  ],
+  "zh": "努力",
+  "ex": "make an effort 努力。"
+ },
+ {
+  "id": "p074",
+  "kind": "colloc",
+  "cefr": "B2",
+  "q": "I'd like to ___ a complaint about the room service.",
+  "a": "make",
+  "d": [
+   "do",
+   "give",
+   "say"
+  ],
+  "zh": "客訴",
+  "ex": "make a complaint 提出抱怨、客訴。"
+ },
+ {
+  "id": "p075",
+  "kind": "colloc",
+  "cefr": "A2",
+  "q": "I need to ___ an appointment with the dentist.",
+  "a": "make",
+  "d": [
+   "do",
+   "take",
+   "put"
+  ],
+  "zh": "預約",
+  "ex": "make an appointment 預約（看診、會面）。"
+ },
+ {
+  "id": "p076",
+  "kind": "colloc",
+  "cefr": "A2",
+  "q": "Can you ___ me some advice on buying a laptop?",
+  "a": "give",
+  "d": [
+   "make",
+   "say",
+   "tell"
+  ],
+  "zh": "給建議",
+  "ex": "give advice 給建議；advice 不可數。"
+ },
+ {
+  "id": "p077",
+  "kind": "colloc",
+  "cefr": "B1",
+  "q": "To ___ the truth, I didn't read the whole report.",
+  "a": "tell",
+  "d": [
+   "say",
+   "speak",
+   "talk"
+  ],
+  "zh": "說實話",
+  "ex": "tell the truth 說實話；tell a lie 說謊。"
+ },
+ {
+  "id": "p078",
+  "kind": "colloc",
+  "cefr": "B1",
+  "q": "Can you ___ a secret?",
+  "a": "keep",
+  "d": [
+   "hold",
+   "save",
+   "protect"
+  ],
+  "zh": "保守秘密",
+  "ex": "keep a secret 保密。"
+ },
+ {
+  "id": "p079",
+  "kind": "colloc",
+  "cefr": "B1",
+  "q": "I have a ___ workload this month.",
+  "a": "heavy",
+  "d": [
+   "thick",
+   "strong",
+   "fat"
+  ],
+  "zh": "工作量大",
+  "ex": "heavy workload 工作量大。"
+ },
+ {
+  "id": "p080",
+  "kind": "colloc",
+  "cefr": "B1",
+  "q": "We're on a ___ schedule, so let's start now.",
+  "a": "tight",
+  "d": [
+   "narrow",
+   "close",
+   "thin"
+  ],
+  "zh": "行程很趕",
+  "ex": "tight schedule/budget 時程緊、預算緊。"
+ },
+ {
+  "id": "p081",
+  "kind": "colloc",
+  "cefr": "A2",
+  "q": "He's a ___ friend of mine from college.",
+  "a": "close",
+  "d": [
+   "near",
+   "deep",
+   "short"
+  ],
+  "zh": "好朋友",
+  "ex": "close friend 摯友；near 不搭 friend。"
+ },
+ {
+  "id": "p082",
+  "kind": "colloc",
+  "cefr": "B1",
+  "q": "You don't need a manual for that. It's just common ___.",
+  "a": "sense",
+  "d": [
+   "knowledge",
+   "idea",
+   "mind"
+  ],
+  "zh": "常識",
+  "ex": "common sense 常識、基本判斷力。"
+ },
+ {
+  "id": "p083",
+  "kind": "colloc",
+  "cefr": "A2",
+  "q": "Try to avoid driving during ___ hour.",
+  "a": "rush",
+  "d": [
+   "hurry",
+   "fast",
+   "crowd"
+  ],
+  "zh": "尖峰時段",
+  "ex": "rush hour 上下班尖峰。"
+ },
+ {
+  "id": "p084",
+  "kind": "colloc",
+  "cefr": "A2",
+  "q": "Taipei has excellent ___ transportation.",
+  "a": "public",
+  "d": [
+   "common",
+   "open",
+   "people"
+  ],
+  "zh": "大眾運輸",
+  "ex": "public transportation 大眾運輸。"
+ },
+ {
+  "id": "p085",
+  "kind": "colloc",
+  "cefr": "B2",
+  "q": "There was a ___ increase in orders after the ad campaign.",
+  "a": "sharp",
+  "d": [
+   "pointed",
+   "tall",
+   "hard"
+  ],
+  "zh": "急遽增加",
+  "ex": "sharp increase/drop 急劇上升或下降。"
+ },
+ {
+  "id": "p086",
+  "kind": "colloc",
+  "cefr": "B2",
+  "q": "That's a ___ point. I hadn't thought of that.",
+  "a": "valid",
+  "d": [
+   "true",
+   "real",
+   "legal"
+  ],
+  "zh": "有道理的論點",
+  "ex": "valid point 有道理的看法。"
+ },
+ {
+  "id": "p087",
+  "kind": "colloc",
+  "cefr": "B1",
+  "q": "Can you give me a ___ idea of the cost?",
+  "a": "rough",
+  "d": [
+   "rude",
+   "raw",
+   "hard"
+  ],
+  "zh": "大概的概念",
+  "ex": "rough idea/estimate 粗略估計。"
+ },
+ {
+  "id": "p088",
+  "kind": "colloc",
+  "cefr": "B1",
+  "q": "Thanks for coming on such ___ notice.",
+  "a": "short",
+  "d": [
+   "quick",
+   "small",
+   "fast"
+  ],
+  "zh": "臨時通知",
+  "ex": "at short notice 臨時、倉促通知。"
+ },
+ {
+  "id": "p089",
+  "kind": "colloc",
+  "cefr": "B2",
+  "q": "This is a ___ opportunity. Don't miss it.",
+  "a": "golden",
+  "d": [
+   "gold",
+   "shiny",
+   "rich"
+  ],
+  "zh": "絕佳機會",
+  "ex": "golden opportunity 千載難逢的機會。"
+ },
+ {
+  "id": "p090",
+  "kind": "colloc",
+  "cefr": "B2",
+  "q": "He ___ a living as a freelance translator.",
+  "a": "makes",
+  "d": [
+   "does",
+   "gets",
+   "takes"
+  ],
+  "zh": "謀生",
+  "ex": "make a living 謀生。"
+ },
+ {
+  "id": "p091",
+  "kind": "colloc",
+  "cefr": "B1",
+  "q": "Can you keep an ___ on my bag for a minute?",
+  "a": "eye",
+  "d": [
+   "look",
+   "watch",
+   "sight"
+  ],
+  "zh": "幫忙看著",
+  "ex": "keep an eye on 留意、看顧。"
+ },
+ {
+  "id": "p092",
+  "kind": "colloc",
+  "cefr": "B2",
+  "q": "He ___ his temper during the meeting.",
+  "a": "lost",
+  "d": [
+   "broke",
+   "missed",
+   "dropped"
+  ],
+  "zh": "發脾氣",
+  "ex": "lose one's temper 發脾氣。"
+ },
+ {
+  "id": "p093",
+  "kind": "colloc",
+  "cefr": "C1",
+  "q": "Before signing, you should ___ legal advice.",
+  "a": "seek",
+  "d": [
+   "search",
+   "look",
+   "hunt"
+  ],
+  "zh": "尋求建議",
+  "ex": "seek advice 尋求（專業）建議，正式用語。"
+ },
+ {
+  "id": "p094",
+  "kind": "colloc",
+  "cefr": "C1",
+  "q": "The board failed to ___ a consensus.",
+  "a": "reach",
+  "d": [
+   "arrive",
+   "come",
+   "touch"
+  ],
+  "zh": "達成共識",
+  "ex": "reach a consensus 達成共識。"
+ },
+ {
+  "id": "p095",
+  "kind": "colloc",
+  "cefr": "C1",
+  "q": "Investors should ___ caution in this market.",
+  "a": "exercise",
+  "d": [
+   "do",
+   "make",
+   "play"
+  ],
+  "zh": "謹慎行事",
+  "ex": "exercise caution 保持謹慎，正式用語。"
+ },
+ {
+  "id": "p096",
+  "kind": "colloc",
+  "cefr": "C1",
+  "q": "The new competitor ___ a serious threat to our business.",
+  "a": "poses",
+  "d": [
+   "puts",
+   "makes",
+   "gives"
+  ],
+  "zh": "構成威脅",
+  "ex": "pose a threat/risk 構成威脅。"
+ },
+ {
+  "id": "p097",
+  "kind": "colloc",
+  "cefr": "C1",
+  "q": "You may ___ extra charges if you cancel late.",
+  "a": "incur",
+  "d": [
+   "invite",
+   "occur",
+   "fall"
+  ],
+  "zh": "產生費用",
+  "ex": "incur costs/charges 招致費用，合約常見。"
+ },
+ {
+  "id": "p098",
+  "kind": "colloc",
+  "cefr": "C1",
+  "q": "Several employees ___ concerns about the new policy.",
+  "a": "voiced",
+  "d": [
+   "sounded",
+   "talked",
+   "spoke"
+  ],
+  "zh": "表達疑慮",
+  "ex": "voice concerns 表達顧慮。"
+ },
+ {
+  "id": "p099",
+  "kind": "colloc",
+  "cefr": "C1",
+  "q": "The police have ___ an investigation into the leak.",
+  "a": "launched",
+  "d": [
+   "fired",
+   "threw",
+   "shot"
+  ],
+  "zh": "展開調查",
+  "ex": "launch an investigation 展開調查。"
+ },
+ {
+  "id": "p100",
+  "kind": "colloc",
+  "cefr": "C1",
+  "q": "It's hard to ___ a balance between work and family.",
+  "a": "strike",
+  "d": [
+   "hit",
+   "beat",
+   "knock"
+  ],
+  "zh": "取得平衡",
+  "ex": "strike a balance 取得平衡。"
+ },
+ {
+  "id": "p101",
+  "kind": "colloc",
+  "cefr": "C1",
+  "q": "After the power outage, production ___ to a halt.",
+  "a": "ground",
+  "d": [
+   "fell",
+   "went",
+   "broke"
+  ],
+  "zh": "陷入停頓",
+  "ex": "grind to a halt 逐漸停擺（ground 為過去式）。"
+ },
+ {
+  "id": "p102",
+  "kind": "colloc",
+  "cefr": "B2",
+  "q": "We're trying to ___ money for the local animal shelter.",
+  "a": "raise",
+  "d": [
+   "rise",
+   "lift",
+   "grow"
+  ],
+  "zh": "募款",
+  "ex": "raise money/funds 募款。"
+ },
+ {
+  "id": "p103",
+  "kind": "colloc",
+  "cefr": "A2",
+  "q": "Please ___ a seat. The doctor will see you soon.",
+  "a": "take",
+  "d": [
+   "sit",
+   "make",
+   "do"
+  ],
+  "zh": "請坐",
+  "ex": "take a seat 請坐；sit 不接 a seat。"
+ },
+ {
+  "id": "p104",
+  "kind": "colloc",
+  "cefr": "B1",
+  "q": "I have to leave now to ___ my flight.",
+  "a": "catch",
+  "d": [
+   "hold",
+   "touch",
+   "reach"
+  ],
+  "zh": "趕上飛機",
+  "ex": "catch a flight/train/bus 趕上班機。"
+ },
+ {
+  "id": "p105",
+  "kind": "colloc",
+  "cefr": "A2",
+  "q": "Let's ___ shopping this weekend.",
+  "a": "go",
+  "d": [
+   "do",
+   "make",
+   "play"
+  ],
+  "zh": "去購物",
+  "ex": "go shopping 去逛街購物。"
+ },
+ {
+  "id": "p106",
+  "kind": "colloc",
+  "cefr": "A2",
+  "q": "It's easy to ___ friends at this company.",
+  "a": "make",
+  "d": [
+   "do",
+   "have",
+   "take"
+  ],
+  "zh": "交朋友",
+  "ex": "make friends 交朋友。"
+ },
+ {
+  "id": "p107",
+  "kind": "colloc",
+  "cefr": "B1",
+  "q": "Sorry, I'm ___ late. I'll be there in ten minutes.",
+  "a": "running",
+  "d": [
+   "going",
+   "walking",
+   "moving"
+  ],
+  "zh": "快遲到了",
+  "ex": "be running late 會晚一點到。"
+ },
+ {
+  "id": "p108",
+  "kind": "colloc",
+  "cefr": "A2",
+  "q": "Can I ask you a ___ question?",
+  "a": "quick",
+  "d": [
+   "fast",
+   "speedy",
+   "rapid"
+  ],
+  "zh": "簡短問題",
+  "ex": "quick question 問個小問題。"
+ },
+ {
+  "id": "p109",
+  "kind": "colloc",
+  "cefr": "B1",
+  "q": "Thanks for your ___ reply.",
+  "a": "prompt",
+  "d": [
+   "soon",
+   "near",
+   "rapidly"
+  ],
+  "zh": "迅速回覆",
+  "ex": "prompt reply 及時回覆，商務 email 常用。"
+ },
+ {
+  "id": "p110",
+  "kind": "colloc",
+  "cefr": "B1",
+  "q": "I look forward to ___ from you.",
+  "a": "hearing",
+  "d": [
+   "hear",
+   "listen",
+   "listening"
+  ],
+  "zh": "期待回音",
+  "ex": "look forward to + V-ing；hear from 收到來信。"
+ },
+ {
+  "id": "p111",
+  "kind": "colloc",
+  "cefr": "B1",
+  "q": "Please see the ___ file for details.",
+  "a": "attached",
+  "d": [
+   "attaching",
+   "attach",
+   "sticked"
+  ],
+  "zh": "附件",
+  "ex": "attached file 附件；Please see attached 常用。"
+ },
+ {
+  "id": "p112",
+  "kind": "colloc",
+  "cefr": "C1",
+  "q": "I have a ___ headache. I need to lie down.",
+  "a": "splitting",
+  "d": [
+   "breaking",
+   "cutting",
+   "tearing"
+  ],
+  "zh": "劇烈頭痛",
+  "ex": "splitting headache 頭痛欲裂。"
+ },
+ {
+  "id": "p113",
+  "kind": "colloc",
+  "cefr": "B2",
+  "q": "Our team ___ the project well under budget.",
+  "a": "completed",
+  "d": [
+   "ended",
+   "made",
+   "stopped"
+  ],
+  "zh": "完成專案",
+  "ex": "complete a project 完成專案；under budget 低於預算。"
+ },
+ {
+  "id": "p114",
+  "kind": "colloc",
+  "cefr": "B1",
+  "q": "Please ___ a copy of your ID with the application.",
+  "a": "enclose",
+  "d": [
+   "close",
+   "lock",
+   "include in"
+  ],
+  "zh": "附上",
+  "ex": "enclose 隨信附上（紙本/正式）。"
+ },
+ {
+  "id": "p115",
+  "kind": "colloc",
+  "cefr": "C1",
+  "q": "The CEO ___ the deal with a handshake.",
+  "a": "sealed",
+  "d": [
+   "locked",
+   "closed up",
+   "shut"
+  ],
+  "zh": "敲定交易",
+  "ex": "seal the deal 敲定、成交。"
+ },
+ {
+  "id": "p116",
+  "kind": "phrasal",
+  "cefr": "A2",
+  "q": "Could you turn the music ___? I'm on a call.",
+  "a": "down",
+  "d": [
+   "out",
+   "low",
+   "under"
+  ],
+  "zh": "調小聲",
+  "ex": "turn down 調小（音量）；turn up 調大。"
+ },
+ {
+  "id": "p117",
+  "kind": "phrasal",
+  "cefr": "B1",
+  "q": "We had to put ___ the meeting until next week.",
+  "a": "off",
+  "d": [
+   "out",
+   "up",
+   "away"
+  ],
+  "zh": "延後",
+  "ex": "put off 延後、拖延。"
+ },
+ {
+  "id": "p118",
+  "kind": "phrasal",
+  "cefr": "B1",
+  "q": "The meeting was called ___ because the manager was sick.",
+  "a": "off",
+  "d": [
+   "out",
+   "up",
+   "down"
+  ],
+  "zh": "取消",
+  "ex": "call off 取消（活動、會議）。"
+ },
+ {
+  "id": "p119",
+  "kind": "phrasal",
+  "cefr": "A2",
+  "q": "I'll pick you ___ at the airport.",
+  "a": "up",
+  "d": [
+   "on",
+   "in",
+   "out"
+  ],
+  "zh": "接人",
+  "ex": "pick someone up 開車接人。"
+ },
+ {
+  "id": "p120",
+  "kind": "phrasal",
+  "cefr": "A2",
+  "q": "Can you look ___ my cat while I'm away?",
+  "a": "after",
+  "d": [
+   "for",
+   "at",
+   "up"
+  ],
+  "zh": "照顧",
+  "ex": "look after 照顧。"
+ },
+ {
+  "id": "p121",
+  "kind": "phrasal",
+  "cefr": "A2",
+  "q": "I'm looking ___ to the trip.",
+  "a": "forward",
+  "d": [
+   "front",
+   "up",
+   "out"
+  ],
+  "zh": "期待",
+  "ex": "look forward to 期待。"
+ },
+ {
+  "id": "p122",
+  "kind": "phrasal",
+  "cefr": "A2",
+  "q": "We ran ___ of paper, so I couldn't print the slides.",
+  "a": "out",
+  "d": [
+   "off",
+   "away",
+   "down"
+  ],
+  "zh": "用完",
+  "ex": "run out of 用光。"
+ },
+ {
+  "id": "p123",
+  "kind": "phrasal",
+  "cefr": "B1",
+  "q": "I need to figure ___ how to fix this bug.",
+  "a": "out",
+  "d": [
+   "up",
+   "in",
+   "off"
+  ],
+  "zh": "想出",
+  "ex": "figure out 想清楚、弄懂。"
+ },
+ {
+  "id": "p124",
+  "kind": "phrasal",
+  "cefr": "B1",
+  "q": "She came ___ with a great idea for the campaign.",
+  "a": "up",
+  "d": [
+   "on",
+   "off",
+   "down"
+  ],
+  "zh": "想出點子",
+  "ex": "come up with 想出（點子、方案）。"
+ },
+ {
+  "id": "p125",
+  "kind": "phrasal",
+  "cefr": "A2",
+  "q": "Hold ___, let me check my calendar.",
+  "a": "on",
+  "d": [
+   "off",
+   "in",
+   "out"
+  ],
+  "zh": "稍等",
+  "ex": "hold on 等一下（電話常用）。"
+ },
+ {
+  "id": "p126",
+  "kind": "phrasal",
+  "cefr": "B1",
+  "q": "Let's go ___ the details once more before the client arrives.",
+  "a": "over",
+  "d": [
+   "on",
+   "off",
+   "at"
+  ],
+  "zh": "檢查複習",
+  "ex": "go over 仔細檢查、複習。"
+ },
+ {
+  "id": "p127",
+  "kind": "phrasal",
+  "cefr": "B1",
+  "q": "He gave ___ smoking last year.",
+  "a": "up",
+  "d": [
+   "off",
+   "out",
+   "away"
+  ],
+  "zh": "戒掉",
+  "ex": "give up 放棄、戒掉。"
+ },
+ {
+  "id": "p128",
+  "kind": "phrasal",
+  "cefr": "B1",
+  "q": "I'll get back ___ you by tomorrow.",
+  "a": "to",
+  "d": [
+   "for",
+   "at",
+   "with"
+  ],
+  "zh": "回覆你",
+  "ex": "get back to someone 稍後回覆某人。"
+ },
+ {
+  "id": "p129",
+  "kind": "phrasal",
+  "cefr": "A2",
+  "q": "The printer broke ___ again.",
+  "a": "down",
+  "d": [
+   "up",
+   "out",
+   "off"
+  ],
+  "zh": "故障",
+  "ex": "break down 機器故障。"
+ },
+ {
+  "id": "p130",
+  "kind": "phrasal",
+  "cefr": "B1",
+  "q": "Sales have picked ___ this month.",
+  "a": "up",
+  "d": [
+   "out",
+   "on",
+   "over"
+  ],
+  "zh": "好轉",
+  "ex": "pick up 回升、好轉。"
+ },
+ {
+  "id": "p131",
+  "kind": "phrasal",
+  "cefr": "B1",
+  "q": "I ran ___ an old classmate at the MRT station.",
+  "a": "into",
+  "d": [
+   "over",
+   "onto",
+   "through"
+  ],
+  "zh": "巧遇",
+  "ex": "run into someone 巧遇某人。"
+ },
+ {
+  "id": "p132",
+  "kind": "phrasal",
+  "cefr": "B1",
+  "q": "Please hand ___ your report by Friday.",
+  "a": "in",
+  "d": [
+   "up",
+   "off",
+   "down"
+  ],
+  "zh": "繳交",
+  "ex": "hand in 繳交（作業、報告）。"
+ },
+ {
+  "id": "p133",
+  "kind": "phrasal",
+  "cefr": "A2",
+  "q": "Don't give ___! You're almost there.",
+  "a": "up",
+  "d": [
+   "out",
+   "off",
+   "down"
+  ],
+  "zh": "放棄",
+  "ex": "give up 放棄。"
+ },
+ {
+  "id": "p134",
+  "kind": "phrasal",
+  "cefr": "B2",
+  "q": "We need to cut ___ on travel expenses.",
+  "a": "back",
+  "d": [
+   "off",
+   "out",
+   "over"
+  ],
+  "zh": "削減",
+  "ex": "cut back on 縮減（開支）。"
+ },
+ {
+  "id": "p135",
+  "kind": "phrasal",
+  "cefr": "B1",
+  "q": "Let me think it ___ and get back to you.",
+  "a": "over",
+  "d": [
+   "up",
+   "off",
+   "in"
+  ],
+  "zh": "考慮一下",
+  "ex": "think it over 仔細考慮。"
+ },
+ {
+  "id": "p136",
+  "kind": "phrasal",
+  "cefr": "B1",
+  "q": "I missed the meeting. Can you fill me ___ on what happened?",
+  "a": "in",
+  "d": [
+   "up",
+   "out",
+   "on"
+  ],
+  "zh": "告知細節",
+  "ex": "fill someone in 跟某人補充狀況。"
+ },
+ {
+  "id": "p137",
+  "kind": "phrasal",
+  "cefr": "B2",
+  "q": "Kevin will take ___ the project while Amy is on leave.",
+  "a": "over",
+  "d": [
+   "off",
+   "in",
+   "out"
+  ],
+  "zh": "接手",
+  "ex": "take over 接手、接管。"
+ },
+ {
+  "id": "p138",
+  "kind": "phrasal",
+  "cefr": "A2",
+  "q": "Checkout is at 11, so we should check ___ by then.",
+  "a": "out",
+  "d": [
+   "off",
+   "away",
+   "up"
+  ],
+  "zh": "退房",
+  "ex": "check out 退房；check in 入住。"
+ },
+ {
+  "id": "p139",
+  "kind": "phrasal",
+  "cefr": "A2",
+  "q": "I don't feel like cooking. Let's eat ___ tonight.",
+  "a": "out",
+  "d": [
+   "off",
+   "away",
+   "over"
+  ],
+  "zh": "外食",
+  "ex": "eat out 在外面吃。"
+ },
+ {
+  "id": "p140",
+  "kind": "phrasal",
+  "cefr": "A2",
+  "q": "I usually work ___ at the gym after work.",
+  "a": "out",
+  "d": [
+   "up",
+   "on",
+   "off"
+  ],
+  "zh": "健身",
+  "ex": "work out 運動健身。"
+ },
+ {
+  "id": "p141",
+  "kind": "phrasal",
+  "cefr": "B1",
+  "q": "Our flight was delayed, so we had to hang ___ at the airport for hours.",
+  "a": "around",
+  "d": [
+   "up",
+   "on",
+   "off"
+  ],
+  "zh": "閒晃",
+  "ex": "hang around 閒待、閒晃。"
+ },
+ {
+  "id": "p142",
+  "kind": "phrasal",
+  "cefr": "A2",
+  "q": "Please log ___ with your employee ID.",
+  "a": "in",
+  "d": [
+   "out",
+   "off",
+   "down"
+  ],
+  "zh": "登入",
+  "ex": "log in 登入；log out 登出。"
+ },
+ {
+  "id": "p143",
+  "kind": "phrasal",
+  "cefr": "B2",
+  "q": "The deal fell ___ at the last minute.",
+  "a": "through",
+  "d": [
+   "down",
+   "over",
+   "away"
+  ],
+  "zh": "告吹",
+  "ex": "fall through 計畫、交易告吹。"
+ },
+ {
+  "id": "p144",
+  "kind": "phrasal",
+  "cefr": "B1",
+  "q": "I'll drop ___ the documents at your office on my way home.",
+  "a": "off",
+  "d": [
+   "out",
+   "down",
+   "away"
+  ],
+  "zh": "順路送去",
+  "ex": "drop off 順路放下、送達。"
+ },
+ {
+  "id": "p145",
+  "kind": "phrasal",
+  "cefr": "B2",
+  "q": "If the client pushes back, can you back me ___ in the meeting?",
+  "a": "up",
+  "d": [
+   "on",
+   "out",
+   "off"
+  ],
+  "zh": "支持我",
+  "ex": "back someone up 支持、挺某人。"
+ },
+ {
+  "id": "p146",
+  "kind": "phrasal",
+  "cefr": "B2",
+  "q": "I can't put ___ with the noise from the construction anymore.",
+  "a": "up",
+  "d": [
+   "on",
+   "off",
+   "down"
+  ],
+  "zh": "忍受",
+  "ex": "put up with 忍受。"
+ },
+ {
+  "id": "p147",
+  "kind": "phrasal",
+  "cefr": "B1",
+  "q": "He turned ___ the job offer because the pay was too low.",
+  "a": "down",
+  "d": [
+   "off",
+   "over",
+   "out"
+  ],
+  "zh": "拒絕",
+  "ex": "turn down 拒絕（邀請、提議）。"
+ },
+ {
+  "id": "p148",
+  "kind": "phrasal",
+  "cefr": "B1",
+  "q": "It's been ages! Let's catch ___ over coffee next week.",
+  "a": "up",
+  "d": [
+   "on",
+   "in",
+   "out"
+  ],
+  "zh": "敘舊",
+  "ex": "catch up 敘舊、聊近況。"
+ },
+ {
+  "id": "p149",
+  "kind": "phrasal",
+  "cefr": "C1",
+  "q": "The new tax rules will be phased ___ over two years.",
+  "a": "in",
+  "d": [
+   "on",
+   "up",
+   "over"
+  ],
+  "zh": "逐步實施",
+  "ex": "phase in 逐步導入；phase out 逐步淘汰。"
+ },
+ {
+  "id": "p150",
+  "kind": "phrasal",
+  "cefr": "A2",
+  "q": "Prices went ___ after the typhoon.",
+  "a": "up",
+  "d": [
+   "on",
+   "over",
+   "off"
+  ],
+  "zh": "上漲",
+  "ex": "go up 上漲；go down 下跌。"
+ },
+ {
+  "id": "p151",
+  "kind": "phrasal",
+  "cefr": "B1",
+  "q": "We need to find ___ who approved this payment.",
+  "a": "out",
+  "d": [
+   "up",
+   "on",
+   "over"
+  ],
+  "zh": "查出",
+  "ex": "find out 查明、發現。"
+ },
+ {
+  "id": "p152",
+  "kind": "phrasal",
+  "cefr": "B1",
+  "q": "We're out of time, so let's wrap ___ the meeting.",
+  "a": "up",
+  "d": [
+   "out",
+   "off",
+   "on"
+  ],
+  "zh": "收尾",
+  "ex": "wrap up 結束、收尾。"
+ },
+ {
+  "id": "p153",
+  "kind": "phrasal",
+  "cefr": "A2",
+  "q": "Our flight took ___ an hour late.",
+  "a": "off",
+  "d": [
+   "up",
+   "out",
+   "on"
+  ],
+  "zh": "起飛",
+  "ex": "take off 起飛。"
+ },
+ {
+  "id": "p154",
+  "kind": "phrasal",
+  "cefr": "A2",
+  "q": "Sign ___ for our newsletter to get 10% off.",
+  "a": "up",
+  "d": [
+   "in",
+   "off",
+   "out"
+  ],
+  "zh": "報名註冊",
+  "ex": "sign up for 報名、註冊。"
+ },
+ {
+  "id": "p155",
+  "kind": "phrasal",
+  "cefr": "B1",
+  "q": "I'll look ___ the problem and let you know what I find.",
+  "a": "into",
+  "d": [
+   "up",
+   "on",
+   "out"
+  ],
+  "zh": "調查",
+  "ex": "look into 調查、研究。"
+ },
+ {
+  "id": "p156",
+  "kind": "phrasal",
+  "cefr": "A2",
+  "q": "If you don't know the word, look it ___ in the dictionary.",
+  "a": "up",
+  "d": [
+   "on",
+   "out",
+   "off"
+  ],
+  "zh": "查（字典）",
+  "ex": "look up 查詢（字、資料）。"
+ },
+ {
+  "id": "p157",
+  "kind": "phrasal",
+  "cefr": "B2",
+  "q": "The investor pulled ___ of the deal at the last minute.",
+  "a": "out",
+  "d": [
+   "off",
+   "over",
+   "down"
+  ],
+  "zh": "退出",
+  "ex": "pull out of 退出。"
+ },
+ {
+  "id": "p158",
+  "kind": "phrasal",
+  "cefr": "A2",
+  "q": "Let me write ___ your phone number.",
+  "a": "down",
+  "d": [
+   "in",
+   "on",
+   "off"
+  ],
+  "zh": "寫下",
+  "ex": "write down 寫下來。"
+ },
+ {
+  "id": "p159",
+  "kind": "phrasal",
+  "cefr": "A2",
+  "q": "Don't forget to back ___ your files before the update.",
+  "a": "up",
+  "d": [
+   "on",
+   "out",
+   "in"
+  ],
+  "zh": "備份",
+  "ex": "back up 備份。"
+ },
+ {
+  "id": "p160",
+  "kind": "phrasal",
+  "cefr": "A2",
+  "q": "Could you speak ___? I can't hear you at the back.",
+  "a": "up",
+  "d": [
+   "on",
+   "over",
+   "off"
+  ],
+  "zh": "大聲一點",
+  "ex": "speak up 說大聲點。"
+ },
+ {
+  "id": "p161",
+  "kind": "phrasal",
+  "cefr": "B1",
+  "q": "The meeting dragged ___ for three hours.",
+  "a": "on",
+  "d": [
+   "up",
+   "off",
+   "over"
+  ],
+  "zh": "拖延",
+  "ex": "drag on 拖得很久。"
+ },
+ {
+  "id": "p162",
+  "kind": "phrasal",
+  "cefr": "B1",
+  "q": "Let's set ___ early to avoid the traffic.",
+  "a": "off",
+  "d": [
+   "up",
+   "in",
+   "down"
+  ],
+  "zh": "出發",
+  "ex": "set off 出發。"
+ },
+ {
+  "id": "p163",
+  "kind": "phrasal",
+  "cefr": "B1",
+  "q": "He showed ___ 20 minutes late for the interview.",
+  "a": "up",
+  "d": [
+   "out",
+   "on",
+   "off"
+  ],
+  "zh": "出現",
+  "ex": "show up 出現、到場。"
+ },
+ {
+  "id": "p164",
+  "kind": "phrasal",
+  "cefr": "B1",
+  "q": "We need to come up ___ a better solution.",
+  "a": "with",
+  "d": [
+   "for",
+   "to",
+   "by"
+  ],
+  "zh": "想出",
+  "ex": "come up with 想出；介系詞固定 with。"
+ },
+ {
+  "id": "p165",
+  "kind": "phrasal",
+  "cefr": "B2",
+  "q": "The fire alarm went ___ in the middle of the meeting.",
+  "a": "off",
+  "d": [
+   "out",
+   "on",
+   "up"
+  ],
+  "zh": "響起",
+  "ex": "go off 鬧鐘、警報響。"
+ },
+ {
+  "id": "p166",
+  "kind": "phrasal",
+  "cefr": "B1",
+  "q": "Can you set ___ the projector before the presentation?",
+  "a": "up",
+  "d": [
+   "on",
+   "in",
+   "off"
+  ],
+  "zh": "架設",
+  "ex": "set up 架設、安裝。"
+ },
+ {
+  "id": "p167",
+  "kind": "phrasal",
+  "cefr": "B1",
+  "q": "I'll follow ___ with the client next week.",
+  "a": "up",
+  "d": [
+   "on",
+   "out",
+   "over"
+  ],
+  "zh": "後續追蹤",
+  "ex": "follow up (with) 後續聯繫追蹤。"
+ },
+ {
+  "id": "p168",
+  "kind": "phrasal",
+  "cefr": "B2",
+  "q": "Let's kick ___ the meeting with a quick update from each team.",
+  "a": "off",
+  "d": [
+   "up",
+   "out",
+   "on"
+  ],
+  "zh": "開始",
+  "ex": "kick off 開始、開場。"
+ },
+ {
+  "id": "p169",
+  "kind": "phrasal",
+  "cefr": "B1",
+  "q": "Please fill ___ the form and return it to the front desk.",
+  "a": "out",
+  "d": [
+   "up",
+   "over",
+   "down"
+  ],
+  "zh": "填寫",
+  "ex": "fill out/in 填表；fill up 是加滿。"
+ },
+ {
+  "id": "p170",
+  "kind": "phrasal",
+  "cefr": "A2",
+  "q": "Can you turn ___ the lights? It's getting dark.",
+  "a": "on",
+  "d": [
+   "in",
+   "up",
+   "over"
+  ],
+  "zh": "開燈",
+  "ex": "turn on 打開（電器）。"
+ },
+ {
+  "id": "p171",
+  "kind": "phrasal",
+  "cefr": "B1",
+  "q": "Don't forget to turn ___ your phone before the concert starts.",
+  "a": "off",
+  "d": [
+   "out",
+   "down",
+   "over"
+  ],
+  "zh": "關機",
+  "ex": "turn off 關掉（電器）。"
+ },
+ {
+  "id": "p172",
+  "kind": "phrasal",
+  "cefr": "B2",
+  "q": "Things didn't go as planned, but it all worked ___ in the end.",
+  "a": "out",
+  "d": [
+   "up",
+   "off",
+   "over"
+  ],
+  "zh": "圓滿解決",
+  "ex": "work out 結果順利。"
+ },
+ {
+  "id": "p173",
+  "kind": "phrasal",
+  "cefr": "B1",
+  "q": "I'll call you ___ in five minutes. I'm driving.",
+  "a": "back",
+  "d": [
+   "off",
+   "out",
+   "down"
+  ],
+  "zh": "回電",
+  "ex": "call back 回電。"
+ },
+ {
+  "id": "p174",
+  "kind": "phrasal",
+  "cefr": "B2",
+  "q": "We ended ___ eating at home because it was raining.",
+  "a": "up",
+  "d": [
+   "out",
+   "off",
+   "over"
+  ],
+  "zh": "最後",
+  "ex": "end up + V-ing 最後落得…。"
+ },
+ {
+  "id": "p175",
+  "kind": "phrasal",
+  "cefr": "B1",
+  "q": "Please put ___ your mask before you get on the MRT.",
+  "a": "on",
+  "d": [
+   "in",
+   "up",
+   "at"
+  ],
+  "zh": "戴上",
+  "ex": "put on 穿戴上。"
+ },
+ {
+  "id": "p176",
+  "kind": "phrasal",
+  "cefr": "B2",
+  "q": "The project ran ___ budget by 20%.",
+  "a": "over",
+  "d": [
+   "out",
+   "off",
+   "through"
+  ],
+  "zh": "超出",
+  "ex": "run over budget 超出預算。"
+ },
+ {
+  "id": "p177",
+  "kind": "phrasal",
+  "cefr": "B1",
+  "q": "Can you [put me through] to the sales department?",
+  "a": "幫我轉接",
+  "d": [
+   "讓我通過",
+   "幫我完成",
+   "讓我放下"
+  ],
+  "zh": "轉接（電話）",
+  "ex": "put someone through 電話轉接。"
+ },
+ {
+  "id": "p178",
+  "kind": "phrasal",
+  "cefr": "C1",
+  "q": "We still need to [iron out] a few details in the contract.",
+  "a": "解決（細節問題）",
+  "d": [
+   "熨平衣服",
+   "列出",
+   "刪除"
+  ],
+  "zh": "解決小問題",
+  "ex": "iron out 消除、解決分歧或小問題。"
+ },
+ {
+  "id": "p179",
+  "kind": "phrasal",
+  "cefr": "B2",
+  "q": "The project [fell apart] after the CEO left.",
+  "a": "瓦解失敗",
+  "d": [
+   "被分開",
+   "掉下來",
+   "延期"
+  ],
+  "zh": "瓦解",
+  "ex": "fall apart 崩解、計畫失敗。"
+ },
+ {
+  "id": "p180",
+  "kind": "phrasal",
+  "cefr": "B1",
+  "q": "Don't [bring up] salary in the first interview.",
+  "a": "提起",
+  "d": [
+   "撫養",
+   "舉高",
+   "帶上來"
+  ],
+  "zh": "提起話題",
+  "ex": "bring up 提起話題；也有撫養之意。"
+ },
+ {
+  "id": "p181",
+  "kind": "phrasal",
+  "cefr": "B1",
+  "q": "I [came across] an interesting article on AI yesterday.",
+  "a": "偶然看到",
+  "d": [
+   "穿越",
+   "同意",
+   "走過來"
+  ],
+  "zh": "偶然發現",
+  "ex": "come across 偶然碰到、看到。"
+ },
+ {
+  "id": "p182",
+  "kind": "phrasal",
+  "cefr": "B2",
+  "q": "He [looks down on] people who don't have a degree.",
+  "a": "瞧不起",
+  "d": [
+   "往下看",
+   "照顧",
+   "查詢"
+  ],
+  "zh": "看不起",
+  "ex": "look down on 輕視。"
+ },
+ {
+  "id": "p183",
+  "kind": "phrasal",
+  "cefr": "B1",
+  "q": "I really [look up to] my first manager.",
+  "a": "尊敬",
+  "d": [
+   "查詢",
+   "抬頭看",
+   "期待"
+  ],
+  "zh": "景仰",
+  "ex": "look up to 尊敬、景仰。"
+ },
+ {
+  "id": "p184",
+  "kind": "phrasal",
+  "cefr": "B1",
+  "q": "We [ran into] some problems during testing.",
+  "a": "遇到",
+  "d": [
+   "跑進去",
+   "撞倒",
+   "解決"
+  ],
+  "zh": "遇到（問題）",
+  "ex": "run into problems 遇到問題。"
+ },
+ {
+  "id": "p185",
+  "kind": "phrasal",
+  "cefr": "B1",
+  "q": "Her design really [stands out] from the others.",
+  "a": "很突出",
+  "d": [
+   "站在外面",
+   "離開",
+   "反對"
+  ],
+  "zh": "脫穎而出",
+  "ex": "stand out 顯眼、出色。"
+ },
+ {
+  "id": "p186",
+  "kind": "phrasal",
+  "cefr": "B2",
+  "q": "Please [hold off] on sending the email until I check it.",
+  "a": "暫緩",
+  "d": [
+   "拿走",
+   "堅持",
+   "取消"
+  ],
+  "zh": "先暫停",
+  "ex": "hold off (on) 暫緩、延後。"
+ },
+ {
+  "id": "p187",
+  "kind": "phrasal",
+  "cefr": "B2",
+  "q": "Our team [is made up of] five engineers and a designer.",
+  "a": "由…組成",
+  "d": [
+   "化妝",
+   "捏造",
+   "和好"
+  ],
+  "zh": "由…組成",
+  "ex": "be made up of 由…構成。"
+ },
+ {
+  "id": "p188",
+  "kind": "phrasal",
+  "cefr": "B1",
+  "q": "They argued last week, but they've [made up] now.",
+  "a": "和好",
+  "d": [
+   "化妝",
+   "編造",
+   "補考"
+  ],
+  "zh": "和好",
+  "ex": "make up 和好；也可指編造、化妝。"
+ },
+ {
+  "id": "p189",
+  "kind": "phrasal",
+  "cefr": "B1",
+  "q": "He [made up] an excuse for being late.",
+  "a": "編造",
+  "d": [
+   "和好",
+   "化妝",
+   "彌補"
+  ],
+  "zh": "捏造",
+  "ex": "make up an excuse 編藉口。"
+ },
+ {
+  "id": "p190",
+  "kind": "phrasal",
+  "cefr": "B1",
+  "q": "The rumor [turned out] to be true.",
+  "a": "結果是",
+  "d": [
+   "關掉",
+   "出席",
+   "拒絕"
+  ],
+  "zh": "結果證明",
+  "ex": "turn out (to be) 結果是。"
+ },
+ {
+  "id": "p191",
+  "kind": "phrasal",
+  "cefr": "B2",
+  "q": "Can you [cover for] me tomorrow? I have a doctor's appointment.",
+  "a": "代班",
+  "d": [
+   "遮住我",
+   "陪我",
+   "提醒我"
+  ],
+  "zh": "代替",
+  "ex": "cover for someone 代班、代理。"
+ },
+ {
+  "id": "p192",
+  "kind": "phrasal",
+  "cefr": "B1",
+  "q": "I need to [brush up on] my English before the trip.",
+  "a": "複習加強",
+  "d": [
+   "刷牙",
+   "放棄",
+   "炫耀"
+  ],
+  "zh": "溫習",
+  "ex": "brush up on 複習、加強。"
+ },
+ {
+  "id": "p193",
+  "kind": "phrasal",
+  "cefr": "B1",
+  "q": "Please [get rid of] these old files.",
+  "a": "丟掉",
+  "d": [
+   "整理",
+   "保存",
+   "找到"
+  ],
+  "zh": "擺脫丟棄",
+  "ex": "get rid of 丟掉、擺脫。"
+ },
+ {
+  "id": "p194",
+  "kind": "phrasal",
+  "cefr": "B1",
+  "q": "The client approved it, so let's [go ahead] with the plan.",
+  "a": "照計畫進行",
+  "d": [
+   "往前走",
+   "超前",
+   "放棄"
+  ],
+  "zh": "進行",
+  "ex": "go ahead 著手進行；也可表示「請便」。"
+ },
+ {
+  "id": "p195",
+  "kind": "phrasal",
+  "cefr": "B2",
+  "q": "The CEO [stepped down] last month.",
+  "a": "辭職下台",
+  "d": [
+   "走下樓",
+   "降價",
+   "退步"
+  ],
+  "zh": "卸任",
+  "ex": "step down 辭職、卸任。"
+ },
+ {
+  "id": "p196",
+  "kind": "phrasal",
+  "cefr": "B2",
+  "q": "He [blew up] at his assistant over a small mistake.",
+  "a": "大發脾氣",
+  "d": [
+   "炸掉",
+   "吹氣球",
+   "放大照片"
+  ],
+  "zh": "發火",
+  "ex": "blow up at someone 對人大發雷霆。"
+ },
+ {
+  "id": "p197",
+  "kind": "phrasal",
+  "cefr": "B2",
+  "q": "They [backed out of] the deal at the last minute.",
+  "a": "退出",
+  "d": [
+   "倒車",
+   "支持",
+   "拖延"
+  ],
+  "zh": "反悔退出",
+  "ex": "back out of 撤回承諾、退出。"
+ },
+ {
+  "id": "p198",
+  "kind": "phrasal",
+  "cefr": "B1",
+  "q": "I [dropped by] the office to pick up my laptop.",
+  "a": "順道去一下",
+  "d": [
+   "不小心掉落",
+   "退學",
+   "下車"
+  ],
+  "zh": "順路拜訪",
+  "ex": "drop by 順道過去。"
+ },
+ {
+  "id": "p199",
+  "kind": "phrasal",
+  "cefr": "B1",
+  "q": "You can't [count on] him. He's always late.",
+  "a": "指望",
+  "d": [
+   "數數",
+   "責怪",
+   "算計"
+  ],
+  "zh": "依靠",
+  "ex": "count on 依賴、指望。"
+ },
+ {
+  "id": "p200",
+  "kind": "phrasal",
+  "cefr": "B2",
+  "q": "She really [takes after] her mother.",
+  "a": "長得像（遺傳）",
+  "d": [
+   "跟在後面",
+   "照顧",
+   "接手"
+  ],
+  "zh": "像（長輩）",
+  "ex": "take after 長相或個性像長輩。"
+ },
+ {
+  "id": "p201",
+  "kind": "phrasal",
+  "cefr": "B2",
+  "q": "The milk has [gone off]. Don't drink it.",
+  "a": "壞掉",
+  "d": [
+   "響了",
+   "離開",
+   "關掉"
+  ],
+  "zh": "變質",
+  "ex": "go off 食物壞掉（英式）；也指警報響。"
+ },
+ {
+  "id": "p202",
+  "kind": "phrasal",
+  "cefr": "B2",
+  "q": "I'll [pass on] your message to her.",
+  "a": "轉達",
+  "d": [
+   "拒絕",
+   "去世",
+   "經過"
+  ],
+  "zh": "轉告",
+  "ex": "pass on a message 轉達訊息。"
+ },
+ {
+  "id": "p203",
+  "kind": "phrasal",
+  "cefr": "B2",
+  "q": "Thanks, but I think I'll [pass on] dessert.",
+  "a": "婉拒",
+  "d": [
+   "轉達",
+   "經過",
+   "傳下去"
+  ],
+  "zh": "婉拒",
+  "ex": "pass on something 婉拒、不要了。"
+ },
+ {
+  "id": "p204",
+  "kind": "phrasal",
+  "cefr": "B2",
+  "q": "She's [taken on] too much work this month.",
+  "a": "承擔",
+  "d": [
+   "穿上",
+   "脫下",
+   "起飛"
+  ],
+  "zh": "承接",
+  "ex": "take on 承擔（工作、責任）。"
+ },
+ {
+  "id": "p205",
+  "kind": "phrasal",
+  "cefr": "B2",
+  "q": "The idea never really [caught on].",
+  "a": "流行起來",
+  "d": [
+   "抓住",
+   "著火",
+   "趕上"
+  ],
+  "zh": "流行",
+  "ex": "catch on 流行開來。"
+ },
+ {
+  "id": "p206",
+  "kind": "phrasal",
+  "cefr": "B2",
+  "q": "Please [bear with] me while I find the file.",
+  "a": "請稍候、耐心等",
+  "d": [
+   "跟我走",
+   "支持我",
+   "相信我"
+  ],
+  "zh": "耐心等候",
+  "ex": "bear with me 請稍等，客服電話常用。"
+ },
+ {
+  "id": "p207",
+  "kind": "phrasal",
+  "cefr": "B2",
+  "q": "I've been meaning to clean the garage, but I haven't [gotten around to] it.",
+  "a": "抽出時間去做",
+  "d": [
+   "繞過",
+   "到處走",
+   "避開"
+  ],
+  "zh": "抽空做",
+  "ex": "get around to 終於有空去做。"
+ },
+ {
+  "id": "p208",
+  "kind": "phrasal",
+  "cefr": "B1",
+  "q": "Can you [walk me through] the setup process?",
+  "a": "一步步帶我了解",
+  "d": [
+   "陪我走過去",
+   "讓我通過",
+   "拒絕我"
+  ],
+  "zh": "逐步講解",
+  "ex": "walk someone through 一步步說明。"
+ },
+ {
+  "id": "p209",
+  "kind": "phrasal",
+  "cefr": "B1",
+  "q": "Let's [reach out to] the vendor and ask for a quote.",
+  "a": "聯絡",
+  "d": [
+   "伸手拿",
+   "超越",
+   "拒絕"
+  ],
+  "zh": "主動聯繫",
+  "ex": "reach out to 主動聯絡。"
+ },
+ {
+  "id": "p210",
+  "kind": "phrasal",
+  "cefr": "B2",
+  "q": "After three months of overtime, I'm completely [burned out].",
+  "a": "身心俱疲",
+  "d": [
+   "燒傷",
+   "燒完了",
+   "很生氣"
+  ],
+  "zh": "過勞",
+  "ex": "burned out 精疲力竭、職業倦怠。"
+ },
+ {
+  "id": "p211",
+  "kind": "phrasal",
+  "cefr": "B1",
+  "q": "I need to [sort out] my visa before the trip.",
+  "a": "處理好",
+  "d": [
+   "分類",
+   "挑出",
+   "放棄"
+  ],
+  "zh": "搞定",
+  "ex": "sort out 解決、處理好。"
+ },
+ {
+  "id": "p212",
+  "kind": "phrasal",
+  "cefr": "C1",
+  "q": "Everyone [chipped in] to buy a gift for our manager.",
+  "a": "出點錢",
+  "d": [
+   "切片",
+   "包裝",
+   "退出"
+  ],
+  "zh": "湊錢",
+  "ex": "chip in 大家湊錢。"
+ },
+ {
+  "id": "p213",
+  "kind": "phrasal",
+  "cefr": "B1",
+  "q": "I ate something bad and [threw up] all night.",
+  "a": "嘔吐",
+  "d": [
+   "往上丟",
+   "放棄",
+   "舉手"
+  ],
+  "zh": "吐",
+  "ex": "throw up 嘔吐。"
+ },
+ {
+  "id": "p214",
+  "kind": "phrasal",
+  "cefr": "B2",
+  "q": "Let me [sleep on it] and give you an answer tomorrow.",
+  "a": "考慮一晚再決定",
+  "d": [
+   "睡在上面",
+   "睡過頭",
+   "忽略它"
+  ],
+  "zh": "想一晚再說",
+  "ex": "sleep on it 隔一晚再做決定。"
+ },
+ {
+  "id": "p215",
+  "kind": "phrasal",
+  "cefr": "B1",
+  "q": "Can you [look over] my slides before the meeting?",
+  "a": "過目檢查",
+  "d": [
+   "俯瞰",
+   "忽略",
+   "照顧"
+  ],
+  "zh": "看一遍",
+  "ex": "look over 快速檢查一遍。"
+ },
+ {
+  "id": "p216",
+  "kind": "phrasal",
+  "cefr": "B2",
+  "q": "The flight was [called off] because of the typhoon.",
+  "a": "取消",
+  "d": [
+   "叫出去",
+   "打電話",
+   "延後"
+  ],
+  "zh": "取消",
+  "ex": "call off 取消；cancel 的口語說法。"
+ },
+ {
+  "id": "p217",
+  "kind": "phrasal",
+  "cefr": "C1",
+  "q": "The company plans to [phase out] paper invoices by next year.",
+  "a": "逐步淘汰",
+  "d": [
+   "逐步導入",
+   "印出來",
+   "找出來"
+  ],
+  "zh": "逐步淘汰",
+  "ex": "phase out 逐步停用。"
+ },
+ {
+  "id": "p218",
+  "kind": "phrasal",
+  "cefr": "C1",
+  "q": "We need to [factor in] the cost of shipping.",
+  "a": "把…考慮進去",
+  "d": [
+   "分解",
+   "刪除",
+   "加倍"
+  ],
+  "zh": "列入考量",
+  "ex": "factor in 把某因素算進去。"
+ },
+ {
+  "id": "p219",
+  "kind": "phrasal",
+  "cefr": "B2",
+  "q": "Sorry, I [zoned out] for a second. What did you say?",
+  "a": "恍神",
+  "d": [
+   "離開座位",
+   "睡著了",
+   "生氣"
+  ],
+  "zh": "分心",
+  "ex": "zone out 恍神、放空。"
+ },
+ {
+  "id": "p220",
+  "kind": "idiom",
+  "cefr": "B1",
+  "q": "Before we start, let's make sure we're all [on the same page].",
+  "a": "想法一致",
+  "d": [
+   "在同一頁",
+   "同時間",
+   "同一團隊"
+  ],
+  "zh": "有共識",
+  "ex": "on the same page 對事情理解一致。"
+ },
+ {
+  "id": "p221",
+  "kind": "idiom",
+  "cefr": "B1",
+  "q": "Let's [touch base] next week about the budget.",
+  "a": "簡單聯絡一下",
+  "d": [
+   "碰觸底部",
+   "回到基地",
+   "打棒球"
+  ],
+  "zh": "聯繫一下",
+  "ex": "touch base 簡短聯絡、交換近況。"
+ },
+ {
+  "id": "p222",
+  "kind": "idiom",
+  "cefr": "A2",
+  "q": "It's already eight. Let's [call it a day].",
+  "a": "今天先到這",
+  "d": [
+   "叫它一天",
+   "打電話",
+   "過一天算一天"
+  ],
+  "zh": "收工",
+  "ex": "call it a day 今天就做到這裡。"
+ },
+ {
+  "id": "p223",
+  "kind": "idiom",
+  "cefr": "A2",
+  "q": "Don't worry, the test was [a piece of cake].",
+  "a": "很簡單",
+  "d": [
+   "一塊蛋糕",
+   "甜點",
+   "小禮物"
+  ],
+  "zh": "小菜一碟",
+  "ex": "a piece of cake 輕而易舉。"
+ },
+ {
+  "id": "p224",
+  "kind": "idiom",
+  "cefr": "B1",
+  "q": "He told a funny story to [break the ice].",
+  "a": "打破冷場",
+  "d": [
+   "打破冰塊",
+   "破壞關係",
+   "冒險"
+  ],
+  "zh": "破冰",
+  "ex": "break the ice 化解尷尬氣氛。"
+ },
+ {
+  "id": "p225",
+  "kind": "idiom",
+  "cefr": "B1",
+  "q": "It's getting late. We should [hit the road].",
+  "a": "出發上路",
+  "d": [
+   "打馬路",
+   "撞車",
+   "迷路"
+  ],
+  "zh": "上路",
+  "ex": "hit the road 出發、離開。"
+ },
+ {
+  "id": "p226",
+  "kind": "idiom",
+  "cefr": "B1",
+  "q": "I'm a bit [under the weather] today, so I'll work from home.",
+  "a": "身體不舒服",
+  "d": [
+   "天氣不好",
+   "在雨中",
+   "在戶外"
+  ],
+  "zh": "身體微恙",
+  "ex": "under the weather 有點不舒服。"
+ },
+ {
+  "id": "p227",
+  "kind": "idiom",
+  "cefr": "B1",
+  "q": "That new phone [cost an arm and a leg].",
+  "a": "非常貴",
+  "d": [
+   "害人受傷",
+   "很划算",
+   "很累人"
+  ],
+  "zh": "貴得要命",
+  "ex": "cost an arm and a leg 價格昂貴。"
+ },
+ {
+  "id": "p228",
+  "kind": "idiom",
+  "cefr": "C1",
+  "q": "Can you give me a [ballpark figure] for the project cost?",
+  "a": "粗略估計數字",
+  "d": [
+   "棒球比分",
+   "精確數字",
+   "球場人數"
+  ],
+  "zh": "大概數字",
+  "ex": "ballpark figure 粗估數字。"
+ },
+ {
+  "id": "p229",
+  "kind": "idiom",
+  "cefr": "B2",
+  "q": "Let's [get the ball rolling] on the new website.",
+  "a": "開始進行",
+  "d": [
+   "打球",
+   "滾雪球",
+   "放棄"
+  ],
+  "zh": "起頭",
+  "ex": "get the ball rolling 開始著手。"
+ },
+ {
+  "id": "p230",
+  "kind": "idiom",
+  "cefr": "B2",
+  "q": "The client rejected the design, so we're [back to square one].",
+  "a": "回到原點",
+  "d": [
+   "回到第一名",
+   "回到廣場",
+   "重新排隊"
+  ],
+  "zh": "從頭來過",
+  "ex": "back to square one 一切重來。"
+ },
+ {
+  "id": "p231",
+  "kind": "idiom",
+  "cefr": "B1",
+  "q": "We need someone who can [think outside the box].",
+  "a": "跳脫框架思考",
+  "d": [
+   "在戶外思考",
+   "打開箱子",
+   "想太多"
+  ],
+  "zh": "創新思考",
+  "ex": "think outside the box 跳脫既有框架。"
+ },
+ {
+  "id": "p232",
+  "kind": "idiom",
+  "cefr": "C1",
+  "q": "[The bottom line] is that we need more customers.",
+  "a": "重點是",
+  "d": [
+   "最低價格",
+   "最後一行",
+   "最底層"
+  ],
+  "zh": "結論重點",
+  "ex": "the bottom line 最關鍵的重點。"
+ },
+ {
+  "id": "p233",
+  "kind": "idiom",
+  "cefr": "B1",
+  "q": "I'm not sure when the parts will arrive. I'll [keep you posted].",
+  "a": "隨時告訴你最新進度",
+  "d": [
+   "幫你寄信",
+   "把你貼上去",
+   "讓你留下"
+  ],
+  "zh": "保持更新",
+  "ex": "keep someone posted 隨時告知進度。"
+ },
+ {
+  "id": "p234",
+  "kind": "idiom",
+  "cefr": "B2",
+  "q": "I only eat fast food [once in a blue moon].",
+  "a": "難得一次",
+  "d": [
+   "月圓的時候",
+   "每個月",
+   "很憂鬱時"
+  ],
+  "zh": "難得",
+  "ex": "once in a blue moon 非常罕見。"
+ },
+ {
+  "id": "p235",
+  "kind": "idiom",
+  "cefr": "A2",
+  "q": "Pizza or noodles? [It's up to you].",
+  "a": "由你決定",
+  "d": [
+   "輪到你了",
+   "你比較高",
+   "你來付錢"
+  ],
+  "zh": "你決定",
+  "ex": "It's up to you. 你決定就好。"
+ },
+ {
+  "id": "p236",
+  "kind": "idiom",
+  "cefr": "B1",
+  "q": "I know the project is tough. [Hang in there]!",
+  "a": "撐住",
+  "d": [
+   "掛在那裡",
+   "在那等",
+   "待著別動"
+  ],
+  "zh": "堅持",
+  "ex": "hang in there 撐下去、加油。"
+ },
+ {
+  "id": "p237",
+  "kind": "idiom",
+  "cefr": "B2",
+  "q": "Stop [beating around the bush] and tell me what happened.",
+  "a": "拐彎抹角",
+  "d": [
+   "打草驚蛇",
+   "到處亂逛",
+   "說謊"
+  ],
+  "zh": "繞圈子",
+  "ex": "beat around the bush 不直說。"
+ },
+ {
+  "id": "p238",
+  "kind": "idiom",
+  "cefr": "B2",
+  "q": "I've sent you my offer. [The ball is in your court] now.",
+  "a": "輪到你決定了",
+  "d": [
+   "你輸了",
+   "你負責打掃",
+   "你在場上"
+  ],
+  "zh": "換你回應",
+  "ex": "the ball is in your court 下一步看你。"
+ },
+ {
+  "id": "p239",
+  "kind": "idiom",
+  "cefr": "B2",
+  "q": "If we [cut corners] on safety, someone could get hurt.",
+  "a": "偷工減料",
+  "d": [
+   "切掉角落",
+   "繞遠路",
+   "提早下班"
+  ],
+  "zh": "草率行事",
+  "ex": "cut corners 為省錢省時而偷工減料。"
+ },
+ {
+  "id": "p240",
+  "kind": "idiom",
+  "cefr": "B2",
+  "q": "Our support team always [goes the extra mile] for customers.",
+  "a": "多付出努力",
+  "d": [
+   "多走一英里",
+   "繞遠路",
+   "出差"
+  ],
+  "zh": "額外用心",
+  "ex": "go the extra mile 做得比要求更多。"
+ },
+ {
+  "id": "p241",
+  "kind": "idiom",
+  "cefr": "B1",
+  "q": "The software is confusing at first, but you'll [get the hang of] it.",
+  "a": "掌握訣竅",
+  "d": [
+   "把它掛起來",
+   "放棄它",
+   "對它生氣"
+  ],
+  "zh": "上手",
+  "ex": "get the hang of 熟悉、抓到訣竅。"
+ },
+ {
+  "id": "p242",
+  "kind": "idiom",
+  "cefr": "B2",
+  "q": "Free lunch and a shorter commute? That's [a no-brainer].",
+  "a": "不用想的決定",
+  "d": [
+   "頭痛的事",
+   "難題",
+   "笨方法"
+  ],
+  "zh": "顯而易見",
+  "ex": "a no-brainer 不必多想的選擇。"
+ },
+ {
+  "id": "p243",
+  "kind": "idiom",
+  "cefr": "B2",
+  "q": "[In a nutshell], the project is late because of staff shortages.",
+  "a": "簡單來說",
+  "d": [
+   "在殼裡",
+   "很少地",
+   "秘密地"
+  ],
+  "zh": "總而言之",
+  "ex": "in a nutshell 簡言之。"
+ },
+ {
+  "id": "p244",
+  "kind": "idiom",
+  "cefr": "C1",
+  "q": "It'll take a few weeks to [learn the ropes] at the new job.",
+  "a": "學會基本門道",
+  "d": [
+   "學打繩結",
+   "學爬繩",
+   "被綁住"
+  ],
+  "zh": "熟悉門道",
+  "ex": "learn the ropes 學會基本做法。"
+ },
+ {
+  "id": "p245",
+  "kind": "idiom",
+  "cefr": "B2",
+  "q": "He was going to propose, but he [got cold feet].",
+  "a": "臨陣退縮",
+  "d": [
+   "腳很冷",
+   "感冒了",
+   "態度冷淡"
+  ],
+  "zh": "打退堂鼓",
+  "ex": "get cold feet 臨陣畏縮。"
+ },
+ {
+  "id": "p246",
+  "kind": "idiom",
+  "cefr": "B2",
+  "q": "I'm still [on the fence] about taking the job.",
+  "a": "猶豫不決",
+  "d": [
+   "在圍牆上",
+   "冷眼旁觀",
+   "強烈反對"
+  ],
+  "zh": "拿不定主意",
+  "ex": "on the fence 舉棋不定。"
+ },
+ {
+  "id": "p247",
+  "kind": "idiom",
+  "cefr": "B2",
+  "q": "Our travel plans are still [up in the air].",
+  "a": "尚未確定",
+  "d": [
+   "在天上",
+   "很開心",
+   "出差中"
+  ],
+  "zh": "懸而未決",
+  "ex": "up in the air 未定案。"
+ },
+ {
+  "id": "p248",
+  "kind": "idiom",
+  "cefr": "B2",
+  "q": "We don't have a fixed plan. Let's just [play it by ear].",
+  "a": "見機行事",
+  "d": [
+   "靠聽力",
+   "唱歌",
+   "邊聽邊學"
+  ],
+  "zh": "隨機應變",
+  "ex": "play it by ear 看情況再說。"
+ },
+ {
+  "id": "p249",
+  "kind": "idiom",
+  "cefr": "C1",
+  "q": "The budget cut is [the elephant in the room]. Nobody wants to talk about it.",
+  "a": "大家避而不談的明顯問題",
+  "d": [
+   "房間裡的大人物",
+   "難搞的客人",
+   "很擠的空間"
+  ],
+  "zh": "明顯卻被忽略的問題",
+  "ex": "elephant in the room 大家都知道卻不說的事。"
+ },
+ {
+  "id": "p250",
+  "kind": "idiom",
+  "cefr": "B2",
+  "q": "Getting the contract is [a long shot], but let's try.",
+  "a": "機會很小",
+  "d": [
+   "遠距離射擊",
+   "長期計畫",
+   "拍很久"
+  ],
+  "zh": "希望渺茫",
+  "ex": "a long shot 成功機率很低。"
+ },
+ {
+  "id": "p251",
+  "kind": "idiom",
+  "cefr": "B2",
+  "q": "The party [got out of hand] and the neighbors called the police.",
+  "a": "失控",
+  "d": [
+   "放手了",
+   "離開了",
+   "被交出去"
+  ],
+  "zh": "失控",
+  "ex": "get out of hand 情況失控。"
+ },
+ {
+  "id": "p252",
+  "kind": "idiom",
+  "cefr": "B2",
+  "q": "Many people work [behind the scenes] to make the event happen.",
+  "a": "在幕後",
+  "d": [
+   "落後",
+   "在舞台上",
+   "過時"
+  ],
+  "zh": "幕後",
+  "ex": "behind the scenes 幕後、不公開地。"
+ },
+ {
+  "id": "p253",
+  "kind": "idiom",
+  "cefr": "B2",
+  "q": "Our auditor does everything [by the book].",
+  "a": "照規矩來",
+  "d": [
+   "看書學習",
+   "隨便做",
+   "依直覺"
+  ],
+  "zh": "按規定",
+  "ex": "by the book 嚴格照規定。"
+ },
+ {
+  "id": "p254",
+  "kind": "idiom",
+  "cefr": "B2",
+  "q": "You [hit the nail on the head]. That's exactly the problem.",
+  "a": "說得一針見血",
+  "d": [
+   "打釘子",
+   "出錯",
+   "很生氣"
+  ],
+  "zh": "說中要害",
+  "ex": "hit the nail on the head 切中要點。"
+ },
+ {
+  "id": "p255",
+  "kind": "idiom",
+  "cefr": "B2",
+  "q": "Don't [spill the beans] about the surprise party!",
+  "a": "洩漏秘密",
+  "d": [
+   "打翻豆子",
+   "浪費食物",
+   "做錯菜"
+  ],
+  "zh": "說溜嘴",
+  "ex": "spill the beans 洩密。"
+ },
+ {
+  "id": "p256",
+  "kind": "idiom",
+  "cefr": "B1",
+  "q": "The manager will be here soon. Just [sit tight].",
+  "a": "耐心等著",
+  "d": [
+   "坐很擠",
+   "穿緊身衣",
+   "坐立難安"
+  ],
+  "zh": "稍安勿躁",
+  "ex": "sit tight 原地耐心等待。"
+ },
+ {
+  "id": "p257",
+  "kind": "idiom",
+  "cefr": "B2",
+  "q": "I can't make it to dinner tonight. Can I take a [rain check]?",
+  "a": "改天再約",
+  "d": [
+   "下雨檢查",
+   "支票",
+   "天氣預報"
+  ],
+  "zh": "改天",
+  "ex": "take a rain check 這次不行，改天。"
+ },
+ {
+  "id": "p258",
+  "kind": "idiom",
+  "cefr": "A2",
+  "q": "Put your wallet away. Dinner is [my treat].",
+  "a": "我請客",
+  "d": [
+   "我的點心",
+   "我的待遇",
+   "招待我"
+  ],
+  "zh": "我請客",
+  "ex": "my treat 我請客。"
+ },
+ {
+  "id": "p259",
+  "kind": "idiom",
+  "cefr": "B1",
+  "q": "You have an idea? [I'm all ears].",
+  "a": "我洗耳恭聽",
+  "d": [
+   "我耳朵很大",
+   "我聽不見",
+   "我很忙"
+  ],
+  "zh": "說吧我在聽",
+  "ex": "I'm all ears. 我專心聽。"
+ },
+ {
+  "id": "p260",
+  "kind": "idiom",
+  "cefr": "B1",
+  "q": "Just get up at 5 a.m. every day? That's [easier said than done].",
+  "a": "說起來容易做起來難",
+  "d": [
+   "先說再做",
+   "說了就做",
+   "很容易做到"
+  ],
+  "zh": "知易行難",
+  "ex": "easier said than done 說比做容易。"
+ },
+ {
+  "id": "p261",
+  "kind": "idiom",
+  "cefr": "A2",
+  "q": "You finally sent the report? [Better late than never].",
+  "a": "遲做總比不做好",
+  "d": [
+   "晚到比較好",
+   "永遠不晚",
+   "不要遲到"
+  ],
+  "zh": "亡羊補牢",
+  "ex": "better late than never 晚總比沒有好。"
+ },
+ {
+  "id": "p262",
+  "kind": "idiom",
+  "cefr": "B1",
+  "q": "The dessert is [on the house]. Enjoy!",
+  "a": "店家招待免費",
+  "d": [
+   "在屋頂上",
+   "住在家裡",
+   "外帶"
+  ],
+  "zh": "免費招待",
+  "ex": "on the house 店家請客。"
+ },
+ {
+  "id": "p263",
+  "kind": "idiom",
+  "cefr": "B2",
+  "q": "Relax, I'm just [pulling your leg].",
+  "a": "跟你開玩笑",
+  "d": [
+   "扯你後腿",
+   "拉你一把",
+   "絆倒你"
+  ],
+  "zh": "逗你的",
+  "ex": "pull someone's leg 開玩笑。注意不是扯後腿。"
+ },
+ {
+  "id": "p264",
+  "kind": "idiom",
+  "cefr": "A2",
+  "q": "This box is heavy. Can you [give me a hand]?",
+  "a": "幫我一下",
+  "d": [
+   "牽我的手",
+   "跟我握手",
+   "給我一份"
+  ],
+  "zh": "幫忙",
+  "ex": "give someone a hand 幫忙。"
+ },
+ {
+  "id": "p265",
+  "kind": "idiom",
+  "cefr": "A2",
+  "q": "You've worked hard all week. [Take it easy] this weekend.",
+  "a": "放輕鬆",
+  "d": [
+   "拿得容易",
+   "很簡單",
+   "慢慢拿"
+  ],
+  "zh": "放輕鬆",
+  "ex": "take it easy 放輕鬆、別太累。"
+ },
+ {
+  "id": "p266",
+  "kind": "idiom",
+  "cefr": "B2",
+  "q": "My old boss called me [out of the blue] yesterday.",
+  "a": "突然、出乎意料",
+  "d": [
+   "從天上掉下來",
+   "心情很差",
+   "藍色的"
+  ],
+  "zh": "突然",
+  "ex": "out of the blue 毫無預警地。"
+ },
+ {
+  "id": "p267",
+  "kind": "idiom",
+  "cefr": "B2",
+  "q": "My manager and I don't always [see eye to eye].",
+  "a": "意見一致",
+  "d": [
+   "互相瞪眼",
+   "面對面",
+   "看得清楚"
+  ],
+  "zh": "看法一致",
+  "ex": "see eye to eye 意見相同。"
+ },
+ {
+  "id": "p268",
+  "kind": "idiom",
+  "cefr": "B2",
+  "q": "At a small startup, you have to [wear many hats].",
+  "a": "身兼數職",
+  "d": [
+   "戴很多帽子",
+   "很愛打扮",
+   "常換工作"
+  ],
+  "zh": "一人多職",
+  "ex": "wear many hats 一人分飾多角。"
+ },
+ {
+  "id": "p269",
+  "kind": "idiom",
+  "cefr": "B1",
+  "q": "The new deal is [a win-win] for both companies.",
+  "a": "雙贏",
+  "d": [
+   "連勝",
+   "一直贏",
+   "贏兩次"
+  ],
+  "zh": "雙贏",
+  "ex": "a win-win (situation) 雙贏局面。"
+ },
+ {
+  "id": "p270",
+  "kind": "idiom",
+  "cefr": "C1",
+  "q": "Let's go for the [low-hanging fruit] first.",
+  "a": "最容易達成的目標",
+  "d": [
+   "掉落的水果",
+   "便宜貨",
+   "次要的人"
+  ],
+  "zh": "容易的成果",
+  "ex": "low-hanging fruit 先做容易見效的事。"
+ },
+ {
+  "id": "p271",
+  "kind": "idiom",
+  "cefr": "C1",
+  "q": "A 2% discount won't really [move the needle].",
+  "a": "帶來明顯影響",
+  "d": [
+   "縫補東西",
+   "找麻煩",
+   "小題大作"
+  ],
+  "zh": "產生明顯效果",
+  "ex": "move the needle 造成顯著改變。"
+ },
+ {
+  "id": "p272",
+  "kind": "idiom",
+  "cefr": "B2",
+  "q": "Good question. Let's [circle back] to that after the demo.",
+  "a": "稍後再回來討論",
+  "d": [
+   "回頭走",
+   "畫圓圈",
+   "繞遠路"
+  ],
+  "zh": "稍後再談",
+  "ex": "circle back 晚點回頭處理。"
+ },
+ {
+  "id": "p273",
+  "kind": "idiom",
+  "cefr": "B2",
+  "q": "I forgot to send the invoice. I really [dropped the ball].",
+  "a": "搞砸了",
+  "d": [
+   "掉東西",
+   "休息一下",
+   "放棄比賽"
+  ],
+  "zh": "疏失",
+  "ex": "drop the ball 因疏忽而搞砸。"
+ },
+ {
+  "id": "p274",
+  "kind": "idiom",
+  "cefr": "B1",
+  "q": "Just a [heads-up]: the office will be closed on Friday.",
+  "a": "事先提醒",
+  "d": [
+   "抬頭挺胸",
+   "領導人",
+   "頭痛"
+  ],
+  "zh": "提醒",
+  "ex": "heads-up 預先告知。"
+ },
+ {
+  "id": "p275",
+  "kind": "idiom",
+  "cefr": "B1",
+  "q": "Let's list the [pros and cons] before we decide.",
+  "a": "優缺點",
+  "d": [
+   "專業和業餘",
+   "贊成的人",
+   "利潤和成本"
+  ],
+  "zh": "利弊",
+  "ex": "pros and cons 優缺點。"
+ },
+ {
+  "id": "p276",
+  "kind": "idiom",
+  "cefr": "B2",
+  "q": "Stop tapping your pen. It's [getting on my nerves].",
+  "a": "讓我心煩",
+  "d": [
+   "刺激神經",
+   "讓我感動",
+   "讓我害怕"
+  ],
+  "zh": "惹人煩",
+  "ex": "get on someone's nerves 惹人厭煩。"
+ },
+ {
+  "id": "p277",
+  "kind": "idiom",
+  "cefr": "C1",
+  "q": "We [burned the midnight oil] to finish the proposal.",
+  "a": "熬夜工作",
+  "d": [
+   "燒油",
+   "浪費錢",
+   "半夜煮飯"
+  ],
+  "zh": "開夜車",
+  "ex": "burn the midnight oil 熬夜趕工。"
+ },
+ {
+  "id": "p278",
+  "kind": "idiom",
+  "cefr": "C1",
+  "q": "The store needs to sell 300 units a month just to [break even].",
+  "a": "損益兩平",
+  "d": [
+   "打破平衡",
+   "破產",
+   "平分利潤"
+  ],
+  "zh": "不賺不賠",
+  "ex": "break even 收支打平。"
+ },
+ {
+  "id": "p279",
+  "kind": "idiom",
+  "cefr": "B2",
+  "q": "Buying a good chair costs more now, but it saves money [in the long run].",
+  "a": "長遠來看",
+  "d": [
+   "跑長跑",
+   "很久以後",
+   "長期出差"
+  ],
+  "zh": "長期而言",
+  "ex": "in the long run 長期來看。"
+ },
+ {
+  "id": "p280",
+  "kind": "idiom",
+  "cefr": "C1",
+  "q": "We can't afford to [rock the boat] right before the merger.",
+  "a": "惹事生非、破壞現狀",
+  "d": [
+   "划船",
+   "搖搖晃晃",
+   "去度假"
+  ],
+  "zh": "節外生枝",
+  "ex": "rock the boat 打亂現狀、製造麻煩。"
+ },
+ {
+  "id": "p281",
+  "kind": "idiom",
+  "cefr": "C1",
+  "q": "The new manager [hit the ground running].",
+  "a": "一上任就全力投入",
+  "d": [
+   "跌倒了",
+   "跑步上班",
+   "很快離職"
+  ],
+  "zh": "立刻上手",
+  "ex": "hit the ground running 一開始就迅速進入狀況。"
+ },
+ {
+  "id": "p282",
+  "kind": "zh2en",
+  "cefr": "B1",
+  "q": "（下班時）我先走了。",
+  "a": "I'm heading out now. See you tomorrow.",
+  "d": [
+   "I go first.",
+   "I walk first.",
+   "I leave you first."
+  ],
+  "zh": "我先走了",
+  "ex": "英文不說 I go first；head out 是離開的自然說法。"
+ },
+ {
+  "id": "p283",
+  "kind": "zh2en",
+  "cefr": "B1",
+  "q": "（請同事幫忙後）麻煩你了！",
+  "a": "Thanks, I really appreciate it.",
+  "d": [
+   "Trouble you!",
+   "You are troublesome!",
+   "Make you trouble!"
+  ],
+  "zh": "麻煩你了",
+  "ex": "英文用道謝表達；troublesome 是「很煩人」。"
+ },
+ {
+  "id": "p284",
+  "kind": "zh2en",
+  "cefr": "B1",
+  "q": "看情況。",
+  "a": "It depends.",
+  "d": [
+   "See the situation.",
+   "Look at the condition.",
+   "Watch the case."
+  ],
+  "zh": "看情況",
+  "ex": "It depends. 是最自然的「看情況」。"
+ },
+ {
+  "id": "p285",
+  "kind": "zh2en",
+  "cefr": "B1",
+  "q": "順便問一下，你週五有空嗎？",
+  "a": "By the way, are you free on Friday?",
+  "d": [
+   "Convenient ask, are you free on Friday?",
+   "Smoothly ask, are you free on Friday?",
+   "Along the way ask, are you free on Friday?"
+  ],
+  "zh": "順便一提",
+  "ex": "by the way 順帶一提。"
+ },
+ {
+  "id": "p286",
+  "kind": "zh2en",
+  "cefr": "B1",
+  "q": "（對下屬或同事）辛苦了！",
+  "a": "Thanks for all your hard work!",
+  "d": [
+   "You are very hard!",
+   "You worked bitterly!",
+   "Hard work you!"
+  ],
+  "zh": "辛苦了",
+  "ex": "英文沒有直譯，用感謝努力來表達。"
+ },
+ {
+  "id": "p287",
+  "kind": "zh2en",
+  "cefr": "B1",
+  "q": "不好意思，借過一下。",
+  "a": "Excuse me, can I get past?",
+  "d": [
+   "Sorry, borrow pass.",
+   "Not good meaning, borrow over.",
+   "Embarrassed, let me pass."
+  ],
+  "zh": "借過",
+  "ex": "借過用 Excuse me，不用 borrow。"
+ },
+ {
+  "id": "p288",
+  "kind": "zh2en",
+  "cefr": "A2",
+  "q": "好久不見！",
+  "a": "Long time no see!",
+  "d": [
+   "Good long no see!",
+   "Long time not see you!",
+   "Very long didn't see!"
+  ],
+  "zh": "好久不見",
+  "ex": "Long time no see 是固定說法，也可說 It's been a while。"
+ },
+ {
+  "id": "p289",
+  "kind": "zh2en",
+  "cefr": "A2",
+  "q": "（搶著付錢）這頓我請！",
+  "a": "It's on me.",
+  "d": [
+   "I invite guest.",
+   "I please guests.",
+   "Let me ask the customer."
+  ],
+  "zh": "我請客",
+  "ex": "It's on me / My treat 都是請客。"
+ },
+ {
+  "id": "p290",
+  "kind": "zh2en",
+  "cefr": "A2",
+  "q": "（朋友要考試）加油！你可以的！",
+  "a": "Good luck! You've got this!",
+  "d": [
+   "Add oil! You can!",
+   "Refuel! You can!",
+   "Add gas! You can!"
+  ],
+  "zh": "加油",
+  "ex": "加油用 Good luck / You've got this，Add oil 是中式英文。"
+ },
+ {
+  "id": "p291",
+  "kind": "zh2en",
+  "cefr": "B1",
+  "q": "我想一下再回覆你。",
+  "a": "Let me think about it and get back to you.",
+  "d": [
+   "I want a little and reply you.",
+   "I think one moment and back you.",
+   "I miss one second and answer you."
+  ],
+  "zh": "我想一下",
+  "ex": "think about it 考慮；get back to you 回覆你。"
+ },
+ {
+  "id": "p292",
+  "kind": "zh2en",
+  "cefr": "A2",
+  "q": "（讓對方先進電梯）你先請。",
+  "a": "After you.",
+  "d": [
+   "You please first.",
+   "You first please go.",
+   "Please you before."
+  ],
+  "zh": "您先請",
+  "ex": "After you. 禮讓別人先走。"
+ },
+ {
+  "id": "p293",
+  "kind": "zh2en",
+  "cefr": "B1",
+  "q": "（送客）慢走，路上小心！",
+  "a": "Take care! Get home safe.",
+  "d": [
+   "Walk slowly!",
+   "Slow go!",
+   "Go slow!"
+  ],
+  "zh": "慢走",
+  "ex": "Take care 是道別祝福；walk slowly 是叫人走慢。"
+ },
+ {
+  "id": "p294",
+  "kind": "zh2en",
+  "cefr": "A2",
+  "q": "我也是。",
+  "a": "Me too.",
+  "d": [
+   "Me also.",
+   "I'm also.",
+   "Also me."
+  ],
+  "zh": "我也是",
+  "ex": "Me too. 最自然；Me also 不道地。"
+ },
+ {
+  "id": "p295",
+  "kind": "zh2en",
+  "cefr": "B1",
+  "q": "很難說。",
+  "a": "It's hard to say.",
+  "d": [
+   "Very difficult to speak.",
+   "It's hard to talk.",
+   "Hard speaking."
+  ],
+  "zh": "很難說",
+  "ex": "It's hard to say. 難以判斷。"
+ },
+ {
+  "id": "p296",
+  "kind": "zh2en",
+  "cefr": "B1",
+  "q": "（朋友問吃什麼）隨便，你決定。",
+  "a": "I'm easy. Whatever you like.",
+  "d": [
+   "Casual. You decide.",
+   "Random. You decide.",
+   "Anything is casual."
+  ],
+  "zh": "隨便",
+  "ex": "I'm easy 表示我都可以；casual 是休閒的。"
+ },
+ {
+  "id": "p297",
+  "kind": "zh2en",
+  "cefr": "A2",
+  "q": "我確定之後再跟你說。",
+  "a": "I'll let you know once I'm sure.",
+  "d": [
+   "I will say again with you when sure.",
+   "I'll speak you after sure.",
+   "I tell you again after confirm."
+  ],
+  "zh": "再跟你說",
+  "ex": "let you know 告知你。"
+ },
+ {
+  "id": "p298",
+  "kind": "zh2en",
+  "cefr": "A2",
+  "q": "抱歉，那天我沒空。",
+  "a": "Sorry, I'm not free that day.",
+  "d": [
+   "Sorry, I have no empty that day.",
+   "Sorry, I don't have air that day.",
+   "Sorry, I'm no space that day."
+  ],
+  "zh": "沒空",
+  "ex": "沒空說 not free / busy；empty 是空的容器。"
+ },
+ {
+  "id": "p299",
+  "kind": "zh2en",
+  "cefr": "A2",
+  "q": "（請對方稍等）等我一下。",
+  "a": "Just a moment, please.",
+  "d": [
+   "Wait me a down.",
+   "Wait one under.",
+   "Etc. a moment."
+  ],
+  "zh": "稍等",
+  "ex": "Just a moment / One sec 請人稍等。"
+ },
+ {
+  "id": "p300",
+  "kind": "zh2en",
+  "cefr": "A2",
+  "q": "這個有打折嗎？",
+  "a": "Is this on sale?",
+  "d": [
+   "Does this hit fold?",
+   "Is this broken?",
+   "Is this discounting?"
+  ],
+  "zh": "有打折嗎",
+  "ex": "on sale 特價中；discounting 用法錯誤。"
+ },
+ {
+  "id": "p301",
+  "kind": "zh2en",
+  "cefr": "B1",
+  "q": "可以算便宜一點嗎？",
+  "a": "Could you give me a better price?",
+  "d": [
+   "Can you count cheaper?",
+   "Can you be cheaper a little?",
+   "Please calculate cheap."
+  ],
+  "zh": "算便宜點",
+  "ex": "殺價說 give me a better price / a discount。"
+ },
+ {
+  "id": "p302",
+  "kind": "zh2en",
+  "cefr": "A2",
+  "q": "（店員問需要什麼）我只是看看，謝謝。",
+  "a": "I'm just looking, thanks.",
+  "d": [
+   "I only see see, thanks.",
+   "I look look only, thanks.",
+   "I'm just seeing, thanks."
+  ],
+  "zh": "我只是看看",
+  "ex": "逛街時說 I'm just looking 或 browsing。"
+ },
+ {
+  "id": "p303",
+  "kind": "zh2en",
+  "cefr": "A2",
+  "q": "（餐廳）麻煩買單。",
+  "a": "Could we get the check, please?",
+  "d": [
+   "Buy the bill, please.",
+   "Pay the single, please.",
+   "Close the account, please."
+  ],
+  "zh": "買單",
+  "ex": "美式 the check，英式 the bill；不說 buy。"
+ },
+ {
+  "id": "p304",
+  "kind": "zh2en",
+  "cefr": "A2",
+  "q": "（店員問）內用還是外帶？",
+  "a": "For here or to go?",
+  "d": [
+   "Inside eat or outside take?",
+   "Eat in or bring out?",
+   "Use inside or take outside?"
+  ],
+  "zh": "內用外帶",
+  "ex": "美式 For here or to go。"
+ },
+ {
+  "id": "p305",
+  "kind": "zh2en",
+  "cefr": "B1",
+  "q": "抱歉遲到了，剛剛塞車。",
+  "a": "Sorry I'm late. I got stuck in traffic.",
+  "d": [
+   "Sorry I'm late. The car was stuffed.",
+   "Sorry I'm late. I was in car jam.",
+   "Sorry I'm late. The traffic plugged me."
+  ],
+  "zh": "塞車",
+  "ex": "塞車說 stuck in traffic / traffic jam。"
+ },
+ {
+  "id": "p306",
+  "kind": "zh2en",
+  "cefr": "A2",
+  "q": "（傳訊息）我在路上了！",
+  "a": "I'm on my way!",
+  "d": [
+   "I'm in the road!",
+   "I'm at the way!",
+   "I'm on road now!"
+  ],
+  "zh": "在路上了",
+  "ex": "on my way 正在過去的路上。"
+ },
+ {
+  "id": "p307",
+  "kind": "zh2en",
+  "cefr": "A2",
+  "q": "我盡量。",
+  "a": "I'll do my best.",
+  "d": [
+   "I try my most.",
+   "I'll do as much.",
+   "I'll try my hardest best."
+  ],
+  "zh": "我盡量",
+  "ex": "do my best / I'll try 都可以。"
+ },
+ {
+  "id": "p308",
+  "kind": "zh2en",
+  "cefr": "A2",
+  "q": "（對方道謝）不客氣。",
+  "a": "You're welcome.",
+  "d": [
+   "Don't be polite.",
+   "No guest.",
+   "Not welcome."
+  ],
+  "zh": "不客氣",
+  "ex": "Don't be polite 是直譯，英文不這樣說。"
+ },
+ {
+  "id": "p309",
+  "kind": "zh2en",
+  "cefr": "B1",
+  "q": "不好意思，我沒聽清楚，可以再說一次嗎？",
+  "a": "Sorry, could you say that again?",
+  "d": [
+   "Sorry, I didn't hear clear, you speak again?",
+   "Sorry, you speak again one time?",
+   "Sorry, I listen not clearly, again?"
+  ],
+  "zh": "再說一次",
+  "ex": "請人重複用 say that again / repeat that。"
+ },
+ {
+  "id": "p310",
+  "kind": "zh2en",
+  "cefr": "A2",
+  "q": "請問廁所在哪裡？",
+  "a": "Excuse me, where's the restroom?",
+  "d": [
+   "Please ask, where is toilet?",
+   "Ask, the WC is where?",
+   "Please, toilet at where?"
+  ],
+  "zh": "請問",
+  "ex": "「請問」用 Excuse me，不是 Please ask。"
+ },
+ {
+  "id": "p311",
+  "kind": "zh2en",
+  "cefr": "B1",
+  "q": "可以幫我們拍張照嗎？",
+  "a": "Would you mind taking a photo of us?",
+  "d": [
+   "Can you help us shoot?",
+   "Can you beat a photo for us?",
+   "Can you photo us help?"
+  ],
+  "zh": "幫忙拍照",
+  "ex": "Would you mind + V-ing 客氣請求。"
+ },
+ {
+  "id": "p312",
+  "kind": "zh2en",
+  "cefr": "B1",
+  "q": "我很期待！",
+  "a": "I'm really looking forward to it!",
+  "d": [
+   "I'm very expecting!",
+   "I very look forward!",
+   "I very expect it!"
+  ],
+  "zh": "很期待",
+  "ex": "look forward to it；very 不能修飾動詞。"
+ },
+ {
+  "id": "p313",
+  "kind": "zh2en",
+  "cefr": "B1",
+  "q": "有空再聊！",
+  "a": "Let's catch up when you're free!",
+  "d": [
+   "Have empty again talk!",
+   "When empty chat again!",
+   "Free time talk more!"
+  ],
+  "zh": "有空再聊",
+  "ex": "catch up 聊近況。"
+ },
+ {
+  "id": "p314",
+  "kind": "zh2en",
+  "cefr": "B1",
+  "q": "今天不行，改天吧。",
+  "a": "I can't today. Maybe another time?",
+  "d": [
+   "I can't today. Change day?",
+   "I can't today. Other sky?",
+   "I can't today. Modify the day?"
+  ],
+  "zh": "改天",
+  "ex": "another time / some other time 改天。"
+ },
+ {
+  "id": "p315",
+  "kind": "zh2en",
+  "cefr": "A2",
+  "q": "你說得對。",
+  "a": "You're right.",
+  "d": [
+   "You say right.",
+   "You talk correct.",
+   "Your speaking is right."
+  ],
+  "zh": "你說得對",
+  "ex": "You're right / Good point。"
+ },
+ {
+  "id": "p316",
+  "kind": "zh2en",
+  "cefr": "B1",
+  "q": "我不太確定。",
+  "a": "I'm not really sure.",
+  "d": [
+   "I'm not too confirm.",
+   "I don't very sure.",
+   "I not quite certain."
+  ],
+  "zh": "不太確定",
+  "ex": "not really sure 不太確定。"
+ },
+ {
+  "id": "p317",
+  "kind": "zh2en",
+  "cefr": "A2",
+  "q": "這個多少錢？",
+  "a": "How much is this?",
+  "d": [
+   "How to sell this?",
+   "This how sell?",
+   "How is this sold?"
+  ],
+  "zh": "怎麼賣",
+  "ex": "問價錢用 How much；How is this sold 是問銷售方式。"
+ },
+ {
+  "id": "p318",
+  "kind": "zh2en",
+  "cefr": "B1",
+  "q": "我先確認一下。",
+  "a": "Let me double-check.",
+  "d": [
+   "I first confirm a bit.",
+   "Let me confirm one down.",
+   "I confirm first a little."
+  ],
+  "zh": "確認一下",
+  "ex": "double-check 再確認。"
+ },
+ {
+  "id": "p319",
+  "kind": "zh2en",
+  "cefr": "B1",
+  "q": "不好意思，我臨時有事不能去了。",
+  "a": "Sorry, something came up and I can't make it.",
+  "d": [
+   "Sorry, I have little thing, can't go.",
+   "Sorry, I have some matter, can't go.",
+   "Sorry, temporary have thing, can't go."
+  ],
+  "zh": "臨時有事",
+  "ex": "something came up 臨時有事；make it 趕得上、能到。"
+ },
+ {
+  "id": "p320",
+  "kind": "zh2en",
+  "cefr": "B1",
+  "q": "我不是那個意思。",
+  "a": "That's not what I meant.",
+  "d": [
+   "I don't have that meaning.",
+   "I have no that idea.",
+   "I no that mean."
+  ],
+  "zh": "不是那個意思",
+  "ex": "That's not what I meant 澄清誤會。"
+ },
+ {
+  "id": "p321",
+  "kind": "zh2en",
+  "cefr": "B1",
+  "q": "你人真好！",
+  "a": "That's so kind of you!",
+  "d": [
+   "Your person is really good!",
+   "You human very good!",
+   "Your people is so nice!"
+  ],
+  "zh": "你人真好",
+  "ex": "kind of you 感謝對方好意。"
+ },
+ {
+  "id": "p322",
+  "kind": "zh2en",
+  "cefr": "A2",
+  "q": "我吃飽了。",
+  "a": "I'm full.",
+  "d": [
+   "I eat full.",
+   "I'm eat full.",
+   "I have eaten full."
+  ],
+  "zh": "吃飽了",
+  "ex": "I'm full / I've had enough。"
+ },
+ {
+  "id": "p323",
+  "kind": "zh2en",
+  "cefr": "B1",
+  "q": "太誇張了吧！",
+  "a": "No way! That's crazy!",
+  "d": [
+   "Too exaggerate!",
+   "So boast!",
+   "Very exaggeration!"
+  ],
+  "zh": "太誇張",
+  "ex": "驚訝時說 That's crazy / No way。"
+ },
+ {
+  "id": "p324",
+  "kind": "zh2en",
+  "cefr": "A2",
+  "q": "我快到了。",
+  "a": "I'm almost there.",
+  "d": [
+   "I quickly arrive.",
+   "I'm fast arrived.",
+   "I'm nearly arrive."
+  ],
+  "zh": "快到了",
+  "ex": "almost there 快到了。"
+ },
+ {
+  "id": "p325",
+  "kind": "zh2en",
+  "cefr": "B1",
+  "q": "（店員問要不要袋子）不用了，謝謝。",
+  "a": "No, thanks. I'm good.",
+  "d": [
+   "Not use, thanks.",
+   "No use, thank you.",
+   "Needn't, thank."
+  ],
+  "zh": "不用了",
+  "ex": "I'm good 表示不需要。"
+ },
+ {
+  "id": "p326",
+  "kind": "zh2en",
+  "cefr": "B1",
+  "q": "你在開玩笑吧？",
+  "a": "You're kidding, right?",
+  "d": [
+   "You open a joke?",
+   "You are making joke, yes?",
+   "You play joke?"
+  ],
+  "zh": "開玩笑",
+  "ex": "You're kidding / Are you serious。"
+ },
+ {
+  "id": "p327",
+  "kind": "zh2en",
+  "cefr": "B1",
+  "q": "（對方以為你沒在聽）我有在聽啦。",
+  "a": "I'm listening.",
+  "d": [
+   "I have in listen.",
+   "I have been hear.",
+   "I am in listening."
+  ],
+  "zh": "我有在聽",
+  "ex": "台式「有在」英文直接用進行式。"
+ },
+ {
+  "id": "p328",
+  "kind": "zh2en",
+  "cefr": "B1",
+  "q": "這是我的聯絡方式。",
+  "a": "Here's my contact info.",
+  "d": [
+   "This is my contact way.",
+   "This is my link method.",
+   "This is my connect style."
+  ],
+  "zh": "聯絡方式",
+  "ex": "contact info/details 聯絡資料。"
+ },
+ {
+  "id": "p329",
+  "kind": "zh2en",
+  "cefr": "B1",
+  "q": "（差點撞車）好險！",
+  "a": "That was close!",
+  "d": [
+   "So dangerous good!",
+   "Good danger!",
+   "Very lucky danger!"
+  ],
+  "zh": "好險",
+  "ex": "That was close 差一點就出事。"
+ },
+ {
+  "id": "p330",
+  "kind": "zh2en",
+  "cefr": "A2",
+  "q": "你不能來？真可惜。",
+  "a": "You can't come? That's too bad.",
+  "d": [
+   "You can't come? Really cherish.",
+   "You can't come? So pitiful.",
+   "You can't come? True waste."
+  ],
+  "zh": "真可惜",
+  "ex": "That's too bad / What a shame；pitiful 是可憐。"
+ },
+ {
+  "id": "p331",
+  "kind": "zh2en",
+  "cefr": "B1",
+  "q": "（你是主管）這件事你決定就好。",
+  "a": "It's your call.",
+  "d": [
+   "You decide is good.",
+   "You decide fine.",
+   "Decide by you OK."
+  ],
+  "zh": "你決定",
+  "ex": "It's your call 由你判斷。"
+ },
+ {
+  "id": "p332",
+  "kind": "zh2en",
+  "cefr": "B1",
+  "q": "我睡過頭了！",
+  "a": "I overslept!",
+  "d": [
+   "I slept over my head!",
+   "I slept too head!",
+   "I sleep passed!"
+  ],
+  "zh": "睡過頭",
+  "ex": "oversleep 睡過頭。"
+ },
+ {
+  "id": "p333",
+  "kind": "zh2en",
+  "cefr": "B1",
+  "q": "（電話結尾）好，那先這樣。",
+  "a": "OK, that's it for now. Talk soon!",
+  "d": [
+   "OK, first like this.",
+   "OK, let's this first.",
+   "OK, first this way."
+  ],
+  "zh": "先這樣",
+  "ex": "that's it for now 暫時這樣。"
+ },
+ {
+  "id": "p334",
+  "kind": "zh2en",
+  "cefr": "B1",
+  "q": "有任何問題再跟我說。",
+  "a": "Let me know if you have any questions.",
+  "d": [
+   "Have any problem tell me again.",
+   "If any question, say me.",
+   "Any problem again talk to me."
+  ],
+  "zh": "有問題再說",
+  "ex": "商務 email 結尾常用句。"
+ },
+ {
+  "id": "p335",
+  "kind": "zh2en",
+  "cefr": "B1",
+  "q": "抱歉讓你久等了。",
+  "a": "Sorry to keep you waiting.",
+  "d": [
+   "Sorry long wait you.",
+   "Long time waiting you.",
+   "Sorry make you long wait."
+  ],
+  "zh": "久等了",
+  "ex": "keep someone waiting 讓人等。"
+ },
+ {
+  "id": "p336",
+  "kind": "zh2en",
+  "cefr": "A2",
+  "q": "我身體不太舒服。",
+  "a": "I'm not feeling well.",
+  "d": [
+   "My body is not comfortable.",
+   "I'm uncomfortable body.",
+   "My body feels not good."
+  ],
+  "zh": "不舒服",
+  "ex": "not feeling well 身體不適。"
+ },
+ {
+  "id": "p337",
+  "kind": "zh2en",
+  "cefr": "B1",
+  "q": "我明天可以請假嗎？",
+  "a": "Can I take tomorrow off?",
+  "d": [
+   "Can I invite a leave tomorrow?",
+   "Can I please fake tomorrow?",
+   "Can I request false tomorrow?"
+  ],
+  "zh": "請假",
+  "ex": "請假說 take a day off / take leave。"
+ },
+ {
+  "id": "p338",
+  "kind": "zh2en",
+  "cefr": "A2",
+  "q": "我今晚要加班。",
+  "a": "I have to work late tonight.",
+  "d": [
+   "I need to add class tonight.",
+   "I have to plus work tonight.",
+   "I need to add shift tonight."
+  ],
+  "zh": "加班",
+  "ex": "work late / work overtime 加班。"
+ },
+ {
+  "id": "p339",
+  "kind": "zh2en",
+  "cefr": "A2",
+  "q": "你幾點下班？",
+  "a": "What time do you get off work?",
+  "d": [
+   "What time do you down class?",
+   "What time do you leave class?",
+   "What time do you off duty?"
+  ],
+  "zh": "下班",
+  "ex": "get off work / finish work 下班。"
+ },
+ {
+  "id": "p340",
+  "kind": "zh2en",
+  "cefr": "A2",
+  "q": "（電話中）我在開會，晚點打給你。",
+  "a": "I'm in a meeting. I'll call you later.",
+  "d": [
+   "I'm opening a meeting. I'll call you later.",
+   "I'm open meeting. I'll call you later.",
+   "I'm at open conference. I'll call you later."
+  ],
+  "zh": "在開會",
+  "ex": "in a meeting 開會中；open a meeting 是宣布開會。"
+ },
+ {
+  "id": "p341",
+  "kind": "zh2en",
+  "cefr": "B1",
+  "q": "有空打給我。",
+  "a": "Give me a call sometime.",
+  "d": [
+   "Beat my phone sometime.",
+   "Make phone to me sometime.",
+   "Hit telephone to me sometime."
+  ],
+  "zh": "打給我",
+  "ex": "give me a call 打給我。"
+ },
+ {
+  "id": "p342",
+  "kind": "zh2en",
+  "cefr": "A2",
+  "q": "小心！有車！",
+  "a": "Watch out! There's a car!",
+  "d": [
+   "Small heart! There's a car!",
+   "Little heart! There's a car!",
+   "Careful small! There's a car!"
+  ],
+  "zh": "小心",
+  "ex": "緊急時說 Watch out / Look out。"
+ },
+ {
+  "id": "p343",
+  "kind": "zh2en",
+  "cefr": "B1",
+  "q": "（不想打擾對方）那你先忙。",
+  "a": "I'll let you get back to work.",
+  "d": [
+   "You busy first.",
+   "You first busy.",
+   "Go busy first."
+  ],
+  "zh": "你先忙",
+  "ex": "let you get back to work 不打擾你了。"
+ },
+ {
+  "id": "p344",
+  "kind": "zh2en",
+  "cefr": "A2",
+  "q": "（對方道歉）沒關係。",
+  "a": "No worries.",
+  "d": [
+   "No relationship.",
+   "Not related.",
+   "Doesn't have relation."
+  ],
+  "zh": "沒關係",
+  "ex": "No worries / That's OK。"
+ },
+ {
+  "id": "p345",
+  "kind": "zh2en",
+  "cefr": "B1",
+  "q": "我們叫外送好了。",
+  "a": "Let's order delivery.",
+  "d": [
+   "Let's call outside send.",
+   "Let's shout delivery.",
+   "Let's call out food."
+  ],
+  "zh": "叫外送",
+  "ex": "order delivery / order in 叫外送。"
+ },
+ {
+  "id": "p346",
+  "kind": "zh2en",
+  "cefr": "B1",
+  "q": "我手機沒電了。",
+  "a": "My phone is dead.",
+  "d": [
+   "My hand machine has no electric.",
+   "My phone ran out of electric.",
+   "My phone is no power."
+  ],
+  "zh": "沒電",
+  "ex": "手機沒電 my phone is dead / died。"
+ },
+ {
+  "id": "p347",
+  "kind": "zh2en",
+  "cefr": "A2",
+  "q": "我搭捷運去。",
+  "a": "I'll take the MRT.",
+  "d": [
+   "I'll sit the MRT.",
+   "I'll ride the MRT seat.",
+   "I sit MRT go."
+  ],
+  "zh": "搭捷運",
+  "ex": "搭乘交通工具用 take。"
+ },
+ {
+  "id": "p348",
+  "kind": "zh2en",
+  "cefr": "B1",
+  "q": "對不起，我不是故意的。",
+  "a": "Sorry, I didn't mean to.",
+  "d": [
+   "Sorry, I'm not on purpose.",
+   "Sorry, I'm not deliberate.",
+   "Sorry, I am not intention."
+  ],
+  "zh": "不是故意的",
+  "ex": "didn't mean to 不是有意的。"
+ },
+ {
+  "id": "p349",
+  "kind": "zh2en",
+  "cefr": "B1",
+  "q": "好啊，就這麼辦。",
+  "a": "Sounds good. Let's do that.",
+  "d": [
+   "Good, just this do.",
+   "OK, do like this way.",
+   "Good, this does."
+  ],
+  "zh": "就這麼辦",
+  "ex": "Sounds good 表示同意。"
+ },
+ {
+  "id": "p350",
+  "kind": "zh2en",
+  "cefr": "B1",
+  "q": "你氣色很好耶！",
+  "a": "You look great!",
+  "d": [
+   "Your air color is good!",
+   "You look very good colored!",
+   "Your face air is nice!"
+  ],
+  "zh": "氣色好",
+  "ex": "稱讚氣色用 You look great / healthy。"
+ },
+ {
+  "id": "p351",
+  "kind": "zh2en",
+  "cefr": "B1",
+  "q": "我晚點回你。",
+  "a": "I'll get back to you later.",
+  "d": [
+   "I'll return you late.",
+   "I late back you.",
+   "I'll answer you lately."
+  ],
+  "zh": "晚點回覆",
+  "ex": "lately 是「最近」，不是晚點。"
+ },
+ {
+  "id": "p352",
+  "kind": "zh2en",
+  "cefr": "B1",
+  "q": "我會轉告他。",
+  "a": "I'll pass it on to him.",
+  "d": [
+   "I will turn tell him.",
+   "I'll transfer to say him.",
+   "I'll tell him turning."
+  ],
+  "zh": "轉告",
+  "ex": "pass it on 轉達；也可說 I'll let him know。"
+ },
+ {
+  "id": "p353",
+  "kind": "zh2en",
+  "cefr": "B1",
+  "q": "一路順風！",
+  "a": "Have a safe trip!",
+  "d": [
+   "One road smooth wind!",
+   "Follow the wind!",
+   "Smooth wind all the way!"
+  ],
+  "zh": "一路順風",
+  "ex": "祝旅途平安 Have a safe trip / flight。"
+ },
+ {
+  "id": "p354",
+  "kind": "zh2en",
+  "cefr": "C1",
+  "q": "我被放鴿子了。",
+  "a": "I got stood up.",
+  "d": [
+   "I was released pigeons.",
+   "I was put a pigeon.",
+   "I got pigeoned."
+  ],
+  "zh": "被放鴿子",
+  "ex": "stand someone up 爽約、放鴿子。"
+ },
+ {
+  "id": "p355",
+  "kind": "zh2en",
+  "cefr": "A2",
+  "q": "我們各付各的吧。",
+  "a": "Let's split the bill.",
+  "d": [
+   "Let's AA.",
+   "Let's go AA system.",
+   "Let's pay AA."
+  ],
+  "zh": "各付各的",
+  "ex": "AA 制英文說 split the bill / go Dutch。"
+ },
+ {
+  "id": "p356",
+  "kind": "zh2en",
+  "cefr": "B1",
+  "q": "（講電話）我先掛囉，再聊！",
+  "a": "I've got to go. Talk later!",
+  "d": [
+   "I hang first. Talk later!",
+   "I'm hanging first. Talk later!",
+   "I first hang up you. Talk later!"
+  ],
+  "zh": "先掛了",
+  "ex": "結束電話說 I've got to go。"
+ },
+ {
+  "id": "p357",
+  "kind": "zh2en",
+  "cefr": "B1",
+  "q": "不會吧！",
+  "a": "No way!",
+  "d": [
+   "Will not!",
+   "Not will be?",
+   "Can't be will!"
+  ],
+  "zh": "不會吧",
+  "ex": "驚訝不相信說 No way / Seriously?"
+ },
+ {
+  "id": "p358",
+  "kind": "zh2en",
+  "cefr": "B1",
+  "q": "哇，你很會耶！",
+  "a": "Wow, you're really good at this!",
+  "d": [
+   "Wow, you very can!",
+   "Wow, you are very will!",
+   "Wow, you can very much!"
+  ],
+  "zh": "你很厲害",
+  "ex": "good at 擅長。"
+ },
+ {
+  "id": "p359",
+  "kind": "zh2en",
+  "cefr": "A2",
+  "q": "我是新來的。",
+  "a": "I'm new here.",
+  "d": [
+   "I'm newly come.",
+   "I'm a new-come person.",
+   "I'm the new arrive."
+  ],
+  "zh": "新來的",
+  "ex": "I'm new here 我剛來。"
+ },
+ {
+  "id": "p360",
+  "kind": "zh2en",
+  "cefr": "B2",
+  "q": "（新同事自我介紹後）請多指教。",
+  "a": "I look forward to working with you.",
+  "d": [
+   "Please teach me more.",
+   "Please point and teach.",
+   "Please give me many instructions."
+  ],
+  "zh": "請多指教",
+  "ex": "英文沒有對應句，用期待合作表達。"
+ },
+ {
+  "id": "p361",
+  "kind": "zh2en",
+  "cefr": "B1",
+  "q": "（離開朋友家時）謝謝你的招待！",
+  "a": "Thanks for having me!",
+  "d": [
+   "Thanks for your receive!",
+   "Thank for your call guest!",
+   "Thanks for your hospitable!"
+  ],
+  "zh": "謝謝招待",
+  "ex": "Thanks for having me 謝謝邀請款待。"
+ },
+ {
+  "id": "p362",
+  "kind": "zh2en",
+  "cefr": "B1",
+  "q": "（請客人吃東西）別客氣，多吃點！",
+  "a": "Help yourself!",
+  "d": [
+   "Don't be guest, eat more!",
+   "No polite, eat much!",
+   "Don't be a customer!"
+  ],
+  "zh": "別客氣自己來",
+  "ex": "Help yourself 請自便、自己拿。"
+ },
+ {
+  "id": "p363",
+  "kind": "zh2en",
+  "cefr": "A2",
+  "q": "你吃素嗎？",
+  "a": "Are you vegetarian?",
+  "d": [
+   "Do you eat plain?",
+   "Are you eat vegetarian?",
+   "Do you eat element?"
+  ],
+  "zh": "吃素",
+  "ex": "吃素 vegetarian；全素 vegan。"
+ },
+ {
+  "id": "p364",
+  "kind": "zh2en",
+  "cefr": "B1",
+  "q": "我這週末有事。",
+  "a": "I've got plans this weekend.",
+  "d": [
+   "I have thing this weekend.",
+   "I have matter this weekend.",
+   "This weekend I have affair."
+  ],
+  "zh": "有事",
+  "ex": "have plans 有安排；affair 有「外遇」之意。"
+ },
+ {
+  "id": "p365",
+  "kind": "zh2en",
+  "cefr": "B2",
+  "q": "我們找時間約一下吧。",
+  "a": "Let's set up a time to meet.",
+  "d": [
+   "Let's find time to about.",
+   "Let's look for time to date a little.",
+   "Let's search time to promise."
+  ],
+  "zh": "約時間",
+  "ex": "set up a time 安排時間；date 有約會意味。"
+ },
+ {
+  "id": "p366",
+  "kind": "zh2en",
+  "cefr": "C1",
+  "q": "這不是我能決定的。",
+  "a": "That's not my call.",
+  "d": [
+   "This is not I can decide.",
+   "This is not my can decide.",
+   "This not my deciding."
+  ],
+  "zh": "不是我能決定",
+  "ex": "not my call 不由我決定。"
+ },
+ {
+  "id": "p367",
+  "kind": "zh2en",
+  "cefr": "B2",
+  "q": "（會議）我們時間有點不夠了。",
+  "a": "We're running short on time.",
+  "d": [
+   "Our time is a little not enough.",
+   "We are time not enough.",
+   "We have little not enough time."
+  ],
+  "zh": "時間不夠",
+  "ex": "running short on / out of time 時間快不夠。"
+ },
+ {
+  "id": "p368",
+  "kind": "zh2en",
+  "cefr": "C1",
+  "q": "這件事我們再找時間討論。",
+  "a": "Let's take this offline.",
+  "d": [
+   "Let's discuss again find time this.",
+   "Let's put this to the cloud.",
+   "Let's make this off the internet."
+  ],
+  "zh": "會後再談",
+  "ex": "take this offline 會議中「會後再討論」，職場常用。"
+ },
+ {
+  "id": "p369",
+  "kind": "zh2en",
+  "cefr": "C1",
+  "q": "（委婉拒絕提案）這個我們再研究看看。",
+  "a": "Let us look into it and get back to you.",
+  "d": [
+   "We study study it again.",
+   "We research see see.",
+   "We will again research this."
+  ],
+  "zh": "再研究看看",
+  "ex": "商務委婉說法：look into it。"
+ },
+ {
+  "id": "p370",
+  "kind": "zh2en",
+  "cefr": "B2",
+  "q": "說到這個，我想到一件事。",
+  "a": "Speaking of which, I just remembered something.",
+  "d": [
+   "Say to this, I think of one thing.",
+   "Talking this, I think a thing.",
+   "Speak to here, I remember one thing."
+  ],
+  "zh": "說到這個",
+  "ex": "speaking of which 說到這個。"
+ },
+ {
+  "id": "p371",
+  "kind": "zh2en",
+  "cefr": "B2",
+  "q": "我們就照原計畫走吧。",
+  "a": "Let's stick to the original plan.",
+  "d": [
+   "Let's walk the original plan.",
+   "Let's go by the old plan way.",
+   "Let's follow original plan go."
+  ],
+  "zh": "照原計畫",
+  "ex": "stick to the plan 堅持原計畫。"
+ }
+]

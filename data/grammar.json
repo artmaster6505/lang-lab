@@ -1,0 +1,4322 @@
+[
+ {
+  "id": "present_simple_3s",
+  "name": "現在簡單式第三人稱",
+  "cefr": "A2",
+  "note": "主詞為第三人稱單數時,現在簡單式動詞加 -s/-es;否定與疑問用 does + 原形。",
+  "items": [
+   {
+    "q": "She ___ to work by bus every day.",
+    "a": "goes",
+    "d": [
+     "go",
+     "going",
+     "is go"
+    ],
+    "ex": "主詞 she 為第三人稱單數,習慣動作用現在簡單式,go 加 -es。"
+   },
+   {
+    "q": "My manager ___ coffee; he only drinks tea.",
+    "a": "doesn't drink",
+    "d": [
+     "don't drink",
+     "isn't drink",
+     "not drinks"
+    ],
+    "ex": "第三人稱單數否定用 doesn't + 原形動詞。"
+   },
+   {
+    "q": "___ your company offer remote work?",
+    "a": "Does",
+    "d": [
+     "Do",
+     "Is",
+     "Has"
+    ],
+    "ex": "主詞 your company 為單數,一般動詞疑問句用 Does。"
+   },
+   {
+    "q": "The train ___ at 7:45 every morning.",
+    "a": "leaves",
+    "d": [
+     "leave",
+     "leaving",
+     "is leave"
+    ],
+    "ex": "時刻表與固定習慣用現在簡單式,單數主詞加 -s。"
+   },
+   {
+    "q": "He ___ his emails first thing every morning.",
+    "a": "checks",
+    "d": [
+     "check",
+     "checking",
+     "is checks"
+    ],
+    "ex": "every morning 表習慣,he 後動詞加 -s。"
+   },
+   {
+    "q": "This app ___ a lot of battery.",
+    "a": "uses",
+    "d": [
+     "use",
+     "using",
+     "is use"
+    ],
+    "ex": "this app 為單數,現在簡單式動詞加 -s;be 動詞不可直接接原形。"
+   },
+   {
+    "q": "Our office usually ___ at 9 a.m.",
+    "a": "opens",
+    "d": [
+     "open",
+     "opening",
+     "are open"
+    ],
+    "ex": "office 為單數,usually 表習慣,動詞加 -s。"
+   },
+   {
+    "q": "My sister ___ in Taichung, but she works in Taipei.",
+    "a": "lives",
+    "d": [
+     "live",
+     "living",
+     "is live"
+    ],
+    "ex": "my sister 為第三人稱單數,動詞加 -s。"
+   },
+   {
+    "q": "Tom ___ how to use this software.",
+    "a": "knows",
+    "d": [
+     "know",
+     "knowing",
+     "is knowing"
+    ],
+    "ex": "know 是狀態動詞,不用進行式;Tom 單數加 -s。"
+   },
+   {
+    "q": "My father ___ the news every evening.",
+    "a": "watches",
+    "d": [
+     "watchs",
+     "watch",
+     "watching"
+    ],
+    "ex": "字尾 -ch 的動詞第三人稱單數加 -es。"
+   }
+  ]
+ },
+ {
+  "id": "present_continuous",
+  "name": "現在進行式 vs 現在簡單式",
+  "cefr": "A2",
+  "note": "現在正在發生或這段期間暫時的動作用 am/is/are + V-ing;習慣與狀態動詞用現在簡單式。",
+  "items": [
+   {
+    "q": "Please be quiet — I ___ to a client on the phone right now.",
+    "a": "am talking",
+    "d": [
+     "talk",
+     "am talk",
+     "talking"
+    ],
+    "ex": "right now 表正在進行,用 am + V-ing。"
+   },
+   {
+    "q": "Look! It ___ again. Take an umbrella.",
+    "a": "is raining",
+    "d": [
+     "rains",
+     "rain",
+     "raining"
+    ],
+    "ex": "Look! 表示眼前正在發生,用現在進行式。"
+   },
+   {
+    "q": "I usually drive to work, but this week I ___ the MRT because my car is in the garage.",
+    "a": "am taking",
+    "d": [
+     "take",
+     "took",
+     "takes"
+    ],
+    "ex": "this week 的暫時狀況用現在進行式。"
+   },
+   {
+    "q": "My brother ___ coffee every morning.",
+    "a": "drinks",
+    "d": [
+     "is drinking",
+     "drink",
+     "drinking"
+    ],
+    "ex": "every morning 是習慣,用現在簡單式。"
+   },
+   {
+    "q": "What ___ right now? Your screen looks frozen.",
+    "a": "are you doing",
+    "d": [
+     "do you do",
+     "you are doing",
+     "does you do"
+    ],
+    "ex": "right now 問正在做什麼,疑問句 be 動詞放主詞前。"
+   },
+   {
+    "q": "The team ___ a new feature at the moment, so the release is delayed.",
+    "a": "is developing",
+    "d": [
+     "develops",
+     "develop",
+     "developing"
+    ],
+    "ex": "at the moment 表目前正在進行。"
+   },
+   {
+    "q": "I ___ what you mean.",
+    "a": "understand",
+    "d": [
+     "am understanding",
+     "understanding",
+     "understands"
+    ],
+    "ex": "understand 是狀態動詞,不用進行式。"
+   },
+   {
+    "q": "Prices ___ quickly at the moment.",
+    "a": "are rising",
+    "d": [
+     "rise",
+     "rises",
+     "is rising"
+    ],
+    "ex": "at the moment 用進行式;prices 為複數用 are。"
+   },
+   {
+    "q": "She can't come to the phone; she ___ a shower.",
+    "a": "is taking",
+    "d": [
+     "takes",
+     "take",
+     "taking"
+    ],
+    "ex": "此刻正在洗澡,用現在進行式。"
+   },
+   {
+    "q": "This soup ___ delicious.",
+    "a": "tastes",
+    "d": [
+     "is tasting",
+     "taste",
+     "tasting"
+    ],
+    "ex": "taste 表「嚐起來」是狀態動詞,用簡單式。"
+   }
+  ]
+ },
+ {
+  "id": "past_simple",
+  "name": "過去簡單式與不規則動詞",
+  "cefr": "A2",
+  "note": "已結束的過去時間(yesterday, last week, ago, in 2024)用過去簡單式,注意不規則動詞。",
+  "items": [
+   {
+    "q": "We ___ a great hotel in Tokyo last month.",
+    "a": "found",
+    "d": [
+     "finded",
+     "find",
+     "have found"
+    ],
+    "ex": "last month 是過去時間;find 的過去式為 found。"
+   },
+   {
+    "q": "I ___ my laptop at the café yesterday.",
+    "a": "left",
+    "d": [
+     "leaved",
+     "leave",
+     "have left"
+    ],
+    "ex": "yesterday 用過去式;leave → left。"
+   },
+   {
+    "q": "She ___ the report two days ago.",
+    "a": "wrote",
+    "d": [
+     "writed",
+     "has written",
+     "write"
+    ],
+    "ex": "ago 搭配過去簡單式;write → wrote。"
+   },
+   {
+    "q": "They ___ to Kaohsiung by high-speed rail last weekend.",
+    "a": "went",
+    "d": [
+     "goed",
+     "have gone",
+     "go"
+    ],
+    "ex": "last weekend 用過去式;go → went。"
+   },
+   {
+    "q": "___ you see the news last night?",
+    "a": "Did",
+    "d": [
+     "Do",
+     "Have",
+     "Were"
+    ],
+    "ex": "過去式一般動詞疑問句用 Did + 原形。"
+   },
+   {
+    "q": "I ___ the meeting because I was sick.",
+    "a": "didn't attend",
+    "d": [
+     "didn't attended",
+     "not attended",
+     "don't attend"
+    ],
+    "ex": "didn't 後接原形動詞。"
+   },
+   {
+    "q": "He ___ his phone and the screen cracked.",
+    "a": "dropped",
+    "d": [
+     "droped",
+     "drop",
+     "has dropped"
+    ],
+    "ex": "短母音加子音結尾,過去式重複字尾:dropped。"
+   },
+   {
+    "q": "The company ___ 50 new engineers in 2024.",
+    "a": "hired",
+    "d": [
+     "hire",
+     "has hired",
+     "hires"
+    ],
+    "ex": "in 2024 是明確過去時間,用過去式。"
+   },
+   {
+    "q": "We ___ dinner at a night market after work yesterday.",
+    "a": "ate",
+    "d": [
+     "eated",
+     "eat",
+     "have eaten"
+    ],
+    "ex": "yesterday 用過去式;eat → ate。"
+   },
+   {
+    "q": "The meeting ___ at 3 p.m. and ended at 5.",
+    "a": "began",
+    "d": [
+     "begun",
+     "begined",
+     "has begun"
+    ],
+    "ex": "begin 過去式 began,begun 是過去分詞。"
+   }
+  ]
+ },
+ {
+  "id": "past_continuous",
+  "name": "過去進行式",
+  "cefr": "A2",
+  "note": "過去某時刻正在進行的動作用 was/were + V-ing,常與 when/while 搭配表被打斷。",
+  "items": [
+   {
+    "q": "I ___ a shower, so I didn't hear the delivery guy ring the bell.",
+    "a": "was taking",
+    "d": [
+     "am taking",
+     "were taking",
+     "was take"
+    ],
+    "ex": "過去當下正在進行用 was + V-ing;I 搭 was。"
+   },
+   {
+    "q": "While she ___ dinner, the power went out.",
+    "a": "was cooking",
+    "d": [
+     "is cooking",
+     "were cooking",
+     "cooking"
+    ],
+    "ex": "while 引導過去進行中的背景動作。"
+   },
+   {
+    "q": "At 9 p.m. yesterday, we ___ a movie.",
+    "a": "were watching",
+    "d": [
+     "are watching",
+     "was watching",
+     "watching"
+    ],
+    "ex": "過去特定時刻正在做,we 搭 were + V-ing。"
+   },
+   {
+    "q": "What ___ when the earthquake hit?",
+    "a": "were you doing",
+    "d": [
+     "was you doing",
+     "are you doing",
+     "you were doing"
+    ],
+    "ex": "問過去當下在做什麼;you 搭 were,疑問句倒裝。"
+   },
+   {
+    "q": "They ___ about the project when the boss walked in.",
+    "a": "were talking",
+    "d": [
+     "was talking",
+     "talking",
+     "are talking"
+    ],
+    "ex": "they 複數搭 were;被 when 子句打斷的進行動作。"
+   },
+   {
+    "q": "I ___ to work when I saw the accident.",
+    "a": "was driving",
+    "d": [
+     "were driving",
+     "am driving",
+     "drive"
+    ],
+    "ex": "開車途中看到事故,背景動作用過去進行式。"
+   },
+   {
+    "q": "It ___ heavily, so the game was cancelled.",
+    "a": "was raining",
+    "d": [
+     "were raining",
+     "is raining",
+     "rains"
+    ],
+    "ex": "過去時間背景,it 搭 was + V-ing。"
+   },
+   {
+    "q": "The phone rang while I ___ a meeting with a client.",
+    "a": "was having",
+    "d": [
+     "were having",
+     "am having",
+     "have"
+    ],
+    "ex": "while 子句為過去進行中的動作。"
+   },
+   {
+    "q": "He ___ on his laptop all evening, so he didn't hear me.",
+    "a": "was working",
+    "d": [
+     "were working",
+     "is working",
+     "working"
+    ],
+    "ex": "he 搭 was;整晚持續進行用過去進行式。"
+   },
+   {
+    "q": "She ___ when I called her at midnight.",
+    "a": "was sleeping",
+    "d": [
+     "were sleeping",
+     "sleeps",
+     "is sleeping"
+    ],
+    "ex": "打電話那刻她正在睡,用過去進行式。"
+   }
+  ]
+ },
+ {
+  "id": "will_vs_going_to",
+  "name": "will 與 be going to",
+  "cefr": "A2",
+  "note": "已決定的計畫或有跡象的預測用 be going to;當下臨時決定、承諾、看法用 will。",
+  "items": [
+   {
+    "q": "Look at those dark clouds! It ___ rain.",
+    "a": "is going to",
+    "d": [
+     "going to",
+     "is go to",
+     "will to"
+    ],
+    "ex": "眼前有跡象的預測用 be going to,be 不可省。"
+   },
+   {
+    "q": "“The phone's ringing.” “Don't worry, I ___ it.”",
+    "a": "will get",
+    "d": [
+     "get to",
+     "am get",
+     "getting"
+    ],
+    "ex": "說話當下臨時決定用 will + 原形。"
+   },
+   {
+    "q": "We ___ visit my parents this weekend; we've already booked the tickets.",
+    "a": "are going to",
+    "d": [
+     "going to",
+     "will to",
+     "are go to"
+    ],
+    "ex": "已安排好的計畫用 be going to + 原形。"
+   },
+   {
+    "q": "I think AI ___ change how we work.",
+    "a": "will",
+    "d": [
+     "wills",
+     "is will",
+     "going"
+    ],
+    "ex": "I think 後表看法預測用 will + 原形。"
+   },
+   {
+    "q": "She ___ quit her job next month — she's already told her boss.",
+    "a": "is going to",
+    "d": [
+     "going to",
+     "is go to",
+     "will to"
+    ],
+    "ex": "已決定的打算用 be going to。"
+   },
+   {
+    "q": "___ you going to attend the conference?",
+    "a": "Are",
+    "d": [
+     "Do",
+     "Will",
+     "Is"
+    ],
+    "ex": "be going to 的疑問句把 be 動詞提前,you 搭 Are。"
+   },
+   {
+    "q": "I promise I ___ send you the file tonight.",
+    "a": "will",
+    "d": [
+     "am",
+     "going",
+     "would to"
+    ],
+    "ex": "承諾用 will + 原形。"
+   },
+   {
+    "q": "He ___ going to buy a new car.",
+    "a": "isn't",
+    "d": [
+     "doesn't",
+     "won't",
+     "not"
+    ],
+    "ex": "be going to 的否定是在 be 動詞後加 not。"
+   },
+   {
+    "q": "Careful! You ___ drop that laptop!",
+    "a": "are going to",
+    "d": [
+     "going to",
+     "will to",
+     "are go to"
+    ],
+    "ex": "眼看即將發生的事用 be going to。"
+   },
+   {
+    "q": "I'm hungry. I think I ___ order some food.",
+    "a": "will",
+    "d": [
+     "am",
+     "going",
+     "will to"
+    ],
+    "ex": "當下決定用 will + 原形動詞。"
+   }
+  ]
+ },
+ {
+  "id": "articles",
+  "name": "冠詞 a / an / the",
+  "cefr": "A2",
+  "note": "第一次提到的單數可數名詞用 a/an,雙方已知或獨一無二的用 the,泛指複數或不可數不加冠詞。",
+  "items": [
+   {
+    "q": "I bought ___ new laptop yesterday.",
+    "a": "a",
+    "d": [
+     "an",
+     "any",
+     "(不填)"
+    ],
+    "ex": "第一次提到的單數可數名詞用 a;new 子音開頭。"
+   },
+   {
+    "q": "She is ___ engineer at a chip company.",
+    "a": "an",
+    "d": [
+     "a",
+     "the",
+     "(不填)"
+    ],
+    "ex": "engineer 母音開頭用 an;職業前要加冠詞。"
+   },
+   {
+    "q": "Can you close ___ door, please? It's cold.",
+    "a": "the",
+    "d": [
+     "a",
+     "an",
+     "(不填)"
+    ],
+    "ex": "雙方都知道是哪扇門,用 the。"
+   },
+   {
+    "q": "___ sun rises in the east.",
+    "a": "The",
+    "d": [
+     "A",
+     "An",
+     "(不填)"
+    ],
+    "ex": "獨一無二的事物用 the。"
+   },
+   {
+    "q": "___ smartphones have changed the way people communicate.",
+    "a": "(不填)",
+    "d": [
+     "The",
+     "A",
+     "An"
+    ],
+    "ex": "泛指一類事物的複數名詞不加冠詞。"
+   },
+   {
+    "q": "We stayed at a hotel near the beach. ___ hotel was very clean.",
+    "a": "The",
+    "d": [
+     "A",
+     "An",
+     "(不填)"
+    ],
+    "ex": "第二次提到同一間飯店,用 the。"
+   },
+   {
+    "q": "Mount Everest is ___ highest mountain in the world.",
+    "a": "the",
+    "d": [
+     "a",
+     "an",
+     "(不填)"
+    ],
+    "ex": "最高級前要加 the。"
+   },
+   {
+    "q": "It takes about ___ hour to get to the airport.",
+    "a": "an",
+    "d": [
+     "a",
+     "the",
+     "(不填)"
+    ],
+    "ex": "hour 的 h 不發音,母音開頭用 an。"
+   },
+   {
+    "q": "He usually goes to ___ bed at midnight.",
+    "a": "(不填)",
+    "d": [
+     "the",
+     "a",
+     "an"
+    ],
+    "ex": "go to bed 是固定說法,不加冠詞。"
+   },
+   {
+    "q": "It was ___ useful meeting.",
+    "a": "a",
+    "d": [
+     "an",
+     "(不填)",
+     "any"
+    ],
+    "ex": "useful 發音以 /j/ 子音開頭,用 a;單數可數名詞需冠詞。"
+   }
+  ]
+ },
+ {
+  "id": "quantifiers_countable",
+  "name": "可數/不可數與數量詞",
+  "cefr": "A2",
+  "note": "可數名詞用 many/a few/few,不可數用 much/a little/little;否定與疑問常用 any。",
+  "items": [
+   {
+    "q": "How ___ money do you need for the trip?",
+    "a": "much",
+    "d": [
+     "many",
+     "lot",
+     "few"
+    ],
+    "ex": "money 不可數,問數量用 how much。"
+   },
+   {
+    "q": "How ___ people work in your department?",
+    "a": "many",
+    "d": [
+     "much",
+     "lot",
+     "little"
+    ],
+    "ex": "people 是可數複數,用 how many。"
+   },
+   {
+    "q": "There isn't ___ milk left in the fridge.",
+    "a": "any",
+    "d": [
+     "some",
+     "many",
+     "a few"
+    ],
+    "ex": "否定句用 any;milk 不可數,不用 many/a few。"
+   },
+   {
+    "q": "I have ___ questions about the contract.",
+    "a": "a few",
+    "d": [
+     "a little",
+     "much",
+     "a lot"
+    ],
+    "ex": "questions 可數,用 a few;a lot 後需加 of。"
+   },
+   {
+    "q": "We don't have ___ time before the meeting, so let's be quick.",
+    "a": "much",
+    "d": [
+     "many",
+     "a few",
+     "few"
+    ],
+    "ex": "time(時間)不可數,用 much。"
+   },
+   {
+    "q": "I'd like ___ information about the course.",
+    "a": "some",
+    "d": [
+     "an",
+     "a few",
+     "many"
+    ],
+    "ex": "information 不可數,不能加 an 或用 many。"
+   },
+   {
+    "q": "She gave me ___ useful advice.",
+    "a": "a piece of",
+    "d": [
+     "an",
+     "a few",
+     "many"
+    ],
+    "ex": "advice 不可數,計數要用 a piece of。"
+   },
+   {
+    "q": "There are ___ cars on the road on Sunday mornings, so it's a quick drive.",
+    "a": "few",
+    "d": [
+     "little",
+     "much",
+     "a little"
+    ],
+    "ex": "cars 可數;few 表「很少」,與車程快相符。"
+   },
+   {
+    "q": "I have very ___ free time these days.",
+    "a": "little",
+    "d": [
+     "few",
+     "many",
+     "less"
+    ],
+    "ex": "time 不可數,very little 表很少。"
+   },
+   {
+    "q": "How ___ luggage are you bringing?",
+    "a": "much",
+    "d": [
+     "many",
+     "lot",
+     "a few"
+    ],
+    "ex": "luggage 不可數,用 how much。"
+   }
+  ]
+ },
+ {
+  "id": "comparatives_superlatives",
+  "name": "比較級與最高級",
+  "cefr": "A2",
+  "note": "短形容詞加 -er/-est,長形容詞用 more/most;比較用 than,最高級前加 the;good→better→best。",
+  "items": [
+   {
+    "q": "This phone is ___ than my old one.",
+    "a": "lighter",
+    "d": [
+     "more light",
+     "lightest",
+     "more lighter"
+    ],
+    "ex": "單音節形容詞比較級加 -er,不可再加 more。"
+   },
+   {
+    "q": "Taipei 101 was once the ___ building in the world.",
+    "a": "tallest",
+    "d": [
+     "taller",
+     "most tall",
+     "more tall"
+    ],
+    "ex": "the ... in the world 用最高級,tall → tallest。"
+   },
+   {
+    "q": "The new system is much ___ than the old one.",
+    "a": "more efficient",
+    "d": [
+     "efficienter",
+     "most efficient",
+     "more efficienter"
+    ],
+    "ex": "多音節形容詞用 more 形成比較級。"
+   },
+   {
+    "q": "This is the ___ movie I've ever seen.",
+    "a": "worst",
+    "d": [
+     "baddest",
+     "most bad",
+     "worse"
+    ],
+    "ex": "bad 最高級為 worst,不規則變化。"
+   },
+   {
+    "q": "Traffic today is ___ than yesterday.",
+    "a": "worse",
+    "d": [
+     "badder",
+     "worst",
+     "more bad"
+    ],
+    "ex": "bad 比較級為 worse。"
+   },
+   {
+    "q": "Train tickets are ___ expensive than plane tickets.",
+    "a": "less",
+    "d": [
+     "fewer",
+     "least",
+     "lesser"
+    ],
+    "ex": "less + 形容詞 + than 表「比較不…」。"
+   },
+   {
+    "q": "She speaks English ___ than I do.",
+    "a": "better",
+    "d": [
+     "more good",
+     "best",
+     "gooder"
+    ],
+    "ex": "good/well 比較級為 better。"
+   },
+   {
+    "q": "My commute is not as long ___ yours.",
+    "a": "as",
+    "d": [
+     "than",
+     "so",
+     "like"
+    ],
+    "ex": "as + 形容詞 + as 表同等比較。"
+   },
+   {
+    "q": "Kaohsiung is ___ city in southern Taiwan.",
+    "a": "the biggest",
+    "d": [
+     "biggest",
+     "the bigger",
+     "the most big"
+    ],
+    "ex": "最高級前要加 the;big → biggest。"
+   },
+   {
+    "q": "The ___ you practice, the better you get.",
+    "a": "more",
+    "d": [
+     "most",
+     "many",
+     "much"
+    ],
+    "ex": "The more…, the better… 表「越…越…」。"
+   }
+  ]
+ },
+ {
+  "id": "prepositions_time",
+  "name": "時間介系詞",
+  "cefr": "A2",
+  "note": "時刻用 at,日期與星期用 on,月份/年份用 in;by=在…之前,since=自從,for=一段時間。",
+  "items": [
+   {
+    "q": "The meeting starts ___ 10 a.m.",
+    "a": "at",
+    "d": [
+     "in",
+     "on",
+     "for"
+    ],
+    "ex": "確切時刻用 at。"
+   },
+   {
+    "q": "My birthday is ___ March.",
+    "a": "in",
+    "d": [
+     "on",
+     "at",
+     "for"
+    ],
+    "ex": "月份前用 in。"
+   },
+   {
+    "q": "I'll see you ___ Monday.",
+    "a": "on",
+    "d": [
+     "in",
+     "at",
+     "to"
+    ],
+    "ex": "星期幾前用 on。"
+   },
+   {
+    "q": "The shop is closed ___ Christmas Day.",
+    "a": "on",
+    "d": [
+     "in",
+     "at",
+     "to"
+    ],
+    "ex": "特定某一天(Christmas Day)用 on。"
+   },
+   {
+    "q": "She was born ___ 1995.",
+    "a": "in",
+    "d": [
+     "on",
+     "at",
+     "since"
+    ],
+    "ex": "年份前用 in。"
+   },
+   {
+    "q": "I can't sleep ___ night when I drink coffee.",
+    "a": "at",
+    "d": [
+     "in",
+     "on",
+     "during"
+    ],
+    "ex": "at night 是固定用法。"
+   },
+   {
+    "q": "The project must be finished ___ Friday.",
+    "a": "by",
+    "d": [
+     "until",
+     "in",
+     "at"
+    ],
+    "ex": "by 表「最晚在…之前」完成;until 表持續到。"
+   },
+   {
+    "q": "I've worked here ___ 2020.",
+    "a": "since",
+    "d": [
+     "for",
+     "from",
+     "at"
+    ],
+    "ex": "現在完成式 + 起始時間點用 since。"
+   },
+   {
+    "q": "I waited ___ two hours at the airport.",
+    "a": "for",
+    "d": [
+     "since",
+     "during",
+     "at"
+    ],
+    "ex": "一段時間長度用 for。"
+   },
+   {
+    "q": "The store opens ___ the morning of the 5th.",
+    "a": "on",
+    "d": [
+     "in",
+     "at",
+     "by"
+    ],
+    "ex": "特定日期的早上用 on,而非 in the morning。"
+   }
+  ]
+ },
+ {
+  "id": "prepositions_place",
+  "name": "地點介系詞",
+  "cefr": "A2",
+  "note": "在某個點用 at,在表面上用 on,在空間內部或城市國家用 in;樓層用 on。",
+  "items": [
+   {
+    "q": "She lives ___ Taichung.",
+    "a": "in",
+    "d": [
+     "at",
+     "on",
+     "to"
+    ],
+    "ex": "城市前用 in。"
+   },
+   {
+    "q": "I'll meet you ___ the bus stop.",
+    "a": "at",
+    "d": [
+     "in",
+     "on",
+     "to"
+    ],
+    "ex": "約在某個地點(點)用 at。"
+   },
+   {
+    "q": "Your keys are ___ the table.",
+    "a": "on",
+    "d": [
+     "in",
+     "at",
+     "to"
+    ],
+    "ex": "在表面上用 on。"
+   },
+   {
+    "q": "He's ___ the meeting room right now.",
+    "a": "in",
+    "d": [
+     "on",
+     "to",
+     "into"
+    ],
+    "ex": "在房間內部用 in;into 表移動方向。"
+   },
+   {
+    "q": "I read about it ___ the newspaper.",
+    "a": "in",
+    "d": [
+     "on",
+     "at",
+     "by"
+    ],
+    "ex": "報紙、書本內容用 in。"
+   },
+   {
+    "q": "There's a pharmacy ___ the corner of this street.",
+    "a": "on",
+    "d": [
+     "in",
+     "to",
+     "into"
+    ],
+    "ex": "街角用 on/at the corner;in the corner 指室內角落。"
+   },
+   {
+    "q": "Our office is ___ the 12th floor.",
+    "a": "on",
+    "d": [
+     "in",
+     "at",
+     "to"
+    ],
+    "ex": "樓層用 on。"
+   },
+   {
+    "q": "I saw her ___ the airport.",
+    "a": "at",
+    "d": [
+     "to",
+     "on",
+     "into"
+    ],
+    "ex": "在某個場所(點)用 at。"
+   },
+   {
+    "q": "Please write your name ___ the top of the page.",
+    "a": "at",
+    "d": [
+     "in",
+     "to",
+     "by"
+    ],
+    "ex": "at the top of 是固定用法。"
+   },
+   {
+    "q": "He arrived ___ Tokyo late last night.",
+    "a": "in",
+    "d": [
+     "at",
+     "to",
+     "on"
+    ],
+    "ex": "arrive 到城市用 in;arrive 不接 to。"
+   }
+  ]
+ },
+ {
+  "id": "modals_obligation",
+  "name": "義務情態動詞 must / have to",
+  "cefr": "A2",
+  "note": "must/have to=必須;mustn't=禁止;don't have to=不必;過去必須用 had to。",
+  "items": [
+   {
+    "q": "You ___ smoke inside the building. It's against the law.",
+    "a": "mustn't",
+    "d": [
+     "don't have to",
+     "haven't to",
+     "mustn't to"
+    ],
+    "ex": "違法=禁止,用 mustn't + 原形。"
+   },
+   {
+    "q": "It's Saturday, so I ___ get up early.",
+    "a": "don't have to",
+    "d": [
+     "mustn't",
+     "haven't",
+     "don't must"
+    ],
+    "ex": "週六不必早起,用 don't have to(不必)。"
+   },
+   {
+    "q": "All visitors ___ wear a badge.",
+    "a": "must",
+    "d": [
+     "musts",
+     "must to",
+     "have"
+    ],
+    "ex": "must 後直接接原形,不加 s 或 to。"
+   },
+   {
+    "q": "She ___ work late yesterday to finish the report.",
+    "a": "had to",
+    "d": [
+     "must",
+     "musted",
+     "has to"
+    ],
+    "ex": "must 沒有過去式,過去的必須用 had to。"
+   },
+   {
+    "q": "You ___ bring anything to the party; we have plenty of food.",
+    "a": "don't need to",
+    "d": [
+     "mustn't",
+     "needn't to",
+     "don't must"
+    ],
+    "ex": "不必帶,用 don't need to;needn't 後不加 to。"
+   },
+   {
+    "q": "Do we ___ book a table in advance?",
+    "a": "have to",
+    "d": [
+     "must",
+     "has to",
+     "having to"
+    ],
+    "ex": "Do 疑問句後接 have to 原形。"
+   },
+   {
+    "q": "You look tired. You ___ get some rest.",
+    "a": "should",
+    "d": [
+     "should to",
+     "ought",
+     "shoulds"
+    ],
+    "ex": "給建議用 should + 原形;ought 需加 to。"
+   },
+   {
+    "q": "Employees ___ to report any security incidents immediately.",
+    "a": "have",
+    "d": [
+     "must",
+     "has",
+     "should"
+    ],
+    "ex": "空格後有 to,用 have to;employees 複數。"
+   },
+   {
+    "q": "I ___ to take the train because my car broke down.",
+    "a": "had",
+    "d": [
+     "must",
+     "has",
+     "musted"
+    ],
+    "ex": "過去的必要用 had to。"
+   },
+   {
+    "q": "Passengers ___ use their phones during takeoff.",
+    "a": "aren't allowed to",
+    "d": [
+     "don't have to",
+     "mustn't to",
+     "not allowed"
+    ],
+    "ex": "禁止用 aren't allowed to;don't have to 是不必。"
+   }
+  ]
+ },
+ {
+  "id": "question_forms",
+  "name": "疑問句與助動詞",
+  "cefr": "A2",
+  "note": "一般動詞疑問句要加 do/does/did;疑問詞本身當主詞時不需助動詞。",
+  "items": [
+   {
+    "q": "Where ___ you live?",
+    "a": "do",
+    "d": [
+     "does",
+     "are",
+     "is"
+    ],
+    "ex": "you 一般動詞疑問句用 do。"
+   },
+   {
+    "q": "What time ___ the store close?",
+    "a": "does",
+    "d": [
+     "do",
+     "is",
+     "are"
+    ],
+    "ex": "the store 單數,用 does + 原形。"
+   },
+   {
+    "q": "Who ___ the email to the client yesterday?",
+    "a": "sent",
+    "d": [
+     "did sent",
+     "send",
+     "sended"
+    ],
+    "ex": "who 是主詞,不需助動詞,直接用過去式。"
+   },
+   {
+    "q": "How long ___ it take to get to the airport?",
+    "a": "does",
+    "d": [
+     "is",
+     "do",
+     "has"
+    ],
+    "ex": "it 單數,一般動詞 take 用 does。"
+   },
+   {
+    "q": "___ you finish the report yesterday?",
+    "a": "Did",
+    "d": [
+     "Do",
+     "Have",
+     "Were"
+    ],
+    "ex": "yesterday 過去式疑問句用 Did + 原形。"
+   },
+   {
+    "q": "What ___ at the meeting yesterday?",
+    "a": "happened",
+    "d": [
+     "did happen",
+     "happen",
+     "was happen"
+    ],
+    "ex": "what 當主詞,直接用過去式 happened。"
+   },
+   {
+    "q": "___ she work in the marketing department?",
+    "a": "Does",
+    "d": [
+     "Do",
+     "Is",
+     "Has"
+    ],
+    "ex": "she 第三人稱單數,用 Does + 原形。"
+   },
+   {
+    "q": "Why ___ you at the office yesterday?",
+    "a": "weren't",
+    "d": [
+     "didn't",
+     "don't",
+     "wasn't"
+    ],
+    "ex": "句中無一般動詞,用 be 動詞;you 搭 were。"
+   },
+   {
+    "q": "How many people ___ to the conference last year?",
+    "a": "came",
+    "d": [
+     "did come",
+     "come",
+     "did came"
+    ],
+    "ex": "how many people 是主詞,直接用過去式。"
+   },
+   {
+    "q": "Which bus ___ to the airport?",
+    "a": "goes",
+    "d": [
+     "does it go",
+     "go",
+     "is go"
+    ],
+    "ex": "which bus 是主詞,不需 does,動詞加 -es。"
+   }
+  ]
+ },
+ {
+  "id": "present_perfect_vs_past_simple",
+  "name": "現在完成式 vs 過去簡單式",
+  "cefr": "B1",
+  "note": "有明確過去時間用過去式;經驗、到目前為止、與現在相關的結果用現在完成式。",
+  "items": [
+   {
+    "q": "I ___ to Japan three times so far.",
+    "a": "have been",
+    "d": [
+     "went",
+     "was",
+     "am"
+    ],
+    "ex": "so far 表到目前為止的經驗,用現在完成式。"
+   },
+   {
+    "q": "She ___ the company in 2019.",
+    "a": "joined",
+    "d": [
+     "has joined",
+     "joins",
+     "have joined"
+    ],
+    "ex": "in 2019 是明確過去時間,用過去式。"
+   },
+   {
+    "q": "Have you ever ___ stinky tofu?",
+    "a": "eaten",
+    "d": [
+     "ate",
+     "eat",
+     "eated"
+    ],
+    "ex": "Have you ever 後接過去分詞 eaten。"
+   },
+   {
+    "q": "When ___ you start working here?",
+    "a": "did",
+    "d": [
+     "have",
+     "has",
+     "were"
+    ],
+    "ex": "when 問過去時間點,不可用現在完成式。"
+   },
+   {
+    "q": "The CEO ___ his resignation yesterday.",
+    "a": "announced",
+    "d": [
+     "has announced",
+     "announces",
+     "have announced"
+    ],
+    "ex": "yesterday 搭配過去式。"
+   },
+   {
+    "q": "I ___ that movie last weekend.",
+    "a": "saw",
+    "d": [
+     "have seen",
+     "seen",
+     "see"
+    ],
+    "ex": "last weekend 是明確過去時間,用過去式。"
+   },
+   {
+    "q": "I've ___ finished the report, so you can review it now.",
+    "a": "already",
+    "d": [
+     "yet",
+     "still",
+     "ever"
+    ],
+    "ex": "肯定句「已經」用 already;yet 用於否定與疑問。"
+   },
+   {
+    "q": "Prices ___ a lot since last year.",
+    "a": "have gone up",
+    "d": [
+     "went up",
+     "go up",
+     "are going up"
+    ],
+    "ex": "since 表從過去到現在,用現在完成式。"
+   },
+   {
+    "q": "My grandfather ___ in a factory for 40 years before he retired.",
+    "a": "worked",
+    "d": [
+     "has worked",
+     "works",
+     "have worked"
+    ],
+    "ex": "已退休,事情已完全結束,用過去式。"
+   },
+   {
+    "q": "Has she replied to your email ___?",
+    "a": "yet",
+    "d": [
+     "still",
+     "ever",
+     "since"
+    ],
+    "ex": "疑問句句尾「了嗎」用 yet。"
+   }
+  ]
+ },
+ {
+  "id": "for_since",
+  "name": "for 與 since",
+  "cefr": "B1",
+  "note": "for + 一段時間,since + 起始時間點或子句;表持續到現在時搭配現在完成式。",
+  "items": [
+   {
+    "q": "I've lived in Hsinchu ___ 2018.",
+    "a": "since",
+    "d": [
+     "for",
+     "from",
+     "in"
+    ],
+    "ex": "2018 是起始時間點,用 since。"
+   },
+   {
+    "q": "She's been a software engineer ___ ten years.",
+    "a": "for",
+    "d": [
+     "since",
+     "during",
+     "from"
+    ],
+    "ex": "ten years 是時間長度,用 for。"
+   },
+   {
+    "q": "We've known each other ___ we were in college.",
+    "a": "since",
+    "d": [
+     "for",
+     "when",
+     "from"
+    ],
+    "ex": "since 可接子句,表從那時起。"
+   },
+   {
+    "q": "I haven't seen him ___ ages.",
+    "a": "for",
+    "d": [
+     "since",
+     "during",
+     "from"
+    ],
+    "ex": "ages 表很長一段時間,用 for。"
+   },
+   {
+    "q": "How long ___ you worked here?",
+    "a": "have",
+    "d": [
+     "are",
+     "do",
+     "has"
+    ],
+    "ex": "問持續到現在多久,用 have + p.p.。"
+   },
+   {
+    "q": "They ___ married for five years.",
+    "a": "have been",
+    "d": [
+     "are",
+     "were being",
+     "has been"
+    ],
+    "ex": "婚姻持續到現在五年,用 have been。"
+   },
+   {
+    "q": "It's been three years ___ I last visited my hometown.",
+    "a": "since",
+    "d": [
+     "for",
+     "from",
+     "ago"
+    ],
+    "ex": "It's been + 時間 + since + 過去式。"
+   },
+   {
+    "q": "I've had this phone ___ last Christmas.",
+    "a": "since",
+    "d": [
+     "for",
+     "from",
+     "in"
+    ],
+    "ex": "last Christmas 是時間點,用 since。"
+   },
+   {
+    "q": "He ___ in Taipei since 2015.",
+    "a": "has lived",
+    "d": [
+     "lives",
+     "lived",
+     "is living"
+    ],
+    "ex": "since 2015 至今,用現在完成式。"
+   },
+   {
+    "q": "We ___ each other since university.",
+    "a": "have known",
+    "d": [
+     "knew",
+     "know",
+     "are knowing"
+    ],
+    "ex": "since 搭現在完成式;know 不用進行式。"
+   }
+  ]
+ },
+ {
+  "id": "present_perfect_continuous",
+  "name": "現在完成進行式",
+  "cefr": "B1",
+  "note": "have/has been + V-ing 強調從過去持續到現在的動作及其時長;講完成數量則用現在完成式。",
+  "items": [
+   {
+    "q": "I ___ for you for 30 minutes! Where were you?",
+    "a": "have been waiting",
+    "d": [
+     "am waiting",
+     "was waiting",
+     "have been wait"
+    ],
+    "ex": "從過去一直等到現在,強調持續用完成進行式。"
+   },
+   {
+    "q": "She looks tired because she ___ all day.",
+    "a": "has been working",
+    "d": [
+     "have been working",
+     "is work",
+     "has be working"
+    ],
+    "ex": "持續到現在的動作造成現在的結果;she 用 has。"
+   },
+   {
+    "q": "How long ___ you been learning English?",
+    "a": "have",
+    "d": [
+     "did",
+     "are",
+     "has"
+    ],
+    "ex": "How long have you been + V-ing 問持續多久。"
+   },
+   {
+    "q": "It ___ raining since this morning.",
+    "a": "has been",
+    "d": [
+     "is",
+     "was",
+     "have been"
+    ],
+    "ex": "since 搭完成進行式;it 用 has。"
+   },
+   {
+    "q": "They've been ___ this bug for three days and still haven't fixed it.",
+    "a": "investigating",
+    "d": [
+     "investigate",
+     "investigated",
+     "investigation"
+    ],
+    "ex": "have been 後接 V-ing。"
+   },
+   {
+    "q": "My eyes hurt. I ___ at the screen all day.",
+    "a": "have been staring",
+    "d": [
+     "stare",
+     "am stare",
+     "has been staring"
+    ],
+    "ex": "持續動作導致現在眼睛痛;I 用 have。"
+   },
+   {
+    "q": "He ___ at this company since 2020.",
+    "a": "has been working",
+    "d": [
+     "is working",
+     "works",
+     "worked"
+    ],
+    "ex": "since 2020 持續到現在,不用現在式。"
+   },
+   {
+    "q": "I ___ three emails this morning.",
+    "a": "have written",
+    "d": [
+     "have been writing",
+     "am writing",
+     "has written"
+    ],
+    "ex": "講完成的數量用現在完成式,不用進行式。"
+   },
+   {
+    "q": "We've been ___ about moving to Taichung.",
+    "a": "thinking",
+    "d": [
+     "think",
+     "thought",
+     "thinks"
+    ],
+    "ex": "have been 後接 V-ing。"
+   },
+   {
+    "q": "The kids are dirty because they ___ in the garden.",
+    "a": "have been playing",
+    "d": [
+     "play",
+     "has been playing",
+     "been playing"
+    ],
+    "ex": "剛才持續的活動留下痕跡,用完成進行式。"
+   }
+  ]
+ },
+ {
+  "id": "past_perfect",
+  "name": "過去完成式",
+  "cefr": "B1",
+  "note": "在過去某時間點之前就已完成的動作用 had + 過去分詞。",
+  "items": [
+   {
+    "q": "When I arrived at the station, the train ___ already left.",
+    "a": "had",
+    "d": [
+     "has",
+     "was",
+     "have"
+    ],
+    "ex": "火車在我到站前已開走,用 had + p.p.。"
+   },
+   {
+    "q": "She didn't come to dinner because she ___ already eaten.",
+    "a": "had",
+    "d": [
+     "has",
+     "have",
+     "was"
+    ],
+    "ex": "比過去更早發生的事用過去完成式。"
+   },
+   {
+    "q": "I ___ never seen snow before I went to Hokkaido.",
+    "a": "had",
+    "d": [
+     "have",
+     "has",
+     "was"
+    ],
+    "ex": "去北海道之前的經驗,用 had + p.p.。"
+   },
+   {
+    "q": "By the time we got to the cinema, the movie ___.",
+    "a": "had started",
+    "d": [
+     "has started",
+     "starts",
+     "was start"
+    ],
+    "ex": "By the time + 過去式,主句用過去完成式。"
+   },
+   {
+    "q": "He realized he ___ his passport at home.",
+    "a": "had left",
+    "d": [
+     "has left",
+     "leaves",
+     "had leave"
+    ],
+    "ex": "忘帶護照發生在發覺之前,用 had left。"
+   },
+   {
+    "q": "After she ___ the report, she went home.",
+    "a": "had finished",
+    "d": [
+     "has finished",
+     "finishes",
+     "had finish"
+    ],
+    "ex": "先完成報告再回家,較早的動作用 had + p.p.。"
+   },
+   {
+    "q": "The meeting ___ ended by the time I logged in.",
+    "a": "had already",
+    "d": [
+     "has already",
+     "have already",
+     "already has"
+    ],
+    "ex": "登入前會議已結束,用 had already + p.p.。"
+   },
+   {
+    "q": "I couldn't log in because I ___ my password.",
+    "a": "had forgotten",
+    "d": [
+     "have forgotten",
+     "forget",
+     "was forgetting"
+    ],
+    "ex": "忘記密碼發生在無法登入之前。"
+   },
+   {
+    "q": "They ___ each other for years before they got married.",
+    "a": "had known",
+    "d": [
+     "have known",
+     "know",
+     "had know"
+    ],
+    "ex": "結婚之前持續認識多年,用 had + p.p.。"
+   },
+   {
+    "q": "It was the first time I ___ a presentation in English.",
+    "a": "had given",
+    "d": [
+     "have given",
+     "give",
+     "had give"
+    ],
+    "ex": "It was the first time 後用過去完成式。"
+   }
+  ]
+ },
+ {
+  "id": "future_time_clauses",
+  "name": "未來時間子句",
+  "cefr": "B1",
+  "note": "when/after/before/as soon as/until/once 引導的未來時間子句用現在式,不用 will。",
+  "items": [
+   {
+    "q": "I'll call you when I ___ at the airport.",
+    "a": "arrive",
+    "d": [
+     "will arrive",
+     "arrived",
+     "arriving"
+    ],
+    "ex": "when 時間子句表未來時用現在式。"
+   },
+   {
+    "q": "As soon as the meeting ___, we'll go for lunch.",
+    "a": "finishes",
+    "d": [
+     "will finish",
+     "finished",
+     "finish"
+    ],
+    "ex": "as soon as 子句用現在式;meeting 單數加 -es。"
+   },
+   {
+    "q": "We'll wait here until the rain ___.",
+    "a": "stops",
+    "d": [
+     "will stop",
+     "stopped",
+     "stop"
+    ],
+    "ex": "until 子句表未來用現在式。"
+   },
+   {
+    "q": "Before you ___ the office, please turn off the lights.",
+    "a": "leave",
+    "d": [
+     "will leave",
+     "left",
+     "leaving"
+    ],
+    "ex": "before 子句用現在式表未來。"
+   },
+   {
+    "q": "I'll send you the files after I ___ them.",
+    "a": "check",
+    "d": [
+     "will check",
+     "checked",
+     "checking"
+    ],
+    "ex": "after 子句不用 will,用現在式。"
+   },
+   {
+    "q": "When she ___ her degree, she'll look for a job in Singapore.",
+    "a": "gets",
+    "d": [
+     "will get",
+     "got",
+     "get"
+    ],
+    "ex": "when 子句用現在式;she 加 -s。"
+   },
+   {
+    "q": "I won't make a decision until I ___ to my manager.",
+    "a": "talk",
+    "d": [
+     "will talk",
+     "talked",
+     "talking"
+    ],
+    "ex": "until 子句用現在式表未來。"
+   },
+   {
+    "q": "Text me as soon as you ___ home.",
+    "a": "get",
+    "d": [
+     "will get",
+     "got",
+     "getting"
+    ],
+    "ex": "as soon as 子句用現在式。"
+   },
+   {
+    "q": "Once the update ___ installed, the app will restart.",
+    "a": "is",
+    "d": [
+     "will be",
+     "was",
+     "be"
+    ],
+    "ex": "once 子句表未來用現在式 is。"
+   },
+   {
+    "q": "If I see Tom tomorrow, I ___ him the news.",
+    "a": "will tell",
+    "d": [
+     "tell",
+     "told",
+     "would tell"
+    ],
+    "ex": "主句表未來用 will;條件子句才用現在式。"
+   }
+  ]
+ },
+ {
+  "id": "first_conditional",
+  "name": "零與第一條件句",
+  "cefr": "B1",
+  "note": "零條件句(普遍事實)If + 現在式, 現在式;第一條件句(可能發生)If + 現在式, will + 原形。",
+  "items": [
+   {
+    "q": "If it ___ tomorrow, we'll cancel the hike.",
+    "a": "rains",
+    "d": [
+     "will rain",
+     "rained",
+     "rain"
+    ],
+    "ex": "if 子句表未來用現在式;it 加 -s。"
+   },
+   {
+    "q": "If you heat ice, it ___.",
+    "a": "melts",
+    "d": [
+     "melted",
+     "would melt",
+     "melting"
+    ],
+    "ex": "普遍事實用零條件句,兩邊都用現在式。"
+   },
+   {
+    "q": "If you don't hurry, you ___ the train.",
+    "a": "will miss",
+    "d": [
+     "would miss",
+     "missed",
+     "missing"
+    ],
+    "ex": "真實可能的未來結果用 will + 原形。"
+   },
+   {
+    "q": "Unless you ___ the bug, the app will keep crashing.",
+    "a": "fix",
+    "d": [
+     "don't fix",
+     "will fix",
+     "fixed"
+    ],
+    "ex": "unless=if not,本身已含否定,後接肯定現在式。"
+   },
+   {
+    "q": "I'll lend you my car if you ___ careful.",
+    "a": "are",
+    "d": [
+     "will be",
+     "were",
+     "be"
+    ],
+    "ex": "第一條件句 if 子句用現在式。"
+   },
+   {
+    "q": "If you press this button, the machine ___.",
+    "a": "stops",
+    "d": [
+     "stopped",
+     "would stop",
+     "stopping"
+    ],
+    "ex": "必然結果用零條件句,主句用現在式。"
+   },
+   {
+    "q": "What ___ you do if the client says no?",
+    "a": "will",
+    "d": [
+     "are",
+     "did",
+     "does"
+    ],
+    "ex": "可能發生的情況,主句用 will。"
+   },
+   {
+    "q": "If the price ___ below NT$100, I'll buy some shares.",
+    "a": "drops",
+    "d": [
+     "will drop",
+     "dropped",
+     "drop"
+    ],
+    "ex": "if 子句用現在式;price 單數加 -s。"
+   },
+   {
+    "q": "We won't finish on time ___ we get more help.",
+    "a": "unless",
+    "d": [
+     "if",
+     "when",
+     "except"
+    ],
+    "ex": "除非得到幫助才能完成,用 unless。"
+   },
+   {
+    "q": "If you mix blue and yellow, you ___ green.",
+    "a": "get",
+    "d": [
+     "got",
+     "would get",
+     "getting"
+    ],
+    "ex": "普遍事實用零條件句,現在式。"
+   }
+  ]
+ },
+ {
+  "id": "second_conditional",
+  "name": "第二條件句",
+  "cefr": "B1",
+  "note": "與現在事實相反或不太可能的假設:If + 過去式, would/could + 原形;be 動詞常用 were。",
+  "items": [
+   {
+    "q": "If I ___ more money, I would buy a house in Taipei.",
+    "a": "had",
+    "d": [
+     "have",
+     "would have",
+     "will have"
+    ],
+    "ex": "與現在事實相反,if 子句用過去式。"
+   },
+   {
+    "q": "If I ___ you, I'd take the job offer.",
+    "a": "were",
+    "d": [
+     "am",
+     "would be",
+     "be"
+    ],
+    "ex": "If I were you 是給建議的固定句型。"
+   },
+   {
+    "q": "What would you do if you ___ the lottery?",
+    "a": "won",
+    "d": [
+     "win",
+     "would win",
+     "will win"
+    ],
+    "ex": "不太可能的假設,if 子句用過去式。"
+   },
+   {
+    "q": "If she lived closer, she ___ to the office every day.",
+    "a": "would walk",
+    "d": [
+     "will walk",
+     "walks",
+     "walked"
+    ],
+    "ex": "主句用 would + 原形。"
+   },
+   {
+    "q": "I ___ more if I didn't have to work overtime.",
+    "a": "would travel",
+    "d": [
+     "will travel",
+     "travel",
+     "travelled"
+    ],
+    "ex": "if 子句為過去式,主句用 would + 原形。"
+   },
+   {
+    "q": "If we ___ a car, we could drive to Kenting.",
+    "a": "had",
+    "d": [
+     "have",
+     "would have",
+     "has"
+    ],
+    "ex": "現在沒車的假設,if 子句用過去式。"
+   },
+   {
+    "q": "He would understand the problem if he ___ the manual.",
+    "a": "read",
+    "d": [
+     "reads",
+     "will read",
+     "would read"
+    ],
+    "ex": "if 子句用過去式 read;不用 would。"
+   },
+   {
+    "q": "If I knew her number, I ___ her.",
+    "a": "would call",
+    "d": [
+     "will call",
+     "call",
+     "called"
+    ],
+    "ex": "與現在相反的假設,主句用 would + 原形。"
+   },
+   {
+    "q": "___ I had more time, I would learn Japanese.",
+    "a": "If",
+    "d": [
+     "When",
+     "Unless",
+     "Because"
+    ],
+    "ex": "假設語氣用 If 引導。"
+   },
+   {
+    "q": "If the company ___ remote work, more people would apply.",
+    "a": "allowed",
+    "d": [
+     "allows",
+     "would allow",
+     "allow"
+    ],
+    "ex": "主句是 would,if 子句用過去式。"
+   }
+  ]
+ },
+ {
+  "id": "passive_basic",
+  "name": "被動語態(基本)",
+  "cefr": "B1",
+  "note": "被動語態 = be + 過去分詞,強調動作承受者;時態由 be 動詞表現。",
+  "items": [
+   {
+    "q": "This bridge ___ in 1990.",
+    "a": "was built",
+    "d": [
+     "built",
+     "is built",
+     "was build"
+    ],
+    "ex": "橋是被建造的,過去被動用 was + p.p.。"
+   },
+   {
+    "q": "English ___ in many countries.",
+    "a": "is spoken",
+    "d": [
+     "speaks",
+     "is speak",
+     "spoken"
+    ],
+    "ex": "語言被說,現在被動 is + p.p.。"
+   },
+   {
+    "q": "The report ___ by the manager every Friday.",
+    "a": "is reviewed",
+    "d": [
+     "reviews",
+     "is review",
+     "reviewed"
+    ],
+    "ex": "by the manager 表被動;每週習慣用現在式。"
+   },
+   {
+    "q": "My bike ___ last night.",
+    "a": "was stolen",
+    "d": [
+     "stole",
+     "was stole",
+     "is stolen"
+    ],
+    "ex": "腳踏車被偷,過去被動 was + stolen。"
+   },
+   {
+    "q": "The results ___ next week.",
+    "a": "will be announced",
+    "d": [
+     "will announce",
+     "are announce",
+     "will announced"
+    ],
+    "ex": "未來被動 will be + p.p.。"
+   },
+   {
+    "q": "The meeting ___ until Thursday.",
+    "a": "has been postponed",
+    "d": [
+     "has postponed",
+     "is postpone",
+     "postponed"
+    ],
+    "ex": "會議被延期,完成式被動 has been + p.p.。"
+   },
+   {
+    "q": "Most smartphones ___ in Asia.",
+    "a": "are made",
+    "d": [
+     "make",
+     "are make",
+     "made"
+    ],
+    "ex": "手機被製造,現在被動 are + p.p.。"
+   },
+   {
+    "q": "Smoking is not ___ in this restaurant.",
+    "a": "allowed",
+    "d": [
+     "allow",
+     "allowing",
+     "allows"
+    ],
+    "ex": "be allowed 是被動,接過去分詞。"
+   },
+   {
+    "q": "These photos ___ by my sister.",
+    "a": "were taken",
+    "d": [
+     "took",
+     "were took",
+     "taken"
+    ],
+    "ex": "照片被拍,複數過去被動 were + taken。"
+   },
+   {
+    "q": "The package ___ to the wrong address.",
+    "a": "was delivered",
+    "d": [
+     "delivered",
+     "was deliver",
+     "delivering"
+    ],
+    "ex": "包裹是被寄送的,用 was + p.p.。"
+   }
+  ]
+ },
+ {
+  "id": "reported_speech",
+  "name": "間接引述",
+  "cefr": "B1",
+  "note": "轉述過去說的話時態常往後退(現在→過去、will→would),疑問句改直述語序,時間詞也要調整。",
+  "items": [
+   {
+    "q": "Yesterday she said that she ___ too tired to go out that night.",
+    "a": "was",
+    "d": [
+     "is",
+     "has",
+     "be"
+    ],
+    "ex": "轉述過去的話且指當晚,現在式退為過去式。"
+   },
+   {
+    "q": "He told me he ___ call me the next day.",
+    "a": "would",
+    "d": [
+     "will",
+     "shall",
+     "is"
+    ],
+    "ex": "轉述時 will 退為 would;the next day 為轉述時間詞。"
+   },
+   {
+    "q": "“I'm working from home.” → She said she ___ from home that day.",
+    "a": "was working",
+    "d": [
+     "is working",
+     "works",
+     "has worked"
+    ],
+    "ex": "現在進行式退為過去進行式。"
+   },
+   {
+    "q": "He asked me where I ___.",
+    "a": "lived",
+    "d": [
+     "did I live",
+     "do I live",
+     "was I live"
+    ],
+    "ex": "間接疑問句用直述語序,不加助動詞。"
+   },
+   {
+    "q": "She asked me ___ I had finished the report.",
+    "a": "if",
+    "d": [
+     "that",
+     "what",
+     "do"
+    ],
+    "ex": "轉述 Yes/No 問句用 if/whether。"
+   },
+   {
+    "q": "The manager told us ___ late again.",
+    "a": "not to be",
+    "d": [
+     "don't be",
+     "not be",
+     "to not being"
+    ],
+    "ex": "轉述否定命令:tell sb not to + 原形。"
+   },
+   {
+    "q": "He ___ me that the project was delayed.",
+    "a": "told",
+    "d": [
+     "said",
+     "spoke",
+     "talked"
+    ],
+    "ex": "tell 後直接接人;say 不直接接人。"
+   },
+   {
+    "q": "She ___ that she needed more time.",
+    "a": "said",
+    "d": [
+     "told",
+     "spoke",
+     "talked"
+    ],
+    "ex": "後面沒有接人時用 said that。"
+   },
+   {
+    "q": "They asked me when the meeting ___.",
+    "a": "was",
+    "d": [
+     "is it",
+     "was it",
+     "did be"
+    ],
+    "ex": "間接疑問句主詞在前、動詞在後,不倒裝。"
+   },
+   {
+    "q": "“I bought a new phone yesterday.” → He said he ___ a new phone the day before.",
+    "a": "had bought",
+    "d": [
+     "has bought",
+     "buys",
+     "have bought"
+    ],
+    "ex": "過去式轉述時退為過去完成式。"
+   }
+  ]
+ },
+ {
+  "id": "relative_clauses_defining",
+  "name": "限定關係子句",
+  "cefr": "B1",
+  "note": "指人用 who/that,指物用 which/that,所有格用 whose,地點用 where,時間用 when。",
+  "items": [
+   {
+    "q": "The engineer ___ fixed the server got a bonus.",
+    "a": "who",
+    "d": [
+     "which",
+     "whose",
+     "where"
+    ],
+    "ex": "先行詞是人且當主詞,用 who。"
+   },
+   {
+    "q": "This is the laptop ___ I bought last week.",
+    "a": "that",
+    "d": [
+     "who",
+     "where",
+     "what"
+    ],
+    "ex": "先行詞是物,用 that/which;what 不能接先行詞。"
+   },
+   {
+    "q": "I have a colleague ___ wife is a doctor.",
+    "a": "whose",
+    "d": [
+     "who",
+     "who's",
+     "which"
+    ],
+    "ex": "表「他的太太」所有關係,用 whose。"
+   },
+   {
+    "q": "That's the café ___ we first met.",
+    "a": "where",
+    "d": [
+     "which",
+     "that",
+     "who"
+    ],
+    "ex": "地點且子句完整,用 where。"
+   },
+   {
+    "q": "The app ___ I use most is LINE.",
+    "a": "that",
+    "d": [
+     "who",
+     "what",
+     "whose"
+    ],
+    "ex": "先行詞是物,用 that。"
+   },
+   {
+    "q": "Do you know anyone ___ speaks Korean?",
+    "a": "who",
+    "d": [
+     "which",
+     "whose",
+     "what"
+    ],
+    "ex": "anyone 指人,用 who。"
+   },
+   {
+    "q": "I'll never forget the day ___ I started this job.",
+    "a": "when",
+    "d": [
+     "where",
+     "which",
+     "who"
+    ],
+    "ex": "先行詞為時間且子句完整,用 when。"
+   },
+   {
+    "q": "Students ___ grades are below 60 must retake the exam.",
+    "a": "whose",
+    "d": [
+     "who",
+     "who's",
+     "which"
+    ],
+    "ex": "「他們的成績」所有格,用 whose。"
+   },
+   {
+    "q": "The book ___ is on the desk belongs to me.",
+    "a": "which",
+    "d": [
+     "who",
+     "where",
+     "whose"
+    ],
+    "ex": "先行詞是物且當主詞,用 which/that。"
+   },
+   {
+    "q": "What's the name of the hotel ___ you stayed at?",
+    "a": "that",
+    "d": [
+     "where",
+     "who",
+     "what"
+    ],
+    "ex": "句尾已有 at,不能再用 where;用 that/which。"
+   }
+  ]
+ },
+ {
+  "id": "gerund_vs_infinitive",
+  "name": "動名詞 vs 不定詞",
+  "cefr": "B1",
+  "note": "enjoy/avoid/finish/mind/look forward to 後接 V-ing;want/decide/plan/forget(未做)後接 to V。",
+  "items": [
+   {
+    "q": "I enjoy ___ in the mountains on weekends.",
+    "a": "hiking",
+    "d": [
+     "to hike",
+     "hike",
+     "hiked"
+    ],
+    "ex": "enjoy 後接動名詞。"
+   },
+   {
+    "q": "She decided ___ a new job.",
+    "a": "to look for",
+    "d": [
+     "looking for",
+     "look for",
+     "looked for"
+    ],
+    "ex": "decide 後接 to + 原形。"
+   },
+   {
+    "q": "Would you mind ___ the window?",
+    "a": "opening",
+    "d": [
+     "to open",
+     "open",
+     "opened"
+    ],
+    "ex": "mind 後接動名詞。"
+   },
+   {
+    "q": "We're planning ___ to Japan in spring.",
+    "a": "to travel",
+    "d": [
+     "travelling",
+     "travel",
+     "travelled"
+    ],
+    "ex": "plan 後接 to + 原形。"
+   },
+   {
+    "q": "He avoided ___ the question.",
+    "a": "answering",
+    "d": [
+     "to answer",
+     "answer",
+     "answered"
+    ],
+    "ex": "avoid 後接動名詞。"
+   },
+   {
+    "q": "I'm looking forward to ___ you next week.",
+    "a": "seeing",
+    "d": [
+     "see",
+     "saw",
+     "have seen"
+    ],
+    "ex": "look forward to 的 to 是介系詞,接 V-ing。"
+   },
+   {
+    "q": "She finished ___ the report at midnight.",
+    "a": "writing",
+    "d": [
+     "to write",
+     "write",
+     "written"
+    ],
+    "ex": "finish 後接動名詞。"
+   },
+   {
+    "q": "Don't forget ___ the door when you leave.",
+    "a": "to lock",
+    "d": [
+     "locking",
+     "lock",
+     "locked"
+    ],
+    "ex": "forget to V=忘記要去做(尚未做)。"
+   },
+   {
+    "q": "I stopped ___ coffee because it kept me awake.",
+    "a": "drinking",
+    "d": [
+     "to drink",
+     "drink",
+     "drank"
+    ],
+    "ex": "stop V-ing=戒掉;stop to V=停下來去做。"
+   },
+   {
+    "q": "It's no use ___ about it now.",
+    "a": "worrying",
+    "d": [
+     "to worry",
+     "worry",
+     "worried"
+    ],
+    "ex": "It's no use 後接動名詞。"
+   }
+  ]
+ },
+ {
+  "id": "used_to_be_used_to",
+  "name": "used to / be used to",
+  "cefr": "B1",
+  "note": "used to + 原形=過去的習慣(現已不再);be/get used to + V-ing=習慣於某事。",
+  "items": [
+   {
+    "q": "I ___ smoke, but I quit five years ago.",
+    "a": "used to",
+    "d": [
+     "am used to",
+     "use to",
+     "was used to"
+    ],
+    "ex": "過去習慣、現已不再,用 used to + 原形。"
+   },
+   {
+    "q": "She ___ working night shifts, so she doesn't mind.",
+    "a": "is used to",
+    "d": [
+     "used to",
+     "uses to",
+     "is use to"
+    ],
+    "ex": "習慣於某事用 be used to + V-ing。"
+   },
+   {
+    "q": "Did you ___ live in Tainan?",
+    "a": "use to",
+    "d": [
+     "used to",
+     "using to",
+     "be used to"
+    ],
+    "ex": "did 之後用原形 use to。"
+   },
+   {
+    "q": "It took me a while to get used to ___ on the left in the UK.",
+    "a": "driving",
+    "d": [
+     "drive",
+     "drove",
+     "be driving"
+    ],
+    "ex": "get used to 的 to 是介系詞,接 V-ing。"
+   },
+   {
+    "q": "We ___ have a lot of meetings, but now we mostly use Slack.",
+    "a": "used to",
+    "d": [
+     "are used to",
+     "were used to",
+     "use to"
+    ],
+    "ex": "過去常常、現在不再,用 used to + 原形。"
+   },
+   {
+    "q": "I'm not used to ___ up so early.",
+    "a": "getting",
+    "d": [
+     "get",
+     "got",
+     "be getting"
+    ],
+    "ex": "be used to 後接 V-ing。"
+   },
+   {
+    "q": "There ___ be a cinema here, but it closed.",
+    "a": "used to",
+    "d": [
+     "is used to",
+     "use to",
+     "was used to"
+    ],
+    "ex": "過去存在現已不在:There used to be。"
+   },
+   {
+    "q": "He'll soon get used ___ the new system.",
+    "a": "to",
+    "d": [
+     "for",
+     "with",
+     "at"
+    ],
+    "ex": "get used to + 名詞,介系詞是 to。"
+   },
+   {
+    "q": "I didn't ___ like spicy food, but now I love it.",
+    "a": "use to",
+    "d": [
+     "used to",
+     "using to",
+     "used"
+    ],
+    "ex": "didn't 後用原形 use to。"
+   },
+   {
+    "q": "Are you ___ to the noise yet?",
+    "a": "used",
+    "d": [
+     "use",
+     "using",
+     "uses"
+    ],
+    "ex": "be used to = 習慣於。"
+   }
+  ]
+ },
+ {
+  "id": "question_tags",
+  "name": "附加問句",
+  "cefr": "B1",
+  "note": "肯定句接否定附加問句,否定句接肯定附加問句;助動詞與時態須和主句一致。",
+  "items": [
+   {
+    "q": "You're coming to the meeting, ___?",
+    "a": "aren't you",
+    "d": [
+     "don't you",
+     "isn't it",
+     "are you"
+    ],
+    "ex": "主句 are 肯定,附加問句用 aren't you。"
+   },
+   {
+    "q": "She works in finance, ___?",
+    "a": "doesn't she",
+    "d": [
+     "isn't she",
+     "don't she",
+     "does she"
+    ],
+    "ex": "一般動詞現在式第三人稱,用 doesn't she。"
+   },
+   {
+    "q": "They didn't call, ___?",
+    "a": "did they",
+    "d": [
+     "didn't they",
+     "do they",
+     "have they"
+    ],
+    "ex": "否定句接肯定附加問句,時態過去用 did。"
+   },
+   {
+    "q": "He has finished the report, ___?",
+    "a": "hasn't he",
+    "d": [
+     "doesn't he",
+     "didn't he",
+     "has he"
+    ],
+    "ex": "主句助動詞 has,附加問句用 hasn't he。"
+   },
+   {
+    "q": "Let's grab lunch, ___?",
+    "a": "shall we",
+    "d": [
+     "don't we",
+     "won't we",
+     "do we"
+    ],
+    "ex": "Let's 開頭的附加問句用 shall we。"
+   },
+   {
+    "q": "I'm late, ___?",
+    "a": "aren't I",
+    "d": [
+     "am not I",
+     "isn't I",
+     "don't I"
+    ],
+    "ex": "I am 的否定附加問句是特例 aren't I。"
+   },
+   {
+    "q": "You can't swim, ___?",
+    "a": "can you",
+    "d": [
+     "can't you",
+     "do you",
+     "are you"
+    ],
+    "ex": "否定句接肯定附加問句,沿用 can。"
+   },
+   {
+    "q": "It was a great presentation, ___?",
+    "a": "wasn't it",
+    "d": [
+     "isn't it",
+     "didn't it",
+     "was it"
+    ],
+    "ex": "主句 was 肯定,用 wasn't it。"
+   },
+   {
+    "q": "Nobody called, ___?",
+    "a": "did they",
+    "d": [
+     "didn't they",
+     "did nobody",
+     "does he"
+    ],
+    "ex": "nobody 視為否定,附加問句用肯定,代名詞用 they。"
+   },
+   {
+    "q": "You'll send me the file, ___?",
+    "a": "won't you",
+    "d": [
+     "don't you",
+     "aren't you",
+     "wouldn't you"
+    ],
+    "ex": "主句 will 肯定,用 won't you。"
+   }
+  ]
+ },
+ {
+  "id": "modals_deduction_present",
+  "name": "情態推測(現在)",
+  "cefr": "B1",
+  "note": "must=幾乎確定是;can't=確定不可能;might/may/could=可能。推測的否定用 can't 而非 mustn't。",
+  "items": [
+   {
+    "q": "She's been working 12 hours straight. She ___ be exhausted.",
+    "a": "must",
+    "d": [
+     "can't",
+     "should to",
+     "has"
+    ],
+    "ex": "有充分證據的肯定推測用 must。"
+   },
+   {
+    "q": "That ___ be Tom at the door; he's in Japan this week.",
+    "a": "can't",
+    "d": [
+     "must",
+     "mustn't",
+     "doesn't"
+    ],
+    "ex": "確定不可能用 can't;mustn't 是禁止。"
+   },
+   {
+    "q": "I'm not sure where she is. She ___ be in a meeting.",
+    "a": "might",
+    "d": [
+     "must",
+     "can't",
+     "should to"
+    ],
+    "ex": "不確定的推測用 might。"
+   },
+   {
+    "q": "All the lights are off and nobody answers. They ___ be at home.",
+    "a": "can't",
+    "d": [
+     "mustn't",
+     "must",
+     "don't"
+    ],
+    "ex": "證據顯示不在家,否定推測用 can't。"
+   },
+   {
+    "q": "He ___ be rich — he drives a Ferrari and lives in Xinyi.",
+    "a": "must",
+    "d": [
+     "can't",
+     "might not",
+     "mustn't"
+    ],
+    "ex": "有明確證據的肯定推測用 must。"
+   },
+   {
+    "q": "This ___ be the right address. There's no building here.",
+    "a": "can't",
+    "d": [
+     "mustn't",
+     "must",
+     "couldn't to"
+    ],
+    "ex": "否定推測用 can't。"
+   },
+   {
+    "q": "Take an umbrella; it ___ rain later.",
+    "a": "might",
+    "d": [
+     "must",
+     "can't",
+     "should to"
+    ],
+    "ex": "不確定的可能性用 might。"
+   },
+   {
+    "q": "A free MacBook for every employee? You ___ be joking!",
+    "a": "must",
+    "d": [
+     "can't",
+     "mustn't",
+     "should"
+    ],
+    "ex": "You must be joking 表「你一定在開玩笑」。"
+   },
+   {
+    "q": "The package ___ arrive today or tomorrow; the tracking isn't clear.",
+    "a": "may",
+    "d": [
+     "must",
+     "can't",
+     "mustn't"
+    ],
+    "ex": "不確定的可能性用 may。"
+   },
+   {
+    "q": "He isn't answering his phone. He ___ be asleep.",
+    "a": "might",
+    "d": [
+     "mustn't",
+     "should to",
+     "is"
+    ],
+    "ex": "可能的解釋用 might + 原形。"
+   }
+  ]
+ },
+ {
+  "id": "third_conditional",
+  "name": "第三條件句",
+  "cefr": "B2",
+  "note": "與過去事實相反的假設:If + had p.p., would/could have + p.p.。",
+  "items": [
+   {
+    "q": "If I ___ earlier, I wouldn't have missed the flight.",
+    "a": "had left",
+    "d": [
+     "left",
+     "would leave",
+     "have left"
+    ],
+    "ex": "與過去相反,if 子句用 had + p.p.。"
+   },
+   {
+    "q": "If she had studied harder, she ___ the exam last year.",
+    "a": "would have passed",
+    "d": [
+     "will pass",
+     "had passed",
+     "would passed"
+    ],
+    "ex": "主句用 would have + p.p.。"
+   },
+   {
+    "q": "We ___ the deal if we had lowered the price.",
+    "a": "would have won",
+    "d": [
+     "will have won",
+     "had won",
+     "would won"
+    ],
+    "ex": "過去假設的結果用 would have + p.p.。"
+   },
+   {
+    "q": "If you had told me about the problem, I ___ you.",
+    "a": "could have helped",
+    "d": [
+     "can help",
+     "could helped",
+     "had helped"
+    ],
+    "ex": "過去本來能做到,用 could have + p.p.。"
+   },
+   {
+    "q": "If the alarm ___ off, I would have overslept.",
+    "a": "hadn't gone",
+    "d": [
+     "didn't go",
+     "wouldn't go",
+     "hasn't gone"
+    ],
+    "ex": "與過去事實相反的 if 子句用 hadn't + p.p.。"
+   },
+   {
+    "q": "What would you have done if you ___ the job?",
+    "a": "hadn't got",
+    "d": [
+     "didn't get",
+     "wouldn't get",
+     "haven't got"
+    ],
+    "ex": "第三條件句 if 子句用 had + p.p.。"
+   },
+   {
+    "q": "I wouldn't have bought this phone if I ___ the reviews.",
+    "a": "had read",
+    "d": [
+     "have read",
+     "would read",
+     "would have read"
+    ],
+    "ex": "if 子句不用 would,用 had + p.p.。"
+   },
+   {
+    "q": "If they ___ the bug earlier, the system wouldn't have crashed.",
+    "a": "had found",
+    "d": [
+     "found",
+     "would find",
+     "have found"
+    ],
+    "ex": "if 子句用過去完成式。"
+   },
+   {
+    "q": "She would have come to the party if she ___ invited.",
+    "a": "had been",
+    "d": [
+     "was",
+     "were",
+     "would be"
+    ],
+    "ex": "被動的過去假設:had been + p.p.。"
+   },
+   {
+    "q": "If it hadn't rained, we ___ the game.",
+    "a": "would have finished",
+    "d": [
+     "will finish",
+     "had finished",
+     "would finished"
+    ],
+    "ex": "主句用 would have + p.p.。"
+   }
+  ]
+ },
+ {
+  "id": "mixed_conditional",
+  "name": "混合條件句",
+  "cefr": "B2",
+  "note": "過去條件影響現在:If + had p.p., would + 原形(now);現在狀態影響過去:If + 過去式, would have p.p.。",
+  "items": [
+   {
+    "q": "If I had taken that job, I ___ in London now.",
+    "a": "would be living",
+    "d": [
+     "would have lived",
+     "will live",
+     "had lived"
+    ],
+    "ex": "過去的選擇影響現在(now),主句用 would + 原形。"
+   },
+   {
+    "q": "If she hadn't missed the flight, she ___ here now.",
+    "a": "would be",
+    "d": [
+     "would have been",
+     "will be",
+     "had been"
+    ],
+    "ex": "now 表現在結果,用 would be。"
+   },
+   {
+    "q": "If I ___ better at math, I would have studied engineering.",
+    "a": "were",
+    "d": [
+     "am",
+     "would be",
+     "will be"
+    ],
+    "ex": "現在的特質影響過去,if 子句用過去式 were。"
+   },
+   {
+    "q": "If we had invested in that stock in 2010, we ___ rich today.",
+    "a": "would be",
+    "d": [
+     "would have been",
+     "will be",
+     "are"
+    ],
+    "ex": "today 表現在結果,用 would + 原形。"
+   },
+   {
+    "q": "He ___ so tired now if he had gone to bed earlier.",
+    "a": "wouldn't be",
+    "d": [
+     "wouldn't have been",
+     "won't be",
+     "isn't"
+    ],
+    "ex": "過去行為影響現在狀態,用 wouldn't be。"
+   },
+   {
+    "q": "If I didn't trust you, I ___ you the password last week.",
+    "a": "wouldn't have given",
+    "d": [
+     "didn't give",
+     "won't give",
+     "haven't given"
+    ],
+    "ex": "現在的信任影響過去行為,用 would have + p.p.。"
+   },
+   {
+    "q": "If she spoke Japanese, she ___ the job in Tokyo last year.",
+    "a": "would have got",
+    "d": [
+     "would get",
+     "will get",
+     "had got"
+    ],
+    "ex": "last year 是過去結果,用 would have + p.p.。"
+   },
+   {
+    "q": "If you ___ the instructions, the machine wouldn't be broken now.",
+    "a": "had followed",
+    "d": [
+     "have followed",
+     "would follow",
+     "follow"
+    ],
+    "ex": "過去沒照做影響現在,if 子句用 had + p.p.。"
+   },
+   {
+    "q": "I would be a manager now if I ___ the company ten years ago.",
+    "a": "hadn't left",
+    "d": [
+     "didn't leave",
+     "wouldn't leave",
+     "haven't left"
+    ],
+    "ex": "ten years ago 的假設用 had + p.p.。"
+   },
+   {
+    "q": "If he weren't so stubborn, he ___ our advice last week.",
+    "a": "would have taken",
+    "d": [
+     "would take",
+     "will take",
+     "had taken"
+    ],
+    "ex": "現在個性影響上週行為,用 would have + p.p.。"
+   }
+  ]
+ },
+ {
+  "id": "past_modals",
+  "name": "過去情態(推測與遺憾)",
+  "cefr": "B2",
+  "note": "must have p.p.=過去肯定推測;can't have=不可能;should have=該做卻沒做;could have=本來可以;needn't have=其實不必。",
+  "items": [
+   {
+    "q": "The ground is wet. It ___ rained last night.",
+    "a": "must have",
+    "d": [
+     "can't have",
+     "should have",
+     "must"
+    ],
+    "ex": "對過去的肯定推測用 must have + p.p.。"
+   },
+   {
+    "q": "You ___ told me you were vegetarian! I'd have cooked something else.",
+    "a": "should have",
+    "d": [
+     "must have",
+     "can't have",
+     "should"
+    ],
+    "ex": "該做卻沒做,用 should have + p.p.。"
+   },
+   {
+    "q": "She ___ seen me; she walked right past without saying hi.",
+    "a": "can't have",
+    "d": [
+     "shouldn't have",
+     "needn't have",
+     "mustn't"
+    ],
+    "ex": "對過去的否定推測用 can't have + p.p.。"
+   },
+   {
+    "q": "I ___ studied harder for the exam. I failed.",
+    "a": "should have",
+    "d": [
+     "must have",
+     "can't have",
+     "should"
+    ],
+    "ex": "表後悔沒做,用 should have + p.p.。"
+   },
+   {
+    "q": "We ___ taken a taxi, but we decided to walk.",
+    "a": "could have",
+    "d": [
+     "must have",
+     "can't have",
+     "could"
+    ],
+    "ex": "過去本來可以但沒做,用 could have + p.p.。"
+   },
+   {
+    "q": "He ___ left already; his coat isn't here.",
+    "a": "must have",
+    "d": [
+     "should have",
+     "can't have",
+     "must"
+    ],
+    "ex": "有證據的過去推測用 must have + p.p.。"
+   },
+   {
+    "q": "You ___ bought milk; we already had two bottles.",
+    "a": "needn't have",
+    "d": [
+     "mustn't have",
+     "can't have",
+     "needn't"
+    ],
+    "ex": "做了但其實不必,用 needn't have + p.p.。"
+   },
+   {
+    "q": "They ___ forgotten the meeting — I reminded them twice this morning.",
+    "a": "can't have",
+    "d": [
+     "must have",
+     "should have",
+     "needn't have"
+    ],
+    "ex": "確定不可能忘記,用 can't have + p.p.。"
+   },
+   {
+    "q": "She finally got the promotion she wanted for years. She ___ been thrilled.",
+    "a": "must have",
+    "d": [
+     "can't have",
+     "needn't have",
+     "must"
+    ],
+    "ex": "合理推測她當時很開心,用 must have been。"
+   },
+   {
+    "q": "I ___ my umbrella on the train. I can't find it anywhere.",
+    "a": "might have left",
+    "d": [
+     "might leave",
+     "should leave",
+     "might have leave"
+    ],
+    "ex": "對過去的不確定推測用 might have + p.p.。"
+   }
+  ]
+ },
+ {
+  "id": "passive_advanced",
+  "name": "被動語態(進階)",
+  "cefr": "B2",
+  "note": "進行被動 be being p.p.;完成被動 have been p.p.;情態被動 modal + be p.p.;It is said that / be believed to have p.p.。",
+  "items": [
+   {
+    "q": "The road ___ repaired at the moment, so use another route.",
+    "a": "is being",
+    "d": [
+     "is",
+     "has been",
+     "being"
+    ],
+    "ex": "at the moment 正在被修,用 is being + p.p.。"
+   },
+   {
+    "q": "The new policy ___ announced next week.",
+    "a": "will be",
+    "d": [
+     "will",
+     "is be",
+     "will been"
+    ],
+    "ex": "未來被動用 will be + p.p.。"
+   },
+   {
+    "q": "All passwords must ___ every 90 days.",
+    "a": "be changed",
+    "d": [
+     "changed",
+     "been changed",
+     "changing"
+    ],
+    "ex": "情態動詞被動:must be + p.p.。"
+   },
+   {
+    "q": "The documents ___ signed before the deadline passed.",
+    "a": "had been",
+    "d": [
+     "had",
+     "has",
+     "was"
+    ],
+    "ex": "過去某時之前被完成,用 had been + p.p.。"
+   },
+   {
+    "q": "The suspect is believed ___ the country last week.",
+    "a": "to have left",
+    "d": [
+     "to leaving",
+     "leaving",
+     "that he left"
+    ],
+    "ex": "be believed to have p.p. 表推測過去的事。"
+   },
+   {
+    "q": "I don't like ___ what to do.",
+    "a": "being told",
+    "d": [
+     "telling",
+     "be told",
+     "to telling"
+    ],
+    "ex": "like 後接動名詞被動 being + p.p.。"
+   },
+   {
+    "q": "The hotel ___ since last year.",
+    "a": "has been renovated",
+    "d": [
+     "has renovated",
+     "was renovated",
+     "is renovated"
+    ],
+    "ex": "since 搭現在完成被動 has been + p.p.。"
+   },
+   {
+    "q": "My car ___ serviced when I called the garage, so I had to wait.",
+    "a": "was being",
+    "d": [
+     "is being",
+     "has been",
+     "being"
+    ],
+    "ex": "過去當下正被保養,用 was being + p.p.。"
+   },
+   {
+    "q": "It ___ that the company will cut 500 jobs.",
+    "a": "is reported",
+    "d": [
+     "reports",
+     "is reporting",
+     "reported"
+    ],
+    "ex": "It is reported that… 是新聞常用被動句型。"
+   },
+   {
+    "q": "This problem should ___ dealt with immediately.",
+    "a": "be",
+    "d": [
+     "being",
+     "been",
+     "to be"
+    ],
+    "ex": "should be + p.p. 表應該被處理。"
+   }
+  ]
+ },
+ {
+  "id": "causative_have_get",
+  "name": "使役動詞 have / get / make",
+  "cefr": "B2",
+  "note": "have/get + 物 + p.p.=請人處理;have sb do;get sb to do;make sb do=迫使。",
+  "items": [
+   {
+    "q": "I need to ___ my hair cut before the interview.",
+    "a": "have",
+    "d": [
+     "make",
+     "let",
+     "do"
+    ],
+    "ex": "have + 物 + p.p. 表請別人做。"
+   },
+   {
+    "q": "We had the air conditioner ___ last week.",
+    "a": "repaired",
+    "d": [
+     "repair",
+     "repairing",
+     "to repair"
+    ],
+    "ex": "冷氣是被修,have + 物 + 過去分詞。"
+   },
+   {
+    "q": "She got her brother ___ her move.",
+    "a": "to help",
+    "d": [
+     "help",
+     "helped",
+     "to helping"
+    ],
+    "ex": "get + 人 + to V 表說服某人做。"
+   },
+   {
+    "q": "I'll have my assistant ___ you the details.",
+    "a": "send",
+    "d": [
+     "to send",
+     "sent",
+     "sending"
+    ],
+    "ex": "have + 人 + 原形動詞。"
+   },
+   {
+    "q": "He had his phone ___ on the train.",
+    "a": "stolen",
+    "d": [
+     "steal",
+     "stole",
+     "stealing"
+    ],
+    "ex": "have + 物 + p.p. 也可表遭遇不幸。"
+   },
+   {
+    "q": "Where do you ___ your car serviced?",
+    "a": "get",
+    "d": [
+     "make",
+     "let",
+     "do"
+    ],
+    "ex": "get + 物 + p.p. 表請人處理。"
+   },
+   {
+    "q": "I'm going to get my eyes ___ next week.",
+    "a": "tested",
+    "d": [
+     "test",
+     "testing",
+     "to test"
+    ],
+    "ex": "眼睛被檢查,get + 物 + p.p.。"
+   },
+   {
+    "q": "The manager made us ___ the whole report again.",
+    "a": "rewrite",
+    "d": [
+     "to rewrite",
+     "rewriting",
+     "rewritten"
+    ],
+    "ex": "make + 人 + 原形動詞(主動)。"
+   },
+   {
+    "q": "Can you get the IT team ___ my laptop?",
+    "a": "to check",
+    "d": [
+     "check",
+     "checked",
+     "checking"
+    ],
+    "ex": "get + 人 + to V。"
+   },
+   {
+    "q": "We're having our kitchen ___ next month.",
+    "a": "redesigned",
+    "d": [
+     "redesign",
+     "redesigning",
+     "to redesign"
+    ],
+    "ex": "廚房被重新設計,have + 物 + p.p.。"
+   }
+  ]
+ },
+ {
+  "id": "wish_if_only",
+  "name": "wish / if only",
+  "cefr": "B2",
+  "note": "對現在的遺憾:wish + 過去式;對過去的遺憾:wish + had p.p.;希望別人改變行為:wish + would。",
+  "items": [
+   {
+    "q": "I wish I ___ more time to travel.",
+    "a": "had",
+    "d": [
+     "have",
+     "will have",
+     "would have"
+    ],
+    "ex": "對現在的遺憾用 wish + 過去式。"
+   },
+   {
+    "q": "I wish I ___ that email; my boss was furious.",
+    "a": "hadn't sent",
+    "d": [
+     "didn't send",
+     "haven't sent",
+     "wouldn't send"
+    ],
+    "ex": "對過去的後悔用 wish + had p.p.。"
+   },
+   {
+    "q": "If only I ___ speak Japanese!",
+    "a": "could",
+    "d": [
+     "can",
+     "will",
+     "would"
+    ],
+    "ex": "現在做不到的遺憾,用 could。"
+   },
+   {
+    "q": "I wish you ___ stop interrupting me.",
+    "a": "would",
+    "d": [
+     "will",
+     "did",
+     "are"
+    ],
+    "ex": "希望別人改變惱人行為,用 wish + would。"
+   },
+   {
+    "q": "She wishes she ___ in a bigger apartment.",
+    "a": "lived",
+    "d": [
+     "lives",
+     "will live",
+     "has lived"
+    ],
+    "ex": "與現在事實相反,用過去式。"
+   },
+   {
+    "q": "If only we ___ the earlier train — we'd be home by now.",
+    "a": "had taken",
+    "d": [
+     "took",
+     "have taken",
+     "would take"
+    ],
+    "ex": "對過去的遺憾用 had + p.p.。"
+   },
+   {
+    "q": "I wish it ___ raining. I want to go out.",
+    "a": "would stop",
+    "d": [
+     "stops",
+     "will stop",
+     "has stopped"
+    ],
+    "ex": "希望情況改變,用 wish + would。"
+   },
+   {
+    "q": "Do you ever wish you ___ a different career when you were young?",
+    "a": "had chosen",
+    "d": [
+     "chose",
+     "have chosen",
+     "will choose"
+    ],
+    "ex": "對過去選擇的遺憾用 had + p.p.。"
+   },
+   {
+    "q": "I wish I ___ so tired right now.",
+    "a": "weren't",
+    "d": [
+     "am not",
+     "won't be",
+     "haven't been"
+    ],
+    "ex": "right now 現在的遺憾,用過去式 weren't。"
+   },
+   {
+    "q": "He wishes he ___ invested in Bitcoin ten years ago.",
+    "a": "had",
+    "d": [
+     "has",
+     "would",
+     "did"
+    ],
+    "ex": "ten years ago 的遺憾用 had + p.p.。"
+   }
+  ]
+ },
+ {
+  "id": "relative_clauses_non_defining",
+  "name": "非限定關係子句",
+  "cefr": "B2",
+  "note": "非限定子句以逗號隔開補充資訊,不可用 that;指人 who/whom、物 which,也可用 which 指整句。",
+  "items": [
+   {
+    "q": "My boss, ___ is from Canada, speaks fluent Chinese.",
+    "a": "who",
+    "d": [
+     "that",
+     "which",
+     "whom"
+    ],
+    "ex": "非限定子句指人當主詞,用 who,不可用 that。"
+   },
+   {
+    "q": "Taipei 101, ___ was completed in 2004, is a famous landmark.",
+    "a": "which",
+    "d": [
+     "that",
+     "who",
+     "where"
+    ],
+    "ex": "逗號後補充說明物,用 which。"
+   },
+   {
+    "q": "She failed the test, ___ surprised everyone.",
+    "a": "which",
+    "d": [
+     "that",
+     "what",
+     "who"
+    ],
+    "ex": "which 可指前面整句話。"
+   },
+   {
+    "q": "My sister, ___ husband is a pilot, travels a lot.",
+    "a": "whose",
+    "d": [
+     "who",
+     "that",
+     "which"
+    ],
+    "ex": "「她的丈夫」所有格,用 whose。"
+   },
+   {
+    "q": "The conference was held in Kaohsiung, ___ I grew up.",
+    "a": "where",
+    "d": [
+     "which",
+     "that",
+     "when"
+    ],
+    "ex": "地點且子句完整,用 where。"
+   },
+   {
+    "q": "Our CEO, ___ I met last year, is retiring.",
+    "a": "whom",
+    "d": [
+     "that",
+     "which",
+     "whose"
+    ],
+    "ex": "指人當受詞且有逗號,用 whom(或 who),不可用 that。"
+   },
+   {
+    "q": "The new model, ___ costs NT$30,000, is selling well.",
+    "a": "which",
+    "d": [
+     "that",
+     "what",
+     "who"
+    ],
+    "ex": "逗號後不可用 that,指物用 which。"
+   },
+   {
+    "q": "I spoke to Mr. Lin, ___ advised me to wait.",
+    "a": "who",
+    "d": [
+     "that",
+     "which",
+     "whom"
+    ],
+    "ex": "指人當主詞用 who;whom 只當受詞。"
+   },
+   {
+    "q": "He offered to pay, ___ was very kind of him.",
+    "a": "which",
+    "d": [
+     "that",
+     "what",
+     "it"
+    ],
+    "ex": "which 指前面整件事。"
+   },
+   {
+    "q": "We visited Tainan in 2024, ___ the city was celebrating its 400th anniversary.",
+    "a": "when",
+    "d": [
+     "which",
+     "that",
+     "where"
+    ],
+    "ex": "先行詞為時間且子句完整,用 when。"
+   }
+  ]
+ },
+ {
+  "id": "participle_clauses",
+  "name": "分詞構句",
+  "cefr": "B2",
+  "note": "分詞構句:主動用 V-ing,被動用 p.p.,先完成用 Having p.p.;分詞的邏輯主詞須與主句主詞相同。",
+  "items": [
+   {
+    "q": "___ the report, she sent it to her boss.",
+    "a": "Having finished",
+    "d": [
+     "Finished",
+     "Having finish",
+     "To finishing"
+    ],
+    "ex": "先完成再寄出,用 Having + p.p.。"
+   },
+   {
+    "q": "___ in 1902, the building is one of the oldest in the city.",
+    "a": "Built",
+    "d": [
+     "Building",
+     "Having built",
+     "Build"
+    ],
+    "ex": "建築是被建造的,用過去分詞。"
+   },
+   {
+    "q": "___ down the street, I saw an old friend.",
+    "a": "Walking",
+    "d": [
+     "Walked",
+     "Walk",
+     "Having walk"
+    ],
+    "ex": "主詞 I 主動走路,用現在分詞。"
+   },
+   {
+    "q": "___ by the news, he couldn't say a word.",
+    "a": "Shocked",
+    "d": [
+     "Shocking",
+     "Having shocked",
+     "Shock"
+    ],
+    "ex": "他是被震驚的,用過去分詞。"
+   },
+   {
+    "q": "The man ___ next to me on the plane was a doctor.",
+    "a": "sitting",
+    "d": [
+     "sits",
+     "sit",
+     "was sitting"
+    ],
+    "ex": "現在分詞修飾名詞,相當於 who was sitting。"
+   },
+   {
+    "q": "Products ___ in Taiwan are known for their quality.",
+    "a": "made",
+    "d": [
+     "making",
+     "make",
+     "are made"
+    ],
+    "ex": "產品被製造,過去分詞修飾名詞。"
+   },
+   {
+    "q": "___ what to do, I called my manager.",
+    "a": "Not knowing",
+    "d": [
+     "Knowing not",
+     "Not known",
+     "Don't knowing"
+    ],
+    "ex": "分詞構句否定把 not 放在分詞前。"
+   },
+   {
+    "q": "___ three languages, she was perfect for the job.",
+    "a": "Speaking",
+    "d": [
+     "Spoken",
+     "Spoke",
+     "Having spoke"
+    ],
+    "ex": "她主動會說三種語言,用現在分詞。"
+   },
+   {
+    "q": "The email ___ yesterday contained a virus.",
+    "a": "sent",
+    "d": [
+     "sending",
+     "was sent",
+     "sends"
+    ],
+    "ex": "郵件是被寄出的,過去分詞修飾名詞。"
+   },
+   {
+    "q": "___ for ten hours straight, I was too tired to cook.",
+    "a": "Having worked",
+    "d": [
+     "Worked",
+     "Having work",
+     "Have worked"
+    ],
+    "ex": "先工作再疲累,用 Having + p.p.。"
+   }
+  ]
+ },
+ {
+  "id": "future_continuous_perfect",
+  "name": "未來進行式與未來完成式",
+  "cefr": "B2",
+  "note": "will be V-ing=未來某時正在進行;will have p.p.=在未來某時之前已完成。",
+  "items": [
+   {
+    "q": "By 2030, I ___ here for ten years.",
+    "a": "will have worked",
+    "d": [
+     "will work",
+     "will be work",
+     "have worked"
+    ],
+    "ex": "By + 未來時間,表到時已累積,用 will have + p.p.。"
+   },
+   {
+    "q": "This time tomorrow, I ___ on a beach in Bali.",
+    "a": "will be lying",
+    "d": [
+     "will lie",
+     "will have lain",
+     "lie"
+    ],
+    "ex": "明天此刻正在進行,用 will be + V-ing。"
+   },
+   {
+    "q": "Don't call me at 8; I ___ dinner with my clients then.",
+    "a": "will be having",
+    "d": [
+     "am have",
+     "will having",
+     "have had"
+    ],
+    "ex": "未來某時正在進行,用未來進行式。"
+   },
+   {
+    "q": "By the time you arrive, we ___ the meeting.",
+    "a": "will have finished",
+    "d": [
+     "will finish",
+     "finish",
+     "are finishing"
+    ],
+    "ex": "By the time 你到時已完成,用 will have + p.p.。"
+   },
+   {
+    "q": "The project ___ by the end of the month.",
+    "a": "will have been completed",
+    "d": [
+     "will complete",
+     "will have completed",
+     "is completing"
+    ],
+    "ex": "專案是被完成的,用未來完成被動。"
+   },
+   {
+    "q": "By noon, she ___ 30 km.",
+    "a": "will have run",
+    "d": [
+     "has run",
+     "will be run",
+     "runs"
+    ],
+    "ex": "By noon 前已完成的量,用 will have + p.p.。"
+   },
+   {
+    "q": "___ you be using the car tonight? I need it.",
+    "a": "Will",
+    "d": [
+     "Are",
+     "Do",
+     "Have"
+    ],
+    "ex": "未來進行式疑問:Will you be + V-ing。"
+   },
+   {
+    "q": "At 3 p.m. tomorrow, we ___ the new system to the client.",
+    "a": "will be presenting",
+    "d": [
+     "are present",
+     "will presented",
+     "present"
+    ],
+    "ex": "明天三點正在進行,用 will be + V-ing。"
+   },
+   {
+    "q": "I ___ my degree by next June.",
+    "a": "will have completed",
+    "d": [
+     "completed",
+     "complete",
+     "have completed"
+    ],
+    "ex": "by + 未來時間,用 will have + p.p.。"
+   },
+   {
+    "q": "Next year my parents ___ married for 40 years.",
+    "a": "will have been",
+    "d": [
+     "are",
+     "have been",
+     "will been"
+    ],
+    "ex": "到明年累積 40 年,用 will have been。"
+   }
+  ]
+ },
+ {
+  "id": "linkers_contrast",
+  "name": "轉折連接詞",
+  "cefr": "B2",
+  "note": "although/even though + 子句;despite/in spite of + 名詞或 V-ing;however/nevertheless 是副詞,接在句號或分號後並加逗號。",
+  "items": [
+   {
+    "q": "___ the rain, we went hiking.",
+    "a": "Despite",
+    "d": [
+     "Although",
+     "Even though",
+     "However"
+    ],
+    "ex": "後接名詞 the rain,用 Despite。"
+   },
+   {
+    "q": "___ it was raining, we went hiking.",
+    "a": "Although",
+    "d": [
+     "Despite",
+     "In spite of",
+     "However"
+    ],
+    "ex": "後接完整子句,用 Although。"
+   },
+   {
+    "q": "She got the job ___ having little experience.",
+    "a": "despite",
+    "d": [
+     "although",
+     "even though",
+     "however"
+    ],
+    "ex": "後接 V-ing,用 despite。"
+   },
+   {
+    "q": "The plan is good. ___, it's too expensive.",
+    "a": "However",
+    "d": [
+     "Although",
+     "Despite",
+     "Even"
+    ],
+    "ex": "句號後轉折用副詞 However + 逗號。"
+   },
+   {
+    "q": "In spite ___ the delay, the project was a success.",
+    "a": "of",
+    "d": [
+     "to",
+     "from",
+     "for"
+    ],
+    "ex": "in spite of 固定搭配。"
+   },
+   {
+    "q": "He kept working ___ he was exhausted.",
+    "a": "even though",
+    "d": [
+     "despite",
+     "in spite of",
+     "however"
+    ],
+    "ex": "後接子句,用 even though。"
+   },
+   {
+    "q": "___ being tired, she finished the report.",
+    "a": "Despite",
+    "d": [
+     "Although",
+     "However",
+     "Even though"
+    ],
+    "ex": "後接動名詞,用 Despite。"
+   },
+   {
+    "q": "The hotel was cheap; ___, it was very clean.",
+    "a": "nevertheless",
+    "d": [
+     "although",
+     "despite",
+     "even though"
+    ],
+    "ex": "分號後接副詞 nevertheless + 逗號。"
+   },
+   {
+    "q": "___ the fact that he's rich, he lives simply.",
+    "a": "Despite",
+    "d": [
+     "Although",
+     "However",
+     "Even"
+    ],
+    "ex": "despite the fact that + 子句。"
+   },
+   {
+    "q": "Prices rose, ___ demand stayed strong.",
+    "a": "but",
+    "d": [
+     "despite",
+     "however",
+     "in spite of"
+    ],
+    "ex": "逗號連接兩個子句用對等連接詞 but。"
+   }
+  ]
+ },
+ {
+  "id": "inversion_negative_adverbials",
+  "name": "否定副詞倒裝",
+  "cefr": "C1",
+  "note": "Never、Rarely、Seldom、Hardly、Not only、Only after、Little 等否定或限定詞放句首時,主詞與助動詞倒裝。",
+  "items": [
+   {
+    "q": "Never ___ such a beautiful sunset.",
+    "a": "have I seen",
+    "d": [
+     "I have seen",
+     "I saw",
+     "saw I"
+    ],
+    "ex": "Never 放句首,助動詞 have 移到主詞前。"
+   },
+   {
+    "q": "Not only ___ late, but he also forgot the slides.",
+    "a": "was he",
+    "d": [
+     "he was",
+     "he is",
+     "did he be"
+    ],
+    "ex": "Not only 放句首要倒裝:was he。"
+   },
+   {
+    "q": "Hardly ___ sat down when the phone rang.",
+    "a": "had I",
+    "d": [
+     "I had",
+     "have I",
+     "did I"
+    ],
+    "ex": "Hardly had + 主詞 + p.p. … when …。"
+   },
+   {
+    "q": "Rarely ___ such a strong candidate.",
+    "a": "do we see",
+    "d": [
+     "we see",
+     "we do see",
+     "see we"
+    ],
+    "ex": "Rarely 句首,一般動詞需加 do 倒裝。"
+   },
+   {
+    "q": "Only after the meeting ___ how serious the problem was.",
+    "a": "did I understand",
+    "d": [
+     "I understood",
+     "I did understand",
+     "understood I"
+    ],
+    "ex": "Only after… 放句首,主句倒裝 did + 主詞。"
+   },
+   {
+    "q": "No sooner had we left ___ it started to rain.",
+    "a": "than",
+    "d": [
+     "when",
+     "then",
+     "that"
+    ],
+    "ex": "No sooner… than… 是固定搭配。"
+   },
+   {
+    "q": "Under no circumstances ___ share your password.",
+    "a": "should you",
+    "d": [
+     "you should",
+     "you must",
+     "shouldn't you"
+    ],
+    "ex": "否定片語句首倒裝,且不可再加否定。"
+   },
+   {
+    "q": "Little ___ that the company was about to collapse.",
+    "a": "did they know",
+    "d": [
+     "they knew",
+     "they did know",
+     "knew they"
+    ],
+    "ex": "Little 句首表「完全不知道」,用 did + 主詞倒裝。"
+   },
+   {
+    "q": "Not until I moved abroad ___ how much I missed home.",
+    "a": "did I appreciate",
+    "d": [
+     "I appreciated",
+     "I did appreciate",
+     "appreciated I"
+    ],
+    "ex": "Not until… 放句首,主句倒裝。"
+   },
+   {
+    "q": "Seldom ___ he take a day off.",
+    "a": "does",
+    "d": [
+     "is",
+     "he does",
+     "do"
+    ],
+    "ex": "Seldom 句首,第三人稱單數用 does 倒裝。"
+   }
+  ]
+ },
+ {
+  "id": "conditional_inversion",
+  "name": "條件句倒裝",
+  "cefr": "C1",
+  "note": "正式語中可省略 if 並倒裝:Should you…(第一)、Were I… / Were it not for(第二)、Had I…(第三)。",
+  "items": [
+   {
+    "q": "___ you have any questions, please contact us.",
+    "a": "Should",
+    "d": [
+     "If should",
+     "Would",
+     "Were"
+    ],
+    "ex": "Should you… = If you…,正式信件常用。"
+   },
+   {
+    "q": "___ I known about the traffic, I would have left earlier.",
+    "a": "Had",
+    "d": [
+     "If",
+     "Have",
+     "Would"
+    ],
+    "ex": "Had I known = If I had known。"
+   },
+   {
+    "q": "___ I in your position, I would accept the offer.",
+    "a": "Were",
+    "d": [
+     "Was",
+     "If",
+     "Am"
+    ],
+    "ex": "Were I… = If I were…,倒裝只用 were。"
+   },
+   {
+    "q": "Had she ___ the warning, she wouldn't have invested.",
+    "a": "heeded",
+    "d": [
+     "heed",
+     "heeds",
+     "heeding"
+    ],
+    "ex": "Had + 主詞 + 過去分詞。"
+   },
+   {
+    "q": "___ the company fail to pay, legal action will be taken.",
+    "a": "Should",
+    "d": [
+     "If",
+     "Would",
+     "Had"
+    ],
+    "ex": "Should + 主詞 + 原形,表萬一。"
+   },
+   {
+    "q": "Were the price ___ drop, demand would rise.",
+    "a": "to",
+    "d": [
+     "for",
+     "that",
+     "will"
+    ],
+    "ex": "Were + 主詞 + to V 表假設未來。"
+   },
+   {
+    "q": "___ it not been for your help, we would have failed.",
+    "a": "Had",
+    "d": [
+     "If",
+     "Were",
+     "Has"
+    ],
+    "ex": "Had it not been for = 若不是(過去)。"
+   },
+   {
+    "q": "___ it not for the internet, remote work would be impossible.",
+    "a": "Were",
+    "d": [
+     "Had",
+     "If",
+     "Was"
+    ],
+    "ex": "Were it not for = 若不是(現在)。"
+   },
+   {
+    "q": "Should you ___ to cancel, please notify us 24 hours in advance.",
+    "a": "wish",
+    "d": [
+     "wished",
+     "wishing",
+     "to wish"
+    ],
+    "ex": "Should + 主詞 + 原形動詞。"
+   },
+   {
+    "q": "Had we left earlier, we ___ the traffic.",
+    "a": "would have avoided",
+    "d": [
+     "will avoid",
+     "had avoided",
+     "would avoided"
+    ],
+    "ex": "第三條件句倒裝,主句用 would have + p.p.。"
+   }
+  ]
+ },
+ {
+  "id": "subjunctive",
+  "name": "假設語氣(原形動詞)",
+  "cefr": "C1",
+  "note": "suggest/recommend/insist/demand/request 及 It is essential/important that 後接原形動詞(should 可省略);It's high time / would rather + 過去式。",
+  "items": [
+   {
+    "q": "The doctor recommended that he ___ smoking.",
+    "a": "stop",
+    "d": [
+     "stops",
+     "stopped",
+     "will stop"
+    ],
+    "ex": "recommend that 後用原形動詞。"
+   },
+   {
+    "q": "It is essential that every employee ___ the training.",
+    "a": "complete",
+    "d": [
+     "completes",
+     "completed",
+     "will complete"
+    ],
+    "ex": "It is essential that + 主詞 + 原形。"
+   },
+   {
+    "q": "She insisted that the meeting ___ postponed.",
+    "a": "be",
+    "d": [
+     "is",
+     "being",
+     "will be"
+    ],
+    "ex": "insist 表要求時,子句用原形 be。"
+   },
+   {
+    "q": "I suggest that she ___ a lawyer.",
+    "a": "consult",
+    "d": [
+     "consults",
+     "consulted",
+     "consulting"
+    ],
+    "ex": "suggest that 後用原形動詞,不加 -s。"
+   },
+   {
+    "q": "The board demanded that the CEO ___ immediately.",
+    "a": "resign",
+    "d": [
+     "resigns",
+     "resigned",
+     "resigning"
+    ],
+    "ex": "demand that 後用原形動詞。"
+   },
+   {
+    "q": "It's important that he ___ late again.",
+    "a": "not be",
+    "d": [
+     "isn't",
+     "won't be",
+     "doesn't be"
+    ],
+    "ex": "假設語氣否定為 not + 原形。"
+   },
+   {
+    "q": "They requested that all phones ___ switched off.",
+    "a": "be",
+    "d": [
+     "are",
+     "were",
+     "being"
+    ],
+    "ex": "request that 後用原形 be + p.p.。"
+   },
+   {
+    "q": "It is vital that the data ___ kept confidential.",
+    "a": "be",
+    "d": [
+     "are",
+     "being",
+     "to be"
+    ],
+    "ex": "It is vital that 後用原形 be。"
+   },
+   {
+    "q": "I'd rather you ___ smoke in here.",
+    "a": "didn't",
+    "d": [
+     "don't",
+     "not",
+     "won't"
+    ],
+    "ex": "would rather + 人 + 過去式,表希望別人。"
+   },
+   {
+    "q": "It's high time we ___ a decision.",
+    "a": "made",
+    "d": [
+     "make",
+     "will make",
+     "making"
+    ],
+    "ex": "It's high time + 主詞 + 過去式。"
+   }
+  ]
+ },
+ {
+  "id": "cleft_sentences",
+  "name": "分裂句(強調句)",
+  "cefr": "C1",
+  "note": "It is/was … that/who … 強調句中某部分;What … is/was … 把重點移到句尾。",
+  "items": [
+   {
+    "q": "It was John ___ broke the printer.",
+    "a": "who",
+    "d": [
+     "which",
+     "what",
+     "whom"
+    ],
+    "ex": "強調人且當主詞,用 who(或 that)。"
+   },
+   {
+    "q": "___ I need is a good night's sleep.",
+    "a": "What",
+    "d": [
+     "That",
+     "Which",
+     "It"
+    ],
+    "ex": "What I need is… 表「我需要的是…」。"
+   },
+   {
+    "q": "It was in 2008 ___ the company went public.",
+    "a": "that",
+    "d": [
+     "which",
+     "where",
+     "what"
+    ],
+    "ex": "It was + 強調部分 + that…。"
+   },
+   {
+    "q": "What surprised me ___ his attitude.",
+    "a": "was",
+    "d": [
+     "were",
+     "it was",
+     "did"
+    ],
+    "ex": "What 子句當主詞視為單數,過去用 was。"
+   },
+   {
+    "q": "___ was the price that made me hesitate.",
+    "a": "It",
+    "d": [
+     "What",
+     "That",
+     "This"
+    ],
+    "ex": "強調句型 It was … that …。"
+   },
+   {
+    "q": "All I want ___ a quiet weekend.",
+    "a": "is",
+    "d": [
+     "are",
+     "be",
+     "it is"
+    ],
+    "ex": "All I want 視為單數主詞,用 is。"
+   },
+   {
+    "q": "What she did ___ call the police.",
+    "a": "was",
+    "d": [
+     "is",
+     "did",
+     "were"
+    ],
+    "ex": "What + 主詞 + did + was + 原形。"
+   },
+   {
+    "q": "It's not the money ___ matters; it's the experience.",
+    "a": "that",
+    "d": [
+     "what",
+     "it",
+     "who"
+    ],
+    "ex": "It's not X that… 強調句用 that。"
+   },
+   {
+    "q": "The reason ___ I'm calling is to confirm the booking.",
+    "a": "why",
+    "d": [
+     "because",
+     "what",
+     "for"
+    ],
+    "ex": "The reason why… is… 為固定句型。"
+   },
+   {
+    "q": "What I don't understand ___ why he quit.",
+    "a": "is",
+    "d": [
+     "it's",
+     "does",
+     "are"
+    ],
+    "ex": "What 子句當主詞,接 is。"
+   }
+  ]
+ }
+]

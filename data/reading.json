@@ -1,0 +1,914 @@
+[
+ {
+  "id": "r01",
+  "cefr": "A2",
+  "title": "Kitchen Rules",
+  "text": "Dear all,\n\nPlease remember these simple rules for the office kitchen. First, wash your cups and plates after you use them. Do not leave them in the sink. Second, write your name on your food before you put it in the fridge. Every Friday at 5 p.m., the cleaner will throw away all food without a name. Third, the coffee machine is for everyone, so please turn it off when you finish. If the machine is broken, tell Linda at the front desk. Do not try to fix it yourself.\n\nThank you for helping us keep the kitchen clean and nice for everyone.\n\nThe Office Team",
+  "qs": [
+   {
+    "q": "What is the main purpose of this notice?",
+    "a": "To explain how people should use the kitchen",
+    "d": [
+     "To invite staff to a Friday party",
+     "To tell staff the coffee machine is new",
+     "To ask everyone to help the cleaner clean the whole office every Friday"
+    ],
+    "ex": "通知列出廚房使用規則,主旨是說明使用方式。"
+   },
+   {
+    "q": "What happens on Friday at 5 p.m.?",
+    "a": "Food without a name is thrown away.",
+    "d": [
+     "The fridge is turned off.",
+     "Linda checks the coffee machine and fixes anything that is broken.",
+     "Everyone washes their cups."
+    ],
+    "ex": "文中說週五 5 點清潔人員會丟掉沒寫名字的食物。"
+   },
+   {
+    "q": "What should you do if the coffee machine is broken?",
+    "a": "Tell Linda at the front desk.",
+    "d": [
+     "Fix it yourself.",
+     "Turn it off and leave it.",
+     "Write your name on it."
+    ],
+    "ex": "機器壞了要告訴櫃檯的 Linda,不要自己修。"
+   }
+  ]
+ },
+ {
+  "id": "r02",
+  "cefr": "A2",
+  "title": "Your Order Is On Its Way",
+  "text": "Hi Mark,\n\nGood news! Your order #4581 left our warehouse this morning. You ordered one pair of running shoes (size 42) and two pairs of sports socks. The package should arrive in two or three working days. You can follow your package with the tracking number in this email.\n\nIf nobody is at home, the driver will leave a card. You can then pick up the package at the nearest convenience store within seven days.\n\nDo the shoes not fit? No problem. You can return them for free within 30 days. Please keep the box and the receipt.\n\nThanks for shopping with us!\nRunFast Online",
+  "qs": [
+   {
+    "q": "What is this email mainly about?",
+    "a": "A package that has been sent",
+    "d": [
+     "A new shop opening",
+     "A problem with a payment",
+     "A special sale on running shoes and sports socks for members"
+    ],
+    "ex": "信件通知訂單已出貨。"
+   },
+   {
+    "q": "How long can Mark take to return the shoes for free?",
+    "a": "30 days",
+    "d": [
+     "Seven days",
+     "Two or three days",
+     "42 days"
+    ],
+    "ex": "文中說 30 天內可免費退貨;7 天是到超商取件期限。"
+   },
+   {
+    "q": "In the email, what does \"pick up\" mean?",
+    "a": "Go and collect",
+    "d": [
+     "Lift with your hands",
+     "Buy again",
+     "Send back"
+    ],
+    "ex": "pick up the package 指去取件。"
+   }
+  ]
+ },
+ {
+  "id": "r03",
+  "cefr": "A2",
+  "title": "Visiting the City Museum",
+  "text": "The City Museum is open from Tuesday to Sunday, 9 a.m. to 5 p.m. It is closed on Mondays. Tickets cost 200 dollars for adults and 100 dollars for students. Children under six can come in for free. On the first Sunday of every month, everyone can visit for free.\n\nThe museum has three floors. The first floor shows the history of the city. The second floor has paintings by local artists. On the third floor, there is a café with a nice view of the river.\n\nYou cannot take photos on the second floor. Large bags must go in the lockers near the entrance.",
+  "qs": [
+   {
+    "q": "What is this text mainly about?",
+    "a": "Information for people who want to visit a museum",
+    "d": [
+     "The history of a river",
+     "How local artists can show their paintings on the second floor",
+     "A new café in the city"
+    ],
+    "ex": "文章提供開放時間、票價、樓層等參觀資訊。"
+   },
+   {
+    "q": "Where can you NOT take photos?",
+    "a": "On the second floor",
+    "d": [
+     "On the first floor",
+     "In the café",
+     "Near the entrance"
+    ],
+    "ex": "文中說二樓禁止拍照。"
+   },
+   {
+    "q": "A family with two adults and a five-year-old child visits on a normal Saturday. How much do they pay?",
+    "a": "400 dollars",
+    "d": [
+     "500 dollars",
+     "300 dollars",
+     "Nothing"
+    ],
+    "ex": "兩位成人各 200,未滿六歲免費,共 400 元。"
+   }
+  ]
+ },
+ {
+  "id": "r04",
+  "cefr": "A2",
+  "title": "New Bike Rental Service",
+  "text": "From next month, the city will start a new bike rental service. There will be 50 bike stations around the city, near MRT stations, parks and schools. To use a bike, you need the city app or a transport card. The first 30 minutes are free. After that, it costs 10 dollars for every 30 minutes.\n\nYou must return the bike to any station before midnight. If you keep a bike for more than 24 hours, you will pay a fine. The city hopes the service will help people leave their cars at home and make the air cleaner.",
+  "qs": [
+   {
+    "q": "What is the main idea of the text?",
+    "a": "The city is starting a bike rental service.",
+    "d": [
+     "The city is building new MRT stations.",
+     "The city is closing some parks.",
+     "The city is selling cheap bikes near MRT stations and schools."
+    ],
+    "ex": "全文介紹新的公共自行車租借服務。"
+   },
+   {
+    "q": "How much does it cost to use a bike for one hour?",
+    "a": "10 dollars",
+    "d": [
+     "Nothing",
+     "20 dollars",
+     "30 dollars"
+    ],
+    "ex": "前 30 分鐘免費,之後每 30 分鐘 10 元,一小時共 10 元。"
+   },
+   {
+    "q": "Why does the city want people to use the bikes?",
+    "a": "To reduce car use and air pollution",
+    "d": [
+     "To make money for schools",
+     "To help people get to work faster than by MRT",
+     "To sell more transport cards"
+    ],
+    "ex": "文末說希望大家少開車、讓空氣更乾淨。"
+   }
+  ]
+ },
+ {
+  "id": "r05",
+  "cefr": "A2",
+  "title": "A Message From Your Dentist",
+  "text": "Dear Ms. Wang,\n\nThis is a reminder of your appointment with Dr. Lee on Thursday, June 12, at 3:30 p.m. Please arrive ten minutes early to fill in a short form. Bring your health insurance card with you.\n\nPlease do not eat for one hour before your appointment. You can drink water.\n\nIf you cannot come, please call us at least one day before. If you cancel on the same day, you may have to pay a 300-dollar fee.\n\nTo confirm your appointment, simply reply YES to this message.\n\nBest regards,\nSmile Dental Clinic",
+  "qs": [
+   {
+    "q": "Why did the clinic send this message?",
+    "a": "To remind Ms. Wang about her appointment",
+    "d": [
+     "To tell Ms. Wang that her teeth are healthy and she does not need to come",
+     "To change Dr. Lee's working hours",
+     "To ask Ms. Wang to pay a bill"
+    ],
+    "ex": "這是看診提醒。"
+   },
+   {
+    "q": "What time should Ms. Wang arrive?",
+    "a": "3:20 p.m.",
+    "d": [
+     "3:30 p.m.",
+     "2:30 p.m.",
+     "3:40 p.m."
+    ],
+    "ex": "預約 3:30,需提早十分鐘到,即 3:20。"
+   },
+   {
+    "q": "What can we infer about cancelling on Wednesday, June 11?",
+    "a": "There is probably no fee.",
+    "d": [
+     "She must pay 300 dollars.",
+     "It is not possible to cancel.",
+     "She must reply YES."
+    ],
+    "ex": "提前一天以上取消不收費,前一天取消應無費用。"
+   }
+  ]
+ },
+ {
+  "id": "r06",
+  "cefr": "B1",
+  "title": "Hybrid Work Policy Update",
+  "text": "Starting on March 1, all team members will be expected to work from the office on Tuesdays and Thursdays. On the other three days, you may choose to work from home or in the office. This decision follows a staff survey in which most people said they missed face-to-face meetings but valued the flexibility of remote work.\n\nManagers may ask for extra office days during busy periods, such as product launches, but they must give at least one week's notice. If you have a medical or family reason for needing a different arrangement, please speak to HR directly; these requests will be handled confidentially.\n\nWe will review the policy after six months and welcome your feedback at any time through the internal survey page.",
+  "qs": [
+   {
+    "q": "What is the main purpose of the notice?",
+    "a": "To explain new rules about where staff work",
+    "d": [
+     "To announce a new product launch",
+     "To ask staff to complete a survey about their health and family",
+     "To introduce a new HR manager"
+    ],
+    "ex": "通知說明新的混合辦公規定。"
+   },
+   {
+    "q": "What must managers do if they want staff in the office on extra days?",
+    "a": "Tell them at least a week in advance",
+    "d": [
+     "Get written permission from HR before asking anyone",
+     "Pay staff extra money",
+     "Ask the whole team to vote"
+    ],
+    "ex": "文中說主管須至少提前一週通知。"
+   },
+   {
+    "q": "The word \"confidentially\" is closest in meaning to:",
+    "a": "privately, without telling others",
+    "d": [
+     "quickly",
+     "officially, in writing",
+     "with a lot of confidence"
+    ],
+    "ex": "confidentially = 保密地,不會讓他人知道。"
+   }
+  ]
+ },
+ {
+  "id": "r07",
+  "cefr": "B1",
+  "title": "Why You Should Stand Up More",
+  "text": "Many office workers sit for more than eight hours a day. Research suggests that sitting for long periods can increase the risk of back pain, weight gain and heart problems, even for people who exercise regularly. The good news is that small changes can make a difference.\n\nExperts recommend standing up and moving for a few minutes every half hour. You could take phone calls standing, walk to a colleague's desk instead of sending a message, or use the stairs instead of the lift. Some companies now offer standing desks, but standing all day is not the answer either, as it can cause problems with the legs and feet. The key, doctors say, is to change position often rather than to stay in any single position for too long.",
+  "qs": [
+   {
+    "q": "What is the main message of the article?",
+    "a": "Changing position regularly is better for your health than sitting all day.",
+    "d": [
+     "Standing desks solve all health problems.",
+     "People who exercise do not need to worry about sitting.",
+     "Office workers should stop using lifts completely."
+    ],
+    "ex": "主旨是久坐有害,要常變換姿勢。"
+   },
+   {
+    "q": "According to the article, how often should office workers move?",
+    "a": "Every 30 minutes",
+    "d": [
+     "Every eight hours",
+     "Once an hour",
+     "Only during lunch"
+    ],
+    "ex": "文中建議每半小時起身活動幾分鐘。"
+   },
+   {
+    "q": "What does the writer suggest about standing desks?",
+    "a": "They are useful only if people do not stand all day.",
+    "d": [
+     "They are too expensive for most companies.",
+     "They cause heart problems.",
+     "They are the best answer to long sitting."
+    ],
+    "ex": "作者說整天站著也不好,重點在常換姿勢。"
+   }
+  ]
+ },
+ {
+  "id": "r08",
+  "cefr": "B1",
+  "title": "Flight Delay Information",
+  "text": "Due to heavy fog at Taoyuan International Airport this morning, several departures have been delayed by up to three hours. Passengers are advised to check their flight status on the airline's website or app before leaving home.\n\nIf your flight is delayed by more than two hours, you can collect a meal voucher worth 300 dollars from the service counter near Gate C2. Passengers who miss a connecting flight because of the delay should speak to airline staff, who will arrange the next available flight at no extra cost.\n\nPlease note that weather delays are not covered by the airline's cash compensation policy. However, you may be able to claim through your own travel insurance. Keep your boarding pass and any receipts.",
+  "qs": [
+   {
+    "q": "What caused the delays?",
+    "a": "Bad weather",
+    "d": [
+     "A technical problem",
+     "A staff strike",
+     "Too many passengers"
+    ],
+    "ex": "heavy fog 濃霧,屬天候因素。"
+   },
+   {
+    "q": "What can passengers with a delay of over two hours get?",
+    "a": "A meal voucher",
+    "d": [
+     "Cash compensation",
+     "A free hotel room",
+     "A business-class upgrade"
+    ],
+    "ex": "延誤超過兩小時可領 300 元餐券;文中說天候延誤不給現金補償。"
+   },
+   {
+    "q": "Why does the notice tell passengers to keep their receipts?",
+    "a": "They may need them for an insurance claim.",
+    "d": [
+     "The airline will pay them back in cash for all their costs.",
+     "They need them to board the plane.",
+     "Gate C2 staff will check them."
+    ],
+    "ex": "保留收據是為了向自己的旅遊保險申請理賠。"
+   }
+  ]
+ },
+ {
+  "id": "r09",
+  "cefr": "B1",
+  "title": "Your Subscription Is Changing",
+  "text": "Dear customer,\n\nThank you for being a member of StreamBox for the past two years. We are writing to let you know about a change to your plan.\n\nFrom July 1, the monthly price of the Standard plan will increase from 290 to 330 dollars. This change will help us add more films and series, and improve picture quality on all devices. You do not need to do anything; the new price will be charged automatically on your next billing date after July 1.\n\nIf you would prefer to pay less, you can switch to our Basic plan, which costs 230 dollars a month but includes advertisements. You can also cancel at any time in your account settings, with no cancellation fee.\n\nBest wishes,\nThe StreamBox Team",
+  "qs": [
+   {
+    "q": "What is the main purpose of this email?",
+    "a": "To inform a customer about a price increase",
+    "d": [
+     "To welcome a new member",
+     "To advertise a new film",
+     "To apologise to members for a technical problem with picture quality"
+    ],
+    "ex": "信件通知 Standard 方案漲價。"
+   },
+   {
+    "q": "How much more will the Standard plan cost each month?",
+    "a": "40 dollars",
+    "d": [
+     "60 dollars",
+     "100 dollars",
+     "330 dollars"
+    ],
+    "ex": "從 290 漲到 330,多 40 元。"
+   },
+   {
+    "q": "What is a disadvantage of the Basic plan?",
+    "a": "It shows advertisements.",
+    "d": [
+     "It has a cancellation fee.",
+     "It costs more than the Standard plan.",
+     "It cannot be used on phones."
+    ],
+    "ex": "Basic 方案較便宜但有廣告。"
+   }
+  ]
+ },
+ {
+  "id": "r10",
+  "cefr": "B1",
+  "title": "Recycling Your Old Phone",
+  "text": "Every year, millions of old mobile phones end up in drawers or rubbish bins. This is a problem because phones contain valuable metals such as gold, silver and copper, as well as harmful materials that can damage the soil if they are thrown away with normal waste.\n\nMost phone shops and many supermarkets now accept old phones for recycling, and some will even give you a discount on a new device. Before you hand your phone in, however, make sure you back up your photos and contacts, sign out of all accounts, and reset the phone to its factory settings. This protects your personal data.\n\nRecycling one phone may seem like a small step, but if everyone did it, the amount of mining needed for new devices could fall significantly.",
+  "qs": [
+   {
+    "q": "What is the article mainly about?",
+    "a": "Why and how to recycle old phones",
+    "d": [
+     "How to choose a new phone and get a discount when you buy it",
+     "Why gold prices are rising",
+     "How phones damage your health"
+    ],
+    "ex": "文章說明回收舊手機的理由與做法。"
+   },
+   {
+    "q": "What should you do before recycling your phone?",
+    "a": "Reset it to factory settings",
+    "d": [
+     "Remove the gold inside",
+     "Take it to a mine",
+     "Throw away the battery"
+    ],
+    "ex": "回收前要備份、登出、恢復原廠設定。"
+   },
+   {
+    "q": "In the last paragraph, \"significantly\" is closest in meaning to:",
+    "a": "by a large amount",
+    "d": [
+     "slowly",
+     "by accident",
+     "for a short time"
+    ],
+    "ex": "significantly = 顯著地、大幅地。"
+   }
+  ]
+ },
+ {
+  "id": "r11",
+  "cefr": "B1",
+  "title": "Team Building Day",
+  "text": "Hi everyone,\n\nOur annual team building day will take place on Friday, October 18, at Green Valley Park. A bus will leave the office at 8:30 a.m. and return at about 6 p.m. Lunch and drinks will be provided, but please let me know by October 10 if you have any food allergies or are vegetarian.\n\nIn the morning, we will do group activities such as a treasure hunt and a cooking challenge. The afternoon is free, so you can join a guided hike, play board games, or simply relax.\n\nPlease wear comfortable shoes and bring a hat or umbrella, as the weather can change quickly in the mountains. If you cannot attend, tell your manager as soon as possible, because this counts as a normal working day.\n\nCheers,\nAmanda (HR)",
+  "qs": [
+   {
+    "q": "What is the email about?",
+    "a": "Arrangements for a company outing",
+    "d": [
+     "The opening of a new office near Green Valley Park",
+     "A cooking class for staff",
+     "Changes to working hours"
+    ],
+    "ex": "信件說明團建活動的安排。"
+   },
+   {
+    "q": "What should staff tell Amanda by October 10?",
+    "a": "Any special food needs",
+    "d": [
+     "Whether they will take the bus",
+     "Which afternoon activity they want",
+     "The size of their shoes"
+    ],
+    "ex": "10 月 10 日前要告知食物過敏或吃素。"
+   },
+   {
+    "q": "What can we infer from the last paragraph?",
+    "a": "Staff who do not attend may need to work or take leave.",
+    "d": [
+     "The event is only for managers.",
+     "Attendance is completely optional with no conditions.",
+     "The event will be cancelled if it rains."
+    ],
+    "ex": "當天算正常上班日,不參加須告知主管,意味需上班或請假。"
+   }
+  ]
+ },
+ {
+  "id": "r12",
+  "cefr": "B1",
+  "title": "Understanding Your Credit Card Statement",
+  "text": "Your monthly credit card statement shows all the purchases you made during the billing period, the total amount you owe, and two important numbers: the minimum payment and the payment due date.\n\nMany people pay only the minimum amount because it is easier. However, the rest of the balance is then charged interest, often at a rate of 10 to 15 percent per year. Over time, this can make a small purchase very expensive.\n\nIf you can, it is best to pay the full balance before the due date. Setting up automatic payments from your bank account is a simple way to avoid late fees. It is also a good idea to check each item on the statement carefully, because mistakes and unauthorised charges do sometimes happen.",
+  "qs": [
+   {
+    "q": "What is the main purpose of the text?",
+    "a": "To help readers understand and manage credit card bills",
+    "d": [
+     "To advertise a new credit card",
+     "To explain how banks make investments",
+     "To compare different banks' interest rates"
+    ],
+    "ex": "文章教讀者看懂並管理信用卡帳單。"
+   },
+   {
+    "q": "What happens if you pay only the minimum amount?",
+    "a": "You pay interest on the remaining balance.",
+    "d": [
+     "Your card is cancelled.",
+     "You have to pay a late fee immediately, even before the due date.",
+     "Your credit limit increases."
+    ],
+    "ex": "只繳最低金額,剩餘餘額會被收利息。"
+   },
+   {
+    "q": "What does \"unauthorised charges\" most likely mean?",
+    "a": "Payments you did not agree to",
+    "d": [
+     "Fees for paying late",
+     "Discounts from shops",
+     "Interest on your balance"
+    ],
+    "ex": "unauthorised = 未經授權,即非本人同意的消費。"
+   }
+  ]
+ },
+ {
+  "id": "r13",
+  "cefr": "B1",
+  "title": "A Smarter Way to Learn Words",
+  "text": "If you have ever studied a list of new words the night before a test and forgotten most of them a week later, you are not alone. Scientists have known for over a hundred years that we forget new information quickly unless we review it.\n\nA technique called spaced repetition can help. Instead of studying a word many times in one day, you review it after one day, then after three days, then after a week, and so on. Each time you remember the word successfully, the gap before the next review gets longer. Many language apps now use this method automatically.\n\nThe idea is simple: reviewing information just before you are about to forget it makes the memory stronger, so you spend less time studying overall.",
+  "qs": [
+   {
+    "q": "What is the main topic of the text?",
+    "a": "A study method that improves long-term memory",
+    "d": [
+     "Why tests are bad for students",
+     "The history of language apps and how they became popular",
+     "How to study a whole list in one night"
+    ],
+    "ex": "文章介紹間隔重複這個記憶方法。"
+   },
+   {
+    "q": "In spaced repetition, what happens when you remember a word correctly?",
+    "a": "The next review comes later.",
+    "d": [
+     "You never review it again.",
+     "You review it the same day.",
+     "You add more new words to the list."
+    ],
+    "ex": "每次記住後,下次複習的間隔會拉長。"
+   },
+   {
+    "q": "What can we infer about studying a list the night before a test?",
+    "a": "It is not effective for remembering words long-term.",
+    "d": [
+     "It is the method scientists recommend.",
+     "It works better than spaced repetition.",
+     "It is how most language apps work."
+    ],
+    "ex": "作者說考前一晚背的字一週後大多會忘。"
+   }
+  ]
+ },
+ {
+  "id": "r14",
+  "cefr": "B2",
+  "title": "Four-Day Week Trial Results",
+  "text": "A six-month trial in which 60 companies moved to a four-day working week without reducing pay has ended, and the results have surprised some critics. According to the researchers, most firms reported that productivity stayed the same or improved slightly, while staff sick days fell by around a third.\n\nEmployees said they felt less stressed and had more time for family and exercise. However, the picture was not entirely positive. Several companies in customer-facing industries, such as hospitality, struggled to cover shifts, and a handful returned to a five-day week before the trial ended.\n\nThe researchers caution that the participating firms volunteered for the trial and may therefore have been unusually well suited to the change. Larger studies, they argue, are needed before governments consider making such schedules widespread.",
+  "qs": [
+   {
+    "q": "What is the main point of the article?",
+    "a": "A four-day week trial was largely positive, but with some limits.",
+    "d": [
+     "The four-day week has failed in most companies.",
+     "Governments have decided to introduce a four-day week.",
+     "Employees want to work more hours for more pay."
+    ],
+    "ex": "結果大多正面,但也有限制與研究偏誤。"
+   },
+   {
+    "q": "Which companies had the most difficulty with the change?",
+    "a": "Businesses that serve customers directly",
+    "d": [
+     "Technology companies that rely heavily on remote workers",
+     "Very large firms",
+     "Companies that reduced pay"
+    ],
+    "ex": "服務業等面對客人的產業難以排班。"
+   },
+   {
+    "q": "Why do the researchers say the results should be treated with caution?",
+    "a": "The firms volunteered, so they may not be typical.",
+    "d": [
+     "The trial was too long.",
+     "Employees lied about their stress levels.",
+     "Productivity was not measured."
+    ],
+    "ex": "自願參加的公司可能本來就特別適合,有選擇偏誤。"
+   }
+  ]
+ },
+ {
+  "id": "r15",
+  "cefr": "B2",
+  "title": "Security Alert: Phishing Emails",
+  "text": "IT has noticed a sharp increase in phishing emails sent to staff over the past week. These messages appear to come from our payroll department and ask recipients to \"confirm their bank details\" by clicking a link before the end of the month. The link leads to a fake login page that looks almost identical to our real one.\n\nPlease be aware that payroll will never ask you to update bank details by email. If you receive such a message, do not click any links or open attachments. Instead, use the \"Report Phishing\" button in your mail client, which sends the message straight to our security team.\n\nIf you have already entered your password on the fake page, change it immediately and contact the IT help desk. Acting quickly greatly reduces the risk of further damage.",
+  "qs": [
+   {
+    "q": "What is the purpose of the notice?",
+    "a": "To warn staff about fake emails and explain what to do",
+    "d": [
+     "To ask staff to update their bank details",
+     "To announce changes to the payroll system",
+     "To introduce a new email program"
+    ],
+    "ex": "警告釣魚信並說明處理步驟。"
+   },
+   {
+    "q": "What should staff do if they receive one of these emails?",
+    "a": "Report it using the button in the mail client",
+    "d": [
+     "Reply to payroll to check",
+     "Forward it to all colleagues so that they know about it too",
+     "Open the attachment to see if it is real"
+    ],
+    "ex": "使用 Report Phishing 按鈕回報給資安團隊。"
+   },
+   {
+    "q": "The word \"identical\" is closest in meaning to:",
+    "a": "exactly the same",
+    "d": [
+     "dangerous",
+     "official",
+     "completely different"
+    ],
+    "ex": "almost identical = 幾乎一模一樣。"
+   }
+  ]
+ },
+ {
+  "id": "r16",
+  "cefr": "B2",
+  "title": "The Hidden Cost of Free Apps",
+  "text": "Most of the apps on our phones are free to download, but that does not mean they cost nothing. Many free apps make money by collecting data about how we use them, where we go and what we buy, and then using it to show targeted advertisements or selling it to third parties.\n\nPrivacy laws in many countries now require apps to explain what data they collect and to ask for permission. In practice, however, few users read these long and complicated policies. They simply tap \"Accept\" to get to the app as quickly as possible.\n\nExperts suggest a few simple habits: review app permissions regularly, switch off location access for apps that do not need it, and delete apps you no longer use. None of these steps will make you invisible online, but together they can noticeably reduce how much information you give away.",
+  "qs": [
+   {
+    "q": "What is the writer's main argument?",
+    "a": "Free apps often cost users their personal data.",
+    "d": [
+     "Free apps are always unsafe and should be avoided.",
+     "Privacy laws have solved the problem of data collection.",
+     "Paid apps never collect user data."
+    ],
+    "ex": "免費 App 以個資為代價。"
+   },
+   {
+    "q": "Why do privacy policies often fail to protect users?",
+    "a": "Users rarely read them before agreeing.",
+    "d": [
+     "They are not required by law.",
+     "They are written only in English.",
+     "They are usually written only in English, so many users cannot understand them."
+    ],
+    "ex": "文中說很少人讀,直接按接受。"
+   },
+   {
+    "q": "What does the writer imply in the final sentence?",
+    "a": "The suggested habits help, but they cannot give complete privacy.",
+    "d": [
+     "Following the habits makes you invisible online.",
+     "The habits are too difficult for most people.",
+     "Deleting apps is the only effective step."
+    ],
+    "ex": "None of these will make you invisible = 有幫助但非萬全。"
+   }
+  ]
+ },
+ {
+  "id": "r17",
+  "cefr": "B2",
+  "title": "Office Move: What You Need to Know",
+  "text": "As announced last month, our Taipei office will relocate to the new building in Nangang over the weekend of November 22–23. To ensure a smooth transition, please follow the steps below.\n\nBy Wednesday, November 19, pack the contents of your desk into the labelled boxes provided by Facilities. Personal items of high value should be taken home, as the company cannot accept liability for them during the move. IT will disconnect all desktop computers on Friday afternoon; laptops should be taken home over the weekend.\n\nOn Monday, November 24, access cards for the old building will be deactivated. New cards will be handed out at reception from 8 a.m. Parking at the new site is limited, so staff are strongly encouraged to use public transport, which is a five-minute walk from the entrance.",
+  "qs": [
+   {
+    "q": "What is the notice mainly about?",
+    "a": "Instructions for staff before and after an office relocation",
+    "d": [
+     "The opening of a new branch in Nangang",
+     "Changes to the company parking policy",
+     "A new IT security system"
+    ],
+    "ex": "說明搬遷前後員工須配合事項。"
+   },
+   {
+    "q": "What should employees do with their laptops?",
+    "a": "Take them home over the weekend",
+    "d": [
+     "Pack them in the labelled boxes provided by Facilities",
+     "Leave them for IT to disconnect",
+     "Hand them in at reception"
+    ],
+    "ex": "文中說筆電週末要帶回家。"
+   },
+   {
+    "q": "What does \"cannot accept liability\" suggest?",
+    "a": "The company will not be responsible if valuables are lost or damaged.",
+    "d": [
+     "The company will pay for any lost items.",
+     "Staff are not allowed to bring personal items to work.",
+     "Valuable items will be moved first."
+    ],
+    "ex": "accept liability = 承擔責任;公司不負責貴重物品。"
+   }
+  ]
+ },
+ {
+  "id": "r18",
+  "cefr": "B2",
+  "title": "Microplastics in Drinking Water",
+  "text": "Microplastics — tiny pieces of plastic smaller than five millimetres — have been found almost everywhere scientists have looked, from deep oceans to mountain snow. Recent studies have also detected them in both tap and bottled water, with bottled water often containing higher levels, possibly because of the packaging itself.\n\nSo far, the World Health Organization has said that the evidence does not show a clear risk to human health at current levels. However, it also notes that research is limited and has called for more studies, particularly on the very smallest particles, which may be able to pass into human tissue.\n\nIn the meantime, some researchers suggest that people who are concerned could use a home water filter or avoid heating food in plastic containers, although they stress that these measures have not been proven to reduce health risks.",
+  "qs": [
+   {
+    "q": "What is the main idea of the passage?",
+    "a": "Microplastics are common, but their health risk is unclear.",
+    "d": [
+     "Microplastics have been proven to cause serious diseases.",
+     "Bottled water is completely free of microplastics.",
+     "Home water filters remove all health risks."
+    ],
+    "ex": "微塑膠普遍存在,但健康影響尚不明。"
+   },
+   {
+    "q": "According to the passage, why might bottled water contain more microplastics?",
+    "a": "The bottles themselves may release particles.",
+    "d": [
+     "It comes from the deep ocean.",
+     "It is not filtered at all, unlike tap water, which is always cleaned.",
+     "It is heated before being sold."
+    ],
+    "ex": "possibly because of the packaging itself。"
+   },
+   {
+    "q": "What is the researchers' attitude towards home filters?",
+    "a": "Cautious — they may help but are not proven to.",
+    "d": [
+     "Strongly against them",
+     "Completely confident they work",
+     "Uninterested in the topic"
+    ],
+    "ex": "研究者強調尚未證實能降低風險,態度謹慎。"
+   }
+  ]
+ },
+ {
+  "id": "r19",
+  "cefr": "B2",
+  "title": "Emergency Funds: Why They Matter",
+  "text": "Financial planners often say that the first step towards financial security is not investing but building an emergency fund — money set aside to cover unexpected costs such as medical bills, car repairs or a sudden loss of income.\n\nA common rule of thumb is to save enough to cover three to six months of essential living expenses, including rent, food, utilities and loan repayments. People with irregular incomes, such as freelancers, may need more.\n\nThe money should be kept somewhere safe and easy to access, such as a separate savings account, rather than in assets whose value can fall quickly. Keeping it separate from your everyday account also reduces the temptation to spend it. Without such a buffer, people facing an emergency often turn to credit cards or high-interest loans, which can turn a short-term problem into long-term debt.",
+  "qs": [
+   {
+    "q": "What is the passage mainly about?",
+    "a": "The importance of keeping money for unexpected costs",
+    "d": [
+     "How to choose good investments",
+     "Why freelancers earn more than employees",
+     "How to get a low-interest loan"
+    ],
+    "ex": "文章說明緊急預備金的重要性。"
+   },
+   {
+    "q": "Why does the writer suggest keeping the fund in a separate account?",
+    "a": "So that you are less tempted to spend it",
+    "d": [
+     "Because a separate savings account earns much higher interest",
+     "Because banks require it",
+     "So that it can be invested quickly"
+    ],
+    "ex": "分開存放可減少花掉的誘惑。"
+   },
+   {
+    "q": "The phrase \"rule of thumb\" most likely means:",
+    "a": "a general guideline based on experience",
+    "d": [
+     "a strict legal requirement",
+     "a scientific law",
+     "a bank's official policy"
+    ],
+    "ex": "rule of thumb = 經驗法則,大致準則。"
+   }
+  ]
+ },
+ {
+  "id": "r20",
+  "cefr": "B2",
+  "title": "Night Markets Go Cashless",
+  "text": "Taiwan's night markets, long associated with cash-only food stalls, are gradually embracing mobile payments. In several major cities, local governments have offered small subsidies to vendors who install QR code payment systems, and the share of stalls accepting digital payments has risen steadily over the past three years.\n\nSupporters say the change makes life easier for tourists, who often lack local currency, and reduces the time vendors spend handling change. Some older vendors, however, remain reluctant. They worry about transaction fees, which can reach 2% of each sale, and prefer the simplicity of cash.\n\nAnalysts expect the trend to continue, but say cash is unlikely to disappear from night markets any time soon, given its popularity among both older shoppers and vendors.",
+  "qs": [
+   {
+    "q": "What is the passage mainly about?",
+    "a": "The slow shift towards mobile payments at night markets",
+    "d": [
+     "Why tourists avoid night markets",
+     "A new law that will ban cash payments at all night markets in Taiwan",
+     "The history of Taiwanese street food"
+    ],
+    "ex": "夜市逐漸接受行動支付。"
+   },
+   {
+    "q": "Why are some vendors unwilling to accept mobile payments?",
+    "a": "They do not want to pay transaction fees.",
+    "d": [
+     "They are not able to get the subsidies offered by local governments.",
+     "Tourists do not use them.",
+     "QR codes are illegal at night markets."
+    ],
+    "ex": "部分攤商擔心最高 2% 的手續費。"
+   },
+   {
+    "q": "The word \"reluctant\" is closest in meaning to:",
+    "a": "unwilling",
+    "d": [
+     "excited",
+     "unable",
+     "confused"
+    ],
+    "ex": "reluctant = 不情願的。"
+   }
+  ]
+ },
+ {
+  "id": "r21",
+  "cefr": "B2",
+  "title": "Sleep and Screen Time",
+  "text": "Many people check their phones in bed, but a growing body of research suggests this habit may be harming their sleep. Screens emit blue light, which can suppress melatonin, the hormone that signals to the body that it is time to sleep. Perhaps more importantly, scrolling through news or social media keeps the brain alert, making it harder to relax.\n\nSleep specialists generally recommend stopping screen use at least 30 to 60 minutes before bed. Night mode settings, which reduce blue light, may help a little, but they do not address the problem of mental stimulation.\n\nInstead, experts suggest building a short routine that signals the end of the day, such as reading a paper book, stretching or listening to calm music. Keeping the phone outside the bedroom altogether is one of the most effective changes people can make.",
+  "qs": [
+   {
+    "q": "What is the main idea of the passage?",
+    "a": "Using screens before bed can harm sleep, and there are ways to reduce this.",
+    "d": [
+     "Night mode completely solves sleep problems.",
+     "Melatonin is harmful to the body.",
+     "Reading on a phone is better than reading a book."
+    ],
+    "ex": "睡前用螢幕影響睡眠,並提出改善方法。"
+   },
+   {
+    "q": "According to the passage, why is night mode not a full solution?",
+    "a": "It does not stop the brain from being stimulated.",
+    "d": [
+     "It increases blue light.",
+     "It is only available on new phones, so most people cannot use it.",
+     "It reduces melatonin."
+    ],
+    "ex": "夜間模式只減藍光,無法解決大腦被刺激的問題。"
+   },
+   {
+    "q": "What does \"suppress\" mean in the first paragraph?",
+    "a": "reduce or stop",
+    "d": [
+     "increase",
+     "measure",
+     "produce"
+    ],
+    "ex": "suppress melatonin = 抑制褪黑激素。"
+   }
+  ]
+ },
+ {
+  "id": "r22",
+  "cefr": "C1",
+  "title": "The Productivity Paradox",
+  "text": "Economists have long puzzled over what has become known as the productivity paradox: despite enormous investment in digital technology, measured productivity growth in many advanced economies has been disappointingly sluggish. Several explanations have been proposed.\n\nOne holds that official statistics simply fail to capture the value of free digital services, such as search engines and maps, which do not appear in GDP. Another argues that new technologies take decades to reshape how firms are organised; electricity, after all, did not transform factory output until managers redesigned production around it. A third, more pessimistic, view contends that recent innovations are inherently less transformative than earlier ones.\n\nIf the second explanation is correct, the recent wave of artificial intelligence may yet deliver substantial gains — but only once organisations have done the slow, unglamorous work of restructuring around it.",
+  "qs": [
+   {
+    "q": "What is the passage mainly concerned with?",
+    "a": "Possible reasons why technology has not clearly boosted productivity",
+    "d": [
+     "Proof that digital technology reduces productivity",
+     "A history of electricity in factories",
+     "How to measure GDP accurately"
+    ],
+    "ex": "探討科技投資未明顯提升生產力的可能原因。"
+   },
+   {
+    "q": "Why does the writer mention electricity?",
+    "a": "To show that the benefits of a technology can take a long time to appear",
+    "d": [
+     "To argue that older inventions like electricity were more important than AI",
+     "To explain how GDP is calculated",
+     "To criticise factory managers"
+    ],
+    "ex": "以電力為例說明新技術需長時間重組組織才見效。"
+   },
+   {
+    "q": "What is implied by \"unglamorous\" in the final sentence?",
+    "a": "The necessary changes are slow and not exciting.",
+    "d": [
+     "The changes will be expensive and risky.",
+     "AI is less impressive than people think.",
+     "Organisations will refuse to change."
+    ],
+    "ex": "unglamorous = 不光鮮、不吸引人的苦工。"
+   }
+  ]
+ },
+ {
+  "id": "r23",
+  "cefr": "C1",
+  "title": "Rethinking the Open-Plan Office",
+  "text": "Open-plan offices were once hailed as a way to break down hierarchies and encourage spontaneous collaboration. The reality has proved more complicated. A widely cited study that tracked employees moving from cubicles to an open layout found that face-to-face interaction actually fell by around 70%, while email and instant messaging rose sharply. Faced with constant visibility and noise, workers appear to have retreated behind headphones and screens.\n\nThis does not mean a return to closed offices is inevitable. Many firms are now experimenting with \"activity-based\" designs that combine quiet zones for focused work, bookable rooms for meetings, and shared spaces for informal conversation. The underlying lesson is perhaps that collaboration cannot simply be engineered by removing walls; it depends on giving people meaningful choices about how and where they work.",
+  "qs": [
+   {
+    "q": "What is the writer's main point?",
+    "a": "Removing walls alone does not create collaboration; workers need choice.",
+    "d": [
+     "Open-plan offices should be banned.",
+     "Closed offices are always more productive.",
+     "Headphones should not be allowed at work."
+    ],
+    "ex": "單靠拆牆無法促進合作,要給員工選擇。"
+   },
+   {
+    "q": "What did the study find after employees moved to an open layout?",
+    "a": "They talked face to face much less.",
+    "d": [
+     "They sent fewer emails and messages because they could see each other.",
+     "They became more creative.",
+     "They asked for more meetings."
+    ],
+    "ex": "面對面互動下降約 70%,電子溝通增加。"
+   },
+   {
+    "q": "In the first paragraph, \"retreated\" most nearly means:",
+    "a": "withdrew to protect themselves",
+    "d": [
+     "advanced confidently",
+     "resigned from their jobs",
+     "complained formally"
+    ],
+    "ex": "retreated behind headphones = 躲進耳機裡自我隔離。"
+   }
+  ]
+ },
+ {
+  "id": "r24",
+  "cefr": "C1",
+  "title": "Inflation and Your Savings",
+  "text": "When inflation is low, few savers pay much attention to it. Yet even moderate inflation steadily erodes the purchasing power of money held in cash. If prices rise by 3% a year while a savings account pays 1%, the saver is, in real terms, becoming roughly 2% poorer each year, even though the balance on the statement keeps growing.\n\nThis distinction between nominal and real returns is easy to overlook, partly because people tend to think about money in face-value terms — a tendency economists call \"money illusion\". It also explains why the same interest rate can feel generous in one decade and meagre in another.\n\nNone of this means that cash has no place in a household's finances; liquidity and stability have genuine value, particularly for emergencies. But understanding real returns allows people to judge more accurately what their savings are actually worth over time.",
+  "qs": [
+   {
+    "q": "What is the main purpose of the passage?",
+    "a": "To explain how inflation affects the real value of savings",
+    "d": [
+     "To persuade readers to stop saving cash",
+     "To predict future inflation rates",
+     "To recommend a particular savings account"
+    ],
+    "ex": "說明通膨如何侵蝕存款實質價值。"
+   },
+   {
+    "q": "What does \"money illusion\" refer to?",
+    "a": "Thinking about money in face-value rather than real terms",
+    "d": [
+     "Believing that inflation will always be low",
+     "Hiding money from the tax authorities by keeping it in cash at home",
+     "Expecting banks to pay high interest"
+    ],
+    "ex": "money illusion = 以面額而非實質購買力看待金錢。"
+   },
+   {
+    "q": "Which statement would the writer most likely agree with?",
+    "a": "Holding some cash is sensible, as long as you understand its real return.",
+    "d": [
+     "Cash should never be kept at home or in a bank.",
+     "Nominal returns are more important than real returns.",
+     "A growing account balance always means growing wealth."
+    ],
+    "ex": "作者肯定現金流動性的價值,但要理解實質報酬。"
+   }
+  ]
+ }
+]

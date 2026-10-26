@@ -1,0 +1,2862 @@
+[
+ {
+  "id": "d001",
+  "cefr": "A2",
+  "ctx": "同事早上在電梯遇到你",
+  "line": "Good morning! How are you today?",
+  "a": "Not bad, thanks. You?",
+  "d": [
+   "Yes, I am good morning.",
+   "I'm thirty-two years old this year.",
+   "Morning is good for me."
+  ],
+  "ex": "回應寒暄後反問對方最自然;其他選項文法錯或答非所問。"
+ },
+ {
+  "id": "d002",
+  "cefr": "A2",
+  "ctx": "餐廳服務生來點餐",
+  "line": "Are you ready to order?",
+  "a": "Could we have a few more minutes, please?",
+  "d": [
+   "Yes, I want order now, give me the menu again.",
+   "No. Go away.",
+   "I ordered yesterday."
+  ],
+  "ex": "還沒決定時禮貌請對方多給幾分鐘;Go away 太無禮。"
+ },
+ {
+  "id": "d003",
+  "cefr": "A2",
+  "ctx": "咖啡店點完飲料",
+  "line": "For here or to go?",
+  "a": "To go, please.",
+  "d": [
+   "Go here.",
+   "I go to the office after this coffee.",
+   "Yes, please."
+  ],
+  "ex": "For here or to go 是問內用或外帶,答 To go 即外帶。"
+ },
+ {
+  "id": "d004",
+  "cefr": "A2",
+  "ctx": "飯店櫃檯辦入住",
+  "line": "Do you have a reservation?",
+  "a": "Yes, under the name Chen.",
+  "d": [
+   "Yes, I reserved by Chen name.",
+   "I have no room.",
+   "Reservation is good."
+  ],
+  "ex": "under the name ___ 是「用某某名字訂的」的慣用說法。"
+ },
+ {
+  "id": "d005",
+  "cefr": "A2",
+  "ctx": "機場安檢人員詢問",
+  "line": "Do you have any liquids in your bag?",
+  "a": "Just a small bottle of lotion.",
+  "d": [
+   "No, I'm not thirsty right now.",
+   "Yes, I liquid it.",
+   "The bag is mine, and I packed it all by myself this morning."
+  ],
+  "ex": "liquids 指液體物品,不是問你渴不渴;直接說明帶了什麼。"
+ },
+ {
+  "id": "d006",
+  "cefr": "A2",
+  "ctx": "外國遊客在街上問你",
+  "line": "Excuse me, is there a pharmacy near here?",
+  "a": "Yes, there's one just around the corner.",
+  "d": [
+   "Yes, it has.",
+   "I am not pharmacy.",
+   "You should see a doctor first, because a pharmacy can't help you."
+  ],
+  "ex": "there's one around the corner = 轉角就有;「it has」是中式「有」。"
+ },
+ {
+  "id": "d007",
+  "cefr": "A2",
+  "ctx": "服飾店店員走過來",
+  "line": "Can I help you?",
+  "a": "No thanks, I'm just looking.",
+  "d": [
+   "I just see see.",
+   "You can't help me, because I already know what I want to buy.",
+   "Yes, I am a customer here."
+  ],
+  "ex": "I'm just looking 是「隨便看看」標準說法;see see 是中式英文。"
+ },
+ {
+  "id": "d008",
+  "cefr": "A2",
+  "ctx": "你請朋友喝咖啡",
+  "line": "Thanks for the coffee!",
+  "a": "You're welcome.",
+  "d": [
+   "Never mind.",
+   "Yes, it's coffee.",
+   "Don't thank me, it was very cheap."
+  ],
+  "ex": "Never mind 是「算了、別在意」,不能拿來回應謝謝。"
+ },
+ {
+  "id": "d009",
+  "cefr": "A2",
+  "ctx": "同事開會遲到進門",
+  "line": "Sorry I'm late.",
+  "a": "That's OK. We just started.",
+  "d": [
+   "It doesn't matter, you are always late.",
+   "Yes, you are sorry.",
+   "I'm late too, no?"
+  ],
+  "ex": "簡單接受道歉並說明狀況;指責對方總是遲到太失禮。"
+ },
+ {
+  "id": "d010",
+  "cefr": "A2",
+  "ctx": "你接起辦公室電話",
+  "line": "Hello, may I speak to Kevin?",
+  "a": "Sure, just a moment, please.",
+  "d": [
+   "Yes, you may speak.",
+   "I am not Kevin, bye.",
+   "Kevin is speaking now to you."
+  ],
+  "ex": "請對方稍等再轉接;Yes, you may speak 是字面誤解。"
+ },
+ {
+  "id": "d011",
+  "cefr": "A2",
+  "ctx": "第一次見到新客戶",
+  "line": "Nice to meet you.",
+  "a": "Nice to meet you, too.",
+  "d": [
+   "Me too meet you.",
+   "Yes, I'm nice.",
+   "Thank you for your meeting."
+  ],
+  "ex": "初次見面固定回 Nice to meet you, too。"
+ },
+ {
+  "id": "d012",
+  "cefr": "A2",
+  "ctx": "便利商店結帳",
+  "line": "That'll be 350 dollars.",
+  "a": "Can I pay by card?",
+  "d": [
+   "350 dollars is too expensive, give me cheaper price.",
+   "350 dollars is.",
+   "OK, give me money."
+  ],
+  "ex": "店員已報價,接著問付款方式最自然;便利商店不議價,殺價很突兀。"
+ },
+ {
+  "id": "d013",
+  "cefr": "A2",
+  "ctx": "同事中午約你",
+  "line": "Do you want to get lunch together?",
+  "a": "Sure, where do you want to go?",
+  "d": [
+   "Yes, I want get lunch together with you at the restaurant.",
+   "I ate lunch at 1995.",
+   "No."
+  ],
+  "ex": "答應並問去哪裡;單說 No 太生硬,拒絕要給理由。"
+ },
+ {
+  "id": "d014",
+  "cefr": "A2",
+  "ctx": "上了計程車",
+  "line": "Where to?",
+  "a": "Taipei Main Station, please.",
+  "d": [
+   "Yes, to.",
+   "I am from Taipei.",
+   "Go, go, go, quickly drive!"
+  ],
+  "ex": "Where to? 是司機問目的地,直接說地點加 please。"
+ },
+ {
+  "id": "d015",
+  "cefr": "A2",
+  "ctx": "飯店櫃檯辦入住",
+  "line": "How many nights will you be staying?",
+  "a": "Three nights.",
+  "d": [
+   "Three nights ago.",
+   "I stay very well, thank you.",
+   "At night."
+  ],
+  "ex": "問住幾晚,直接答數量即可。"
+ },
+ {
+  "id": "d016",
+  "cefr": "A2",
+  "ctx": "週五下班同事道別",
+  "line": "Have a nice weekend!",
+  "a": "Thanks, you too!",
+  "d": [
+   "Yes, I have.",
+   "Same same.",
+   "Weekend is Saturday and Sunday."
+  ],
+  "ex": "You too 回祝對方;Same same 是中式說法。"
+ },
+ {
+  "id": "d017",
+  "cefr": "A2",
+  "ctx": "用餐快結束,服務生來問",
+  "line": "How was everything?",
+  "a": "It was delicious, thank you.",
+  "d": [
+   "Everything is how.",
+   "Yes, it was.",
+   "I have finished eat everything, and now I am very full."
+  ],
+  "ex": "問餐點如何,給評價並道謝。"
+ },
+ {
+  "id": "d018",
+  "cefr": "A2",
+  "ctx": "診所看醫生",
+  "line": "What seems to be the problem?",
+  "a": "I've had a sore throat since Monday.",
+  "d": [
+   "My problem is very problem.",
+   "I seem fine, thanks.",
+   "Since Monday I have sore throat until now still."
+  ],
+  "ex": "have had ... since 描述持續到現在的症狀。"
+ },
+ {
+  "id": "d019",
+  "cefr": "A2",
+  "ctx": "你坐在咖啡店,有人指著你旁邊空位",
+  "line": "Is this seat taken?",
+  "a": "No, go ahead.",
+  "d": [
+   "Yes, please sit.",
+   "I don't take it.",
+   "The seat is a chair."
+  ],
+  "ex": "問「有人坐嗎」,沒人坐要答 No;答 Yes 等於說有人。"
+ },
+ {
+  "id": "d020",
+  "cefr": "A2",
+  "ctx": "朋友搬家請你幫忙",
+  "line": "Can you help me carry this box?",
+  "a": "Sure, no problem.",
+  "d": [
+   "Of course not!",
+   "I can, but I don't want to.",
+   "Yes, box."
+  ],
+  "ex": "爽快答應;Of course not 是拒絕,語氣很衝。"
+ },
+ {
+  "id": "d021",
+  "cefr": "A2",
+  "ctx": "超市結帳",
+  "line": "Do you need a bag?",
+  "a": "No, I'm fine, thanks.",
+  "d": [
+   "Yes, it's my bag.",
+   "I don't need it, you take it.",
+   "Bag, please no."
+  ],
+  "ex": "I'm fine 在這裡是「不用了」的禮貌說法。"
+ },
+ {
+  "id": "d022",
+  "cefr": "A2",
+  "ctx": "新同事聊天",
+  "line": "What do you usually do on weekends?",
+  "a": "I usually go hiking or watch movies.",
+  "d": [
+   "I went hiking last weekend with my cousins.",
+   "I am do hiking.",
+   "On weekends is Saturday."
+  ],
+  "ex": "問平常習慣用現在簡單式回答;談上週末是答錯問題。"
+ },
+ {
+  "id": "d023",
+  "cefr": "A2",
+  "ctx": "機場報到櫃檯",
+  "line": "Window or aisle?",
+  "a": "Aisle, please.",
+  "d": [
+   "Yes, please.",
+   "I like the airplane.",
+   "Window and aisle both."
+  ],
+  "ex": "選擇題問句不能答 Yes,要選一個。"
+ },
+ {
+  "id": "d024",
+  "cefr": "A2",
+  "ctx": "幫同事接電話,對方說要找的人不在",
+  "line": "Oh, he's not in? Can I leave a message?",
+  "a": "Of course. Go ahead.",
+  "d": [
+   "Yes, leave it.",
+   "Message is OK.",
+   "No, I don't have a message phone."
+  ],
+  "ex": "對方要留言,請他說即可;其他選項語意不通。"
+ },
+ {
+  "id": "d025",
+  "cefr": "A2",
+  "ctx": "週一早上同事問",
+  "line": "How was your weekend?",
+  "a": "Great, I went to the beach.",
+  "d": [
+   "It is great, I go to beach.",
+   "Next weekend I will rest at home.",
+   "My weekend was on Saturday."
+  ],
+  "ex": "談過去用過去式 went;談下週末是答非所問。"
+ },
+ {
+  "id": "d026",
+  "cefr": "A2",
+  "ctx": "路人問你",
+  "line": "Excuse me, what time is it?",
+  "a": "It's about half past three.",
+  "d": [
+   "It's three hours.",
+   "I have time, so I can talk with you if you want.",
+   "Yes, it is."
+  ],
+  "ex": "half past three = 三點半。"
+ },
+ {
+  "id": "d027",
+  "cefr": "A2",
+  "ctx": "服務生問飲料",
+  "line": "Would you like something to drink?",
+  "a": "Just water, please.",
+  "d": [
+   "I'd like to drink something.",
+   "Yes, I would like.",
+   "Give me water."
+  ],
+  "ex": "Just ___, please 簡潔禮貌;Give me 太像命令。"
+ },
+ {
+  "id": "d028",
+  "cefr": "A2",
+  "ctx": "Slack:同事傳訊息",
+  "line": "Can you send me the file?",
+  "a": "Sure, I'll send it now.",
+  "d": [
+   "OK, I send you later now.",
+   "Why do you need it?",
+   "I am file."
+  ],
+  "ex": "I'll + 動詞表示當下決定要做;反問為什麼顯得不合作。"
+ },
+ {
+  "id": "d029",
+  "cefr": "A2",
+  "ctx": "朋友興奮地告訴你",
+  "line": "I passed my driving test!",
+  "a": "Congratulations! That's great news.",
+  "d": [
+   "Congratulation you!",
+   "Why?",
+   "I passed mine a long time ago, it's easy."
+  ],
+  "ex": "Congratulations 要加 s;炫耀自己很早考過不得體。"
+ },
+ {
+  "id": "d030",
+  "cefr": "A2",
+  "ctx": "飯店櫃檯給你房卡",
+  "line": "Here's your key card. Your room is on the fifth floor.",
+  "a": "Thank you. What time is breakfast?",
+  "d": [
+   "OK, I go to five floor now and then I will sleep.",
+   "My room is fifth.",
+   "Card is key?"
+  ],
+  "ex": "道謝後接著問早餐時間,自然順暢。"
+ },
+ {
+  "id": "d031",
+  "cefr": "A2",
+  "ctx": "服飾店店員",
+  "line": "Would you like to try it on?",
+  "a": "Yes. Where's the fitting room?",
+  "d": [
+   "Yes, I like to try on it.",
+   "I tried yesterday.",
+   "No, I wear."
+  ],
+  "ex": "fitting room 是試衣間;try it on 代名詞放中間。"
+ },
+ {
+  "id": "d032",
+  "cefr": "A2",
+  "ctx": "同事想約時間",
+  "line": "Are you free tomorrow afternoon?",
+  "a": "Yes, after two o'clock.",
+  "d": [
+   "Free is good.",
+   "Tomorrow is Friday.",
+   "Yes, I'm free yesterday."
+  ],
+  "ex": "回答有空並給出時段,方便對方安排。"
+ },
+ {
+  "id": "d033",
+  "cefr": "A2",
+  "ctx": "朋友不小心打破你的杯子",
+  "line": "I'm sorry, I broke your cup.",
+  "a": "Don't worry about it.",
+  "d": [
+   "Yes, you broke.",
+   "Yes, you are sorry.",
+   "You must pay me now, right now!"
+  ],
+  "ex": "Don't worry about it 是接受道歉的常用語。"
+ },
+ {
+  "id": "d034",
+  "cefr": "A2",
+  "ctx": "公車站有人問你",
+  "line": "Does this bus go to the airport?",
+  "a": "No, you need the 1819.",
+  "d": [
+   "Yes, it goes airport go.",
+   "I'm not going there today.",
+   "The airport is very big."
+  ],
+  "ex": "直接回答並告訴對方該搭哪班車。"
+ },
+ {
+  "id": "d035",
+  "cefr": "A2",
+  "ctx": "電話中客戶說",
+  "line": "Could you speak more slowly, please?",
+  "a": "Of course. Sorry about that.",
+  "d": [
+   "OK. I. Speak. Slow.",
+   "No, I'm busy.",
+   "You should learn more English."
+  ],
+  "ex": "同意並致歉;叫對方學英文非常失禮。"
+ },
+ {
+  "id": "d036",
+  "cefr": "A2",
+  "ctx": "朋友問你生日想要什麼",
+  "line": "What would you like for your birthday?",
+  "a": "Nothing special — just dinner together.",
+  "d": [
+   "My birthday is in May, on the twentieth, just after my sister's.",
+   "I would like birthday.",
+   "Give me money."
+  ],
+  "ex": "回答想要什麼;說生日日期是答非所問。"
+ },
+ {
+  "id": "d037",
+  "cefr": "A2",
+  "ctx": "服飾店店員",
+  "line": "We don't have this in a medium, sorry.",
+  "a": "That's OK. Do you have it in a large?",
+  "d": [
+   "Why not?",
+   "Medium is not have?",
+   "OK, then I take small medium size, it's the same thing for me."
+  ],
+  "ex": "in a large 指「L 號的」;Why not? 語氣不耐煩。"
+ },
+ {
+  "id": "d038",
+  "cefr": "A2",
+  "ctx": "辦公室同事問你",
+  "line": "Do you mind if I open the window?",
+  "a": "Not at all. Go ahead.",
+  "d": [
+   "Yes, go ahead.",
+   "I mind the window.",
+   "Window is open."
+  ],
+  "ex": "Do you mind 問「介意嗎」,同意要答 Not at all;Yes 表示介意。"
+ },
+ {
+  "id": "d039",
+  "cefr": "A2",
+  "ctx": "入境櫃檯",
+  "line": "Can I see your passport, please?",
+  "a": "Sure, here you are.",
+  "d": [
+   "Yes, you can see.",
+   "Here you are passport.",
+   "Why do you want it?"
+  ],
+  "ex": "遞東西說 Here you are。"
+ },
+ {
+  "id": "d040",
+  "cefr": "A2",
+  "ctx": "Slack:同事傳來",
+  "line": "Hi, are we still meeting at 3?",
+  "a": "Yes, see you in Room B.",
+  "d": [
+   "Yes, we are still.",
+   "We met at 3 yesterday, and the meeting was very long and boring.",
+   "Meeting is good."
+  ],
+  "ex": "確認仍照原定並補充地點。"
+ },
+ {
+  "id": "d041",
+  "cefr": "A2",
+  "ctx": "Slack:同事說連結打不開",
+  "line": "Can you check this link? It doesn't open for me.",
+  "a": "Sure, give me a sec.",
+  "d": [
+   "Link is open.",
+   "It doesn't open for me too.",
+   "Check it yourself."
+  ],
+  "ex": "give me a sec = 給我一下;否定句的「也」要用 either。"
+ },
+ {
+  "id": "d042",
+  "cefr": "A2",
+  "ctx": "LINE:朋友傳訊息",
+  "line": "Running 10 mins late, sorry!",
+  "a": "No worries, I'll grab a table.",
+  "d": [
+   "Why you are late?",
+   "OK, I am late too 10 mins, so we both arrive at same time.",
+   "Sorry for you."
+  ],
+  "ex": "No worries 表示沒關係;grab a table 先佔位子。"
+ },
+ {
+  "id": "d043",
+  "cefr": "A2",
+  "ctx": "餐廳門口帶位",
+  "line": "Table for one?",
+  "a": "No, two. My friend is coming.",
+  "d": [
+   "Yes, it's for one person two.",
+   "One is for me.",
+   "I am one."
+  ],
+  "ex": "直接更正人數並說明朋友稍後到。"
+ },
+ {
+  "id": "d044",
+  "cefr": "A2",
+  "ctx": "飯店人員關心",
+  "line": "Is everything OK with your room?",
+  "a": "Yes, it's great, but the Wi-Fi is a bit slow.",
+  "d": [
+   "Room is everything.",
+   "No, I'm OK.",
+   "My room is OK with me, with my room."
+  ],
+  "ex": "先肯定再委婉提出小問題,很自然。"
+ },
+ {
+  "id": "d045",
+  "cefr": "A2",
+  "ctx": "朋友約碰面時間",
+  "line": "Let's meet at 7.",
+  "a": "Sounds good. See you then.",
+  "d": [
+   "Sounds well.",
+   "Seven is a number.",
+   "I meet you 7 clock at the station, don't be late again please."
+  ],
+  "ex": "Sounds good 是固定說法,不說 sounds well。"
+ },
+ {
+  "id": "d046",
+  "cefr": "A2",
+  "ctx": "商店結帳",
+  "line": "Cash or card?",
+  "a": "Card, please.",
+  "d": [
+   "Yes.",
+   "Card and cash.",
+   "I have money."
+  ],
+  "ex": "二選一問句要選一個,不能答 Yes。"
+ },
+ {
+  "id": "d047",
+  "cefr": "A2",
+  "ctx": "會議中同事沒聽清楚",
+  "line": "Sorry, could you repeat that?",
+  "a": "Sure. I said the meeting is moved to Thursday.",
+  "d": [
+   "Repeat that.",
+   "I already said it once. You should listen more carefully next time.",
+   "Yes, I could."
+  ],
+  "ex": "重述重點;I already said it 顯得不耐煩。"
+ },
+ {
+  "id": "d048",
+  "cefr": "A2",
+  "ctx": "遊客問你路",
+  "line": "How do I get to the MRT station?",
+  "a": "Go straight and turn left at the bank.",
+  "d": [
+   "You get by MRT.",
+   "Go straight and left turn at bank and you arrive it.",
+   "The MRT is fast and clean."
+  ],
+  "ex": "turn left at ___ 是指路基本句型。"
+ },
+ {
+  "id": "d049",
+  "cefr": "A2",
+  "ctx": "下午朋友問你",
+  "line": "Are you hungry?",
+  "a": "A little. Let's eat something.",
+  "d": [
+   "I was hungry yesterday, but today I am not so hungry like yesterday.",
+   "Yes, I hungry.",
+   "I don't know you."
+  ],
+  "ex": "hungry 是形容詞,要用 I'm hungry;A little 簡潔自然。"
+ },
+ {
+  "id": "d050",
+  "cefr": "A2",
+  "ctx": "醫生問診",
+  "line": "Are you allergic to anything?",
+  "a": "Yes, I'm allergic to penicillin.",
+  "d": [
+   "I'm allergy penicillin.",
+   "No, I like everything.",
+   "I'm not allergic to you."
+  ],
+  "ex": "allergic to + 物品;allergy 是名詞。"
+ },
+ {
+  "id": "d051",
+  "cefr": "A2",
+  "ctx": "同事下班前跟你道謝",
+  "line": "Thanks for your help today.",
+  "a": "Anytime.",
+  "d": [
+   "Never mind.",
+   "Yes, I helped you a lot today.",
+   "You should thank me."
+  ],
+  "ex": "Anytime = 隨時樂意幫忙;Never mind 用錯場合。"
+ },
+ {
+  "id": "d052",
+  "cefr": "A2",
+  "ctx": "商店店員提醒",
+  "line": "Sorry, we're closing in five minutes.",
+  "a": "Oh, OK. I'll be quick.",
+  "d": [
+   "Why are you closing?",
+   "Five minutes is OK, I stay one hour.",
+   "Close is fine."
+  ],
+  "ex": "表示理解並會加快;質問為何打烊不禮貌。"
+ },
+ {
+  "id": "d053",
+  "cefr": "A2",
+  "ctx": "朋友家作客",
+  "line": "Would you like some cake?",
+  "a": "Yes, please. It looks great.",
+  "d": [
+   "Yes, I would like some cakes please give me.",
+   "No, I'm diet.",
+   "Cake is sweet."
+  ],
+  "ex": "I'm diet 是中式英文,應說 I'm on a diet。"
+ },
+ {
+  "id": "d054",
+  "cefr": "A2",
+  "ctx": "新同事自我介紹後問你",
+  "line": "Where are you from?",
+  "a": "I'm from Hsinchu, in Taiwan.",
+  "d": [
+   "I come from Hsinchu now.",
+   "From Taiwan is me.",
+   "I'm going to Hsinchu next week to visit my family and friends."
+  ],
+  "ex": "I'm from ___ 說明出身地。"
+ },
+ {
+  "id": "d055",
+  "cefr": "A2",
+  "ctx": "日本入境時被問",
+  "line": "Is this your first time in Japan?",
+  "a": "No, it's my third visit.",
+  "d": [
+   "No, it's my three times.",
+   "Yes, it's my second time.",
+   "Japan is first."
+  ],
+  "ex": "third visit 用序數;Yes 和 second time 互相矛盾。"
+ },
+ {
+  "id": "d056",
+  "cefr": "B1",
+  "ctx": "同事在走廊遇到你",
+  "line": "Hey, how did the presentation go?",
+  "a": "Pretty well, thanks. They liked the demo.",
+  "d": [
+   "Yes, I go to presentation and I talk about our new product demo.",
+   "It was gone well.",
+   "Thank you, and you?"
+  ],
+  "ex": "How did ___ go? 問結果如何,用過去式回答並補一句細節。"
+ },
+ {
+  "id": "d057",
+  "cefr": "B1",
+  "ctx": "會議主持人問大家",
+  "line": "Does anyone have any questions before we move on?",
+  "a": "Just one — when's the deadline for phase two?",
+  "d": [
+   "Yes, I have questions before.",
+   "No questions is good.",
+   "Move on, please, this part is really boring."
+  ],
+  "ex": "Just one 帶出問題,簡潔;說會議無聊非常失禮。"
+ },
+ {
+  "id": "d058",
+  "cefr": "B1",
+  "ctx": "同事臨時有事拜託你",
+  "line": "Could you cover for me at the 2 p.m. call?",
+  "a": "Sure. Anything I should know beforehand?",
+  "d": [
+   "Cover what? You should do it yourself, it's your call, not mine.",
+   "Yes, I could covered.",
+   "The call is at 2 p.m."
+  ],
+  "ex": "cover for 是代班;答應並問需要先知道什麼。"
+ },
+ {
+  "id": "d059",
+  "cefr": "B1",
+  "ctx": "主管問你",
+  "line": "Can you have the report ready by Friday?",
+  "a": "Friday might be tight, but I'll do my best.",
+  "d": [
+   "Friday is impossible, ask someone else.",
+   "I will try my best to finish it until Friday.",
+   "Yes, the report was ready on Friday."
+  ],
+  "ex": "tight = 時間很緊;期限要用 by,不用 until。"
+ },
+ {
+  "id": "d060",
+  "cefr": "B1",
+  "ctx": "餐廳服務生說",
+  "line": "I'm afraid the salmon is sold out tonight.",
+  "a": "Oh, that's a shame. What would you recommend instead?",
+  "d": [
+   "You are afraid? Why?",
+   "Then I go to another restaurant, bye.",
+   "OK, give me the salmon."
+  ],
+  "ex": "I'm afraid 是「恐怕」委婉語,不是害怕;請對方推薦替代。"
+ },
+ {
+  "id": "d061",
+  "cefr": "B1",
+  "ctx": "太早抵達飯店",
+  "line": "I'm sorry, but check-in isn't until 3 p.m.",
+  "a": "No problem. Could I leave my luggage here until then?",
+  "d": [
+   "But I want check in now, I am very tired, you must give me room.",
+   "Is 3 p.m. check-in?",
+   "OK, I'll check in at 2."
+  ],
+  "ex": "接受規定並詢問寄放行李,實用又禮貌。"
+ },
+ {
+  "id": "d062",
+  "cefr": "B1",
+  "ctx": "朋友邀你週末烤肉",
+  "line": "We're having a barbecue on Saturday. Want to come?",
+  "a": "I'd love to, but I'm visiting my parents. Next time?",
+  "d": [
+   "I don't want.",
+   "No, I have plan.",
+   "Yes, but I can't come because I have to visit my parents that day."
+  ],
+  "ex": "婉拒公式:I'd love to, but + 理由 + 提議下次。"
+ },
+ {
+  "id": "d063",
+  "cefr": "B1",
+  "ctx": "同事聽不太懂你說的",
+  "line": "I'm not sure I follow. Could you explain that again?",
+  "a": "Sure — basically, we're switching suppliers to cut costs.",
+  "d": [
+   "I explained it already.",
+   "Follow me, please.",
+   "Yes, I could explain that again."
+  ],
+  "ex": "follow 在此是「聽懂」;用 basically 換句話簡述。"
+ },
+ {
+  "id": "d064",
+  "cefr": "B1",
+  "ctx": "打電話給銀行客服",
+  "line": "Could I have your account number, please?",
+  "a": "Sure, it's 4-7-2-9-1.",
+  "d": [
+   "You could have.",
+   "My account is number.",
+   "Yes, you could have my account."
+  ],
+  "ex": "直接提供號碼;You could have 是字面誤解。"
+ },
+ {
+  "id": "d065",
+  "cefr": "B1",
+  "ctx": "登機門地勤告知",
+  "line": "Your flight has been delayed by two hours.",
+  "a": "Oh no. Will I still make my connection in Tokyo?",
+  "d": [
+   "Delayed is two hours?",
+   "That's your problem, not mine. I need to be in Tokyo on time today.",
+   "Thank you for the delay."
+  ],
+  "ex": "make my connection = 趕得上轉機,是最實際的追問。"
+ },
+ {
+  "id": "d066",
+  "cefr": "B1",
+  "ctx": "結帳時店員問",
+  "line": "Would you like to keep the receipt?",
+  "a": "Yes, please — just in case.",
+  "d": [
+   "Keep it to you, I don't need any paper, I have my phone.",
+   "Receipt is mine?",
+   "No, I'll keep it."
+  ],
+  "ex": "just in case = 以防萬一;No 和 I'll keep it 矛盾。"
+ },
+ {
+  "id": "d067",
+  "cefr": "B1",
+  "ctx": "專案會議上同事提議",
+  "line": "I think we should postpone the launch.",
+  "a": "I see your point, but the client is expecting it next week.",
+  "d": [
+   "You are wrong.",
+   "Postpone is good idea, yes, no.",
+   "I think so too, so we should launch now."
+  ],
+  "ex": "I see your point, but… 是委婉表達不同意的常用句。"
+ },
+ {
+  "id": "d068",
+  "cefr": "B1",
+  "ctx": "會議快超時,同事提醒",
+  "line": "Sorry to interrupt, but we're running out of time.",
+  "a": "Right, let's wrap up the last item quickly.",
+  "d": [
+   "Don't interrupt me.",
+   "Time is running.",
+   "Sorry, I am interrupting too, but I think we still have a lot of time."
+  ],
+  "ex": "wrap up = 收尾;接受提醒並加快進度。"
+ },
+ {
+  "id": "d069",
+  "cefr": "B1",
+  "ctx": "主管稱讚你",
+  "line": "Great job on the client meeting today.",
+  "a": "Thanks! The team prepared really well.",
+  "d": [
+   "No, I'm not good.",
+   "Yes, I know I am great. I always do the best job in this team.",
+   "Thank you, you too great."
+  ],
+  "ex": "接受稱讚並歸功團隊;過度否定或自誇都不自然。"
+ },
+ {
+  "id": "d070",
+  "cefr": "B1",
+  "ctx": "餐點等很久才上",
+  "line": "Sorry for the wait. Here's your pasta.",
+  "a": "Thanks. Could we also get some more bread?",
+  "d": [
+   "You are too slow.",
+   "It's OK, never mind, I waited very long.",
+   "Sorry for you."
+  ],
+  "ex": "大方接受並提出新需求;直說太慢不禮貌。"
+ },
+ {
+  "id": "d071",
+  "cefr": "B1",
+  "ctx": "上錯菜,服務生來問",
+  "line": "Is everything all right here?",
+  "a": "Actually, I ordered the chicken, not the beef.",
+  "d": [
+   "Everything is not right here, you are terrible, bring the manager now.",
+   "Yes, but this is wrong food.",
+   "All right here."
+  ],
+  "ex": "Actually 開頭委婉指出問題,清楚又不衝。"
+ },
+ {
+  "id": "d072",
+  "cefr": "B1",
+  "ctx": "醫生問診",
+  "line": "How long have you had this cough?",
+  "a": "About a week now.",
+  "d": [
+   "Since one week.",
+   "I have it a week ago.",
+   "It's a bad cough, doctor."
+  ],
+  "ex": "How long 問期間,答 About a week;since 後面要接時間點。"
+ },
+ {
+  "id": "d073",
+  "cefr": "B1",
+  "ctx": "藥師交代用藥",
+  "line": "Take this twice a day after meals.",
+  "a": "Got it. Should I avoid alcohol?",
+  "d": [
+   "After meals is twice?",
+   "I don't take after meals.",
+   "OK, two times one day eat, after breakfast and dinner, I remember."
+  ],
+  "ex": "Got it 表示了解,再問相關注意事項。"
+ },
+ {
+  "id": "d074",
+  "cefr": "B1",
+  "ctx": "朋友吃飯時說",
+  "line": "I'm thinking of quitting my job.",
+  "a": "Really? What happened?",
+  "d": [
+   "Good, you should quit. That company is terrible anyway.",
+   "I'm thinking too.",
+   "Quit is easy."
+  ],
+  "ex": "先關心原因;直接叫人辭職太草率。"
+ },
+ {
+  "id": "d075",
+  "cefr": "B1",
+  "ctx": "同事找東西",
+  "line": "Do you know where the projector remote is?",
+  "a": "I think Amy had it in the meeting room.",
+  "d": [
+   "I know.",
+   "Remote is far.",
+   "Yes, it's a remote. It's for controlling the projector from far."
+  ],
+  "ex": "Do you know where 要回答地點,單說 I know 不夠。"
+ },
+ {
+  "id": "d076",
+  "cefr": "B1",
+  "ctx": "飛機上鄰座乘客問你",
+  "line": "Would you mind switching seats so I can sit with my son?",
+  "a": "Not at all. Which seat is yours?",
+  "d": [
+   "Yes, I would mind, sure.",
+   "Your son can sit alone.",
+   "I don't mind to switch you, but my seat is better than your seat."
+  ],
+  "ex": "Would you mind 同意要說 Not at all。"
+ },
+ {
+  "id": "d077",
+  "cefr": "B1",
+  "ctx": "同事會後約你",
+  "line": "Want to grab a coffee after this?",
+  "a": "I'd love to, but I have another call. Rain check?",
+  "d": [
+   "I don't drink coffee with you.",
+   "Grab is not a polite word. You should say 'Would you like to have'.",
+   "Yes, after this I grab you."
+  ],
+  "ex": "rain check = 改天再約,婉拒常用。"
+ },
+ {
+  "id": "d078",
+  "cefr": "B1",
+  "ctx": "Email:客戶來信",
+  "line": "Could you send over the updated quote by end of day?",
+  "a": "Will do — you'll have it by 5 p.m.",
+  "d": [
+   "Okay, I will send you quote end day.",
+   "Why did you not ask earlier?",
+   "The quote was updated."
+  ],
+  "ex": "Will do 是「好的,會處理」;再給明確時間。"
+ },
+ {
+  "id": "d079",
+  "cefr": "B1",
+  "ctx": "Slack:同事傳來",
+  "line": "Quick question — is the server down for you too?",
+  "a": "Yeah, same here. IT is on it.",
+  "d": [
+   "Quick answer: yes no.",
+   "The server is down for me too?",
+   "Ask IT, don't ask me."
+  ],
+  "ex": "same here = 我也是;on it = 正在處理。"
+ },
+ {
+  "id": "d080",
+  "cefr": "B1",
+  "ctx": "Email:同事寄草稿",
+  "line": "I've attached the draft. Let me know what you think.",
+  "a": "Thanks — I'll take a look and get back to you this afternoon.",
+  "d": [
+   "I think it's a draft.",
+   "Thanks, I have attached it too.",
+   "OK, I'll let you know what you think."
+  ],
+  "ex": "get back to you = 再回覆你;最後一句人稱錯亂。"
+ },
+ {
+  "id": "d081",
+  "cefr": "B1",
+  "ctx": "你在公司接到電話",
+  "line": "Hi, I'm calling about the job ad on your website.",
+  "a": "Sure, which position are you interested in?",
+  "d": [
+   "We have a website.",
+   "Why are you calling? You can just send email to our HR department.",
+   "The job is an ad."
+  ],
+  "ex": "確認對方想應徵哪個職位;Why are you calling 不禮貌且多餘。"
+ },
+ {
+  "id": "d082",
+  "cefr": "B1",
+  "ctx": "主管想改一對一面談時間",
+  "line": "Can we move our one-on-one to Thursday?",
+  "a": "Thursday works. Same time?",
+  "d": [
+   "Thursday is OK for you?",
+   "One-on-one is two people.",
+   "Can't. Monday only."
+  ],
+  "ex": "___ works 表示可以;再確認時間。"
+ },
+ {
+  "id": "d083",
+  "cefr": "B1",
+  "ctx": "店員介紹",
+  "line": "That one's on sale — 30% off.",
+  "a": "Great. Does that include the jacket too?",
+  "d": [
+   "30% is sale.",
+   "Can you give me 50% off instead? Or I'm leaving this shop now.",
+   "Sale is good for you."
+  ],
+  "ex": "追問折扣範圍很自然;威脅要走太衝。"
+ },
+ {
+  "id": "d084",
+  "cefr": "B1",
+  "ctx": "想換貨,店員問",
+  "line": "Do you have the receipt?",
+  "a": "I'm afraid I lost it. Can I still exchange it?",
+  "d": [
+   "Receipt? No.",
+   "I have no receipt, but I have the item for you here in my bag.",
+   "Yes, I lost it."
+  ],
+  "ex": "I'm afraid 委婉說壞消息,再問是否仍能換。"
+ },
+ {
+  "id": "d085",
+  "cefr": "B1",
+  "ctx": "朋友見到你說",
+  "line": "You look tired.",
+  "a": "Yeah, I didn't sleep well last night.",
+  "d": [
+   "You look tired too. Maybe we both need to go home early today.",
+   "Yes, I am look tired.",
+   "Thank you."
+  ],
+  "ex": "說明原因自然;You look tired 不是稱讚,不用道謝。"
+ },
+ {
+  "id": "d086",
+  "cefr": "B1",
+  "ctx": "同事忘了寄會議紀錄",
+  "line": "I'm so sorry — I forgot to send you the minutes.",
+  "a": "No worries. Could you send them today?",
+  "d": [
+   "You always forget.",
+   "Yes, you forgot.",
+   "It doesn't matter, I don't care about minutes."
+  ],
+  "ex": "minutes 指會議紀錄;接受道歉並提出期望。"
+ },
+ {
+  "id": "d087",
+  "cefr": "B1",
+  "ctx": "飯店櫃檯問",
+  "line": "Would you like a wake-up call?",
+  "a": "Yes, at 6:30, please.",
+  "d": [
+   "Wake me up.",
+   "Yes, I would like to call.",
+   "I wake up at 6:30 every day."
+  ],
+  "ex": "wake-up call 是叫醒服務,回答要幾點。"
+ },
+ {
+  "id": "d088",
+  "cefr": "B1",
+  "ctx": "機場報到人員問",
+  "line": "Did you pack your bag yourself?",
+  "a": "Yes, I did.",
+  "d": [
+   "Yes, I packed it by myself bag.",
+   "No, my bag is packed.",
+   "Myself is packed."
+  ],
+  "ex": "安檢固定問題,簡答 Yes, I did。"
+ },
+ {
+  "id": "d089",
+  "cefr": "B1",
+  "ctx": "搬新辦公室後同事問",
+  "line": "What do you think of the new office?",
+  "a": "I like it — it's much brighter than the old one.",
+  "d": [
+   "I think it's an office.",
+   "It's more bright than old one, and the chairs are more comfortable.",
+   "I don't think."
+  ],
+  "ex": "bright 比較級是 brighter;給意見加理由。"
+ },
+ {
+  "id": "d090",
+  "cefr": "B1",
+  "ctx": "潛在客戶說",
+  "line": "We'd like to see a demo before we decide.",
+  "a": "Of course. How about next Tuesday?",
+  "d": [
+   "Demo is not free.",
+   "You should decide first, and then we can show you the demo later.",
+   "OK, we will demo you."
+  ],
+  "ex": "同意並主動提時間,推進流程。"
+ },
+ {
+  "id": "d091",
+  "cefr": "B1",
+  "ctx": "朋友臨時取消",
+  "line": "I can't make it tonight, something came up.",
+  "a": "That's OK. Hope everything's fine.",
+  "d": [
+   "Why? What came up? Tell me.",
+   "OK, you came up.",
+   "Never mind, I don't care."
+  ],
+  "ex": "something came up 是委婉說有事;追問細節太冒昧。"
+ },
+ {
+  "id": "d092",
+  "cefr": "B1",
+  "ctx": "同事想早退",
+  "line": "Is it OK if I leave a bit early today? My kid is sick.",
+  "a": "Of course. I hope she feels better soon.",
+  "d": [
+   "Your kid is always sick.",
+   "Early is OK for you?",
+   "OK, but who will do your work then?"
+  ],
+  "ex": "同意並表達關心;質疑工作誰做顯得冷漠。"
+ },
+ {
+  "id": "d093",
+  "cefr": "B1",
+  "ctx": "遊客問你",
+  "line": "Is it within walking distance?",
+  "a": "Yes, it's about ten minutes on foot.",
+  "d": [
+   "Yes, you can walk distance, it is not so far from here to there.",
+   "It's within.",
+   "Walking is healthy."
+  ],
+  "ex": "within walking distance = 走路可到;on foot = 步行。"
+ },
+ {
+  "id": "d094",
+  "cefr": "B1",
+  "ctx": "打電話訂位",
+  "line": "What time would you like the table?",
+  "a": "Around seven, if possible.",
+  "d": [
+   "The table at seven o'clock would like.",
+   "I'd like a big table.",
+   "Seven people."
+  ],
+  "ex": "問時間就答時間;Seven people 是答人數。"
+ },
+ {
+  "id": "d095",
+  "cefr": "B1",
+  "ctx": "主管交派任務",
+  "line": "I need you to lead the project kickoff.",
+  "a": "Sure. Who else will be in the meeting?",
+  "d": [
+   "Why me? I think someone else in the team can do it better.",
+   "OK, I need you too.",
+   "Kickoff is football."
+  ],
+  "ex": "kickoff 是專案啟動會議;接下並問細節。"
+ },
+ {
+  "id": "d096",
+  "cefr": "B1",
+  "ctx": "同事問",
+  "line": "Did you get my email?",
+  "a": "I did, but I haven't had a chance to read it yet.",
+  "d": [
+   "I got it, but not read yet it.",
+   "Yes, you sent.",
+   "What email? I never read emails."
+  ],
+  "ex": "haven't had a chance to = 還沒空去做。"
+ },
+ {
+  "id": "d097",
+  "cefr": "B1",
+  "ctx": "會議開始自我介紹",
+  "line": "Let's go around the table and introduce ourselves.",
+  "a": "Hi everyone, I'm Jason from the data team.",
+  "d": [
+   "My name is call Jason.",
+   "Let's go around the table.",
+   "I'm Jason, and you? Please introduce yourself to me also."
+  ],
+  "ex": "名字加所屬團隊是職場自我介紹基本款。"
+ },
+ {
+  "id": "d098",
+  "cefr": "B1",
+  "ctx": "結帳時店員說",
+  "line": "I'm sorry, this card was declined.",
+  "a": "Oh, that's strange. Let me try another one.",
+  "d": [
+   "Your machine is broken, I think. My card always works everywhere.",
+   "Declined is what?",
+   "It's OK, it's declined."
+  ],
+  "ex": "declined = 刷卡被拒;冷靜換卡,不怪店家。"
+ },
+ {
+  "id": "d099",
+  "cefr": "B1",
+  "ctx": "朋友來家裡吃飯後道謝",
+  "line": "Thanks for having us over. Dinner was amazing.",
+  "a": "I'm glad you enjoyed it. Come again soon!",
+  "d": [
+   "Yes, my cooking is amazing.",
+   "No, it was terrible.",
+   "You're welcome to have us over. We will come to your house again."
+  ],
+  "ex": "have someone over = 請人到家裡;回應感謝並邀再來。"
+ },
+ {
+  "id": "d100",
+  "cefr": "B1",
+  "ctx": "同事在講電話,你太大聲",
+  "line": "Could you keep it down a little? I'm on a call.",
+  "a": "Oh, sorry! I didn't realise.",
+  "d": [
+   "Keep what down?",
+   "This is my desk.",
+   "OK, I keep it."
+  ],
+  "ex": "keep it down = 小聲點;立即致歉。"
+ },
+ {
+  "id": "d101",
+  "cefr": "B1",
+  "ctx": "醫生看診結束",
+  "line": "I'd like you to come back in two weeks.",
+  "a": "Sure. Should I book that at the front desk?",
+  "d": [
+   "Two weeks later I come back.",
+   "Why? I'm fine now.",
+   "You come back too."
+  ],
+  "ex": "答應並詢問如何預約回診。"
+ },
+ {
+  "id": "d102",
+  "cefr": "B1",
+  "ctx": "訪客問你",
+  "line": "What's the Wi-Fi password?",
+  "a": "It's on the whiteboard by the door.",
+  "d": [
+   "Password is secret.",
+   "I don't know where is it, maybe you can ask somebody else.",
+   "Wi-Fi is fast here."
+  ],
+  "ex": "告訴對方在哪裡找;間接問句語序是 where it is。"
+ },
+ {
+  "id": "d103",
+  "cefr": "B1",
+  "ctx": "Email:人資來信",
+  "line": "Please confirm your attendance at the training on May 3.",
+  "a": "Confirmed — I'll be there. Thanks.",
+  "d": [
+   "I confirm to attend it.",
+   "What is training?",
+   "May 3 is a Monday."
+  ],
+  "ex": "簡短確認出席即可。"
+ },
+ {
+  "id": "d104",
+  "cefr": "B1",
+  "ctx": "LINE:朋友傳訊息",
+  "line": "Are you coming to Amy's party?",
+  "a": "Yes! What should I bring?",
+  "d": [
+   "Yes, I am come.",
+   "Party is coming.",
+   "I came to Amy's party last year, it was really fun and crowded."
+  ],
+  "ex": "答應並問要帶什麼,很自然。"
+ },
+ {
+  "id": "d105",
+  "cefr": "B1",
+  "ctx": "Slack:主管傳訊息",
+  "line": "Can you jump on a quick call?",
+  "a": "Sure, give me two minutes.",
+  "d": [
+   "Jump where?",
+   "Quick call is OK?",
+   "No, I'm too busy now, bye."
+  ],
+  "ex": "jump on a call = 馬上通個電話。"
+ },
+ {
+  "id": "d106",
+  "cefr": "B1",
+  "ctx": "設計討論中同事說",
+  "line": "I disagree. I think the old design was better.",
+  "a": "Fair enough. What did you like about it?",
+  "d": [
+   "You are wrong.",
+   "I disagree your disagree, because the new design is more modern.",
+   "OK, old design."
+  ],
+  "ex": "Fair enough 先接住意見,再請對方說明。"
+ },
+ {
+  "id": "d107",
+  "cefr": "B1",
+  "ctx": "飯店櫃檯告知",
+  "line": "Good news — your room has been upgraded to a suite.",
+  "a": "Wow, thank you! That's very kind.",
+  "d": [
+   "Upgraded is suite?",
+   "I don't want, give me small room.",
+   "Thank you for your upgrading me, I am very appreciate it."
+  ],
+  "ex": "開心道謝即可。"
+ },
+ {
+  "id": "d108",
+  "cefr": "B1",
+  "ctx": "咖啡店點餐",
+  "line": "Can I get a name for the order?",
+  "a": "Sure, it's Ken.",
+  "d": [
+   "Name is Ken order.",
+   "You can get.",
+   "I ordered a latte."
+  ],
+  "ex": "問名字就給名字;You can get 是字面誤解。"
+ },
+ {
+  "id": "d109",
+  "cefr": "B1",
+  "ctx": "同事請你看程式碼",
+  "line": "Would you be able to review my code this afternoon?",
+  "a": "I can do it after lunch. Send me the PR link.",
+  "d": [
+   "I can review you.",
+   "Your code is bad anyway.",
+   "This afternoon is busy for me to review, maybe you ask other people."
+  ],
+  "ex": "答應並說時間、要連結,溝通清楚。"
+ },
+ {
+  "id": "d110",
+  "cefr": "B1",
+  "ctx": "計程車司機問",
+  "line": "Do you mind if I take the highway? It's faster.",
+  "a": "Not at all, go ahead.",
+  "d": [
+   "Yes, take it.",
+   "Highway is fast.",
+   "I don't care."
+  ],
+  "ex": "Do you mind 同意答 Not at all;I don't care 聽起來冷淡。"
+ },
+ {
+  "id": "d111",
+  "cefr": "B1",
+  "ctx": "你打電話,對方說",
+  "line": "I think you have the wrong number.",
+  "a": "Oh, I'm sorry to bother you.",
+  "d": [
+   "No, you have wrong number.",
+   "Wrong number is who?",
+   "Then who are you? I want to talk to Mr. Chen, please give him."
+  ],
+  "ex": "打錯電話就道歉掛斷。"
+ },
+ {
+  "id": "d112",
+  "cefr": "B1",
+  "ctx": "新同事問",
+  "line": "How long have you worked here?",
+  "a": "Almost three years now.",
+  "d": [
+   "I worked here three years ago.",
+   "Since three years.",
+   "I work here every day."
+  ],
+  "ex": "How long 問期間,用 ___ years now 回答。"
+ },
+ {
+  "id": "d113",
+  "cefr": "B1",
+  "ctx": "朋友吃完飯",
+  "line": "Do you want to split the bill?",
+  "a": "Sure, let's go halves.",
+  "d": [
+   "Split is OK?",
+   "No, you pay all.",
+   "Bill is split."
+  ],
+  "ex": "go halves = 平分付款。"
+ },
+ {
+  "id": "d114",
+  "cefr": "B1",
+  "ctx": "Slack:主管傳訊息",
+  "line": "Could you give me a quick update on the project?",
+  "a": "Sure — we're on track, but testing is a bit behind.",
+  "d": [
+   "Yes, quick update is good.",
+   "Project is update.",
+   "Why do you always ask me? I already sent you an update last month."
+  ],
+  "ex": "on track = 進度正常;補充落後項目。"
+ },
+ {
+  "id": "d115",
+  "cefr": "B1",
+  "ctx": "海關人員問",
+  "line": "Anything to declare?",
+  "a": "No, nothing.",
+  "d": [
+   "I declare nothing to you.",
+   "Yes, I am declare.",
+   "Declare what? I don't understand you."
+  ],
+  "ex": "declare 指申報物品,沒有就答 No, nothing。"
+ },
+ {
+  "id": "d116",
+  "cefr": "B1",
+  "ctx": "餐廳用餐尾聲",
+  "line": "Would you like to see the dessert menu?",
+  "a": "We're fine, thanks. Just the check, please.",
+  "d": [
+   "Dessert is menu?",
+   "No, I'd like to see. Bring me the dessert menu and the check also.",
+   "Check me, please."
+  ],
+  "ex": "the check = 帳單;婉拒甜點直接買單。"
+ },
+ {
+  "id": "d117",
+  "cefr": "B1",
+  "ctx": "同事告訴你",
+  "line": "It's my last day today.",
+  "a": "Oh, really? We'll miss you. Keep in touch!",
+  "d": [
+   "Congratulations, finally! You must be very happy to leave us.",
+   "Last day is today.",
+   "OK, bye."
+  ],
+  "ex": "表達不捨並保持聯絡;Finally 像是很高興他走。"
+ },
+ {
+  "id": "d118",
+  "cefr": "B1",
+  "ctx": "鄰居敲門",
+  "line": "Your package was delivered to my place by mistake.",
+  "a": "Oh, thank you so much for letting me know!",
+  "d": [
+   "Why did you take my package? You should give it to the guard.",
+   "My package is your place.",
+   "Mistake is delivery."
+  ],
+  "ex": "感謝對方告知;質問很失禮。"
+ },
+ {
+  "id": "d119",
+  "cefr": "B1",
+  "ctx": "店員問",
+  "line": "Is this a gift? We can wrap it for you.",
+  "a": "That would be great, thanks.",
+  "d": [
+   "Yes, wrap me.",
+   "It's a gift for wrap.",
+   "No need, I gift it."
+  ],
+  "ex": "That would be great 接受提議。"
+ },
+ {
+  "id": "d120",
+  "cefr": "B1",
+  "ctx": "健身房有人問你",
+  "line": "Are you using this machine?",
+  "a": "Almost done — just one more set.",
+  "d": [
+   "Yes, I'm using it forever.",
+   "I use it every day at this time, so you can come back tomorrow.",
+   "This machine is good."
+  ],
+  "ex": "告訴對方快好了,讓他能等。"
+ },
+ {
+  "id": "d121",
+  "cefr": "B1",
+  "ctx": "同事打電話來",
+  "line": "Sorry, did I catch you at a bad time?",
+  "a": "Actually, I'm about to go into a meeting. Can I call you back?",
+  "d": [
+   "Yes, you catch me.",
+   "Bad time is now.",
+   "No, you didn't catch me. I am free, but I'm going into a meeting now."
+  ],
+  "ex": "catch you at a bad time = 打擾到你;說明並約回電。"
+ },
+ {
+  "id": "d122",
+  "cefr": "B1",
+  "ctx": "房東通知",
+  "line": "The plumber can come on Wednesday morning.",
+  "a": "Perfect. I'll make sure someone's home.",
+  "d": [
+   "Plumber is coming Wednesday?",
+   "Morning is no good, come at eleven p.m.",
+   "OK, I come Wednesday."
+  ],
+  "ex": "確認並安排有人在家。"
+ },
+ {
+  "id": "d123",
+  "cefr": "B1",
+  "ctx": "朋友傳來好消息",
+  "line": "I got the job!",
+  "a": "That's fantastic! When do you start?",
+  "d": [
+   "Which job? I forgot.",
+   "Really? I don't believe.",
+   "Congratulation for you! I knew you can get it because you are smart."
+  ],
+  "ex": "恭喜並問何時開始;不相信聽起來很傷人。"
+ },
+ {
+  "id": "d124",
+  "cefr": "B1",
+  "ctx": "同事問",
+  "line": "Can I borrow your charger for a minute?",
+  "a": "Sure, here you go.",
+  "d": [
+   "Yes, you can lend.",
+   "Charger is mine.",
+   "No, buy your own."
+  ],
+  "ex": "borrow 借入、lend 借出;here you go 遞東西。"
+ },
+ {
+  "id": "d125",
+  "cefr": "B1",
+  "ctx": "牛排館服務生問",
+  "line": "How would you like your steak?",
+  "a": "Medium, please.",
+  "d": [
+   "Yes, do it well.",
+   "Done is well.",
+   "I like steak very much."
+  ],
+  "ex": "問熟度,答 rare/medium/well-done 之一。"
+ },
+ {
+  "id": "d126",
+  "cefr": "B1",
+  "ctx": "Email:客戶來信",
+  "line": "Unfortunately, we need to reschedule Thursday's meeting.",
+  "a": "No problem. Would Friday morning work for you?",
+  "d": [
+   "Why do you always reschedule?",
+   "OK, reschedule is fine for Thursday, see you on Thursday then.",
+   "Unfortunately, me too."
+  ],
+  "ex": "接受並主動提新時間。"
+ },
+ {
+  "id": "d127",
+  "cefr": "B1",
+  "ctx": "Slack:同事通知",
+  "line": "FYI, the deadline moved to next Monday.",
+  "a": "Thanks for the heads-up!",
+  "d": [
+   "FYI too.",
+   "Monday is next.",
+   "Why didn't you tell me earlier?"
+  ],
+  "ex": "heads-up = 事先提醒;FYI = 供你參考。"
+ },
+ {
+  "id": "d128",
+  "cefr": "B1",
+  "ctx": "Email:同事請你介紹人",
+  "line": "Could you introduce me to someone on the legal team?",
+  "a": "Sure — I'll cc you on an email to Grace.",
+  "d": [
+   "I'll introduce legal to you.",
+   "Legal team is busy.",
+   "You can find them by yourself on the company website, it's easy."
+  ],
+  "ex": "寫信給對方並副本(cc)給他,是常見引薦方式。"
+ },
+ {
+  "id": "d129",
+  "cefr": "B1",
+  "ctx": "LINE:房東提醒",
+  "line": "Just a reminder that rent is due on the 5th.",
+  "a": "Thanks, I'll transfer it tomorrow.",
+  "d": [
+   "Remind is received.",
+   "Why remind me?",
+   "The 5th is due."
+  ],
+  "ex": "due = 到期;說明何時轉帳。"
+ },
+ {
+  "id": "d130",
+  "cefr": "B1",
+  "ctx": "同事問",
+  "line": "Have you met our new manager yet?",
+  "a": "Not yet. What's she like?",
+  "d": [
+   "Yes, not yet.",
+   "I haven't meet her, but I heard she is very strict person.",
+   "Manager is new."
+  ],
+  "ex": "What's she like? 問人的個性;haven't 後接 met。"
+ },
+ {
+  "id": "d131",
+  "cefr": "B1",
+  "ctx": "家具店店員",
+  "line": "We can deliver it on Monday or Wednesday.",
+  "a": "Wednesday would be better for me.",
+  "d": [
+   "Wednesday is more better.",
+   "Deliver on Monday Wednesday both.",
+   "I deliver Wednesday."
+  ],
+  "ex": "better 本身已是比較級,不加 more。"
+ },
+ {
+  "id": "d132",
+  "cefr": "B1",
+  "ctx": "朋友說",
+  "line": "I'm really nervous about my interview tomorrow.",
+  "a": "You'll be fine. You've prepared a lot.",
+  "d": [
+   "Why nervous? It's just an interview. I did many interviews before.",
+   "Me too nervous.",
+   "Interview is tomorrow."
+  ],
+  "ex": "給予鼓勵;輕描淡寫對方的緊張顯得不體貼。"
+ },
+ {
+  "id": "d133",
+  "cefr": "B1",
+  "ctx": "主管會後說",
+  "line": "Let's touch base next week.",
+  "a": "Sounds good. I'll set up a time.",
+  "d": [
+   "Touch what base?",
+   "OK, we touch next week.",
+   "Base is good."
+  ],
+  "ex": "touch base = 簡短聯繫、對一下進度。"
+ },
+ {
+  "id": "d134",
+  "cefr": "B1",
+  "ctx": "同事走到你座位",
+  "line": "Do you have a minute?",
+  "a": "Sure, what's up?",
+  "d": [
+   "I have one minute only.",
+   "No.",
+   "Yes, a minute is short."
+  ],
+  "ex": "Do you have a minute 是問方便聊嗎,不是真的一分鐘。"
+ },
+ {
+  "id": "d135",
+  "cefr": "B1",
+  "ctx": "國外公車司機說",
+  "line": "You need exact change.",
+  "a": "Oh, can I use my transit card instead?",
+  "d": [
+   "Change me, please.",
+   "I have no exactly money, can you change for me one hundred dollars?",
+   "Exact is change."
+  ],
+  "ex": "exact change = 剛好的零錢,詢問能否用卡。"
+ },
+ {
+  "id": "d136",
+  "cefr": "B1",
+  "ctx": "同事主動問",
+  "line": "Is there anything I can do to help?",
+  "a": "Actually, yes — could you check these numbers for me?",
+  "d": [
+   "You can do anything.",
+   "Help is there.",
+   "No, you can't help me, you're too slow."
+  ],
+  "ex": "接受幫忙並具體說要做什麼。"
+ },
+ {
+  "id": "d137",
+  "cefr": "B1",
+  "ctx": "醫生回診問",
+  "line": "Have you been taking the medicine regularly?",
+  "a": "Mostly, but I missed a couple of doses.",
+  "d": [
+   "I take medicine regular, every day two times, but sometimes I forget.",
+   "Yes, I've been taken.",
+   "Medicine is regular."
+  ],
+  "ex": "誠實說明,missed doses = 漏吃幾次。"
+ },
+ {
+  "id": "d138",
+  "cefr": "B1",
+  "ctx": "講電話訊號不好",
+  "line": "Sorry, I can't hear you — you're breaking up.",
+  "a": "Let me call you back in a sec.",
+  "d": [
+   "I'm not breaking up with you!",
+   "You can't hear me?",
+   "Speak louder, please, louder!"
+  ],
+  "ex": "breaking up 在電話中指斷訊,不是分手。"
+ },
+ {
+  "id": "d139",
+  "cefr": "B1",
+  "ctx": "同事忘了你的名字",
+  "line": "Sorry, could you remind me of your name?",
+  "a": "Sure, it's Wei. We met at the training.",
+  "d": [
+   "You forgot me? We met at the training only two weeks ago!",
+   "My name is remind.",
+   "Could you remind me yours?"
+  ],
+  "ex": "大方再說一次並提示在哪見過。"
+ },
+ {
+  "id": "d140",
+  "cefr": "B1",
+  "ctx": "飯店門房問",
+  "line": "Would you like help with your bags?",
+  "a": "That's OK, I can manage. Thanks.",
+  "d": [
+   "Help my bags.",
+   "Bags are heavy, yes.",
+   "No, don't touch."
+  ],
+  "ex": "I can manage = 我自己來;婉拒要加謝謝。"
+ },
+ {
+  "id": "d141",
+  "cefr": "B1",
+  "ctx": "視訊會議分享畫面",
+  "line": "Can everyone see my screen?",
+  "a": "Yes, it's showing fine.",
+  "d": [
+   "I see you.",
+   "Screen is see.",
+   "Can you see mine?"
+  ],
+  "ex": "確認畫面有出來。"
+ },
+ {
+  "id": "d142",
+  "cefr": "B1",
+  "ctx": "Email:供應商來信",
+  "line": "We apologise for the delay in your shipment.",
+  "a": "Thanks for letting me know. Do you have a new delivery date?",
+  "d": [
+   "Apology accept.",
+   "Delay is your fault. If it happens again, I'll never order from you.",
+   "We also apologise."
+  ],
+  "ex": "感謝告知並追問新日期。"
+ },
+ {
+  "id": "d143",
+  "cefr": "B1",
+  "ctx": "同事問",
+  "line": "Are you going to the team dinner on Friday?",
+  "a": "I'm not sure yet. I'll let you know tomorrow.",
+  "d": [
+   "Maybe yes maybe no.",
+   "I went to the team dinner last Friday, and the food was really good.",
+   "Team dinner is Friday."
+  ],
+  "ex": "未定時說明何時回覆;Maybe yes maybe no 是中式。"
+ },
+ {
+  "id": "d144",
+  "cefr": "B2",
+  "ctx": "預算會議上有人提議",
+  "line": "I think we should cut the marketing budget by half.",
+  "a": "That's an interesting idea, but I'm worried it might hurt our Q3 numbers.",
+  "d": [
+   "That's a stupid idea.",
+   "I am agree with you partly not, because Q3 numbers are very important for us.",
+   "Half is fifty percent."
+  ],
+  "ex": "先肯定再提出顧慮,是外交式反對的典型句型。"
+ },
+ {
+  "id": "d145",
+  "cefr": "B2",
+  "ctx": "客戶議價",
+  "line": "Your price is about 15% higher than your competitor's.",
+  "a": "I understand. Our price includes on-site support, though. Could we talk about volume?",
+  "d": [
+   "Then buy from them.",
+   "Our price is higher because it's higher.",
+   "15% is not so much, just accept it."
+  ],
+  "ex": "說明價值並轉向數量折扣,保住談判空間。"
+ },
+ {
+  "id": "d146",
+  "cefr": "B2",
+  "ctx": "主管要再加工作給你",
+  "line": "I'd like you to take on the Singapore account as well.",
+  "a": "I'd be happy to, but I'd need to hand off some of my current work. Can we discuss priorities?",
+  "d": [
+   "No, I'm already too busy.",
+   "OK, I take everything.",
+   "Singapore is far away."
+  ],
+  "ex": "答應但提出條件、討論優先順序,專業不吃虧。"
+ },
+ {
+  "id": "d147",
+  "cefr": "B2",
+  "ctx": "打電話到飯店櫃檯",
+  "line": "Front desk, how can I help you?",
+  "a": "Hi, I'm afraid the air conditioning in my room isn't working.",
+  "d": [
+   "Your air conditioner in my room is broken, send someone to fix it now!",
+   "Air con is no work.",
+   "I want to help you."
+  ],
+  "ex": "I'm afraid 讓投訴聽起來客氣;命令式太兇。"
+ },
+ {
+  "id": "d148",
+  "cefr": "B2",
+  "ctx": "同事請你幫忙看投影片",
+  "line": "Do you think you could take a look at my slides before tomorrow?",
+  "a": "Happy to. I've got some time after four, if that works.",
+  "d": [
+   "I could, but I won't.",
+   "Yes, I think I could, but I'm not sure if I will have time or not.",
+   "Your slides are tomorrow."
+  ],
+  "ex": "Happy to 爽快答應並給時段;Yes, I think I could 沒給下文。"
+ },
+ {
+  "id": "d149",
+  "cefr": "B2",
+  "ctx": "主管質問問題為何沒早點回報",
+  "line": "Why wasn't this flagged earlier?",
+  "a": "That's fair. I noticed it on Tuesday but underestimated the impact.",
+  "d": [
+   "It's not my fault.",
+   "Because nobody asked me about it, so I thought it was not my job.",
+   "Earlier was flagged."
+  ],
+  "ex": "承認判斷失誤比推卸責任專業;flag = 提出警示。"
+ },
+ {
+  "id": "d150",
+  "cefr": "B2",
+  "ctx": "客戶要求提前交貨",
+  "line": "We need the delivery two weeks earlier.",
+  "a": "Let me check with production. Would a partial shipment help in the meantime?",
+  "d": [
+   "Impossible.",
+   "Two weeks earlier is when?",
+   "You should have told us that before."
+  ],
+  "ex": "不直接拒絕,先查再提替代方案(分批出貨)。"
+ },
+ {
+  "id": "d151",
+  "cefr": "B2",
+  "ctx": "面試時被問",
+  "line": "What would you say is your biggest weakness?",
+  "a": "I tend to take on too much myself, so I've been working on delegating earlier.",
+  "d": [
+   "I have no weakness.",
+   "My weakness is weak.",
+   "I'm lazy and often late."
+  ],
+  "ex": "誠實說缺點並說明如何改善,是面試標準答法。"
+ },
+ {
+  "id": "d152",
+  "cefr": "B2",
+  "ctx": "Slack:同事傳訊息",
+  "line": "I'm swamped — is there any chance we could push back the review?",
+  "a": "Sure, how about Thursday instead?",
+  "d": [
+   "No chance.",
+   "Push back what?",
+   "Swamped is busy? I don't understand swamped."
+  ],
+  "ex": "swamped = 忙翻;push back = 延後。"
+ },
+ {
+  "id": "d153",
+  "cefr": "B2",
+  "ctx": "服務生來道歉",
+  "line": "I'm so sorry, the kitchen made a mistake with your order.",
+  "a": "These things happen. How long will the new one take?",
+  "d": [
+   "You always make mistakes.",
+   "It's OK, mistakes are normal for you, I know this kitchen is always slow.",
+   "I'm sorry too."
+  ],
+  "ex": "These things happen 表示體諒,再問等待時間。"
+ },
+ {
+  "id": "d154",
+  "cefr": "B2",
+  "ctx": "鄰居來按門鈴",
+  "line": "Would you mind keeping the music down after ten? My baby's sleeping.",
+  "a": "Oh, I'm sorry — I had no idea. I'll keep it down.",
+  "d": [
+   "It's my apartment, so I can listen to music any time I want.",
+   "Yes, I mind.",
+   "After ten I keep it."
+  ],
+  "ex": "致歉並配合;強調是自己家會引起衝突。"
+ },
+ {
+  "id": "d155",
+  "cefr": "B2",
+  "ctx": "會議主持人確認",
+  "line": "So are we all agreed on the timeline?",
+  "a": "Mostly, but I'd like to revisit the testing phase — it looks tight.",
+  "d": [
+   "Agreed is all.",
+   "No, I never agree.",
+   "Yes, we all are agreed totally."
+  ],
+  "ex": "Mostly, but… 部分同意並提出要再討論的點。"
+ },
+ {
+  "id": "d156",
+  "cefr": "B2",
+  "ctx": "Email:客戶來信",
+  "line": "We were disappointed with the quality of the last batch.",
+  "a": "I'm sorry to hear that. Could you send photos of the issue so we can investigate?",
+  "d": [
+   "Our quality is always good.",
+   "Disappointed? Why?",
+   "Sorry for your disappointing."
+  ],
+  "ex": "先致歉再要具體資料,展現處理誠意。"
+ },
+ {
+  "id": "d157",
+  "cefr": "B2",
+  "ctx": "Email:同事來信",
+  "line": "I won't be able to make the deadline. Can we talk?",
+  "a": "Thanks for flagging it early. I'm free at 2 — let's figure out a plan.",
+  "d": [
+   "Why not? You had two weeks.",
+   "OK, deadline is cancelled.",
+   "I can't make it too."
+  ],
+  "ex": "肯定對方提早告知,再約時間解決。"
+ },
+ {
+  "id": "d158",
+  "cefr": "B2",
+  "ctx": "Slack:同事催你",
+  "line": "Hey, did you get a chance to look at my PR?",
+  "a": "Not yet, sorry — it's next on my list.",
+  "d": [
+   "Chance is yes.",
+   "I looked at your PR maybe.",
+   "Stop asking me about it, I'm busy."
+  ],
+  "ex": "next on my list = 下一個就處理;不耐煩回應傷關係。"
+ },
+ {
+  "id": "d159",
+  "cefr": "B2",
+  "ctx": "談判中對方說",
+  "line": "That's our final offer.",
+  "a": "I appreciate that. Let me take it back to my team and get back to you tomorrow.",
+  "d": [
+   "Final offer is final.",
+   "OK, I accept final, but give me more.",
+   "Fine, then we're done here, goodbye."
+  ],
+  "ex": "不當場決定,帶回討論,保留空間。"
+ },
+ {
+  "id": "d160",
+  "cefr": "B2",
+  "ctx": "醫生量完血壓",
+  "line": "Your blood pressure is a little high.",
+  "a": "Is that something I should be worried about?",
+  "d": [
+   "My blood is high?",
+   "No, it's not.",
+   "A little high is OK for me, because my father also has high blood pressure."
+  ],
+  "ex": "詢問是否需擔心,是自然的追問。"
+ },
+ {
+  "id": "d161",
+  "cefr": "B2",
+  "ctx": "茶水間同事八卦",
+  "line": "Did you hear they're restructuring the department?",
+  "a": "I've heard rumours, but nothing official yet.",
+  "d": [
+   "Yes, I heard restructure.",
+   "They are restructuring me and my team, I'm very worried about my job.",
+   "Department is big."
+  ],
+  "ex": "rumours = 傳聞;謹慎回應不散播。"
+ },
+ {
+  "id": "d162",
+  "cefr": "B2",
+  "ctx": "你是客服,客戶來電抱怨",
+  "line": "I've been on hold for twenty minutes!",
+  "a": "I'm really sorry about the wait. Let me sort this out for you now.",
+  "d": [
+   "Everyone waits twenty minutes.",
+   "Hold is normal.",
+   "Sorry, I was having my lunch. Everybody needs to eat lunch, right?"
+  ],
+  "ex": "先道歉再承諾處理;sort out = 解決。"
+ },
+ {
+  "id": "d163",
+  "cefr": "B2",
+  "ctx": "主管急要報告",
+  "line": "I need this by tomorrow morning.",
+  "a": "I can get you a first draft by then, but the full analysis will take until Thursday.",
+  "d": [
+   "Tomorrow morning is no.",
+   "Yes, I need it too.",
+   "I'll try, but no promise, maybe."
+  ],
+  "ex": "給出可行的部分交付並說明完整時程。"
+ },
+ {
+  "id": "d164",
+  "cefr": "B2",
+  "ctx": "同事對你的方案有疑慮",
+  "line": "I really don't think this approach will work.",
+  "a": "What makes you say that?",
+  "d": [
+   "You never think anything works.",
+   "Approach is working.",
+   "OK, I don't think too, so it won't work."
+  ],
+  "ex": "開放提問了解疑慮,不急著辯護。"
+ },
+ {
+  "id": "d165",
+  "cefr": "B2",
+  "ctx": "英國朋友約吃飯",
+  "line": "Do you fancy going to that new Thai place?",
+  "a": "I'd be up for that. Is Saturday any good?",
+  "d": [
+   "I fancy you.",
+   "Thai is far.",
+   "Fancy is expensive? I don't want to go to a fancy restaurant."
+  ],
+  "ex": "fancy = 想要(英式);be up for = 有興趣。"
+ },
+ {
+  "id": "d166",
+  "cefr": "B2",
+  "ctx": "機場櫃檯問你",
+  "line": "I'm afraid this flight is overbooked. Would you be willing to take a later flight?",
+  "a": "That depends. What kind of compensation are you offering?",
+  "d": [
+   "Overbooked is your problem.",
+   "I'm afraid too.",
+   "Yes, I'm willing to be late flight, but you must give me business class."
+  ],
+  "ex": "超賣時先問補償再決定,合理且禮貌。"
+ },
+ {
+  "id": "d167",
+  "cefr": "B2",
+  "ctx": "會議中有人請你說清楚",
+  "line": "Could you elaborate on that point?",
+  "a": "Sure. What I mean is that the costs will shift to the customer, not disappear.",
+  "d": [
+   "I elaborated already.",
+   "That point is elaborate.",
+   "Yes, I could."
+  ],
+  "ex": "elaborate = 詳細說明;What I mean is 換句話說。"
+ },
+ {
+  "id": "d168",
+  "cefr": "B2",
+  "ctx": "主管提調職",
+  "line": "How do you feel about relocating to the Kaohsiung office?",
+  "a": "It's an interesting opportunity. Could I have a few days to talk it over with my family?",
+  "d": [
+   "I feel relocation.",
+   "Kaohsiung is too hot for me and my family, so absolutely no way.",
+   "I feel good, thanks."
+  ],
+  "ex": "重大決定先爭取考慮時間;I feel good 答非所問。"
+ },
+ {
+  "id": "d169",
+  "cefr": "B2",
+  "ctx": "Email:同事來信",
+  "line": "Would you be open to co-presenting at the conference?",
+  "a": "Definitely — I'd enjoy that. When's the submission deadline?",
+  "d": [
+   "I am open.",
+   "Co-present what?",
+   "Conference is opening."
+  ],
+  "ex": "be open to = 願意考慮;答應並問期限。"
+ },
+ {
+  "id": "d170",
+  "cefr": "B2",
+  "ctx": "房東通知",
+  "line": "I'm going to have to raise the rent next year.",
+  "a": "I see. Could you tell me by how much? I'd like to plan ahead.",
+  "d": [
+   "Raise is high.",
+   "You're greedy. The apartment is old and the rent is already too high.",
+   "Next year I raise too."
+  ],
+  "ex": "冷靜詢問漲幅以便規劃。"
+ },
+ {
+  "id": "d171",
+  "cefr": "B2",
+  "ctx": "Email:招募人員來信",
+  "line": "We'd like to invite you for a second interview.",
+  "a": "Thank you — I'd be delighted. I'm available any time Wednesday or Thursday.",
+  "d": [
+   "OK, invite me.",
+   "Second is better than first.",
+   "Why not just hire me directly?"
+  ],
+  "ex": "道謝並主動提供可行時段。"
+ },
+ {
+  "id": "d172",
+  "cefr": "B2",
+  "ctx": "退貨時店員說",
+  "line": "This item is non-refundable, but we can offer store credit.",
+  "a": "I see. In that case, store credit is fine.",
+  "d": [
+   "Non-refundable is illegal!",
+   "Store credit is what kind of card? I only want my money back in cash.",
+   "OK, refund me."
+  ],
+  "ex": "store credit = 店內抵用金;OK, refund me 與對方說法矛盾。"
+ },
+ {
+  "id": "d173",
+  "cefr": "B2",
+  "ctx": "視訊會議中",
+  "line": "Sorry, I think you're on mute.",
+  "a": "Oops — can you hear me now?",
+  "d": [
+   "I'm on mute.",
+   "You're on mute too.",
+   "Mute is what?"
+  ],
+  "ex": "解除靜音後確認對方聽得到。"
+ },
+ {
+  "id": "d174",
+  "cefr": "B2",
+  "ctx": "主管看完你的提案",
+  "line": "Your proposal is a bit too long. Could you tighten it up?",
+  "a": "Sure. Would a one-page summary with an appendix work?",
+  "d": [
+   "It's long because it's important. I can't remove anything from it.",
+   "Tighten is how?",
+   "OK, I make it tight."
+  ],
+  "ex": "tighten up = 精簡;提出具體改法。"
+ },
+ {
+  "id": "d175",
+  "cefr": "B2",
+  "ctx": "朋友來道歉",
+  "line": "I'm really sorry I snapped at you yesterday.",
+  "a": "It's OK. I know you've been under a lot of pressure.",
+  "d": [
+   "Snap is OK, I don't know what snap means but no problem for me.",
+   "Yes, you were very rude.",
+   "Yesterday snapped."
+  ],
+  "ex": "snap at = 對人發脾氣;表示理解對方壓力。"
+ },
+ {
+  "id": "d176",
+  "cefr": "B2",
+  "ctx": "Email:客戶來信",
+  "line": "Is there any flexibility on the payment terms?",
+  "a": "We could consider 60 days instead of 30 for orders above 500 units.",
+  "d": [
+   "Flexibility is yes.",
+   "No. Pay now.",
+   "Payment is terms."
+  ],
+  "ex": "有條件讓步是談判常見做法。"
+ },
+ {
+  "id": "d177",
+  "cefr": "B2",
+  "ctx": "同事想問你意見",
+  "line": "Can I run something by you?",
+  "a": "Of course, go ahead.",
+  "d": [
+   "Run where?",
+   "Run by me fast, because I have only one minute for you today.",
+   "Not now. Never."
+  ],
+  "ex": "run something by someone = 請人聽聽看意見。"
+ },
+ {
+  "id": "d178",
+  "cefr": "B2",
+  "ctx": "Slack:主管在討論串留言",
+  "line": "Can you loop in Daniel on this thread?",
+  "a": "Done — just added him.",
+  "d": [
+   "Loop is done.",
+   "Daniel loop in?",
+   "Why Daniel? He's useless."
+  ],
+  "ex": "loop in = 拉人進來討論。"
+ },
+ {
+  "id": "d179",
+  "cefr": "B2",
+  "ctx": "會議中有人提議",
+  "line": "I'd like to propose that we meet weekly instead of monthly.",
+  "a": "I can see the benefit, though maybe every two weeks would be a good compromise?",
+  "d": [
+   "Weekly is too much, no.",
+   "I propose monthly weekly.",
+   "Yes, I'd like to propose too."
+  ],
+  "ex": "肯定好處再提折衷方案(compromise)。"
+ },
+ {
+  "id": "d180",
+  "cefr": "B2",
+  "ctx": "送修時客服說",
+  "line": "Unfortunately, your warranty expired last month.",
+  "a": "That's a pity. Is there a paid repair option?",
+  "d": [
+   "Expired is OK for me.",
+   "Warranty is your fault, you should tell me before it expired.",
+   "Last month is too far."
+  ],
+  "ex": "接受事實並詢問付費維修。"
+ },
+ {
+  "id": "d181",
+  "cefr": "B2",
+  "ctx": "同事抱怨",
+  "line": "I've got a lot on my plate this week.",
+  "a": "Want me to take the vendor calls off your hands?",
+  "d": [
+   "Eat slower, then your plate will be empty soon.",
+   "So what? Everybody is busy this week, not only you.",
+   "That's your problem."
+  ],
+  "ex": "a lot on my plate = 事情很多;off your hands = 替你分擔。"
+ },
+ {
+  "id": "d182",
+  "cefr": "B2",
+  "ctx": "醫生建議",
+  "line": "I'd recommend some blood tests to rule out anything serious.",
+  "a": "Sure. Do I need to fast beforehand?",
+  "d": [
+   "Rule out is what? I don't understand, I think I'm not serious sick.",
+   "I'm not serious.",
+   "Recommend is good."
+  ],
+  "ex": "rule out = 排除;fast 在此為空腹禁食。"
+ },
+ {
+  "id": "d183",
+  "cefr": "B2",
+  "ctx": "Email:主管來信",
+  "line": "Can you summarise the key takeaways from yesterday's workshop?",
+  "a": "Sure — I'll send a short summary by noon.",
+  "d": [
+   "Takeaways are food.",
+   "The workshop was yesterday.",
+   "Key takeaways: many, many. I can't remember all of them, sorry."
+  ],
+  "ex": "takeaways = 重點收穫,不是外帶食物。"
+ },
+ {
+  "id": "d184",
+  "cefr": "B2",
+  "ctx": "新創會議上同事說",
+  "line": "We're thinking of pivoting to a subscription model.",
+  "a": "Interesting. Have we tested whether customers would pay monthly?",
+  "d": [
+   "Pivot is turning.",
+   "Subscription is good, everyone does it, just do it.",
+   "We are thinking too."
+  ],
+  "ex": "pivot = 轉型;提出驗證問題是建設性回應。"
+ },
+ {
+  "id": "d185",
+  "cefr": "B2",
+  "ctx": "飯店櫃檯說",
+  "line": "We have no record of your booking, I'm afraid.",
+  "a": "That's odd — I have a confirmation email. Could you check under my company name?",
+  "d": [
+   "You lost it, it's your fault!",
+   "No record is no booking.",
+   "I'm afraid too."
+  ],
+  "ex": "冷靜提供證據並請對方換方式查。"
+ },
+ {
+  "id": "d186",
+  "cefr": "B2",
+  "ctx": "同事直說",
+  "line": "No offence, but your code is hard to read.",
+  "a": "None taken. Any suggestions on what to change first?",
+  "d": [
+   "I'm offended.",
+   "Your code is harder to read than mine, so you shouldn't say that.",
+   "Offence is taken."
+  ],
+  "ex": "None taken 是 No offence 的標準回應。"
+ },
+ {
+  "id": "d187",
+  "cefr": "B2",
+  "ctx": "鄰居問",
+  "line": "Do you know if the water will be off tomorrow?",
+  "a": "I think it's just from 9 to noon — there's a notice in the lobby.",
+  "d": [
+   "The water was off yesterday.",
+   "Building is water.",
+   "Ask the guard, not me. I'm not the building manager, you know."
+  ],
+  "ex": "提供資訊與來源;叫對方去問別人不友善。"
+ },
+ {
+  "id": "d188",
+  "cefr": "B2",
+  "ctx": "電話中對方說",
+  "line": "Could you hold the line for a moment?",
+  "a": "Sure, no problem.",
+  "d": [
+   "Hold what?",
+   "I hold you.",
+   "No, I'm in a hurry, quickly, quickly."
+  ],
+  "ex": "hold the line = 電話別掛,稍等。"
+ },
+ {
+  "id": "d189",
+  "cefr": "B2",
+  "ctx": "主管告知",
+  "line": "I've decided to give the project to Anna.",
+  "a": "I understand. Could I ask what I could do differently next time?",
+  "d": [
+   "That's unfair!",
+   "Anna is not good enough for it. I have more experience than her.",
+   "OK, give Anna."
+  ],
+  "ex": "接受決定並請教改進,展現成熟。"
+ },
+ {
+  "id": "d190",
+  "cefr": "B2",
+  "ctx": "朋友邀你參加婚禮",
+  "line": "Would you like to come to my wedding in Kyoto? I know it's far.",
+  "a": "I'd be honoured. Let me check flights and confirm by the end of the month.",
+  "d": [
+   "Kyoto is far, so no.",
+   "Wedding is far.",
+   "Yes, I'd love, I come."
+  ],
+  "ex": "表達榮幸並給確認時間。"
+ },
+ {
+  "id": "d191",
+  "cefr": "B2",
+  "ctx": "Email:客戶追蹤",
+  "line": "Just following up on my email from last week.",
+  "a": "Apologies for the slow reply — I'll have an answer for you by tomorrow.",
+  "d": [
+   "I received it last week.",
+   "Follow up is received.",
+   "I was busy, don't push me."
+  ],
+  "ex": "致歉並承諾回覆時間。"
+ },
+ {
+  "id": "d192",
+  "cefr": "B2",
+  "ctx": "會議中主持人說",
+  "line": "Can we park that for now and come back to it?",
+  "a": "Sure, let's add it to next week's agenda.",
+  "d": [
+   "Park where?",
+   "No, we discuss it now, because if we park it, everyone will forget.",
+   "Come back is OK."
+  ],
+  "ex": "park = 先擱置;放入下次議程。"
+ },
+ {
+  "id": "d193",
+  "cefr": "B2",
+  "ctx": "退貨被拒",
+  "line": "We can't do a refund without the original packaging.",
+  "a": "I understand. Would it be possible to speak to a manager?",
+  "d": [
+   "That's a stupid policy. No other shop asks for the original packaging.",
+   "Packaging is not have.",
+   "I don't need packaging."
+  ],
+  "ex": "有禮地要求找主管,而非攻擊政策。"
+ },
+ {
+  "id": "d194",
+  "cefr": "B2",
+  "ctx": "同事感謝你代班",
+  "line": "I owe you one for covering my shift.",
+  "a": "Don't mention it. You'd do the same for me.",
+  "d": [
+   "Yes, you owe me one hundred dollars. Pay me back tomorrow, OK?",
+   "One what?",
+   "Covering is easy."
+  ],
+  "ex": "I owe you one = 欠你一次;Don't mention it 別客氣。"
+ },
+ {
+  "id": "d195",
+  "cefr": "B2",
+  "ctx": "LINE:朋友傳訊息",
+  "line": "Ugh, my flight got cancelled.",
+  "a": "Oh no! Have they rebooked you?",
+  "d": [
+   "Cancelled is good.",
+   "My flight is OK.",
+   "You should buy a better airline."
+  ],
+  "ex": "表達同情並問後續;rebook = 改訂。"
+ },
+ {
+  "id": "d196",
+  "cefr": "B2",
+  "ctx": "客戶說",
+  "line": "We're considering other vendors.",
+  "a": "I understand. Is there anything specific we could improve to keep your business?",
+  "d": [
+   "Go ahead, we don't care.",
+   "Other vendors are worse.",
+   "Considering is thinking."
+  ],
+  "ex": "詢問改善點以留住客戶。"
+ },
+ {
+  "id": "d197",
+  "cefr": "B2",
+  "ctx": "主管說",
+  "line": "Can you walk me through the numbers?",
+  "a": "Sure. Let's start with revenue.",
+  "d": [
+   "Walk where?",
+   "The numbers are on page 3, read it.",
+   "I walk you."
+  ],
+  "ex": "walk someone through = 帶人逐步說明。"
+ },
+ {
+  "id": "d198",
+  "cefr": "B2",
+  "ctx": "同事問你意見",
+  "line": "I'm thinking of applying for the team lead role. Thoughts?",
+  "a": "Go for it — you'd be great. Want me to look over your application?",
+  "d": [
+   "Team lead is hard, forget it.",
+   "I thought about it.",
+   "Thoughts are many."
+  ],
+  "ex": "Go for it = 放手去做;主動提供協助。"
+ },
+ {
+  "id": "d199",
+  "cefr": "C1",
+  "ctx": "董事會上有人質疑",
+  "line": "Frankly, I'm not convinced the numbers add up.",
+  "a": "That's a fair challenge. Let me walk you through the assumptions.",
+  "d": [
+   "The numbers add up to 100.",
+   "You don't understand finance, so maybe you should ask the accounting team.",
+   "Frankly, me neither, but let's go ahead anyway."
+  ],
+  "ex": "add up = 說得通;接受質疑並解釋假設。"
+ },
+ {
+  "id": "d200",
+  "cefr": "C1",
+  "ctx": "同事私下說",
+  "line": "Between you and me, I think the merger's going to fall through.",
+  "a": "Really? What makes you think so?",
+  "d": [
+   "Between you and me is a secret.",
+   "Interesting, I'll tell everyone in the team so they can be ready.",
+   "The merger fell."
+  ],
+  "ex": "fall through = 告吹;between you and me = 私下說。"
+ },
+ {
+  "id": "d201",
+  "cefr": "C1",
+  "ctx": "主管坦白說",
+  "line": "I'll level with you — the budget's been slashed.",
+  "a": "I appreciate you being upfront. Which projects are most affected?",
+  "d": [
+   "Level with me what?",
+   "Slash is cutting?",
+   "Then I quit. I can't work on a project without enough money."
+  ],
+  "ex": "level with = 坦白;upfront = 直接坦率。"
+ },
+ {
+  "id": "d202",
+  "cefr": "C1",
+  "ctx": "Email:客戶來信",
+  "line": "We'd like to explore a longer-term partnership, provided the pilot goes well.",
+  "a": "That sounds promising. Shall we agree upfront on what 'going well' looks like?",
+  "d": [
+   "Provided is given.",
+   "The pilot will definitely be perfect, sign now.",
+   "Long term is long."
+  ],
+  "ex": "provided = 前提是;先定義成功標準很專業。"
+ },
+ {
+  "id": "d203",
+  "cefr": "C1",
+  "ctx": "同事帶來壞消息",
+  "line": "I hate to be the bearer of bad news, but the client pulled out.",
+  "a": "Ah, that's a blow. Did they give a reason?",
+  "d": [
+   "Bear the news.",
+   "Why do you always bring bad news? Can't you tell me something good?",
+   "The client pulled."
+  ],
+  "ex": "pull out = 退出;a blow = 打擊。"
+ },
+ {
+  "id": "d204",
+  "cefr": "C1",
+  "ctx": "談判中對方說",
+  "line": "We're not in a position to commit to those volumes at this stage.",
+  "a": "Understood. Would a smaller initial commitment with an option to scale work for you?",
+  "d": [
+   "Then why are we even talking?",
+   "Your position is bad.",
+   "Commit at next stage, please."
+  ],
+  "ex": "提出較小起始量加擴充選項,讓談判續行。"
+ },
+ {
+  "id": "d205",
+  "cefr": "C1",
+  "ctx": "主管說",
+  "line": "Let's not reinvent the wheel here.",
+  "a": "Agreed — we can adapt last year's framework.",
+  "d": [
+   "The wheel is round.",
+   "I don't reinvent anything, I only use what the company gives me.",
+   "Let's invent a new wheel."
+  ],
+  "ex": "reinvent the wheel = 重新發明輪子、白費功夫。"
+ },
+ {
+  "id": "d206",
+  "cefr": "C1",
+  "ctx": "會議中有人反駁你",
+  "line": "With all due respect, that's not what the data shows.",
+  "a": "Fair point — I may have oversimplified. Let me pull up the figures.",
+  "d": [
+   "Respect is due.",
+   "Don't disrespect me.",
+   "The data shows what I said. Maybe you are reading the wrong chart."
+  ],
+  "ex": "With all due respect 是禮貌的反對;以數據回應。"
+ },
+ {
+  "id": "d207",
+  "cefr": "C1",
+  "ctx": "Email:合作方來信",
+  "line": "I'm afraid we'll have to put the project on hold pending budget approval.",
+  "a": "Understood. Please keep us posted, and let us know if we can prepare anything in the meantime.",
+  "d": [
+   "Hold is pending.",
+   "This is unacceptable, you promised.",
+   "Pending is approved."
+  ],
+  "ex": "pending = 等待…期間;keep us posted = 隨時告知。"
+ },
+ {
+  "id": "d208",
+  "cefr": "C1",
+  "ctx": "同事評論某人",
+  "line": "He's a bit of a loose cannon, isn't he?",
+  "a": "He can be unpredictable, but his ideas are often good.",
+  "d": [
+   "He's a cannon?",
+   "Yes, he is loose.",
+   "I'll tell him you said that, because I think he should know."
+  ],
+  "ex": "loose cannon = 難以預測的人;平衡回應不落井下石。"
+ },
+ {
+  "id": "d209",
+  "cefr": "C1",
+  "ctx": "主管在討論中說",
+  "line": "I'm going to play devil's advocate for a second.",
+  "a": "Go ahead — it's useful to stress-test the plan.",
+  "d": [
+   "The devil is bad.",
+   "Don't be the devil, please. We need positive people in this team.",
+   "Advocate for me."
+  ],
+  "ex": "play devil's advocate = 故意唱反調來檢驗想法。"
+ },
+ {
+  "id": "d210",
+  "cefr": "C1",
+  "ctx": "同事說機會已過",
+  "line": "That ship has sailed, I'm afraid.",
+  "a": "Fair enough. Let's focus on what we can still influence.",
+  "d": [
+   "Which ship?",
+   "Let's sail it again — we can still try to catch the ship tomorrow.",
+   "I'm afraid of ships."
+  ],
+  "ex": "that ship has sailed = 時機已過。"
+ },
+ {
+  "id": "d211",
+  "cefr": "C1",
+  "ctx": "客戶坦白說",
+  "line": "To be honest, we've had our fingers burned with outsourcing before.",
+  "a": "That's understandable. What went wrong last time, if you don't mind me asking?",
+  "d": [
+   "Burned fingers hurt.",
+   "We are different, trust us 100%.",
+   "Honest is good."
+  ],
+  "ex": "have fingers burned = 吃過虧;先了解過去問題。"
+ },
+ {
+  "id": "d212",
+  "cefr": "C1",
+  "ctx": "會議中主管說",
+  "line": "Let's take this offline.",
+  "a": "Sure, I'll grab you after the meeting.",
+  "d": [
+   "Turn off the internet?",
+   "Offline is no network.",
+   "No, let's discuss it now in front of everyone."
+  ],
+  "ex": "take this offline = 會後私下討論,與網路無關。"
+ },
+ {
+  "id": "d213",
+  "cefr": "C1",
+  "ctx": "Email:主管來信",
+  "line": "Could you circle back with legal before we sign off on this?",
+  "a": "Will do. I'll loop them in today and update you once I hear back.",
+  "d": [
+   "Circle is round.",
+   "Legal circle back.",
+   "We already signed, too late."
+  ],
+  "ex": "circle back = 回頭確認;sign off = 正式核准。"
+ },
+ {
+  "id": "d214",
+  "cefr": "C1",
+  "ctx": "你趕最後一班車,同事說",
+  "line": "You're cutting it a bit fine, aren't you?",
+  "a": "I know — but if the train's on time, I'll make it.",
+  "d": [
+   "I'm cutting it fine, thank you, I like to be fine.",
+   "Fine is good.",
+   "Fine, thanks."
+  ],
+  "ex": "cut it fine = 時間抓得很緊。"
+ },
+ {
+  "id": "d215",
+  "cefr": "C1",
+  "ctx": "談判中對方說",
+  "line": "If you can meet us halfway on price, we can sign today.",
+  "a": "Halfway is a stretch, but we could do 5% if you extend the contract to two years.",
+  "d": [
+   "Let's meet at the halfway station.",
+   "OK, any price, sign now.",
+   "Halfway is 50%?"
+  ],
+  "ex": "meet halfway = 各退一步;讓步要換取條件。"
+ },
+ {
+  "id": "d216",
+  "cefr": "C1",
+  "ctx": "同事提醒",
+  "line": "I could be wrong, but isn't the launch date clashing with the trade fair?",
+  "a": "Good catch — you're right. We should move it.",
+  "d": [
+   "You're wrong. I already checked the calendar and there is no problem.",
+   "Clash is fight.",
+   "I could be wrong too."
+  ],
+  "ex": "Good catch = 抓得好;clash = 時間衝突。"
+ },
+ {
+  "id": "d217",
+  "cefr": "C1",
+  "ctx": "年度考評主管說",
+  "line": "Your work has been solid, but I'd like to see you take more initiative.",
+  "a": "That's helpful feedback. Could you give me an example of where I could have stepped up?",
+  "d": [
+   "I always take initiative.",
+   "Solid is hard.",
+   "Initiative is not my job."
+  ],
+  "ex": "接受回饋並要具體例子;step up = 主動承擔。"
+ },
+ {
+  "id": "d218",
+  "cefr": "C1",
+  "ctx": "晚宴閒聊",
+  "line": "So, what do you make of all this AI hype?",
+  "a": "Some of it's justified, but a lot of companies are overpromising.",
+  "d": [
+   "I make AI.",
+   "Hype is high.",
+   "I don't make anything of it, I'm just an engineer, not a businessman."
+  ],
+  "ex": "what do you make of = 你怎麼看;給平衡觀點。"
+ },
+ {
+  "id": "d219",
+  "cefr": "C1",
+  "ctx": "Slack:同事留言",
+  "line": "Not to nitpick, but the chart's y-axis is mislabelled.",
+  "a": "Good catch, thanks — fixing it now.",
+  "d": [
+   "Nitpick is pick.",
+   "Then don't nitpick. Nobody looks at the y-axis anyway.",
+   "The y-axis is labelled."
+  ],
+  "ex": "nitpick = 挑小毛病;大方感謝並修正。"
+ },
+ {
+  "id": "d220",
+  "cefr": "C1",
+  "ctx": "朋友猶豫要不要換工作",
+  "line": "I'm on the fence about whether to take the offer.",
+  "a": "What's holding you back?",
+  "d": [
+   "Get off the fence.",
+   "Fences are dangerous.",
+   "Take it, obviously. Are you crazy?"
+  ],
+  "ex": "on the fence = 猶豫不決;問顧慮比替人決定好。"
+ }
+]
