@@ -1,5 +1,5 @@
 // 離線快取:改版時 deploy.sh 會把 VERSION 換成新的,手機下次開啟自動換新
-const VERSION = 'll-v6';
+const VERSION = 'll-v7';
 const FILES = ['./', 'index.html', 'manifest.webmanifest', 'icons/icon-192.png', 'icons/icon-512.png',
   'data/kana.json', 'data/vocab.json', 'data/grammar.json', 'data/phrases.json', 'data/dialogue.json', 'data/reading.json', 'data/themes_a.json', 'data/themes_b.json', 'data/themes_c.json'];
 self.addEventListener('install', e => { e.waitUntil(caches.open(VERSION).then(c => c.addAll(FILES)).then(() => self.skipWaiting())); });
