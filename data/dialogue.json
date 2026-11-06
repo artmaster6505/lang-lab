@@ -2858,5 +2858,369 @@
    "Take it, obviously. Are you crazy?"
   ],
   "ex": "on the fence = 猶豫不決;問顧慮比替人決定好。"
+ },
+ {
+  "id": "d221",
+  "cefr": "C1",
+  "ctx": "主管在會議尾聲說",
+  "line": "Let's take this offline.",
+  "a": "Sure — I'll set up a quick call with you this afternoon.",
+  "d": [
+   "OK, I'll turn off my laptop now.",
+   "Great, so we'll keep discussing it here for a few more minutes.",
+   "Why? The Wi-Fi is working fine."
+  ],
+  "ex": "take this offline = 會後私下再談,不是斷網。"
+ },
+ {
+  "id": "d222",
+  "cefr": "C1",
+  "ctx": "同事請你幫忙",
+  "line": "Could you do me a favour and look over my slides before three?",
+  "a": "Happy to. Send them over and I'll get back to you by two.",
+  "d": [
+   "No, I can't look at them, because I'm looking at my own.",
+   "I'll look over them sometime next week.",
+   "Yes, I can look. Favour accepted."
+  ],
+  "ex": "爽快答應並給時間點;next week 已錯過三點的期限。"
+ },
+ {
+  "id": "d223",
+  "cefr": "C1",
+  "ctx": "客戶在電話上",
+  "line": "I'm afraid that doesn't quite work for us.",
+  "a": "I see. Could you tell me which part is the sticking point?",
+  "d": [
+   "Why are you afraid? There's nothing to worry about.",
+   "Great, so we can sign today.",
+   "Then that's your problem, not ours."
+  ],
+  "ex": "I'm afraid… 是委婉拒絕;應追問卡在哪裡。"
+ },
+ {
+  "id": "d224",
+  "cefr": "C1",
+  "ctx": "主管問進度",
+  "line": "Where are we on the Q3 report?",
+  "a": "It's about 80% done — I'm just waiting on the sales figures.",
+  "d": [
+   "We're in the meeting room on the third floor.",
+   "The Q3 report is a report about Q3.",
+   "I don't know, ask someone else."
+  ],
+  "ex": "Where are we on X? = X 的進度如何。"
+ },
+ {
+  "id": "d225",
+  "cefr": "C1",
+  "ctx": "同事在走廊問",
+  "line": "Have you got a sec?",
+  "a": "Sure, what's up?",
+  "d": [
+   "Yes, I have a second watch.",
+   "I've got a few seconds left on my timer.",
+   "No. Goodbye."
+  ],
+  "ex": "Have you got a sec? = 有空一下嗎。"
+ },
+ {
+  "id": "d226",
+  "cefr": "C1",
+  "ctx": "同事稱讚你的簡報",
+  "line": "That presentation really hit the mark.",
+  "a": "Thanks — I was worried it ran a bit long.",
+  "d": [
+   "Sorry, I didn't mean to hit anyone.",
+   "Which mark? I didn't see one on the slides.",
+   "Yes, I know. I'm always the best presenter here."
+  ],
+  "ex": "hit the mark = 正中要點;謙虛回應最自然。"
+ },
+ {
+  "id": "d227",
+  "cefr": "C1",
+  "ctx": "會議中有人離題",
+  "line": "Sorry, I think we're going off on a tangent here.",
+  "a": "Good point — let's park that and come back to the budget.",
+  "d": [
+   "A tangent is a line that touches a curve.",
+   "Yes, let's keep going in this direction then.",
+   "Sorry, I wasn't going anywhere."
+  ],
+  "ex": "go off on a tangent = 離題;park that = 先擱著。"
+ },
+ {
+  "id": "d228",
+  "cefr": "C1",
+  "ctx": "客戶說",
+  "line": "We'd need it by Friday at the latest.",
+  "a": "Friday's tight, but doable if we get your approval today.",
+  "d": [
+   "At the latest technology? Sure.",
+   "No problem, we'll deliver it next Tuesday.",
+   "Friday is the fifth day of the week."
+  ],
+  "ex": "at the latest = 最晚;要回應可行性與條件。"
+ },
+ {
+  "id": "d229",
+  "cefr": "C1",
+  "ctx": "同事抱怨",
+  "line": "I'm swamped this week.",
+  "a": "Anything I can take off your plate?",
+  "d": [
+   "Did it rain a lot at your place?",
+   "Me too, so don't ask me for anything.",
+   "Swamps are bad for your health."
+  ],
+  "ex": "swamped = 忙翻;take off your plate = 幫你分擔。"
+ },
+ {
+  "id": "d230",
+  "cefr": "C1",
+  "ctx": "面試官問",
+  "line": "What would you say is your biggest weakness?",
+  "a": "I sometimes take on too much myself, so I've been learning to delegate earlier.",
+  "d": [
+   "I don't have any weaknesses.",
+   "My biggest weakness is that I'm always late and lazy.",
+   "I would say nothing."
+  ],
+  "ex": "說一個真實但可控的缺點並說明改進。"
+ },
+ {
+  "id": "d231",
+  "cefr": "C1",
+  "ctx": "主管給你回饋",
+  "line": "I think there's room for improvement on the client emails.",
+  "a": "Thanks for flagging it. Could you point me to an example?",
+  "d": [
+   "There's no room — this office is too small.",
+   "My emails are perfect, so I disagree.",
+   "OK. Improvement room is where?"
+  ],
+  "ex": "room for improvement = 有改進空間;請對方給例子。"
+ },
+ {
+  "id": "d232",
+  "cefr": "C1",
+  "ctx": "朋友提議",
+  "line": "Fancy grabbing a bite after work?",
+  "a": "I'd love to, but I've got a thing tonight. Rain check?",
+  "d": [
+   "I don't fancy biting anything.",
+   "Yes, I'll grab one for you and bring it tomorrow.",
+   "No. I hate eating with people."
+  ],
+  "ex": "Fancy…? = 想不想…;rain check = 改天。"
+ },
+ {
+  "id": "d233",
+  "cefr": "C1",
+  "ctx": "同事說",
+  "line": "I'll keep you in the loop.",
+  "a": "Thanks, I appreciate it.",
+  "d": [
+   "Please don't put me in a loop, I get dizzy.",
+   "What loop? We don't have a loop here.",
+   "No need, I don't care what happens."
+  ],
+  "ex": "keep you in the loop = 隨時讓你知道進度。"
+ },
+ {
+  "id": "d234",
+  "cefr": "C1",
+  "ctx": "客戶問",
+  "line": "Is there any wiggle room on the price?",
+  "a": "There might be a little if you can commit to a longer contract.",
+  "d": [
+   "The room is quite small, I'm afraid.",
+   "Wiggle is a funny word.",
+   "No. The price is the price. Take it or leave it, idiot."
+  ],
+  "ex": "wiggle room = 彈性空間(議價)。"
+ },
+ {
+  "id": "d235",
+  "cefr": "C2",
+  "ctx": "同事開玩笑地說",
+  "line": "Well, that went down like a lead balloon.",
+  "a": "Yeah, tough crowd. Maybe the joke needed more context.",
+  "d": [
+   "Oh no, did someone drop a balloon?",
+   "Great! Everyone loved it, then.",
+   "Lead balloons can't fly, actually."
+  ],
+  "ex": "go down like a lead balloon = 完全冷場、反應很差。"
+ },
+ {
+  "id": "d236",
+  "cefr": "C2",
+  "ctx": "主管在調整計畫",
+  "line": "We may need to move the goalposts a bit.",
+  "a": "Understood, but if the targets change, can we revisit the deadline too?",
+  "d": [
+   "Should I call the football club?",
+   "So the targets stay exactly the same?",
+   "I refuse to move anything heavy."
+  ],
+  "ex": "move the goalposts = 中途改變目標或標準。"
+ },
+ {
+  "id": "d237",
+  "cefr": "C2",
+  "ctx": "同事私下說",
+  "line": "I think the new manager is a bit out of his depth.",
+  "a": "Maybe, but it's early days. Let's give him a chance.",
+  "d": [
+   "Yes, he can't swim well.",
+   "So he's an expert in this area.",
+   "His depth is about two meters."
+  ],
+  "ex": "out of one's depth = 力不從心;early days = 還早。"
+ },
+ {
+  "id": "d238",
+  "cefr": "C2",
+  "ctx": "客戶在電話尾聲",
+  "line": "Let's circle back on this next week.",
+  "a": "Sounds good. I'll send a calendar invite for Tuesday.",
+  "d": [
+   "Why should we walk in a circle?",
+   "OK, so we're finished and never need to talk again.",
+   "Next week I'm going back to my hometown."
+  ],
+  "ex": "circle back = 之後再回頭討論。"
+ },
+ {
+  "id": "d239",
+  "cefr": "C2",
+  "ctx": "同事談專案",
+  "line": "Honestly, this project has been a bit of a poisoned chalice.",
+  "a": "I can imagine — high visibility, but no budget to match.",
+  "d": [
+   "Did you report the poison to HR?",
+   "Lucky you, it's a great gift.",
+   "A chalice is a kind of cup used in church."
+  ],
+  "ex": "poisoned chalice = 看似榮耀實則燙手山芋。"
+ },
+ {
+  "id": "d240",
+  "cefr": "C1",
+  "ctx": "在餐廳,服務生問",
+  "line": "How's everything tasting?",
+  "a": "Lovely, thanks. Could we get some more water when you have a chance?",
+  "d": [
+   "It's tasting the food.",
+   "Everything tastes like everything.",
+   "Why do you keep asking me questions?"
+  ],
+  "ex": "禮貌回應並順帶提出需求。"
+ },
+ {
+  "id": "d241",
+  "cefr": "C1",
+  "ctx": "飯店櫃台說",
+  "line": "I'm afraid we've had to upgrade you to a suite.",
+  "a": "Oh, that's no problem at all — thank you!",
+  "d": [
+   "I'm afraid too. Let's be afraid together.",
+   "Please downgrade me, I'm angry.",
+   "Why are you afraid of me?"
+  ],
+  "ex": "I'm afraid 有時只是客套開頭,這裡其實是好消息。"
+ },
+ {
+  "id": "d242",
+  "cefr": "C1",
+  "ctx": "鄰居說",
+  "line": "Sorry about the noise last night.",
+  "a": "Oh, no worries — I hardly noticed.",
+  "d": [
+   "Yes, you should be sorry. I'm calling the police.",
+   "What noise? I made a lot of noise too.",
+   "The noise was last night, not today."
+  ],
+  "ex": "no worries / I hardly noticed = 大方帶過。"
+ },
+ {
+  "id": "d243",
+  "cefr": "C1",
+  "ctx": "同事邀約",
+  "line": "We're doing a farewell lunch for Jen on Friday — you in?",
+  "a": "Count me in. Where are we going?",
+  "d": [
+   "I'm in the office on Friday.",
+   "Who is Jen? I don't go to lunches.",
+   "In what? In the restaurant?"
+  ],
+  "ex": "you in? = 你要參加嗎;count me in = 算我一份。"
+ },
+ {
+  "id": "d244",
+  "cefr": "C2",
+  "ctx": "主管在檢討會",
+  "line": "With hindsight, we should have flagged the risk earlier.",
+  "a": "Agreed. Let's add a risk check to the kickoff checklist.",
+  "d": [
+   "Hindsight is my favorite movie.",
+   "No, we flagged it perfectly late.",
+   "I can't see behind me."
+  ],
+  "ex": "with hindsight = 事後看來;提出改進措施。"
+ },
+ {
+  "id": "d245",
+  "cefr": "C1",
+  "ctx": "客服人員說",
+  "line": "Bear with me while I pull up your account.",
+  "a": "Sure, take your time.",
+  "d": [
+   "I'm not a bear.",
+   "Pull it up where? To the ceiling?",
+   "Hurry up, I don't have all day."
+  ],
+  "ex": "bear with me = 請稍等。"
+ },
+ {
+  "id": "d246",
+  "cefr": "C1",
+  "ctx": "同事問你的意見",
+  "line": "What's your take on the new office layout?",
+  "a": "I like the open space, but it's hard to focus when it gets noisy.",
+  "d": [
+   "I take the bus to the new office.",
+   "Take what? I didn't take anything.",
+   "It's laid out on the floor."
+  ],
+  "ex": "What's your take on…? = 你對…的看法。"
+ },
+ {
+  "id": "d247",
+  "cefr": "C2",
+  "ctx": "談判時對方說",
+  "line": "That's a non-starter for us.",
+  "a": "Understood. What would you need to see to make it workable?",
+  "d": [
+   "Great, so we can start now.",
+   "Who's the starter? Is it a race?",
+   "OK then, we'll just do it anyway."
+  ],
+  "ex": "non-starter = 完全不可行的提案。"
+ },
+ {
+  "id": "d248",
+  "cefr": "C1",
+  "ctx": "同事說",
+  "line": "I've got a lot on my plate right now.",
+  "a": "No problem — it can wait until next week.",
+  "d": [
+   "Do you want some of my food?",
+   "Your plate looks empty to me.",
+   "Too bad, I need it in an hour."
+  ],
+  "ex": "a lot on my plate = 手上事情很多。"
  }
 ]
