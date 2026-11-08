@@ -4318,5 +4318,545 @@
     "ex": "What 子句當主詞,接 is。"
    }
   ]
+ },
+ {
+  "id": "passive_reporting",
+  "name": "傳聞被動(It is said that / be thought to)",
+  "cefr": "C1",
+  "note": "It is said/believed/thought that… 或 主詞 + is said/believed + to V / to be V-ing / to have p.p. / to have been p.p.。說的是更早的事用完成式;主詞是被動的用 to have been p.p.。新聞、報告常見。",
+  "items": [
+   {
+    "q": "The ancient city is thought ___ by an earthquake around 400 BC.",
+    "a": "to have been destroyed",
+    "d": [
+     "to have destroyed",
+     "to destroy",
+     "having been destroyed"
+    ],
+    "ex": "城市是「被摧毀」且在過去:to have been + p.p.。"
+   },
+   {
+    "q": "It ___ that the merger will be approved by the end of the year.",
+    "a": "is expected",
+    "d": [
+     "expects",
+     "is expecting",
+     "has expected"
+    ],
+    "ex": "It is expected that… 傳聞被動。"
+   },
+   {
+    "q": "The painting is believed ___ worth over a million dollars.",
+    "a": "to be",
+    "d": [
+     "being",
+     "to have",
+     "that it is"
+    ],
+    "ex": "現在的狀態用 to be。"
+   },
+   {
+    "q": "The two companies are said ___ secret talks at the moment.",
+    "a": "to be holding",
+    "d": [
+     "to hold",
+     "holding",
+     "to have held"
+    ],
+    "ex": "此刻正在進行:to be + V-ing。"
+   },
+   {
+    "q": "The suspects are reported ___ the country by private jet.",
+    "a": "to have fled",
+    "d": [
+     "to flee",
+     "fleeing to",
+     "that they fled"
+    ],
+    "ex": "已經逃離(先發生):to have fled。"
+   },
+   {
+    "q": "___ that more than 200 people attended the protest.",
+    "a": "It is estimated",
+    "d": [
+     "It estimates",
+     "They are estimated",
+     "Estimating"
+    ],
+    "ex": "It is estimated that…"
+   },
+   {
+    "q": "The company is known ___ its employees well.",
+    "a": "to treat",
+    "d": [
+     "treating",
+     "to treating",
+     "that treats"
+    ],
+    "ex": "be known to V(以…著稱的習慣性事實)。"
+   },
+   {
+    "q": "Interest rates are widely expected ___ again next quarter.",
+    "a": "to rise",
+    "d": [
+     "rising",
+     "to have risen",
+     "rise"
+    ],
+    "ex": "未來的事用 to + 原形。"
+   },
+   {
+    "q": "It was once believed that the earth ___ flat.",
+    "a": "was",
+    "d": [
+     "is",
+     "be",
+     "has been"
+    ],
+    "ex": "過去的看法,子句時態跟著用過去式。"
+   },
+   {
+    "q": "She is rumoured ___ a new job at a rival firm.",
+    "a": "to have accepted",
+    "d": [
+     "to accept",
+     "having accepted",
+     "accepted"
+    ],
+    "ex": "傳聞她已經接受(先發生)。"
+   }
+  ]
+ },
+ {
+  "id": "conditional_alternatives",
+  "name": "if 以外的條件說法(unless / provided / but for…)",
+  "cefr": "C1",
+  "note": "unless = if not;provided/providing (that)、as long as、on condition that = 只要/前提是;in case = 以防;but for / without + 名詞 = 要不是;otherwise / or else = 否則;suppose/supposing = 假設。",
+  "items": [
+   {
+    "q": "You can borrow my car ___ you return it by Friday.",
+    "a": "provided that",
+    "d": [
+     "unless",
+     "in case",
+     "otherwise"
+    ],
+    "ex": "前提是:provided that。"
+   },
+   {
+    "q": "We'll miss the train ___ we leave now.",
+    "a": "unless",
+    "d": [
+     "provided",
+     "as long as",
+     "in case"
+    ],
+    "ex": "unless = if not:除非現在出發。"
+   },
+   {
+    "q": "Take an umbrella ___ it rains later.",
+    "a": "in case",
+    "d": [
+     "unless",
+     "provided",
+     "otherwise"
+    ],
+    "ex": "in case = 以防(不是條件,是預防)。"
+   },
+   {
+    "q": "___ your help, I would never have finished the project.",
+    "a": "But for",
+    "d": [
+     "Unless",
+     "Provided",
+     "Except"
+    ],
+    "ex": "But for + 名詞 = 要不是。"
+   },
+   {
+    "q": "Save your work regularly; ___, you may lose everything.",
+    "a": "otherwise",
+    "d": [
+     "unless",
+     "provided",
+     "in case"
+    ],
+    "ex": "otherwise = 否則(放分號後當副詞)。"
+   },
+   {
+    "q": "___ you won the lottery, what would you do first?",
+    "a": "Supposing",
+    "d": [
+     "Unless",
+     "Provided",
+     "In case"
+    ],
+    "ex": "Supposing = 假設(常配假設語氣)。"
+   },
+   {
+    "q": "The bank agreed to the loan ___ that we provide a guarantor.",
+    "a": "on condition",
+    "d": [
+     "in case",
+     "unless",
+     "as long"
+    ],
+    "ex": "on condition that = 以…為條件。"
+   },
+   {
+    "q": "I'll come with you ___ we're back before midnight.",
+    "a": "as long as",
+    "d": [
+     "unless",
+     "in case",
+     "otherwise"
+    ],
+    "ex": "as long as = 只要。"
+   },
+   {
+    "q": "Hurry up, ___ we'll be late for the meeting.",
+    "a": "or else",
+    "d": [
+     "unless",
+     "provided",
+     "in case"
+    ],
+    "ex": "祈使句 + or else = 不然。"
+   },
+   {
+    "q": "___ a single mistake in the code, the launch would have gone perfectly.",
+    "a": "But for",
+    "d": [
+     "Unless",
+     "Except that",
+     "Providing"
+    ],
+    "ex": "But for + 名詞片語 = 要不是那個錯。"
+   }
+  ]
+ },
+ {
+  "id": "noun_clauses_ever",
+  "name": "名詞子句與 whatever / whoever / whether",
+  "cefr": "C1",
+  "note": "what = the thing(s) that;whatever/whoever/whichever = 任何…的;whether 可接 or not、可當主詞、可接不定詞(if 不行);the fact that 放在介系詞後面。",
+  "items": [
+   {
+    "q": "___ we choose, someone will be unhappy.",
+    "a": "Whichever option",
+    "d": [
+     "Which option",
+     "Whatever option that",
+     "Whether option"
+    ],
+    "ex": "從有限選項中「不管哪個」:whichever。"
+   },
+   {
+    "q": "The prize will go to ___ submits the best design.",
+    "a": "whoever",
+    "d": [
+     "whomever",
+     "who",
+     "anyone who whoever"
+    ],
+    "ex": "子句裡當主詞(submits 的主詞),用 whoever。"
+   },
+   {
+    "q": "I haven't decided ___ to accept the offer.",
+    "a": "whether",
+    "d": [
+     "if",
+     "that",
+     "what"
+    ],
+    "ex": "後接不定詞只能用 whether(不能 if to)。"
+   },
+   {
+    "q": "___ he will agree is still unclear.",
+    "a": "Whether",
+    "d": [
+     "If",
+     "That if",
+     "What"
+    ],
+    "ex": "放句首當主詞只能用 whether。"
+   },
+   {
+    "q": "She was impressed by ___ he had achieved in such a short time.",
+    "a": "what",
+    "d": [
+     "that",
+     "which",
+     "whether"
+    ],
+    "ex": "what = the things that,當介系詞 by 的受詞。"
+   },
+   {
+    "q": "We're worried about ___ nobody has replied yet.",
+    "a": "the fact that",
+    "d": [
+     "that",
+     "what",
+     "whether that"
+    ],
+    "ex": "介系詞後不能直接接 that 子句,要用 the fact that。"
+   },
+   {
+    "q": "Feel free to take ___ you need from the fridge.",
+    "a": "whatever",
+    "d": [
+     "that",
+     "which",
+     "whichever that"
+    ],
+    "ex": "whatever = 任何你需要的東西。"
+   },
+   {
+    "q": "The question is ___ we can afford it, not whether we want it.",
+    "a": "whether",
+    "d": [
+     "that",
+     "what",
+     "which"
+    ],
+    "ex": "對比兩個「是否」:whether。"
+   },
+   {
+    "q": "___ surprised everyone was how quickly the shares recovered.",
+    "a": "What",
+    "d": [
+     "That",
+     "Which",
+     "It"
+    ],
+    "ex": "What 子句當主詞 = 讓大家驚訝的是…"
+   },
+   {
+    "q": "I'll support ___ decision you make.",
+    "a": "whatever",
+    "d": [
+     "what",
+     "whether",
+     "that"
+    ],
+    "ex": "whatever + 名詞 = 不管什麼(決定)。"
+   }
+  ]
+ },
+ {
+  "id": "advanced_modals",
+  "name": "進階情態說法(be bound to / might as well / was to)",
+  "cefr": "C1",
+  "note": "be bound to = 一定會;be (un)likely to;might/may as well = 不如就;may/might well = 很可能;be to = 正式安排/命令;was to have p.p. = 原本計畫但沒實現;can't help V-ing;didn't need to(沒做,不必)vs needn't have p.p.(做了,其實不必)。",
+  "items": [
+   {
+    "q": "Don't worry about the price — it's ___ come down after the holidays.",
+    "a": "bound to",
+    "d": [
+     "bound for",
+     "likely that",
+     "supposed"
+    ],
+    "ex": "be bound to = 一定會。"
+   },
+   {
+    "q": "The last bus has gone, so we ___ walk.",
+    "a": "might as well",
+    "d": [
+     "had as well",
+     "may well to",
+     "would rather to"
+    ],
+    "ex": "might as well = 既然這樣不如就…"
+   },
+   {
+    "q": "The minister ___ visit the factory next week.",
+    "a": "is to",
+    "d": [
+     "is going",
+     "will to",
+     "has to be"
+    ],
+    "ex": "be to + V = 正式安排(新聞常見)。"
+   },
+   {
+    "q": "The bridge ___ opened in 2020, but it was delayed until 2023.",
+    "a": "was to have been",
+    "d": [
+     "was to be being",
+     "should be",
+     "is to have been"
+    ],
+    "ex": "was to have been p.p. = 原本預定但沒實現。"
+   },
+   {
+    "q": "Given the traffic, they ___ well be late.",
+    "a": "may",
+    "d": [
+     "must",
+     "should",
+     "can"
+    ],
+    "ex": "may/might well = 很可能。"
+   },
+   {
+    "q": "I ___ laughing when he fell into the pool.",
+    "a": "couldn't help",
+    "d": [
+     "couldn't stop to",
+     "can't help to",
+     "didn't help"
+    ],
+    "ex": "can't/couldn't help + V-ing = 忍不住。"
+   },
+   {
+    "q": "We ___ wait long — the doctor saw us straight away.",
+    "a": "didn't need to",
+    "d": [
+     "needn't have",
+     "mustn't",
+     "couldn't have"
+    ],
+    "ex": "沒等,也不必等:didn't need to。"
+   },
+   {
+    "q": "I ___ ironed that shirt — he wore a T-shirt in the end.",
+    "a": "needn't have",
+    "d": [
+     "didn't need to",
+     "mustn't have",
+     "shouldn't"
+    ],
+    "ex": "燙了,其實不必:needn't have p.p.。"
+   },
+   {
+    "q": "You ___ to have finished this by now. What happened?",
+    "a": "were supposed",
+    "d": [
+     "were bound",
+     "should",
+     "had better"
+    ],
+    "ex": "be supposed to have p.p. = 照理應該已經。"
+   },
+   {
+    "q": "Strong demand means prices are ___ to fall any time soon.",
+    "a": "unlikely",
+    "d": [
+     "not likely that",
+     "bound not",
+     "improbable"
+    ],
+    "ex": "be unlikely to + V。improbable 後面不接 to V。"
+   }
+  ]
+ },
+ {
+  "id": "concession_linkers",
+  "name": "讓步連接(albeit / much as / however + adj)",
+  "cefr": "C1",
+  "note": "albeit + 形容詞/副詞片語;much as + 子句(雖然很…);however/no matter how + adj + 主詞 + 動詞;adj + as/though + 主詞 + 動詞;granted / admittedly = 誠然;adj, if + adj = 雖然有點…。",
+  "items": [
+   {
+    "q": "The plan worked, ___ more slowly than expected.",
+    "a": "albeit",
+    "d": [
+     "despite",
+     "although of",
+     "in spite"
+    ],
+    "ex": "albeit + 副詞/形容詞片語(雖然)。"
+   },
+   {
+    "q": "___ I like him, I don't think he's right for the job.",
+    "a": "Much as",
+    "d": [
+     "Despite",
+     "However much as",
+     "In spite"
+    ],
+    "ex": "Much as + 子句 = 雖然很…"
+   },
+   {
+    "q": "___ hard she tried, she couldn't open the jar.",
+    "a": "However",
+    "d": [
+     "Although",
+     "Despite",
+     "Even"
+    ],
+    "ex": "However + 形容詞/副詞 + 主詞 + 動詞。"
+   },
+   {
+    "q": "___ as it may seem, the cheaper option is actually riskier.",
+    "a": "Strange",
+    "d": [
+     "Strangely",
+     "Although strange",
+     "Despite strange"
+    ],
+    "ex": "形容詞 + as + 主詞 + may seem(倒裝讓步)。"
+   },
+   {
+    "q": "Tired ___ he was, he kept working until midnight.",
+    "a": "as",
+    "d": [
+     "so",
+     "although",
+     "despite"
+    ],
+    "ex": "形容詞 + as + 主詞 + 動詞。"
+   },
+   {
+    "q": "___, the software has a few bugs, but it's still the best option.",
+    "a": "Granted",
+    "d": [
+     "Despite",
+     "Albeit",
+     "Even though"
+    ],
+    "ex": "Granted = 誠然(先承認缺點再轉折)。"
+   },
+   {
+    "q": "The hotel was clean, ___ a little noisy.",
+    "a": "if",
+    "d": [
+     "unless",
+     "despite",
+     "however"
+    ],
+    "ex": "形容詞, if + 形容詞 = 雖然有點…"
+   },
+   {
+    "q": "No matter ___ expensive it is, I'm buying it.",
+    "a": "how",
+    "d": [
+     "what",
+     "however",
+     "which"
+    ],
+    "ex": "No matter how + 形容詞。"
+   },
+   {
+    "q": "Talented ___ she is, she still needs more experience.",
+    "a": "though",
+    "d": [
+     "despite",
+     "however",
+     "even"
+    ],
+    "ex": "形容詞 + though + 主詞 + 動詞 = 雖然她很有才華。"
+   },
+   {
+    "q": "She agreed to help, ___ reluctantly.",
+    "a": "albeit",
+    "d": [
+     "although",
+     "despite",
+     "however"
+    ],
+    "ex": "albeit + 副詞。although 後面要接子句。"
+   }
+  ]
  }
 ]

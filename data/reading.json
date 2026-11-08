@@ -910,5 +910,233 @@
     "ex": "作者肯定現金流動性的價值,但要理解實質報酬。"
    }
   ]
+ },
+ {
+  "id": "r25",
+  "cefr": "C1",
+  "title": "The Case for Boring Infrastructure",
+  "text": "Few politicians win elections by promising to replace water pipes. New bridges and stadiums make better photographs, and the benefits of maintenance are, by their nature, invisible: when a pipe is repaired in time, nothing happens. Yet engineers have long argued that neglecting existing infrastructure is one of the most expensive mistakes a government can make.\n\nThe reasoning is straightforward. A road resurfaced at the right moment may last another fifteen years; the same road left to crumble can require complete reconstruction at several times the cost. Deferred maintenance, in other words, is not a saving but a loan, and an unusually expensive one.\n\nSome cities have responded by publishing an annual \"maintenance gap\" — the difference between what should be spent to keep assets in good condition and what is actually spent. Making the gap public does not fix a single pipe, but it turns an invisible problem into a figure that voters and journalists can follow.",
+  "qs": [
+   {
+    "q": "Why, according to the writer, is maintenance politically unattractive?",
+    "a": "Its successes are largely invisible.",
+    "d": [
+     "It is always more expensive than new projects.",
+     "Engineers disagree about its value.",
+     "Voters prefer lower taxes to repairs."
+    ],
+    "ex": "保養做得好就「什麼事都沒發生」,看不到成果。"
+   },
+   {
+    "q": "What does the writer mean by calling deferred maintenance \"a loan\"?",
+    "a": "Postponing repairs creates larger costs later.",
+    "d": [
+     "Governments borrow money to pay for repairs.",
+     "Repairs should be paid for by private lenders.",
+     "Maintenance budgets are usually repaid within a year."
+    ],
+    "ex": "現在不修 = 以後付更多,像高利貸款。"
+   },
+   {
+    "q": "What is the main benefit of publishing a \"maintenance gap\"?",
+    "a": "It makes the problem easier for the public to track.",
+    "d": [
+     "It immediately reduces repair costs.",
+     "It replaces the need for engineers' reports.",
+     "It guarantees more funding for maintenance."
+    ],
+    "ex": "公布數字讓選民和記者看得到、追得了。"
+   }
+  ]
+ },
+ {
+  "id": "r26",
+  "cefr": "C1",
+  "title": "Why Meetings Expand",
+  "text": "Most office workers can recall a meeting that could have been an email. What is less obvious is why such meetings persist even in organisations that complain about them constantly. One explanation is that meetings serve purposes other than the ones written on the agenda. They allow people to demonstrate commitment, to share responsibility for difficult decisions, and to avoid being blamed later for not having been consulted.\n\nSeen this way, a long invitation list is not simply inefficiency; it is a form of insurance. Each additional attendee slightly reduces the risk that someone will later object that they were left out. The cost of that insurance, however, is paid in hours by everyone in the room.\n\nCompanies that have successfully cut meetings rarely do so by banning them. Instead, they change what counts as being consulted — for instance, by circulating a short written proposal with a clear deadline for objections, after which silence is treated as agreement.",
+  "qs": [
+   {
+    "q": "What is the writer's main point about unnecessary meetings?",
+    "a": "They continue because they fulfil hidden social functions.",
+    "d": [
+     "They exist mainly because managers enjoy them.",
+     "They are rarer than most workers believe.",
+     "They can be eliminated by a simple ban."
+    ],
+    "ex": "會議還有表態、分攤責任、避免被怪的隱藏功能。"
+   },
+   {
+    "q": "In what sense is a long invitation list \"a form of insurance\"?",
+    "a": "It protects against later complaints of not being included.",
+    "d": [
+     "It ensures that decisions are always correct.",
+     "It allows the company to claim back costs.",
+     "It guarantees that someone will take notes."
+    ],
+    "ex": "多邀人,之後比較不會有人抱怨沒被諮詢。"
+   },
+   {
+    "q": "Which approach does the writer suggest works better than banning meetings?",
+    "a": "Redefining consultation through written proposals and deadlines.",
+    "d": [
+     "Limiting meetings to senior managers only.",
+     "Making all meetings shorter than fifteen minutes.",
+     "Recording meetings for those who cannot attend."
+    ],
+    "ex": "改用書面提案 + 異議期限,沉默即同意。"
+   }
+  ]
+ },
+ {
+  "id": "r27",
+  "cefr": "C1",
+  "title": "The Limits of Self-Tracking",
+  "text": "Wearable devices now record our steps, heart rate and sleep with impressive precision. It is tempting to assume that more data must lead to better decisions about our health. The evidence, however, is more mixed. Studies of fitness trackers have found that many users stop wearing them within months, and that simply knowing one's step count does not reliably change behaviour.\n\nPart of the problem is that data without interpretation can be confusing or even counterproductive. A sleep score that drops after a stressful day may make some users anxious, which in turn makes sleep worse — a phenomenon researchers have begun to call \"orthosomnia\".\n\nThis does not make the devices useless. They appear most helpful when they are tied to a specific goal, such as training for a race, and when the numbers are treated as rough guides rather than verdicts. The device, in short, works best as a tool for a decision the user has already made.",
+  "qs": [
+   {
+    "q": "What does the writer suggest about the link between health data and behaviour?",
+    "a": "Having more data does not automatically change what people do.",
+    "d": [
+     "People who track data are always healthier.",
+     "Most trackers give inaccurate readings.",
+     "Behaviour changes only when data is shared online."
+    ],
+    "ex": "知道步數不一定會改變行為。"
+   },
+   {
+    "q": "What is \"orthosomnia\" as described in the passage?",
+    "a": "Sleep problems made worse by worrying about sleep data.",
+    "d": [
+     "A medical condition caused by wearing devices at night.",
+     "The habit of sleeping with a phone nearby.",
+     "A method of improving sleep using trackers."
+    ],
+    "ex": "因為睡眠分數焦慮,反而睡更差。"
+   },
+   {
+    "q": "According to the writer, when are trackers most useful?",
+    "a": "When they support a clear goal and are read as rough guides.",
+    "d": [
+     "When they are worn every day without exception.",
+     "When users check their scores as often as possible.",
+     "When doctors review the data every week."
+    ],
+    "ex": "有明確目標、把數字當參考時最有用。"
+   }
+  ]
+ },
+ {
+  "id": "r28",
+  "cefr": "C1",
+  "title": "Remote Work and the Junior Employee",
+  "text": "The debate about remote work is often framed as a contest between flexibility and productivity. For experienced employees, the evidence suggests that working from home costs little and may even help. For people at the start of their careers, the picture is less reassuring.\n\nMuch of what junior staff learn is never formally taught. They overhear how a colleague handles a difficult client, notice how a manager structures a proposal, and pick up the unwritten rules of the organisation. Researchers sometimes call this \"tacit knowledge\", and it travels poorly over video calls, which tend to be scheduled, short and focused on immediate tasks.\n\nSome firms have tried to compensate by asking senior staff to come into the office on the same days as their newest colleagues. The logic is that the benefit of being in the office depends less on the building than on who else is in it. An empty office, after all, teaches nothing.",
+  "qs": [
+   {
+    "q": "Why might remote work be harder for junior employees?",
+    "a": "They miss informal learning that happens around colleagues.",
+    "d": [
+     "They are usually less productive at home.",
+     "They have less suitable equipment at home.",
+     "They are more likely to be monitored."
+    ],
+    "ex": "新人很多東西靠在旁邊聽、看學到,遠端學不到。"
+   },
+   {
+    "q": "Why does tacit knowledge \"travel poorly\" over video calls?",
+    "a": "Calls are usually planned, brief and task-focused.",
+    "d": [
+     "Video quality is often too low.",
+     "Senior staff refuse to use video calls.",
+     "Tacit knowledge must be written down first."
+    ],
+    "ex": "視訊多半排好、短、只談眼前任務。"
+   },
+   {
+    "q": "What does the final sentence imply?",
+    "a": "Office time is valuable mainly because of the people present.",
+    "d": [
+     "Offices should be closed to save money.",
+     "Junior staff should work alone to focus.",
+     "Office buildings need better design."
+    ],
+    "ex": "辦公室的價值在於有誰在,不是建築本身。"
+   }
+  ]
+ },
+ {
+  "id": "r29",
+  "cefr": "C1",
+  "title": "The Return of the Repair Shop",
+  "text": "For decades, the economics of household goods pointed in one direction: it was usually cheaper to replace a broken toaster than to fix it. Labour was expensive, spare parts were hard to find, and many products were designed in ways that made opening them difficult without damaging them.\n\nThat calculation is beginning to shift. Several governments have introduced \"right to repair\" rules requiring manufacturers to make spare parts and repair manuals available for a number of years after a product is sold. Supporters argue that this will reduce waste and give consumers more control over the things they own.\n\nManufacturers have raised concerns about safety and the protection of their designs, and it remains unclear how many consumers will actually choose repair over replacement. Still, the rules change the default. When repair becomes a realistic option rather than a theoretical one, the decision to throw something away becomes a choice rather than a necessity.",
+  "qs": [
+   {
+    "q": "Why was replacing goods traditionally cheaper than repairing them?",
+    "a": "Labour costs, scarce parts and hard-to-open designs.",
+    "d": [
+     "Governments taxed repair services heavily.",
+     "New products were always of higher quality.",
+     "Consumers preferred the latest models."
+    ],
+    "ex": "人工貴、零件難找、設計很難拆。"
+   },
+   {
+    "q": "What do \"right to repair\" rules require?",
+    "a": "Manufacturers must supply parts and manuals for some years.",
+    "d": [
+     "Consumers must repair goods before replacing them.",
+     "Shops must offer free repairs for a year.",
+     "Products must be designed to last longer."
+    ],
+    "ex": "製造商要在一段時間內提供零件和維修手冊。"
+   },
+   {
+    "q": "What is the writer's overall view of the rules?",
+    "a": "Their effect is uncertain, but they make repair a real option.",
+    "d": [
+     "They will certainly end the throwaway culture.",
+     "They mainly benefit manufacturers.",
+     "They are unnecessary because repair is already cheap."
+    ],
+    "ex": "效果未定,但讓「修」變成真的選項。"
+   }
+  ]
+ },
+ {
+  "id": "r30",
+  "cefr": "C1",
+  "title": "How Headlines Shape What We Remember",
+  "text": "Most readers skim far more articles than they read in full. As a result, the headline often becomes the main thing a reader takes away from a story. Psychologists have shown that a misleading headline can colour how people remember the article beneath it, even when the article itself is accurate and the reader has read it carefully.\n\nIn one set of experiments, participants read identical news stories under different headlines. Those whose headline emphasised a minor detail were more likely to recall that detail later and to interpret the rest of the story in its light. The effect was strongest when the headline was subtly slanted rather than obviously false, presumably because readers did not notice anything to correct.\n\nThe practical lesson for readers is modest but useful: treat a headline as a claim to be checked against the article rather than as a summary of it. For editors, the findings are a reminder that accuracy in the body of a story does not excuse imprecision at the top.",
+  "qs": [
+   {
+    "q": "Why do headlines have such a strong influence?",
+    "a": "Many readers only skim and remember the headline.",
+    "d": [
+     "Headlines are usually written by experts.",
+     "Readers trust headlines more than articles.",
+     "Articles are often too long to understand."
+    ],
+    "ex": "多數人只掃標題,標題成了主要記憶。"
+   },
+   {
+    "q": "When was the headline effect strongest?",
+    "a": "When the headline was slightly slanted, not clearly false.",
+    "d": [
+     "When the headline was completely untrue.",
+     "When readers skipped the article entirely.",
+     "When the article contained errors."
+    ],
+    "ex": "微妙偏頗比明顯錯誤更有影響,因為讀者沒察覺要修正。"
+   },
+   {
+    "q": "What does the writer advise readers to do?",
+    "a": "Check the headline's claim against the article itself.",
+    "d": [
+     "Stop reading news websites.",
+     "Read only the headlines to save time.",
+     "Trust articles more than their headlines in every case."
+    ],
+    "ex": "把標題當成要查證的主張,不是摘要。"
+   }
+  ]
  }
 ]
