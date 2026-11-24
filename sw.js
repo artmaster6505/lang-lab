@@ -1,5 +1,5 @@
 // 離線快取:改版時 deploy.sh 會把 VERSION 換成新的,手機下次開啟自動換新
-const VERSION = 'll-v33';
+const VERSION = 'll-v34';
 const FILES = ['./', 'index.html', 'manifest.webmanifest', 'icons/icon-180.png', 'icons/icon-192.png', 'icons/icon-512.png', 'icons/icon-maskable-512.png',
   'data/kana.json', 'data/vocab.json', 'data/examples.json', 'data/grammar.json', 'data/phrases.json', 'data/dialogue.json', 'data/reading.json', 'data/themes_a.json', 'data/themes_b.json', 'data/themes_c.json', 'data/themes_d.json', 'data/themes_e.json', 'data/ja_words.json', 'data/ja_phrases.json', 'data/ja_grammar.json'];
 self.addEventListener('install', e => { e.waitUntil(caches.open(VERSION).then(c => c.addAll(FILES)).then(() => self.skipWaiting())); });
