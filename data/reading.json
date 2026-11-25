@@ -9,9 +9,9 @@
     "q": "What is the main purpose of this notice?",
     "a": "To explain how people should use the kitchen",
     "d": [
-     "To invite staff to a Friday party",
-     "To tell staff the coffee machine is new",
-     "To ask everyone to help the cleaner clean the whole office every Friday"
+     "To tell staff when the cleaner will empty the fridge",
+     "To ask staff to report problems with the coffee machine",
+     "To ask staff to clean the fridge on Friday"
     ],
     "ex": "通知列出廚房使用規則,主旨是說明使用方式。"
    },
@@ -19,9 +19,9 @@
     "q": "What happens on Friday at 5 p.m.?",
     "a": "Food without a name is thrown away.",
     "d": [
-     "The fridge is turned off.",
-     "Linda checks the coffee machine and fixes anything that is broken.",
-     "Everyone washes their cups."
+     "The fridge is cleaned and all food is thrown away.",
+     "Linda checks whether the coffee machine works.",
+     "Everyone must write their name on their cups."
     ],
     "ex": "文中說週五 5 點清潔人員會丟掉沒寫名字的食物。"
    },
@@ -29,9 +29,9 @@
     "q": "What should you do if the coffee machine is broken?",
     "a": "Tell Linda at the front desk.",
     "d": [
-     "Fix it yourself.",
-     "Turn it off and leave it.",
-     "Write your name on it."
+     "Turn it off and try to fix it yourself.",
+     "Write a note and leave it on the machine.",
+     "Tell the cleaner when they come on Friday."
     ],
     "ex": "機器壞了要告訴櫃檯的 Linda,不要自己修。"
    }
@@ -47,9 +47,9 @@
     "q": "What is this email mainly about?",
     "a": "A package that has been sent",
     "d": [
-     "A new shop opening",
-     "A problem with a payment",
-     "A special sale on running shoes and sports socks for members"
+     "A refund for shoes that did not fit",
+     "A package that is waiting at a store",
+     "A delay with a shoe order"
     ],
     "ex": "信件通知訂單已出貨。"
    },
@@ -57,9 +57,9 @@
     "q": "How long can Mark take to return the shoes for free?",
     "a": "30 days",
     "d": [
-     "Seven days",
-     "Two or three days",
-     "42 days"
+     "7 days",
+     "Three days",
+     "Two weeks"
     ],
     "ex": "文中說 30 天內可免費退貨;7 天是到超商取件期限。"
    },
@@ -67,8 +67,8 @@
     "q": "In the email, what does \"pick up\" mean?",
     "a": "Go and collect",
     "d": [
-     "Lift with your hands",
-     "Buy again",
+     "Lift up by hand",
+     "Choose and order",
      "Send back"
     ],
     "ex": "pick up the package 指去取件。"
@@ -85,9 +85,9 @@
     "q": "What is this text mainly about?",
     "a": "Information for people who want to visit a museum",
     "d": [
-     "The history of a river",
-     "How local artists can show their paintings on the second floor",
-     "A new café in the city"
+     "A description of the city's history and art",
+     "An advertisement for a new riverside café",
+     "Rules for taking photos in a museum"
     ],
     "ex": "文章提供開放時間、票價、樓層等參觀資訊。"
    },
@@ -95,9 +95,9 @@
     "q": "Where can you NOT take photos?",
     "a": "On the second floor",
     "d": [
-     "On the first floor",
-     "In the café",
-     "Near the entrance"
+     "On the first floor only",
+     "In the third-floor café",
+     "Near the entrance lockers"
     ],
     "ex": "文中說二樓禁止拍照。"
    },
@@ -105,9 +105,9 @@
     "q": "A family with two adults and a five-year-old child visits on a normal Saturday. How much do they pay?",
     "a": "400 dollars",
     "d": [
-     "500 dollars",
-     "300 dollars",
-     "Nothing"
+     "Nothing",
+     "300 in all",
+     "About 500 dollars"
     ],
     "ex": "兩位成人各 200,未滿六歲免費,共 400 元。"
    }
@@ -123,9 +123,9 @@
     "q": "What is the main idea of the text?",
     "a": "The city is starting a bike rental service.",
     "d": [
-     "The city is building new MRT stations.",
-     "The city is closing some parks.",
-     "The city is selling cheap bikes near MRT stations and schools."
+     "The city is opening 50 new MRT stations.",
+     "The city is adding bike lanes near parks and schools.",
+     "The city is selling bikes at low prices."
     ],
     "ex": "全文介紹新的公共自行車租借服務。"
    },
@@ -134,8 +134,8 @@
     "a": "10 dollars",
     "d": [
      "Nothing",
-     "20 dollars",
-     "30 dollars"
+     "Twenty dollars",
+     "Five dollars"
     ],
     "ex": "前 30 分鐘免費,之後每 30 分鐘 10 元,一小時共 10 元。"
    },
@@ -143,9 +143,9 @@
     "q": "Why does the city want people to use the bikes?",
     "a": "To reduce car use and air pollution",
     "d": [
-     "To make money for schools",
-     "To help people get to work faster than by MRT",
-     "To sell more transport cards"
+     "To help students get to school",
+     "To sell more transport cards and apps",
+     "To make MRT stations less busy"
     ],
     "ex": "文末說希望大家少開車、讓空氣更乾淨。"
    }
@@ -161,9 +161,9 @@
     "q": "Why did the clinic send this message?",
     "a": "To remind Ms. Wang about her appointment",
     "d": [
-     "To tell Ms. Wang that her teeth are healthy and she does not need to come",
-     "To change Dr. Lee's working hours",
-     "To ask Ms. Wang to pay a bill"
+     "To tell Ms. Wang about a 300-dollar cancellation fee",
+     "To ask Ms. Wang to fill in a health form at home",
+     "To change the time of her appointment"
     ],
     "ex": "這是看診提醒。"
    },
@@ -171,9 +171,9 @@
     "q": "What time should Ms. Wang arrive?",
     "a": "3:20 p.m.",
     "d": [
-     "3:30 p.m.",
-     "2:30 p.m.",
-     "3:40 p.m."
+     "At 3:30 p.m.",
+     "Before 3 p.m.",
+     "3:40 pm"
     ],
     "ex": "預約 3:30,需提早十分鐘到,即 3:20。"
    },
@@ -181,9 +181,9 @@
     "q": "What can we infer about cancelling on Wednesday, June 11?",
     "a": "There is probably no fee.",
     "d": [
-     "She must pay 300 dollars.",
-     "It is not possible to cancel.",
-     "She must reply YES."
+     "She will have to pay 300 dollars.",
+     "She must first reply YES to cancel.",
+     "It is too late now."
     ],
     "ex": "提前一天以上取消不收費,前一天取消應無費用。"
    }
@@ -199,9 +199,9 @@
     "q": "What is the main purpose of the notice?",
     "a": "To explain new rules about where staff work",
     "d": [
-     "To announce a new product launch",
-     "To ask staff to complete a survey about their health and family",
-     "To introduce a new HR manager"
+     "To report the results of a staff survey",
+     "To ask managers to plan for product launches",
+     "To tell staff to work from home more"
     ],
     "ex": "通知說明新的混合辦公規定。"
    },
@@ -209,9 +209,9 @@
     "q": "What must managers do if they want staff in the office on extra days?",
     "a": "Tell them at least a week in advance",
     "d": [
-     "Get written permission from HR before asking anyone",
-     "Pay staff extra money",
-     "Ask the whole team to vote"
+     "Get permission from HR first",
+     "Ask the team to fill in the internal survey",
+     "Wait until the six-month policy review"
     ],
     "ex": "文中說主管須至少提前一週通知。"
    },
@@ -219,9 +219,9 @@
     "q": "The word \"confidentially\" is closest in meaning to:",
     "a": "privately, without telling others",
     "d": [
-     "quickly",
-     "officially, in writing",
-     "with a lot of confidence"
+     "quickly, without any delay",
+     "officially, in a written form",
+     "with confidence and trust"
     ],
     "ex": "confidentially = 保密地,不會讓他人知道。"
    }
@@ -237,9 +237,9 @@
     "q": "What is the main message of the article?",
     "a": "Changing position regularly is better for your health than sitting all day.",
     "d": [
-     "Standing desks solve all health problems.",
-     "People who exercise do not need to worry about sitting.",
-     "Office workers should stop using lifts completely."
+     "Standing desks are the best way to avoid health problems at work.",
+     "Regular exercise protects office workers from the effects of sitting.",
+     "Office workers should use the stairs instead of the lift."
     ],
     "ex": "主旨是久坐有害,要常變換姿勢。"
    },
@@ -247,9 +247,9 @@
     "q": "According to the article, how often should office workers move?",
     "a": "Every 30 minutes",
     "d": [
+     "Every hour",
      "Every eight hours",
-     "Once an hour",
-     "Only during lunch"
+     "Twice a day"
     ],
     "ex": "文中建議每半小時起身活動幾分鐘。"
    },
@@ -257,9 +257,9 @@
     "q": "What does the writer suggest about standing desks?",
     "a": "They are useful only if people do not stand all day.",
     "d": [
-     "They are too expensive for most companies.",
-     "They cause heart problems.",
-     "They are the best answer to long sitting."
+     "They are better than sitting, so people should stand all day.",
+     "They can cause problems with the back and heart.",
+     "They are now offered by most companies."
     ],
     "ex": "作者說整天站著也不好,重點在常換姿勢。"
    }
@@ -275,9 +275,9 @@
     "q": "What caused the delays?",
     "a": "Bad weather",
     "d": [
-     "A technical problem",
-     "A staff strike",
-     "Too many passengers"
+     "A technical fault",
+     "A staff shortage",
+     "A strike"
     ],
     "ex": "heavy fog 濃霧,屬天候因素。"
    },
@@ -286,8 +286,8 @@
     "a": "A meal voucher",
     "d": [
      "Cash compensation",
-     "A free hotel room",
-     "A business-class upgrade"
+     "A free hotel night",
+     "A new flight"
     ],
     "ex": "延誤超過兩小時可領 300 元餐券;文中說天候延誤不給現金補償。"
    },
@@ -295,9 +295,9 @@
     "q": "Why does the notice tell passengers to keep their receipts?",
     "a": "They may need them for an insurance claim.",
     "d": [
-     "The airline will pay them back in cash for all their costs.",
-     "They need them to board the plane.",
-     "Gate C2 staff will check them."
+     "The airline will refund them in cash.",
+     "They must show them at the service counter.",
+     "They need them to get a meal voucher."
     ],
     "ex": "保留收據是為了向自己的旅遊保險申請理賠。"
    }
@@ -313,9 +313,9 @@
     "q": "What is the main purpose of this email?",
     "a": "To inform a customer about a price increase",
     "d": [
-     "To welcome a new member",
-     "To advertise a new film",
-     "To apologise to members for a technical problem with picture quality"
+     "To thank a customer for two years of membership",
+     "To advertise new films and series",
+     "To explain how to cancel a plan"
     ],
     "ex": "信件通知 Standard 方案漲價。"
    },
@@ -323,9 +323,9 @@
     "q": "How much more will the Standard plan cost each month?",
     "a": "40 dollars",
     "d": [
-     "60 dollars",
+     "330 dollars",
      "100 dollars",
-     "330 dollars"
+     "Sixty dollars"
     ],
     "ex": "從 290 漲到 330,多 40 元。"
    },
@@ -334,8 +334,8 @@
     "a": "It shows advertisements.",
     "d": [
      "It has a cancellation fee.",
-     "It costs more than the Standard plan.",
-     "It cannot be used on phones."
+     "It costs more than Standard.",
+     "It has fewer films."
     ],
     "ex": "Basic 方案較便宜但有廣告。"
    }
@@ -351,9 +351,9 @@
     "q": "What is the article mainly about?",
     "a": "Why and how to recycle old phones",
     "d": [
-     "How to choose a new phone and get a discount when you buy it",
-     "Why gold prices are rising",
-     "How phones damage your health"
+     "Why phone shops give discounts",
+     "How to back up personal data",
+     "Why metals in phones are rare"
     ],
     "ex": "文章說明回收舊手機的理由與做法。"
    },
@@ -361,9 +361,9 @@
     "q": "What should you do before recycling your phone?",
     "a": "Reset it to factory settings",
     "d": [
-     "Remove the gold inside",
-     "Take it to a mine",
-     "Throw away the battery"
+     "Remove the metal parts",
+     "Sign in to all accounts",
+     "Delete all your photos"
     ],
     "ex": "回收前要備份、登出、恢復原廠設定。"
    },
@@ -371,9 +371,9 @@
     "q": "In the last paragraph, \"significantly\" is closest in meaning to:",
     "a": "by a large amount",
     "d": [
-     "slowly",
-     "by accident",
-     "for a short time"
+     "very slowly",
+     "only a little",
+     "for a while"
     ],
     "ex": "significantly = 顯著地、大幅地。"
    }
@@ -389,9 +389,9 @@
     "q": "What is the email about?",
     "a": "Arrangements for a company outing",
     "d": [
-     "The opening of a new office near Green Valley Park",
-     "A cooking class for staff",
-     "Changes to working hours"
+     "Plans for a staff cooking class",
+     "A change to working hours",
+     "Tips for hiking in the mountains"
     ],
     "ex": "信件說明團建活動的安排。"
    },
@@ -400,8 +400,8 @@
     "a": "Any special food needs",
     "d": [
      "Whether they will take the bus",
-     "Which afternoon activity they want",
-     "The size of their shoes"
+     "Which activity they will join",
+     "If they cannot attend the day"
     ],
     "ex": "10 月 10 日前要告知食物過敏或吃素。"
    },
@@ -409,9 +409,9 @@
     "q": "What can we infer from the last paragraph?",
     "a": "Staff who do not attend may need to work or take leave.",
     "d": [
-     "The event is only for managers.",
-     "Attendance is completely optional with no conditions.",
-     "The event will be cancelled if it rains."
+     "Staff can choose freely whether to come, with no need to tell anyone.",
+     "The event will be moved indoors if the weather in the mountains changes.",
+     "Managers must attend, but other staff are free to stay at home instead."
     ],
     "ex": "當天算正常上班日,不參加須告知主管,意味需上班或請假。"
    }
@@ -427,9 +427,9 @@
     "q": "What is the main purpose of the text?",
     "a": "To help readers understand and manage credit card bills",
     "d": [
-     "To advertise a new credit card",
-     "To explain how banks make investments",
-     "To compare different banks' interest rates"
+     "To encourage readers to pay only the minimum amount each month",
+     "To compare credit cards with automatic bank payments",
+     "To warn readers that banks often make mistakes on their bills"
     ],
     "ex": "文章教讀者看懂並管理信用卡帳單。"
    },
@@ -437,9 +437,9 @@
     "q": "What happens if you pay only the minimum amount?",
     "a": "You pay interest on the remaining balance.",
     "d": [
-     "Your card is cancelled.",
-     "You have to pay a late fee immediately, even before the due date.",
-     "Your credit limit increases."
+     "You must pay a late fee on the due date.",
+     "Your card is stopped until you pay the full balance.",
+     "You avoid interest for that month."
     ],
     "ex": "只繳最低金額,剩餘餘額會被收利息。"
    },
@@ -447,9 +447,9 @@
     "q": "What does \"unauthorised charges\" most likely mean?",
     "a": "Payments you did not agree to",
     "d": [
-     "Fees for paying late",
-     "Discounts from shops",
-     "Interest on your balance"
+     "Extra fees for paying after the due date",
+     "Interest charged on the remaining balance",
+     "Purchases made with automatic payments"
     ],
     "ex": "unauthorised = 未經授權,即非本人同意的消費。"
    }
@@ -465,9 +465,9 @@
     "q": "What is the main topic of the text?",
     "a": "A study method that improves long-term memory",
     "d": [
-     "Why tests are bad for students",
-     "The history of language apps and how they became popular",
-     "How to study a whole list in one night"
+     "Why we forget words the night before a test",
+     "How language apps choose new words",
+     "A hundred years of memory research"
     ],
     "ex": "文章介紹間隔重複這個記憶方法。"
    },
@@ -475,9 +475,9 @@
     "q": "In spaced repetition, what happens when you remember a word correctly?",
     "a": "The next review comes later.",
     "d": [
-     "You never review it again.",
-     "You review it the same day.",
-     "You add more new words to the list."
+     "You stop reviewing it.",
+     "You review it again soon.",
+     "You learn a new word."
     ],
     "ex": "每次記住後,下次複習的間隔會拉長。"
    },
@@ -485,9 +485,9 @@
     "q": "What can we infer about studying a list the night before a test?",
     "a": "It is not effective for remembering words long-term.",
     "d": [
-     "It is the method scientists recommend.",
-     "It works better than spaced repetition.",
-     "It is how most language apps work."
+     "It is the method that scientists have recommended for a century.",
+     "It works well because the words are reviewed many times in one day.",
+     "It is the method that most language apps now use automatically."
     ],
     "ex": "作者說考前一晚背的字一週後大多會忘。"
    }
@@ -503,9 +503,9 @@
     "q": "What is the main point of the article?",
     "a": "A four-day week trial was largely positive, but with some limits.",
     "d": [
-     "The four-day week has failed in most companies.",
-     "Governments have decided to introduce a four-day week.",
-     "Employees want to work more hours for more pay."
+     "A four-day week trial showed that productivity fell in most firms.",
+     "Most companies in the trial went back to a five-day week early.",
+     "Workers had more time for family but took more sick days than before."
     ],
     "ex": "結果大多正面,但也有限制與研究偏誤。"
    },
@@ -513,9 +513,9 @@
     "q": "Which companies had the most difficulty with the change?",
     "a": "Businesses that serve customers directly",
     "d": [
-     "Technology companies that rely heavily on remote workers",
-     "Very large firms",
-     "Companies that reduced pay"
+     "Technology firms with many remote workers",
+     "Companies where staff took the most sick days",
+     "Firms that volunteered for the trial"
     ],
     "ex": "服務業等面對客人的產業難以排班。"
    },
@@ -523,9 +523,9 @@
     "q": "Why do the researchers say the results should be treated with caution?",
     "a": "The firms volunteered, so they may not be typical.",
     "d": [
-     "The trial was too long.",
-     "Employees lied about their stress levels.",
-     "Productivity was not measured."
+     "The trial lasted only six months, which is too short.",
+     "Staff may have exaggerated how much less stressed they felt.",
+     "Several firms went back to a five-day week before it ended."
     ],
     "ex": "自願參加的公司可能本來就特別適合,有選擇偏誤。"
    }
@@ -541,9 +541,9 @@
     "q": "What is the purpose of the notice?",
     "a": "To warn staff about fake emails and explain what to do",
     "d": [
-     "To ask staff to update their bank details",
-     "To announce changes to the payroll system",
-     "To introduce a new email program"
+     "To ask staff to confirm their bank details by the end of the month",
+     "To introduce the new Report Phishing button to all staff",
+     "To explain changes to how payroll pays staff"
     ],
     "ex": "警告釣魚信並說明處理步驟。"
    },
@@ -551,9 +551,9 @@
     "q": "What should staff do if they receive one of these emails?",
     "a": "Report it using the button in the mail client",
     "d": [
-     "Reply to payroll to check",
-     "Forward it to all colleagues so that they know about it too",
-     "Open the attachment to see if it is real"
+     "Forward it to payroll so they can confirm it is real",
+     "Change their password and call the IT help desk",
+     "Open the attachment to check the sender"
     ],
     "ex": "使用 Report Phishing 按鈕回報給資安團隊。"
    },
@@ -561,9 +561,9 @@
     "q": "The word \"identical\" is closest in meaning to:",
     "a": "exactly the same",
     "d": [
-     "dangerous",
-     "official",
-     "completely different"
+     "slightly different",
+     "clearly dangerous",
+     "officially approved"
     ],
     "ex": "almost identical = 幾乎一模一樣。"
    }
@@ -579,9 +579,9 @@
     "q": "What is the writer's main argument?",
     "a": "Free apps often cost users their personal data.",
     "d": [
-     "Free apps are always unsafe and should be avoided.",
-     "Privacy laws have solved the problem of data collection.",
-     "Paid apps never collect user data."
+     "Free apps should be avoided because they are never safe.",
+     "Privacy laws now stop apps from selling users' data.",
+     "Paid apps are the only way to protect your personal data."
     ],
     "ex": "免費 App 以個資為代價。"
    },
@@ -589,9 +589,9 @@
     "q": "Why do privacy policies often fail to protect users?",
     "a": "Users rarely read them before agreeing.",
     "d": [
-     "They are not required by law.",
-     "They are written only in English.",
-     "They are usually written only in English, so many users cannot understand them."
+     "The law does not require apps to ask for permission.",
+     "Apps change them too often for users to follow.",
+     "They allow apps to sell data without telling users."
     ],
     "ex": "文中說很少人讀,直接按接受。"
    },
@@ -599,9 +599,9 @@
     "q": "What does the writer imply in the final sentence?",
     "a": "The suggested habits help, but they cannot give complete privacy.",
     "d": [
-     "Following the habits makes you invisible online.",
-     "The habits are too difficult for most people.",
-     "Deleting apps is the only effective step."
+     "Following all three habits will make you completely invisible online.",
+     "Deleting unused apps is the only step that really protects your data.",
+     "Switching off location access is more important than the other habits."
     ],
     "ex": "None of these will make you invisible = 有幫助但非萬全。"
    }
@@ -617,9 +617,9 @@
     "q": "What is the notice mainly about?",
     "a": "Instructions for staff before and after an office relocation",
     "d": [
-     "The opening of a new branch in Nangang",
-     "Changes to the company parking policy",
-     "A new IT security system"
+     "An announcement about the opening of a new branch office in Nangang",
+     "A reminder that staff should drive to the new building in Nangang",
+     "A list of IT changes to desktop computers and new access cards"
     ],
     "ex": "說明搬遷前後員工須配合事項。"
    },
@@ -627,8 +627,8 @@
     "q": "What should employees do with their laptops?",
     "a": "Take them home over the weekend",
     "d": [
-     "Pack them in the labelled boxes provided by Facilities",
-     "Leave them for IT to disconnect",
+     "Pack them in labelled boxes",
+     "Leave them for IT on Friday",
      "Hand them in at reception"
     ],
     "ex": "文中說筆電週末要帶回家。"
@@ -637,9 +637,9 @@
     "q": "What does \"cannot accept liability\" suggest?",
     "a": "The company will not be responsible if valuables are lost or damaged.",
     "d": [
-     "The company will pay for any lost items.",
-     "Staff are not allowed to bring personal items to work.",
-     "Valuable items will be moved first."
+     "The company will pay for any valuable items that are lost during the move.",
+     "Staff may not bring personal items to the new office.",
+     "Valuable items will be packed separately and moved first by Facilities."
     ],
     "ex": "accept liability = 承擔責任;公司不負責貴重物品。"
    }
@@ -655,9 +655,9 @@
     "q": "What is the main idea of the passage?",
     "a": "Microplastics are common, but their health risk is unclear.",
     "d": [
-     "Microplastics have been proven to cause serious diseases.",
-     "Bottled water is completely free of microplastics.",
-     "Home water filters remove all health risks."
+     "Bottled water is safer to drink than tap water.",
+     "Microplastics have been proven to harm human tissue.",
+     "Home filters are the best way to avoid microplastics."
     ],
     "ex": "微塑膠普遍存在,但健康影響尚不明。"
    },
@@ -665,9 +665,9 @@
     "q": "According to the passage, why might bottled water contain more microplastics?",
     "a": "The bottles themselves may release particles.",
     "d": [
-     "It comes from the deep ocean.",
-     "It is not filtered at all, unlike tap water, which is always cleaned.",
-     "It is heated before being sold."
+     "It comes from deep oceans and mountain snow.",
+     "It is not filtered the way tap water is filtered.",
+     "It is often heated in plastic containers before sale."
     ],
     "ex": "possibly because of the packaging itself。"
    },
@@ -675,9 +675,9 @@
     "q": "What is the researchers' attitude towards home filters?",
     "a": "Cautious — they may help but are not proven to.",
     "d": [
-     "Strongly against them",
-     "Completely confident they work",
-     "Uninterested in the topic"
+     "Confident — they clearly reduce health risks.",
+     "Opposed — they may increase exposure.",
+     "Uninterested — it is not their field."
     ],
     "ex": "研究者強調尚未證實能降低風險,態度謹慎。"
    }
@@ -693,9 +693,9 @@
     "q": "What is the passage mainly about?",
     "a": "The importance of keeping money for unexpected costs",
     "d": [
-     "How to choose good investments",
-     "Why freelancers earn more than employees",
-     "How to get a low-interest loan"
+     "How to invest money safely in assets whose value can rise",
+     "Why freelancers need to borrow more than other people",
+     "How to use credit cards and loans to pay for emergencies"
     ],
     "ex": "文章說明緊急預備金的重要性。"
    },
@@ -703,9 +703,9 @@
     "q": "Why does the writer suggest keeping the fund in a separate account?",
     "a": "So that you are less tempted to spend it",
     "d": [
-     "Because a separate savings account earns much higher interest",
-     "Because banks require it",
-     "So that it can be invested quickly"
+     "Because a separate account pays much higher interest",
+     "So that the money can be invested quickly when needed",
+     "Because banks require emergency funds to be kept apart"
     ],
     "ex": "分開存放可減少花掉的誘惑。"
    },
@@ -713,9 +713,9 @@
     "q": "The phrase \"rule of thumb\" most likely means:",
     "a": "a general guideline based on experience",
     "d": [
-     "a strict legal requirement",
-     "a scientific law",
-     "a bank's official policy"
+     "a strict legal requirement for savers",
+     "a bank's official saving policy",
+     "an exact scientific calculation"
     ],
     "ex": "rule of thumb = 經驗法則,大致準則。"
    }
@@ -731,9 +731,9 @@
     "q": "What is the passage mainly about?",
     "a": "The slow shift towards mobile payments at night markets",
     "d": [
-     "Why tourists avoid night markets",
-     "A new law that will ban cash payments at all night markets in Taiwan",
-     "The history of Taiwanese street food"
+     "A new law that will ban cash payments at night markets",
+     "Why tourists find Taiwan's night markets hard to use",
+     "How local governments pay vendors to stop using cash at all"
     ],
     "ex": "夜市逐漸接受行動支付。"
    },
@@ -741,9 +741,9 @@
     "q": "Why are some vendors unwilling to accept mobile payments?",
     "a": "They do not want to pay transaction fees.",
     "d": [
-     "They are not able to get the subsidies offered by local governments.",
-     "Tourists do not use them.",
-     "QR codes are illegal at night markets."
+     "They cannot get the subsidies offered by local governments.",
+     "They worry that tourists will not carry any local currency.",
+     "They believe QR payments are slower than giving change."
     ],
     "ex": "部分攤商擔心最高 2% 的手續費。"
    },
@@ -753,7 +753,7 @@
     "d": [
      "excited",
      "unable",
-     "confused"
+     "uninterested"
     ],
     "ex": "reluctant = 不情願的。"
    }
@@ -769,9 +769,9 @@
     "q": "What is the main idea of the passage?",
     "a": "Using screens before bed can harm sleep, and there are ways to reduce this.",
     "d": [
-     "Night mode completely solves sleep problems.",
-     "Melatonin is harmful to the body.",
-     "Reading on a phone is better than reading a book."
+     "Night mode settings are enough to solve most sleep problems caused by phones.",
+     "Blue light from screens is the only reason that people sleep badly.",
+     "Reading a paper book is the best way to fall asleep faster than using screens."
     ],
     "ex": "睡前用螢幕影響睡眠,並提出改善方法。"
    },
@@ -779,9 +779,9 @@
     "q": "According to the passage, why is night mode not a full solution?",
     "a": "It does not stop the brain from being stimulated.",
     "d": [
-     "It increases blue light.",
-     "It is only available on new phones, so most people cannot use it.",
-     "It reduces melatonin."
+     "It makes the screen give off more blue light.",
+     "It only works on phones, not on other screens.",
+     "It lowers the body's melatonin level."
     ],
     "ex": "夜間模式只減藍光,無法解決大腦被刺激的問題。"
    },
@@ -790,8 +790,8 @@
     "a": "reduce or stop",
     "d": [
      "increase",
-     "measure",
-     "produce"
+     "produce more",
+     "send out"
     ],
     "ex": "suppress melatonin = 抑制褪黑激素。"
    }
@@ -807,9 +807,9 @@
     "q": "What is the passage mainly concerned with?",
     "a": "Possible reasons why technology has not clearly boosted productivity",
     "d": [
-     "Proof that digital technology reduces productivity",
-     "A history of electricity in factories",
-     "How to measure GDP accurately"
+     "Evidence that digital technology has made advanced economies less productive",
+     "A comparison between electricity in factories and today's artificial intelligence",
+     "Reasons why official statistics measure the value of free services correctly"
     ],
     "ex": "探討科技投資未明顯提升生產力的可能原因。"
    },
@@ -817,9 +817,9 @@
     "q": "Why does the writer mention electricity?",
     "a": "To show that the benefits of a technology can take a long time to appear",
     "d": [
-     "To argue that older inventions like electricity were more important than AI",
-     "To explain how GDP is calculated",
-     "To criticise factory managers"
+     "To argue that older inventions were far more transformative than recent ones",
+     "To show that free digital services do not appear in measures of GDP",
+     "To criticise managers who did not redesign their factories quickly enough"
     ],
     "ex": "以電力為例說明新技術需長時間重組組織才見效。"
    },
@@ -828,8 +828,8 @@
     "a": "The necessary changes are slow and not exciting.",
     "d": [
      "The changes will be expensive and risky.",
-     "AI is less impressive than people think.",
-     "Organisations will refuse to change."
+     "AI is less impressive than people expect.",
+     "The changes will be quick and attract little public notice."
     ],
     "ex": "unglamorous = 不光鮮、不吸引人的苦工。"
    }
@@ -845,9 +845,9 @@
     "q": "What is the writer's main point?",
     "a": "Removing walls alone does not create collaboration; workers need choice.",
     "d": [
-     "Open-plan offices should be banned.",
-     "Closed offices are always more productive.",
-     "Headphones should not be allowed at work."
+     "Open-plan offices increase collaboration, but they are too noisy.",
+     "Companies should return to closed offices and private cubicles.",
+     "Headphones and screens are the main cause of poor teamwork."
     ],
     "ex": "單靠拆牆無法促進合作,要給員工選擇。"
    },
@@ -855,9 +855,9 @@
     "q": "What did the study find after employees moved to an open layout?",
     "a": "They talked face to face much less.",
     "d": [
-     "They sent fewer emails and messages because they could see each other.",
-     "They became more creative.",
-     "They asked for more meetings."
+     "They collaborated more spontaneously.",
+     "They sent fewer messages.",
+     "They moved back to cubicles."
     ],
     "ex": "面對面互動下降約 70%,電子溝通增加。"
    },
@@ -865,9 +865,9 @@
     "q": "In the first paragraph, \"retreated\" most nearly means:",
     "a": "withdrew to protect themselves",
     "d": [
-     "advanced confidently",
-     "resigned from their jobs",
-     "complained formally"
+     "moved forward confidently",
+     "complained formally to managers",
+     "resigned from their jobs"
     ],
     "ex": "retreated behind headphones = 躲進耳機裡自我隔離。"
    }
@@ -883,9 +883,9 @@
     "q": "What is the main purpose of the passage?",
     "a": "To explain how inflation affects the real value of savings",
     "d": [
-     "To persuade readers to stop saving cash",
-     "To predict future inflation rates",
-     "To recommend a particular savings account"
+     "To persuade readers to keep no money in cash",
+     "To predict how fast prices will rise next year",
+     "To compare savings accounts at different banks"
     ],
     "ex": "說明通膨如何侵蝕存款實質價值。"
    },
@@ -893,9 +893,9 @@
     "q": "What does \"money illusion\" refer to?",
     "a": "Thinking about money in face-value rather than real terms",
     "d": [
-     "Believing that inflation will always be low",
-     "Hiding money from the tax authorities by keeping it in cash at home",
-     "Expecting banks to pay high interest"
+     "Believing that inflation will always stay low and harmless",
+     "Keeping money in cash rather than in a savings account",
+     "Expecting the same interest rate to feel generous in every decade"
     ],
     "ex": "money illusion = 以面額而非實質購買力看待金錢。"
    },
@@ -903,9 +903,9 @@
     "q": "Which statement would the writer most likely agree with?",
     "a": "Holding some cash is sensible, as long as you understand its real return.",
     "d": [
-     "Cash should never be kept at home or in a bank.",
-     "Nominal returns are more important than real returns.",
-     "A growing account balance always means growing wealth."
+     "Cash has no real value, so households should avoid holding any of it at all.",
+     "A growing balance on your statement always means that you are becoming richer.",
+     "Nominal returns are a better guide to your savings than real returns are, over time."
     ],
     "ex": "作者肯定現金流動性的價值,但要理解實質報酬。"
    }
@@ -921,9 +921,9 @@
     "q": "Why, according to the writer, is maintenance politically unattractive?",
     "a": "Its successes are largely invisible.",
     "d": [
-     "It is always more expensive than new projects.",
+     "It costs more than new projects.",
      "Engineers disagree about its value.",
-     "Voters prefer lower taxes to repairs."
+     "It takes fifteen years to show any results."
     ],
     "ex": "保養做得好就「什麼事都沒發生」,看不到成果。"
    },
@@ -931,9 +931,9 @@
     "q": "What does the writer mean by calling deferred maintenance \"a loan\"?",
     "a": "Postponing repairs creates larger costs later.",
     "d": [
-     "Governments borrow money to pay for repairs.",
-     "Repairs should be paid for by private lenders.",
-     "Maintenance budgets are usually repaid within a year."
+     "Governments must borrow money to pay for road repairs.",
+     "Maintenance should be paid for by private lenders instead.",
+     "Repair budgets are usually paid back within fifteen years."
     ],
     "ex": "現在不修 = 以後付更多,像高利貸款。"
    },
@@ -941,9 +941,9 @@
     "q": "What is the main benefit of publishing a \"maintenance gap\"?",
     "a": "It makes the problem easier for the public to track.",
     "d": [
-     "It immediately reduces repair costs.",
-     "It replaces the need for engineers' reports.",
-     "It guarantees more funding for maintenance."
+     "It immediately reduces the cost of repairing pipes.",
+     "It guarantees that more money is spent on maintenance.",
+     "It replaces the need for engineers to inspect old assets."
     ],
     "ex": "公布數字讓選民和記者看得到、追得了。"
    }
@@ -959,9 +959,9 @@
     "q": "What is the writer's main point about unnecessary meetings?",
     "a": "They continue because they fulfil hidden social functions.",
     "d": [
-     "They exist mainly because managers enjoy them.",
-     "They are rarer than most workers believe.",
-     "They can be eliminated by a simple ban."
+     "They exist mainly because managers enjoy holding them.",
+     "They are rarer than most office workers believe.",
+     "They can be removed by simply banning them."
     ],
     "ex": "會議還有表態、分攤責任、避免被怪的隱藏功能。"
    },
@@ -969,9 +969,9 @@
     "q": "In what sense is a long invitation list \"a form of insurance\"?",
     "a": "It protects against later complaints of not being included.",
     "d": [
-     "It ensures that decisions are always correct.",
-     "It allows the company to claim back costs.",
-     "It guarantees that someone will take notes."
+     "It makes sure that every decision is the correct one.",
+     "It lets the company claim back the cost of the hours.",
+     "It reduces the risk of difficult decisions being made."
     ],
     "ex": "多邀人,之後比較不會有人抱怨沒被諮詢。"
    },
@@ -979,9 +979,9 @@
     "q": "Which approach does the writer suggest works better than banning meetings?",
     "a": "Redefining consultation through written proposals and deadlines.",
     "d": [
-     "Limiting meetings to senior managers only.",
-     "Making all meetings shorter than fifteen minutes.",
-     "Recording meetings for those who cannot attend."
+     "Limiting meetings to senior managers who make the final decisions.",
+     "Treating silence in meetings as agreement with the proposal on the agenda.",
+     "Inviting fewer people so that nobody wastes hours."
     ],
     "ex": "改用書面提案 + 異議期限,沉默即同意。"
    }
@@ -997,9 +997,9 @@
     "q": "What does the writer suggest about the link between health data and behaviour?",
     "a": "Having more data does not automatically change what people do.",
     "d": [
-     "People who track data are always healthier.",
-     "Most trackers give inaccurate readings.",
-     "Behaviour changes only when data is shared online."
+     "People who track their steps usually become healthier over time.",
+     "Most trackers record health data with poor precision.",
+     "Behaviour changes only when users share their data."
     ],
     "ex": "知道步數不一定會改變行為。"
    },
@@ -1007,9 +1007,9 @@
     "q": "What is \"orthosomnia\" as described in the passage?",
     "a": "Sleep problems made worse by worrying about sleep data.",
     "d": [
-     "A medical condition caused by wearing devices at night.",
-     "The habit of sleeping with a phone nearby.",
-     "A method of improving sleep using trackers."
+     "A sleep disorder caused by blue light from devices worn at night.",
+     "Improved sleep that comes from tracking your sleep score every day.",
+     "Anxiety caused by stressful days at work rather than by sleep data."
     ],
     "ex": "因為睡眠分數焦慮,反而睡更差。"
    },
@@ -1017,9 +1017,9 @@
     "q": "According to the writer, when are trackers most useful?",
     "a": "When they support a clear goal and are read as rough guides.",
     "d": [
-     "When they are worn every day without exception.",
-     "When users check their scores as often as possible.",
-     "When doctors review the data every week."
+     "When they are worn every day and scores are checked as often as possible.",
+     "When their data is reviewed regularly by a doctor or a professional trainer.",
+     "When users treat the numbers as final verdicts on their health and progress."
     ],
     "ex": "有明確目標、把數字當參考時最有用。"
    }
@@ -1035,9 +1035,9 @@
     "q": "Why might remote work be harder for junior employees?",
     "a": "They miss informal learning that happens around colleagues.",
     "d": [
-     "They are usually less productive at home.",
-     "They have less suitable equipment at home.",
-     "They are more likely to be monitored."
+     "They are usually less productive at home than experienced employees.",
+     "They are not allowed to join video calls with senior staff or clients.",
+     "They are formally taught less often because managers stay in the office."
     ],
     "ex": "新人很多東西靠在旁邊聽、看學到,遠端學不到。"
    },
@@ -1045,9 +1045,9 @@
     "q": "Why does tacit knowledge \"travel poorly\" over video calls?",
     "a": "Calls are usually planned, brief and task-focused.",
     "d": [
-     "Video quality is often too low.",
-     "Senior staff refuse to use video calls.",
-     "Tacit knowledge must be written down first."
+     "The video and sound quality is often too poor to learn from.",
+     "Senior staff usually refuse to explain unwritten rules on camera.",
+     "Tacit knowledge must be written down before it can be shared online."
     ],
     "ex": "視訊多半排好、短、只談眼前任務。"
    },
@@ -1055,9 +1055,9 @@
     "q": "What does the final sentence imply?",
     "a": "Office time is valuable mainly because of the people present.",
     "d": [
-     "Offices should be closed to save money.",
-     "Junior staff should work alone to focus.",
-     "Office buildings need better design."
+     "Offices should be closed when junior staff work from home.",
+     "A better office building would help new staff learn faster.",
+     "Junior staff learn best when they work alone and focus."
     ],
     "ex": "辦公室的價值在於有誰在,不是建築本身。"
    }
@@ -1073,9 +1073,9 @@
     "q": "Why was replacing goods traditionally cheaper than repairing them?",
     "a": "Labour costs, scarce parts and hard-to-open designs.",
     "d": [
-     "Governments taxed repair services heavily.",
-     "New products were always of higher quality.",
-     "Consumers preferred the latest models."
+     "Repair shops charged heavy taxes on spare parts.",
+     "New products were always cheaper and better made.",
+     "Consumers preferred to buy the newest models every few years."
     ],
     "ex": "人工貴、零件難找、設計很難拆。"
    },
@@ -1083,9 +1083,9 @@
     "q": "What do \"right to repair\" rules require?",
     "a": "Manufacturers must supply parts and manuals for some years.",
     "d": [
-     "Consumers must repair goods before replacing them.",
-     "Shops must offer free repairs for a year.",
-     "Products must be designed to last longer."
+     "Consumers must try to repair goods before buying new ones.",
+     "Shops must offer free repairs for a number of years after sale.",
+     "Products must be designed so that they last much longer."
     ],
     "ex": "製造商要在一段時間內提供零件和維修手冊。"
    },
@@ -1093,9 +1093,9 @@
     "q": "What is the writer's overall view of the rules?",
     "a": "Their effect is uncertain, but they make repair a real option.",
     "d": [
-     "They will certainly end the throwaway culture.",
-     "They mainly benefit manufacturers.",
-     "They are unnecessary because repair is already cheap."
+     "They will certainly end the habit of throwing things away.",
+     "They mainly protect manufacturers' designs and safety.",
+     "They change little, since most consumers will choose replacement anyway."
     ],
     "ex": "效果未定,但讓「修」變成真的選項。"
    }
@@ -1111,9 +1111,9 @@
     "q": "Why do headlines have such a strong influence?",
     "a": "Many readers only skim and remember the headline.",
     "d": [
-     "Headlines are usually written by experts.",
-     "Readers trust headlines more than articles.",
-     "Articles are often too long to understand."
+     "Headlines are usually more accurate than articles.",
+     "Readers trust headlines more than journalists.",
+     "Most articles are too long to understand."
     ],
     "ex": "多數人只掃標題,標題成了主要記憶。"
    },
@@ -1121,9 +1121,9 @@
     "q": "When was the headline effect strongest?",
     "a": "When the headline was slightly slanted, not clearly false.",
     "d": [
-     "When the headline was completely untrue.",
-     "When readers skipped the article entirely.",
-     "When the article contained errors."
+     "When the headline was obviously false and easy to spot.",
+     "When readers had read the whole article carefully.",
+     "When the article itself contained small errors and details."
     ],
     "ex": "微妙偏頗比明顯錯誤更有影響,因為讀者沒察覺要修正。"
    },
@@ -1131,9 +1131,9 @@
     "q": "What does the writer advise readers to do?",
     "a": "Check the headline's claim against the article itself.",
     "d": [
-     "Stop reading news websites.",
-     "Read only the headlines to save time.",
-     "Trust articles more than their headlines in every case."
+     "Read only headlines to save time, since they summarise the story.",
+     "Trust the article body more than editors in every single case.",
+     "Treat each headline as an accurate summary of the article below it."
     ],
     "ex": "把標題當成要查證的主張,不是摘要。"
    }

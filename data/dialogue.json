@@ -6,11 +6,11 @@
   "line": "Good morning! How are you today?",
   "a": "Not bad, thanks. You?",
   "d": [
-   "Yes, I am good morning.",
-   "I'm thirty-two years old this year.",
-   "Morning is good for me."
+   "Good night, see you.",
+   "Yes, I'm going up.",
+   "It's on the fifth floor."
   ],
-  "ex": "回應寒暄後反問對方最自然;其他選項文法錯或答非所問。"
+  "ex": "回應寒暄後反問對方最自然;其他是道晚安、答樓層,答非所問。"
  },
  {
   "id": "d002",
@@ -19,11 +19,11 @@
   "line": "Are you ready to order?",
   "a": "Could we have a few more minutes, please?",
   "d": [
-   "Yes, I want order now, give me the menu again.",
-   "No. Go away.",
-   "I ordered yesterday."
+   "Could we get the check now, please?",
+   "Yes, it was delicious, thank you.",
+   "Thanks, I'll take a table by the window."
   ],
-  "ex": "還沒決定時禮貌請對方多給幾分鐘;Go away 太無禮。"
+  "ex": "還沒決定就禮貌請對方多給幾分鐘;要帳單、評價餐點是用餐後才說的。"
  },
  {
   "id": "d003",
@@ -32,11 +32,11 @@
   "line": "For here or to go?",
   "a": "To go, please.",
   "d": [
-   "Go here.",
-   "I go to the office after this coffee.",
-   "Yes, please."
+   "Go ahead, please.",
+   "A large one, please.",
+   "I'm ready to go now."
   ],
-  "ex": "For here or to go 是問內用或外帶,答 To go 即外帶。"
+  "ex": "For here or to go 問內用或外帶,答 To go 即外帶;其他誤解 go 或答尺寸。"
  },
  {
   "id": "d004",
@@ -45,11 +45,11 @@
   "line": "Do you have a reservation?",
   "a": "Yes, under the name Chen.",
   "d": [
-   "Yes, I reserved by Chen name.",
-   "I have no room.",
-   "Reservation is good."
+   "Yes, may I have your name, please?",
+   "Yes, I have a few doubts about it.",
+   "No, I'm just checking out today."
   ],
-  "ex": "under the name ___ 是「用某某名字訂的」的慣用說法。"
+  "ex": "under the name ___ 是「用某某名字訂的」;問名字是櫃檯的話,reservation 不是疑慮。"
  },
  {
   "id": "d005",
@@ -58,9 +58,9 @@
   "line": "Do you have any liquids in your bag?",
   "a": "Just a small bottle of lotion.",
   "d": [
-   "No, I'm not thirsty right now.",
-   "Yes, I liquid it.",
-   "The bag is mine, and I packed it all by myself this morning."
+   "No thanks, I'm not thirsty right now.",
+   "Yes, I'd like a bottle of water.",
+   "Yes, it's my only carry-on."
   ],
   "ex": "liquids 指液體物品,不是問你渴不渴;直接說明帶了什麼。"
  },
@@ -71,11 +71,11 @@
   "line": "Excuse me, is there a pharmacy near here?",
   "a": "Yes, there's one just around the corner.",
   "d": [
-   "Yes, it has.",
-   "I am not pharmacy.",
-   "You should see a doctor first, because a pharmacy can't help you."
+   "No, I don't need any medicine, thanks.",
+   "Yes, it opens at nine every morning.",
+   "Yes, I've lived near here for about five years."
   ],
-  "ex": "there's one around the corner = 轉角就有;「it has」是中式「有」。"
+  "ex": "there's one around the corner = 轉角就有;其他答營業時間、誤會成推銷或談自己。"
  },
  {
   "id": "d007",
@@ -84,11 +84,11 @@
   "line": "Can I help you?",
   "a": "No thanks, I'm just looking.",
   "d": [
-   "I just see see.",
-   "You can't help me, because I already know what I want to buy.",
-   "Yes, I am a customer here."
+   "Sure, what can I help you with?",
+   "No thanks, I've already eaten.",
+   "Sorry, I don't work here."
   ],
-  "ex": "I'm just looking 是「隨便看看」標準說法;see see 是中式英文。"
+  "ex": "I'm just looking 是「隨便看看」;其他把角色弄反或誤會成請吃東西。"
  },
  {
   "id": "d008",
@@ -97,11 +97,11 @@
   "line": "Thanks for the coffee!",
   "a": "You're welcome.",
   "d": [
-   "Never mind.",
-   "Yes, it's coffee.",
-   "Don't thank me, it was very cheap."
+   "Same to you.",
+   "No, I'm good, thanks.",
+   "Yes, it's very good."
   ],
-  "ex": "Never mind 是「算了、別在意」,不能拿來回應謝謝。"
+  "ex": "回應道謝用 You're welcome;Same to you 是回祝福,其他像在婉拒或評咖啡。"
  },
  {
   "id": "d009",
@@ -110,11 +110,11 @@
   "line": "Sorry I'm late.",
   "a": "That's OK. We just started.",
   "d": [
-   "It doesn't matter, you are always late.",
-   "Yes, you are sorry.",
-   "I'm late too, no?"
+   "Sorry, I'll be there soon.",
+   "Sure, we'll start at nine.",
+   "Thanks for the reminder."
   ],
-  "ex": "簡單接受道歉並說明狀況;指責對方總是遲到太失禮。"
+  "ex": "簡單接受道歉並說明狀況;其他像遲到者說的話或答非所問。"
  },
  {
   "id": "d010",
@@ -123,11 +123,11 @@
   "line": "Hello, may I speak to Kevin?",
   "a": "Sure, just a moment, please.",
   "d": [
-   "Yes, you may speak.",
-   "I am not Kevin, bye.",
-   "Kevin is speaking now to you."
+   "Hi Kevin, how are you?",
+   "Yes, I'm calling for Kevin.",
+   "Sure, I'll speak up a bit."
   ],
-  "ex": "請對方稍等再轉接;Yes, you may speak 是字面誤解。"
+  "ex": "請對方稍等再轉接;其他把來電者當 Kevin、像打電話的人,或誤解 speak。"
  },
  {
   "id": "d011",
@@ -136,11 +136,11 @@
   "line": "Nice to meet you.",
   "a": "Nice to meet you, too.",
   "d": [
-   "Me too meet you.",
-   "Yes, I'm nice.",
-   "Thank you for your meeting."
+   "Nice to see you again, too.",
+   "It was nice meeting you.",
+   "Yes, I'm doing well."
   ],
-  "ex": "初次見面固定回 Nice to meet you, too。"
+  "ex": "初見面回 Nice to meet you, too;see you again 是重逢,meeting 版是道別用。"
  },
  {
   "id": "d012",
@@ -149,11 +149,11 @@
   "line": "That'll be 350 dollars.",
   "a": "Can I pay by card?",
   "d": [
-   "350 dollars is too expensive, give me cheaper price.",
-   "350 dollars is.",
-   "OK, give me money."
+   "Can I have the bill?",
+   "How much is it?",
+   "Keep the change."
   ],
-  "ex": "店員已報價,接著問付款方式最自然;便利商店不議價,殺價很突兀。"
+  "ex": "店員已報價,問付款方式最自然;問價錢、要帳單重複,還沒付錢不能說不用找。"
  },
  {
   "id": "d013",
@@ -162,11 +162,11 @@
   "line": "Do you want to get lunch together?",
   "a": "Sure, where do you want to go?",
   "d": [
-   "Yes, I want get lunch together with you at the restaurant.",
-   "I ate lunch at 1995.",
-   "No."
+   "Sure, I'll have the chicken.",
+   "Yes, I'm free next weekend.",
+   "Sure, how was your lunch?"
   ],
-  "ex": "答應並問去哪裡;單說 No 太生硬,拒絕要給理由。"
+  "ex": "答應並問去哪裡;點餐是在餐廳說的,問午餐如何是吃完後的事。"
  },
  {
   "id": "d014",
@@ -175,9 +175,9 @@
   "line": "Where to?",
   "a": "Taipei Main Station, please.",
   "d": [
-   "Yes, to.",
-   "I am from Taipei.",
-   "Go, go, go, quickly drive!"
+   "I'd like a ticket to Taipei, please.",
+   "Taipei Main Station is that way.",
+   "It's my first time in Taipei, actually."
   ],
   "ex": "Where to? 是司機問目的地,直接說地點加 please。"
  },
@@ -188,11 +188,11 @@
   "line": "How many nights will you be staying?",
   "a": "Three nights.",
   "d": [
-   "Three nights ago.",
-   "I stay very well, thank you.",
-   "At night."
+   "Three of us.",
+   "At three.",
+   "Three nights ago."
   ],
-  "ex": "問住幾晚,直接答數量即可。"
+  "ex": "問住幾晚直接答數量;three of us 答人數,at three 答時間,ago 是過去。"
  },
  {
   "id": "d016",
@@ -201,11 +201,11 @@
   "line": "Have a nice weekend!",
   "a": "Thanks, you too!",
   "d": [
-   "Yes, I have.",
-   "Same same.",
-   "Weekend is Saturday and Sunday."
+   "Thanks, it was great!",
+   "See you on Saturday!",
+   "I'm glad you liked it!"
   ],
-  "ex": "You too 回祝對方;Same same 是中式說法。"
+  "ex": "You too 回祝對方;週末還沒開始不能說 it was great,週六也不會見面。"
  },
  {
   "id": "d017",
@@ -214,11 +214,11 @@
   "line": "How was everything?",
   "a": "It was delicious, thank you.",
   "d": [
-   "Everything is how.",
-   "Yes, it was.",
-   "I have finished eat everything, and now I am very full."
+   "It looks delicious, thank you.",
+   "Everything, please. We're very hungry.",
+   "Just the soup, thank you."
   ],
-  "ex": "問餐點如何,給評價並道謝。"
+  "ex": "用餐結束問餐點如何,用過去式評價;looks delicious 是上菜時說的。"
  },
  {
   "id": "d018",
@@ -227,9 +227,9 @@
   "line": "What seems to be the problem?",
   "a": "I've had a sore throat since Monday.",
   "d": [
-   "My problem is very problem.",
-   "I seem fine, thanks.",
-   "Since Monday I have sore throat until now still."
+   "I'd like to make an appointment for Monday.",
+   "I'm fine, thanks. How about you?",
+   "My insurance card is in my wallet."
   ],
   "ex": "have had ... since 描述持續到現在的症狀。"
  },
@@ -240,11 +240,11 @@
   "line": "Is this seat taken?",
   "a": "No, go ahead.",
   "d": [
-   "Yes, please sit.",
-   "I don't take it.",
-   "The seat is a chair."
+   "No, thanks.",
+   "After you.",
+   "Yes, please."
   ],
-  "ex": "問「有人坐嗎」,沒人坐要答 No;答 Yes 等於說有人。"
+  "ex": "問「有人坐嗎」,沒人坐答 No, go ahead;No, thanks 是婉拒提議。"
  },
  {
   "id": "d020",
@@ -253,11 +253,11 @@
   "line": "Can you help me carry this box?",
   "a": "Sure, no problem.",
   "d": [
-   "Of course not!",
-   "I can, but I don't want to.",
-   "Yes, box."
+   "Thanks, I can manage.",
+   "Sure, it's on the table.",
+   "Thanks, I'll take it."
   ],
-  "ex": "爽快答應;Of course not 是拒絕,語氣很衝。"
+  "ex": "爽快答應;I can manage 是婉拒別人幫忙,這裡是你被請求。"
  },
  {
   "id": "d021",
@@ -266,11 +266,11 @@
   "line": "Do you need a bag?",
   "a": "No, I'm fine, thanks.",
   "d": [
-   "Yes, it's my bag.",
-   "I don't need it, you take it.",
-   "Bag, please no."
+   "Yes, I'm doing well.",
+   "Sure, here you go.",
+   "No, it's not mine."
   ],
-  "ex": "I'm fine 在這裡是「不用了」的禮貌說法。"
+  "ex": "I'm fine 在這裡是「不用了」;不是問你好不好,也不是問袋子是誰的。"
  },
  {
   "id": "d022",
@@ -279,11 +279,11 @@
   "line": "What do you usually do on weekends?",
   "a": "I usually go hiking or watch movies.",
   "d": [
-   "I went hiking last weekend with my cousins.",
-   "I am do hiking.",
-   "On weekends is Saturday."
+   "I went hiking with my family last weekend.",
+   "I usually work from nine to six on weekdays.",
+   "I'm free this Saturday, actually."
   ],
-  "ex": "問平常習慣用現在簡單式回答;談上週末是答錯問題。"
+  "ex": "問平常習慣用現在簡單式;上週末、這週六、平日行程都答錯問題。"
  },
  {
   "id": "d023",
@@ -293,10 +293,10 @@
   "a": "Aisle, please.",
   "d": [
    "Yes, please.",
-   "I like the airplane.",
-   "Window and aisle both."
+   "To Tokyo.",
+   "One bag, please."
   ],
-  "ex": "選擇題問句不能答 Yes,要選一個。"
+  "ex": "選擇題問句不能答 Yes,要選一個;其他答目的地、行李數。"
  },
  {
   "id": "d024",
@@ -305,11 +305,11 @@
   "line": "Oh, he's not in? Can I leave a message?",
   "a": "Of course. Go ahead.",
   "d": [
-   "Yes, leave it.",
-   "Message is OK.",
-   "No, I don't have a message phone."
+   "OK, I'll call back.",
+   "Yes, he left early.",
+   "Sure, see you then."
   ],
-  "ex": "對方要留言,請他說即可;其他選項語意不通。"
+  "ex": "對方要留言,請他說即可;其他像來電者的話或沒回應留言請求。"
  },
  {
   "id": "d025",
@@ -318,11 +318,11 @@
   "line": "How was your weekend?",
   "a": "Great, I went to the beach.",
   "d": [
-   "It is great, I go to beach.",
-   "Next weekend I will rest at home.",
-   "My weekend was on Saturday."
+   "Great, I'm going hiking.",
+   "Good, I'll stay home.",
+   "Not yet, maybe Saturday."
   ],
-  "ex": "談過去用過去式 went;談下週末是答非所問。"
+  "ex": "談上週末用過去式 went;其他在講未來計畫,答非所問。"
  },
  {
   "id": "d026",
@@ -331,11 +331,11 @@
   "line": "Excuse me, what time is it?",
   "a": "It's about half past three.",
   "d": [
-   "It's three hours.",
-   "I have time, so I can talk with you if you want.",
-   "Yes, it is."
+   "It's about three hours from here.",
+   "It takes about half an hour.",
+   "Yes, I have a watch right here."
   ],
-  "ex": "half past three = 三點半。"
+  "ex": "half past three = 三點半;其他答距離、所需時間,或只說有手錶。"
  },
  {
   "id": "d027",
@@ -344,11 +344,11 @@
   "line": "Would you like something to drink?",
   "a": "Just water, please.",
   "d": [
-   "I'd like to drink something.",
-   "Yes, I would like.",
-   "Give me water."
+   "Just looking, thanks.",
+   "Just the bill, please.",
+   "A table for two."
   ],
-  "ex": "Just ___, please 簡潔禮貌;Give me 太像命令。"
+  "ex": "Just ___, please 簡潔禮貌;其他是逛街、買單、帶位時說的。"
  },
  {
   "id": "d028",
@@ -357,11 +357,11 @@
   "line": "Can you send me the file?",
   "a": "Sure, I'll send it now.",
   "d": [
-   "OK, I send you later now.",
-   "Why do you need it?",
-   "I am file."
+   "Thanks, I got it.",
+   "Sure, send it over.",
+   "Yes, it's on my desk."
   ],
-  "ex": "I'll + 動詞表示當下決定要做;反問為什麼顯得不合作。"
+  "ex": "I'll + 動詞表示當下決定要做;收到、請對方寄是對方角色的話。"
  },
  {
   "id": "d029",
@@ -370,11 +370,11 @@
   "line": "I passed my driving test!",
   "a": "Congratulations! That's great news.",
   "d": [
-   "Congratulation you!",
-   "Why?",
-   "I passed mine a long time ago, it's easy."
+   "Thanks! I worked really hard for it.",
+   "Good luck! I hope you pass it.",
+   "Congratulations! When is the wedding?"
   ],
-  "ex": "Congratulations 要加 s;炫耀自己很早考過不得體。"
+  "ex": "朋友已通過,恭喜即可;Good luck 用於考前,其他是本人或婚禮用語。"
  },
  {
   "id": "d030",
@@ -383,11 +383,11 @@
   "line": "Here's your key card. Your room is on the fifth floor.",
   "a": "Thank you. What time is breakfast?",
   "d": [
-   "OK, I go to five floor now and then I will sleep.",
-   "My room is fifth.",
-   "Card is key?"
+   "Thanks. What floor is my room on?",
+   "Thanks. When do you check in?",
+   "Thank you. Here's your key card."
   ],
-  "ex": "道謝後接著問早餐時間,自然順暢。"
+  "ex": "道謝後問早餐時間;樓層已說過,其他兩句是櫃檯人員的台詞。"
  },
  {
   "id": "d031",
@@ -396,11 +396,11 @@
   "line": "Would you like to try it on?",
   "a": "Yes. Where's the fitting room?",
   "d": [
-   "Yes, I like to try on it.",
-   "I tried yesterday.",
-   "No, I wear."
+   "Sure, I'll try to finish it today.",
+   "Yes, it fits me perfectly, thanks.",
+   "Yes, I'd love a taste."
   ],
-  "ex": "fitting room 是試衣間;try it on 代名詞放中間。"
+  "ex": "fitting room 是試衣間;還沒試不能說合身,try it on 不是試吃或嘗試。"
  },
  {
   "id": "d032",
@@ -409,11 +409,11 @@
   "line": "Are you free tomorrow afternoon?",
   "a": "Yes, after two o'clock.",
   "d": [
-   "Free is good.",
-   "Tomorrow is Friday.",
-   "Yes, I'm free yesterday."
+   "Yes, it's free of charge.",
+   "Yes, I'm free now.",
+   "Yes, I was out today."
   ],
-  "ex": "回答有空並給出時段,方便對方安排。"
+  "ex": "回答有空並給時段;free of charge 是免費,問的是明天不是現在。"
  },
  {
   "id": "d033",
@@ -422,11 +422,11 @@
   "line": "I'm sorry, I broke your cup.",
   "a": "Don't worry about it.",
   "d": [
-   "Yes, you broke.",
-   "Yes, you are sorry.",
-   "You must pay me now, right now!"
+   "Sorry, I'll buy you a new one.",
+   "You're welcome, anytime.",
+   "Be careful, it's very hot."
   ],
-  "ex": "Don't worry about it 是接受道歉的常用語。"
+  "ex": "Don't worry about it 接受道歉;You're welcome 回謝謝,買新的是打破的人說。"
  },
  {
   "id": "d034",
@@ -435,9 +435,9 @@
   "line": "Does this bus go to the airport?",
   "a": "No, you need the 1819.",
   "d": [
-   "Yes, it goes airport go.",
-   "I'm not going there today.",
-   "The airport is very big."
+   "No, I'm waiting for my friend.",
+   "It comes every ten minutes.",
+   "Yes, my flight leaves at nine."
   ],
   "ex": "直接回答並告訴對方該搭哪班車。"
  },
@@ -448,11 +448,11 @@
   "line": "Could you speak more slowly, please?",
   "a": "Of course. Sorry about that.",
   "d": [
-   "OK. I. Speak. Slow.",
-   "No, I'm busy.",
-   "You should learn more English."
+   "Of course. Could you speak up?",
+   "Sure, I'll speak louder.",
+   "No problem. You're welcome."
   ],
-  "ex": "同意並致歉;叫對方學英文非常失禮。"
+  "ex": "同意放慢並致歉;slowly 是慢不是大聲,對方也不是在道謝。"
  },
  {
   "id": "d036",
@@ -461,11 +461,11 @@
   "line": "What would you like for your birthday?",
   "a": "Nothing special — just dinner together.",
   "d": [
-   "My birthday is in May, on the twentieth, just after my sister's.",
-   "I would like birthday.",
-   "Give me money."
+   "It's on March twelfth, actually.",
+   "I had a great party with my family last year.",
+   "I'd like to buy you a gift this year, too."
   ],
-  "ex": "回答想要什麼;說生日日期是答非所問。"
+  "ex": "回答想要什麼;說生日日期、去年的派對、要送對方禮物都答非所問。"
  },
  {
   "id": "d037",
@@ -474,11 +474,11 @@
   "line": "We don't have this in a medium, sorry.",
   "a": "That's OK. Do you have it in a large?",
   "d": [
-   "Why not?",
-   "Medium is not have?",
-   "OK, then I take small medium size, it's the same thing for me."
+   "That's OK. I'll take a medium, then.",
+   "Oh, sorry. We'll order more soon.",
+   "That's OK. Is it medium rare?"
   ],
-  "ex": "in a large 指「L 號的」;Why not? 語氣不耐煩。"
+  "ex": "in a large 指 L 號;沒 M 號不能買 M,補貨是店員才說的話。"
  },
  {
   "id": "d038",
@@ -487,11 +487,11 @@
   "line": "Do you mind if I open the window?",
   "a": "Not at all. Go ahead.",
   "d": [
-   "Yes, go ahead.",
-   "I mind the window.",
-   "Window is open."
+   "Sure, I'll close it.",
+   "Sorry, I didn't mean to.",
+   "It's by the door."
   ],
-  "ex": "Do you mind 問「介意嗎」,同意要答 Not at all;Yes 表示介意。"
+  "ex": "Do you mind 問「介意嗎」,同意答 Not at all;關窗、道歉都不對題。"
  },
  {
   "id": "d039",
@@ -500,11 +500,11 @@
   "line": "Can I see your passport, please?",
   "a": "Sure, here you are.",
   "d": [
-   "Yes, you can see.",
-   "Here you are passport.",
-   "Why do you want it?"
+   "Sure, here's my ticket.",
+   "Yes, I can see it.",
+   "Sure, I'll wait."
   ],
-  "ex": "遞東西說 Here you are。"
+  "ex": "遞東西說 Here you are;要的是護照不是機票,see 是查看。"
  },
  {
   "id": "d040",
@@ -513,11 +513,11 @@
   "line": "Hi, are we still meeting at 3?",
   "a": "Yes, see you in Room B.",
   "d": [
-   "Yes, we are still.",
-   "We met at 3 yesterday, and the meeting was very long and boring.",
-   "Meeting is good."
+   "Yes, it was really useful.",
+   "Yes, I'm still in a meeting.",
+   "Yes, three of us are coming."
   ],
-  "ex": "確認仍照原定並補充地點。"
+  "ex": "確認仍照原定並補充地點;3 是時間不是人數,會議還沒開。"
  },
  {
   "id": "d041",
@@ -526,11 +526,11 @@
   "line": "Can you check this link? It doesn't open for me.",
   "a": "Sure, give me a sec.",
   "d": [
-   "Link is open.",
-   "It doesn't open for me too.",
-   "Check it yourself."
+   "Yes, it opens at 9.",
+   "No, it's closed.",
+   "Thanks, that works."
   ],
-  "ex": "give me a sec = 給我一下;否定句的「也」要用 either。"
+  "ex": "give me a sec = 給我一下;這裡 open 指連結打不開,不是店的營業。"
  },
  {
   "id": "d042",
@@ -539,11 +539,11 @@
   "line": "Running 10 mins late, sorry!",
   "a": "No worries, I'll grab a table.",
   "d": [
-   "Why you are late?",
-   "OK, I am late too 10 mins, so we both arrive at same time.",
-   "Sorry for you."
+   "No worries, see you at 10.",
+   "No worries, it was fun!",
+   "Thanks, I'll be there soon."
   ],
-  "ex": "No worries 表示沒關係;grab a table 先佔位子。"
+  "ex": "No worries 表示沒關係並先佔位;10 mins 是十分鐘,不是十點。"
  },
  {
   "id": "d043",
@@ -552,9 +552,9 @@
   "line": "Table for one?",
   "a": "No, two. My friend is coming.",
   "d": [
-   "Yes, it's for one person two.",
-   "One is for me.",
-   "I am one."
+   "No, I'm not ready to order yet.",
+   "No, I'll have the chicken, thanks.",
+   "Yes, the bill, please."
   ],
   "ex": "直接更正人數並說明朋友稍後到。"
  },
@@ -565,9 +565,9 @@
   "line": "Is everything OK with your room?",
   "a": "Yes, it's great, but the Wi-Fi is a bit slow.",
   "d": [
-   "Room is everything.",
-   "No, I'm OK.",
-   "My room is OK with me, with my room."
+   "Yes, thanks. I'd like to book a table for two tonight.",
+   "Yes, it's on the fifth floor, next to the elevator.",
+   "Yes, I'd like to check in, please."
   ],
   "ex": "先肯定再委婉提出小問題,很自然。"
  },
@@ -578,11 +578,11 @@
   "line": "Let's meet at 7.",
   "a": "Sounds good. See you then.",
   "d": [
-   "Sounds well.",
-   "Seven is a number.",
-   "I meet you 7 clock at the station, don't be late again please."
+   "Sounds good. Nice to meet you.",
+   "Sounds good. How was the meeting?",
+   "Thanks, it was great."
   ],
-  "ex": "Sounds good 是固定說法,不說 sounds well。"
+  "ex": "Sounds good 接受提議;Nice to meet you 是初次見面,其他在談過去的事。"
  },
  {
   "id": "d046",
@@ -591,11 +591,11 @@
   "line": "Cash or card?",
   "a": "Card, please.",
   "d": [
-   "Yes.",
-   "Card and cash.",
-   "I have money."
+   "Yes, please.",
+   "To go, please.",
+   "A receipt, please."
   ],
-  "ex": "二選一問句要選一個,不能答 Yes。"
+  "ex": "二選一問句要選一個,不能答 Yes;其他答外帶、收據。"
  },
  {
   "id": "d047",
@@ -604,11 +604,11 @@
   "line": "Sorry, could you repeat that?",
   "a": "Sure. I said the meeting is moved to Thursday.",
   "d": [
-   "Repeat that.",
-   "I already said it once. You should listen more carefully next time.",
-   "Yes, I could."
+   "Sure. Could you speak a little more slowly, please?",
+   "Sure. I'll repeat the class next semester, I guess.",
+   "Sure. Let me know if you have any more questions."
   ],
-  "ex": "重述重點;I already said it 顯得不耐煩。"
+  "ex": "重述重點;請人放慢是聽者的話,repeat 不是重修。"
  },
  {
   "id": "d048",
@@ -617,9 +617,9 @@
   "line": "How do I get to the MRT station?",
   "a": "Go straight and turn left at the bank.",
   "d": [
-   "You get by MRT.",
-   "Go straight and left turn at bank and you arrive it.",
-   "The MRT is fast and clean."
+   "You can buy a ticket at the machine over there.",
+   "I usually get there by scooter every morning.",
+   "It's open until midnight, I think."
   ],
   "ex": "turn left at ___ 是指路基本句型。"
  },
@@ -630,11 +630,11 @@
   "line": "Are you hungry?",
   "a": "A little. Let's eat something.",
   "d": [
-   "I was hungry yesterday, but today I am not so hungry like yesterday.",
-   "Yes, I hungry.",
-   "I don't know you."
+   "A little. Let's take a nap.",
+   "A bit. Let's turn on the AC.",
+   "A little. Can I get some water?"
   ],
-  "ex": "hungry 是形容詞,要用 I'm hungry;A little 簡潔自然。"
+  "ex": "hungry 是餓;想睡、太熱、口渴的回應都對不上。"
  },
  {
   "id": "d050",
@@ -643,11 +643,11 @@
   "line": "Are you allergic to anything?",
   "a": "Yes, I'm allergic to penicillin.",
   "d": [
-   "I'm allergy penicillin.",
-   "No, I like everything.",
-   "I'm not allergic to you."
+   "Yes, I take vitamins every morning.",
+   "Yes, my insurance covers it.",
+   "Yes, I had a flu shot in May."
   ],
-  "ex": "allergic to + 物品;allergy 是名詞。"
+  "ex": "allergic to + 物品回答過敏原;維他命、保險、疫苗都不是過敏。"
  },
  {
   "id": "d051",
@@ -656,11 +656,11 @@
   "line": "Thanks for your help today.",
   "a": "Anytime.",
   "d": [
-   "Never mind.",
-   "Yes, I helped you a lot today.",
-   "You should thank me."
+   "Got it.",
+   "Me too.",
+   "Sorry."
   ],
-  "ex": "Anytime = 隨時樂意幫忙;Never mind 用錯場合。"
+  "ex": "Anytime = 隨時樂意幫忙;回 Got it、Me too、Sorry 都不是接受道謝。"
  },
  {
   "id": "d052",
@@ -669,11 +669,11 @@
   "line": "Sorry, we're closing in five minutes.",
   "a": "Oh, OK. I'll be quick.",
   "d": [
-   "Why are you closing?",
-   "Five minutes is OK, I stay one hour.",
-   "Close is fine."
+   "Oh, OK. Take your time, then.",
+   "Oh, OK. I'll stay a bit longer.",
+   "Oh, OK. Have a nice holiday!"
   ],
-  "ex": "表示理解並會加快;質問為何打烊不禮貌。"
+  "ex": "表示理解並加快;Take your time 是讓別人慢慢來,方向相反。"
  },
  {
   "id": "d053",
@@ -682,11 +682,11 @@
   "line": "Would you like some cake?",
   "a": "Yes, please. It looks great.",
   "d": [
-   "Yes, I would like some cakes please give me.",
-   "No, I'm diet.",
-   "Cake is sweet."
+   "Yes, please. It was great.",
+   "Yes, I baked it myself.",
+   "Sure, help yourself."
   ],
-  "ex": "I'm diet 是中式英文,應說 I'm on a diet。"
+  "ex": "接受並稱讚外觀;還沒吃不能說 was great,help yourself 是主人說的。"
  },
  {
   "id": "d054",
@@ -695,9 +695,9 @@
   "line": "Where are you from?",
   "a": "I'm from Hsinchu, in Taiwan.",
   "d": [
-   "I come from Hsinchu now.",
-   "From Taiwan is me.",
-   "I'm going to Hsinchu next week to visit my family and friends."
+   "I'm going to Hsinchu next week.",
+   "I've been here for three years.",
+   "I'm fine, thanks. And you?"
   ],
   "ex": "I'm from ___ 說明出身地。"
  },
@@ -708,11 +708,11 @@
   "line": "Is this your first time in Japan?",
   "a": "No, it's my third visit.",
   "d": [
-   "No, it's my three times.",
-   "Yes, it's my second time.",
-   "Japan is first."
+   "No, I'm here on business.",
+   "Yes, for three days.",
+   "No, I came by plane."
   ],
-  "ex": "third visit 用序數;Yes 和 second time 互相矛盾。"
+  "ex": "問是否第一次來,No + 第幾次最清楚;其他答目的、天數或交通。"
  },
  {
   "id": "d056",
@@ -721,11 +721,11 @@
   "line": "Hey, how did the presentation go?",
   "a": "Pretty well, thanks. They liked the demo.",
   "d": [
-   "Yes, I go to presentation and I talk about our new product demo.",
-   "It was gone well.",
-   "Thank you, and you?"
+   "Pretty well, thanks. It starts at two.",
+   "Fine, thanks. And how are you?",
+   "Thanks, I'll send you the slides."
   ],
-  "ex": "How did ___ go? 問結果如何,用過去式回答並補一句細節。"
+  "ex": "How did ___ go? 問結果,用過去式回答並補細節;其他沒說結果。"
  },
  {
   "id": "d057",
@@ -734,11 +734,11 @@
   "line": "Does anyone have any questions before we move on?",
   "a": "Just one — when's the deadline for phase two?",
   "d": [
-   "Yes, I have questions before.",
-   "No questions is good.",
-   "Move on, please, this part is really boring."
+   "Yes, let's move on to the next item.",
+   "Just one — I'm moving to Taichung in May.",
+   "Sure — I'll answer any questions you have."
   ],
-  "ex": "Just one 帶出問題,簡潔;說會議無聊非常失禮。"
+  "ex": "Just one 帶出問題;move on 是進下一項,不是搬家,答問題是主持人的事。"
  },
  {
   "id": "d058",
@@ -747,11 +747,11 @@
   "line": "Could you cover for me at the 2 p.m. call?",
   "a": "Sure. Anything I should know beforehand?",
   "d": [
-   "Cover what? You should do it yourself, it's your call, not mine.",
-   "Yes, I could covered.",
-   "The call is at 2 p.m."
+   "Sure. I'll cover the table with this cloth.",
+   "Sure. Thanks so much for covering for me.",
+   "Sure. How was the call this morning?"
   ],
-  "ex": "cover for 是代班;答應並問需要先知道什麼。"
+  "ex": "cover for 是代班;答應並問須知;不是蓋桌布,道謝是請託者的話。"
  },
  {
   "id": "d059",
@@ -760,11 +760,11 @@
   "line": "Can you have the report ready by Friday?",
   "a": "Friday might be tight, but I'll do my best.",
   "d": [
-   "Friday is impossible, ask someone else.",
-   "I will try my best to finish it until Friday.",
-   "Yes, the report was ready on Friday."
+   "Friday works. I'll read it over the weekend, then.",
+   "Thanks, I really enjoyed reading the report.",
+   "Friday's great — I'm going to the beach that day."
   ],
-  "ex": "tight = 時間很緊;期限要用 by,不用 until。"
+  "ex": "tight = 時間很緊,誠實回應並盡力;其他把報告當成要讀的或答週五安排。"
  },
  {
   "id": "d060",
@@ -773,9 +773,9 @@
   "line": "I'm afraid the salmon is sold out tonight.",
   "a": "Oh, that's a shame. What would you recommend instead?",
   "d": [
-   "You are afraid? Why?",
-   "Then I go to another restaurant, bye.",
-   "OK, give me the salmon."
+   "Oh, that's a shame. Don't be afraid, it's not your fault.",
+   "Oh, that's a shame. I'll have the salmon, then, please.",
+   "Oh, that's great. Could we have the check now, please?"
   ],
   "ex": "I'm afraid 是「恐怕」委婉語,不是害怕;請對方推薦替代。"
  },
@@ -786,11 +786,11 @@
   "line": "I'm sorry, but check-in isn't until 3 p.m.",
   "a": "No problem. Could I leave my luggage here until then?",
   "d": [
-   "But I want check in now, I am very tired, you must give me room.",
-   "Is 3 p.m. check-in?",
-   "OK, I'll check in at 2."
+   "No problem. Could you call me a taxi to the airport, then?",
+   "No problem. I'll check out by three o'clock tomorrow, then.",
+   "No problem. Could I have a wake-up call at three, please?"
   ],
-  "ex": "接受規定並詢問寄放行李,實用又禮貌。"
+  "ex": "接受規定並詢問寄放行李;其他把入住和退房、叫車、叫醒混為一談。"
  },
  {
   "id": "d062",
@@ -799,9 +799,9 @@
   "line": "We're having a barbecue on Saturday. Want to come?",
   "a": "I'd love to, but I'm visiting my parents. Next time?",
   "d": [
-   "I don't want.",
-   "No, I have plan.",
-   "Yes, but I can't come because I have to visit my parents that day."
+   "I'd love to, but I'm visiting my parents. See you there!",
+   "Thanks, it was great! The barbecue was really delicious.",
+   "I'd love to come. What time does the movie start, exactly?"
   ],
   "ex": "婉拒公式:I'd love to, but + 理由 + 提議下次。"
  },
@@ -812,9 +812,9 @@
   "line": "I'm not sure I follow. Could you explain that again?",
   "a": "Sure — basically, we're switching suppliers to cut costs.",
   "d": [
-   "I explained it already.",
-   "Follow me, please.",
-   "Yes, I could explain that again."
+   "Sure — basically, I'm following you on social media now.",
+   "Sure — could you explain that again a bit more slowly?",
+   "Sure — basically, I'm not sure I follow you either."
   ],
   "ex": "follow 在此是「聽懂」;用 basically 換句話簡述。"
  },
@@ -825,11 +825,11 @@
   "line": "Could I have your account number, please?",
   "a": "Sure, it's 4-7-2-9-1.",
   "d": [
-   "You could have.",
-   "My account is number.",
-   "Yes, you could have my account."
+   "Sure, it's under Chen.",
+   "Sure, here you are.",
+   "Sure, it's 4:30 p.m."
   ],
-  "ex": "直接提供號碼;You could have 是字面誤解。"
+  "ex": "直接報出帳號;電話中不能遞東西,報名字或時間也不對題。"
  },
  {
   "id": "d065",
@@ -838,9 +838,9 @@
   "line": "Your flight has been delayed by two hours.",
   "a": "Oh no. Will I still make my connection in Tokyo?",
   "d": [
-   "Delayed is two hours?",
-   "That's your problem, not mine. I need to be in Tokyo on time today.",
-   "Thank you for the delay."
+   "Great. So we'll land two hours earlier, right?",
+   "Oh no. Could you call me a taxi to the airport, please?",
+   "Oh no. Did I leave my passport at the check-in counter?"
   ],
   "ex": "make my connection = 趕得上轉機,是最實際的追問。"
  },
@@ -851,11 +851,11 @@
   "line": "Would you like to keep the receipt?",
   "a": "Yes, please — just in case.",
   "d": [
-   "Keep it to you, I don't need any paper, I have my phone.",
-   "Receipt is mine?",
-   "No, I'll keep it."
+   "Yes, please — keep the change.",
+   "Yes, I'll pay in cash.",
+   "Sure, here's my card."
   ],
-  "ex": "just in case = 以防萬一;No 和 I'll keep it 矛盾。"
+  "ex": "just in case = 以防萬一;找零、付現、給卡都沒回答要不要收據。"
  },
  {
   "id": "d067",
@@ -864,11 +864,11 @@
   "line": "I think we should postpone the launch.",
   "a": "I see your point, but the client is expecting it next week.",
   "d": [
-   "You are wrong.",
-   "Postpone is good idea, yes, no.",
-   "I think so too, so we should launch now."
+   "I see your point, so let's launch it this Friday as we planned.",
+   "Thanks for the update. When did the launch go out?",
+   "That sounds great. I'll book the launch party, then."
   ],
-  "ex": "I see your point, but… 是委婉表達不同意的常用句。"
+  "ex": "I see your point, but… 是委婉表達不同意的常用句;其他自相矛盾或答錯時態。"
  },
  {
   "id": "d068",
@@ -877,11 +877,11 @@
   "line": "Sorry to interrupt, but we're running out of time.",
   "a": "Right, let's wrap up the last item quickly.",
   "d": [
-   "Don't interrupt me.",
-   "Time is running.",
-   "Sorry, I am interrupting too, but I think we still have a lot of time."
+   "Right, let's add a few more items to the agenda, then.",
+   "Sure, sorry for interrupting you.",
+   "Right, I'll buy more paper after lunch."
   ],
-  "ex": "wrap up = 收尾;接受提醒並加快進度。"
+  "ex": "wrap up = 收尾;時間不夠不能再加議程,running out 不是用完紙。"
  },
  {
   "id": "d069",
@@ -890,11 +890,11 @@
   "line": "Great job on the client meeting today.",
   "a": "Thanks! The team prepared really well.",
   "d": [
-   "No, I'm not good.",
-   "Yes, I know I am great. I always do the best job in this team.",
-   "Thank you, you too great."
+   "Thanks! I'll prepare for the client meeting.",
+   "You're welcome. It was my pleasure.",
+   "Sure, I'll tell the client tomorrow."
   ],
-  "ex": "接受稱讚並歸功團隊;過度否定或自誇都不自然。"
+  "ex": "接受稱讚並歸功團隊;You're welcome 回謝謝,會議已經開完。"
  },
  {
   "id": "d070",
@@ -903,11 +903,11 @@
   "line": "Sorry for the wait. Here's your pasta.",
   "a": "Thanks. Could we also get some more bread?",
   "d": [
-   "You are too slow.",
-   "It's OK, never mind, I waited very long.",
-   "Sorry for you."
+   "Thanks. Could we also order the pasta, please?",
+   "No problem. Sorry for the wait. Enjoy your meal.",
+   "Thanks. I'll be ready to order in a few minutes."
   ],
-  "ex": "大方接受並提出新需求;直說太慢不禮貌。"
+  "ex": "大方接受並提出新需求;菜已上不能再點同一道,另一句是服務生台詞。"
  },
  {
   "id": "d071",
@@ -916,11 +916,11 @@
   "line": "Is everything all right here?",
   "a": "Actually, I ordered the chicken, not the beef.",
   "d": [
-   "Everything is not right here, you are terrible, bring the manager now.",
-   "Yes, but this is wrong food.",
-   "All right here."
+   "Yes, everything's fine. Could we get some more water?",
+   "Actually, I'll cook the chicken at home tonight, thanks.",
+   "Actually, the restroom is just over there, on the left."
   ],
-  "ex": "Actually 開頭委婉指出問題,清楚又不衝。"
+  "ex": "Actually 開頭委婉指出上錯菜;說一切都好就沒解決問題。"
  },
  {
   "id": "d072",
@@ -929,11 +929,11 @@
   "line": "How long have you had this cough?",
   "a": "About a week now.",
   "d": [
-   "Since one week.",
-   "I have it a week ago.",
-   "It's a bad cough, doctor."
+   "About once a week.",
+   "Three times a day.",
+   "It's a dry one, I think."
   ],
-  "ex": "How long 問期間,答 About a week;since 後面要接時間點。"
+  "ex": "How long 問持續多久;once a week、three times a day 是頻率。"
  },
  {
   "id": "d073",
@@ -942,11 +942,11 @@
   "line": "Take this twice a day after meals.",
   "a": "Got it. Should I avoid alcohol?",
   "d": [
-   "After meals is twice?",
-   "I don't take after meals.",
-   "OK, two times one day eat, after breakfast and dinner, I remember."
+   "Got it. What's for dinner?",
+   "Sure, take it with water.",
+   "Got it. Was it expensive?"
   ],
-  "ex": "Got it 表示了解,再問相關注意事項。"
+  "ex": "Got it 表示了解,再問相關注意事項;其他是藥師的話或不相干。"
  },
  {
   "id": "d074",
@@ -955,11 +955,11 @@
   "line": "I'm thinking of quitting my job.",
   "a": "Really? What happened?",
   "d": [
-   "Good, you should quit. That company is terrible anyway.",
-   "I'm thinking too.",
-   "Quit is easy."
+   "Really? When did you start?",
+   "Really? Where to?",
+   "Really? How much?"
   ],
-  "ex": "先關心原因;直接叫人辭職太草率。"
+  "ex": "先關心原因;問何時開始、去哪、多少錢都是別的話題。"
  },
  {
   "id": "d075",
@@ -968,11 +968,11 @@
   "line": "Do you know where the projector remote is?",
   "a": "I think Amy had it in the meeting room.",
   "d": [
-   "I know.",
-   "Remote is far.",
-   "Yes, it's a remote. It's for controlling the projector from far."
+   "I think the meeting room is booked till four.",
+   "I think the projector is broken again.",
+   "It's on the remote server, I think."
   ],
-  "ex": "Do you know where 要回答地點,單說 I know 不夠。"
+  "ex": "Do you know where 要回答在哪裡;其他沒說遙控器的位置。"
  },
  {
   "id": "d076",
@@ -981,9 +981,9 @@
   "line": "Would you mind switching seats so I can sit with my son?",
   "a": "Not at all. Which seat is yours?",
   "d": [
-   "Yes, I would mind, sure.",
-   "Your son can sit alone.",
-   "I don't mind to switch you, but my seat is better than your seat."
+   "Sure, I'll sit with my son.",
+   "Not at all. I'll switch it off.",
+   "Thank you so much. That's kind."
   ],
   "ex": "Would you mind 同意要說 Not at all。"
  },
@@ -994,11 +994,11 @@
   "line": "Want to grab a coffee after this?",
   "a": "I'd love to, but I have another call. Rain check?",
   "d": [
-   "I don't drink coffee with you.",
-   "Grab is not a polite word. You should say 'Would you like to have'.",
-   "Yes, after this I grab you."
+   "Thanks for the coffee! That was really nice of you.",
+   "Sure, I'll grab the meeting notes after this, too.",
+   "No thanks, I'm just looking around today."
   ],
-  "ex": "rain check = 改天再約,婉拒常用。"
+  "ex": "rain check = 改天再約,婉拒常用;咖啡還沒喝,其他誤解 grab。"
  },
  {
   "id": "d078",
@@ -1007,11 +1007,11 @@
   "line": "Could you send over the updated quote by end of day?",
   "a": "Will do — you'll have it by 5 p.m.",
   "d": [
-   "Okay, I will send you quote end day.",
-   "Why did you not ask earlier?",
-   "The quote was updated."
+   "Thanks — I received it this morning.",
+   "Sure — the quote was helpful.",
+   "Will do — I'll be in by noon."
   ],
-  "ex": "Will do 是「好的,會處理」;再給明確時間。"
+  "ex": "Will do 是「好的,會處理」;再給明確時間;其他像收件者或答錯事。"
  },
  {
   "id": "d079",
@@ -1020,11 +1020,11 @@
   "line": "Quick question — is the server down for you too?",
   "a": "Yeah, same here. IT is on it.",
   "d": [
-   "Quick answer: yes no.",
-   "The server is down for me too?",
-   "Ask IT, don't ask me."
+   "Yeah, I'll be down soon.",
+   "No, it's upstairs, I think.",
+   "Sure, I'll ask him later."
   ],
-  "ex": "same here = 我也是;on it = 正在處理。"
+  "ex": "same here = 我也是;down 指當機,不是下樓或在樓上。"
  },
  {
   "id": "d080",
@@ -1033,11 +1033,11 @@
   "line": "I've attached the draft. Let me know what you think.",
   "a": "Thanks — I'll take a look and get back to you this afternoon.",
   "d": [
-   "I think it's a draft.",
-   "Thanks, I have attached it too.",
-   "OK, I'll let you know what you think."
+   "Thanks — I'll attach the draft and send it to you this afternoon.",
+   "Thanks — I think it's a great idea to meet this afternoon.",
+   "Thanks — what do you think of my draft, by the way?"
   ],
-  "ex": "get back to you = 再回覆你;最後一句人稱錯亂。"
+  "ex": "get back to you = 再回覆你;附草稿、問對方意見是寄件者的角色。"
  },
  {
   "id": "d081",
@@ -1046,11 +1046,11 @@
   "line": "Hi, I'm calling about the job ad on your website.",
   "a": "Sure, which position are you interested in?",
   "d": [
-   "We have a website.",
-   "Why are you calling? You can just send email to our HR department.",
-   "The job is an ad."
+   "Thanks, I'm interested in the engineering position.",
+   "Sure, I'll post a new ad on the website tomorrow.",
+   "Sure, I'd love to work for your company."
   ],
-  "ex": "確認對方想應徵哪個職位;Why are you calling 不禮貌且多餘。"
+  "ex": "確認對方應徵哪個職位;想來上班是應徵者的話,廣告已刊出。"
  },
  {
   "id": "d082",
@@ -1059,11 +1059,11 @@
   "line": "Can we move our one-on-one to Thursday?",
   "a": "Thursday works. Same time?",
   "d": [
-   "Thursday is OK for you?",
-   "One-on-one is two people.",
-   "Can't. Monday only."
+   "Thursday works. How was it?",
+   "Thursday works. Where are we moving?",
+   "Thursday works. See you on Friday."
   ],
-  "ex": "___ works 表示可以;再確認時間。"
+  "ex": "___ works 表示可以,再確認時間;move 是改時間,不是搬家。"
  },
  {
   "id": "d083",
@@ -1072,11 +1072,11 @@
   "line": "That one's on sale — 30% off.",
   "a": "Great. Does that include the jacket too?",
   "d": [
-   "30% is sale.",
-   "Can you give me 50% off instead? Or I'm leaving this shop now.",
-   "Sale is good for you."
+   "Great. So the price went up by 30% this week?",
+   "Great. When does the sale start next month?",
+   "Great. When did the sale end?"
   ],
-  "ex": "追問折扣範圍很自然;威脅要走太衝。"
+  "ex": "追問折扣範圍很自然;30% off 是打七折不是漲價,特價正在進行。"
  },
  {
   "id": "d084",
@@ -1085,9 +1085,9 @@
   "line": "Do you have the receipt?",
   "a": "I'm afraid I lost it. Can I still exchange it?",
   "d": [
-   "Receipt? No.",
-   "I have no receipt, but I have the item for you here in my bag.",
-   "Yes, I lost it."
+   "I'm afraid not. Do you have the receipt?",
+   "Sure, I'll print you a receipt right now.",
+   "I'm afraid I lost it. Can I have a bag?"
   ],
   "ex": "I'm afraid 委婉說壞消息,再問是否仍能換。"
  },
@@ -1098,11 +1098,11 @@
   "line": "You look tired.",
   "a": "Yeah, I didn't sleep well last night.",
   "d": [
-   "You look tired too. Maybe we both need to go home early today.",
-   "Yes, I am look tired.",
-   "Thank you."
+   "Thanks! I've been going to the gym a lot.",
+   "Yeah, I'm tired of eating the same lunch every day.",
+   "Yeah, I slept really well last night, thanks."
   ],
-  "ex": "說明原因自然;You look tired 不是稱讚,不用道謝。"
+  "ex": "說明原因自然;You look tired 不是稱讚,睡得好會矛盾,tired of 是厭倦。"
  },
  {
   "id": "d086",
@@ -1111,9 +1111,9 @@
   "line": "I'm so sorry — I forgot to send you the minutes.",
   "a": "No worries. Could you send them today?",
   "d": [
-   "You always forget.",
-   "Yes, you forgot.",
-   "It doesn't matter, I don't care about minutes."
+   "No worries. How many minutes do you need?",
+   "No worries. I'll send you the minutes today.",
+   "No worries. When's the meeting?"
   ],
   "ex": "minutes 指會議紀錄;接受道歉並提出期望。"
  },
@@ -1124,9 +1124,9 @@
   "line": "Would you like a wake-up call?",
   "a": "Yes, at 6:30, please.",
   "d": [
-   "Wake me up.",
-   "Yes, I would like to call.",
-   "I wake up at 6:30 every day."
+   "Yes, I'll call home.",
+   "Yes, for two nights.",
+   "Yes, it's room 630."
   ],
   "ex": "wake-up call 是叫醒服務,回答要幾點。"
  },
@@ -1137,11 +1137,11 @@
   "line": "Did you pack your bag yourself?",
   "a": "Yes, I did.",
   "d": [
-   "Yes, I packed it by myself bag.",
-   "No, my bag is packed.",
-   "Myself is packed."
+   "Yes, I will.",
+   "Yes, I do.",
+   "Yes, two."
   ],
-  "ex": "安檢固定問題,簡答 Yes, I did。"
+  "ex": "問過去做過的事用 Did,答 Yes, I did;I will 是未來,two 答件數。"
  },
  {
   "id": "d089",
@@ -1150,11 +1150,11 @@
   "line": "What do you think of the new office?",
   "a": "I like it — it's much brighter than the old one.",
   "d": [
-   "I think it's an office.",
-   "It's more bright than old one, and the chairs are more comfortable.",
-   "I don't think."
+   "I think it's on the fifth floor, near the lift.",
+   "I'll think about it and let you know tomorrow.",
+   "I like it — when are we moving to the new one?"
   ],
-  "ex": "bright 比較級是 brighter;給意見加理由。"
+  "ex": "給意見加理由;其他答位置、拖延回答,或像還沒搬過去。"
  },
  {
   "id": "d090",
@@ -1163,11 +1163,11 @@
   "line": "We'd like to see a demo before we decide.",
   "a": "Of course. How about next Tuesday?",
   "d": [
-   "Demo is not free.",
-   "You should decide first, and then we can show you the demo later.",
-   "OK, we will demo you."
+   "Of course. How did you like the demo?",
+   "Of course. When did you decide to buy it?",
+   "Thanks, the demo was great."
   ],
-  "ex": "同意並主動提時間,推進流程。"
+  "ex": "同意並主動提時間推進;還沒看 demo,用過去式問感想或決定都不對。"
  },
  {
   "id": "d091",
@@ -1176,11 +1176,11 @@
   "line": "I can't make it tonight, something came up.",
   "a": "That's OK. Hope everything's fine.",
   "d": [
-   "Why? What came up? Tell me.",
-   "OK, you came up.",
-   "Never mind, I don't care."
+   "That's OK. I'll pick you up at seven, then.",
+   "That's great. I'm glad you can make it!",
+   "That's OK. Hope you enjoy it."
   ],
-  "ex": "something came up 是委婉說有事;追問細節太冒昧。"
+  "ex": "something came up 委婉說有事;對方是不能來,不能接他或說很高興他能來。"
  },
  {
   "id": "d092",
@@ -1189,11 +1189,11 @@
   "line": "Is it OK if I leave a bit early today? My kid is sick.",
   "a": "Of course. I hope she feels better soon.",
   "d": [
-   "Your kid is always sick.",
-   "Early is OK for you?",
-   "OK, but who will do your work then?"
+   "Of course. How old is your kid now?",
+   "Of course. I hope the party goes well.",
+   "Of course. Tell her happy birthday from me!"
   ],
-  "ex": "同意並表達關心;質疑工作誰做顯得冷漠。"
+  "ex": "同意並關心孩子;小孩生病,不是派對或生日。"
  },
  {
   "id": "d093",
@@ -1202,9 +1202,9 @@
   "line": "Is it within walking distance?",
   "a": "Yes, it's about ten minutes on foot.",
   "d": [
-   "Yes, you can walk distance, it is not so far from here to there.",
-   "It's within.",
-   "Walking is healthy."
+   "Yes, it's about ten minutes by car.",
+   "Yes, it's about ten dollars by bus.",
+   "Yes, it's open from ten to five."
   ],
   "ex": "within walking distance = 走路可到;on foot = 步行。"
  },
@@ -1215,11 +1215,11 @@
   "line": "What time would you like the table?",
   "a": "Around seven, if possible.",
   "d": [
-   "The table at seven o'clock would like.",
-   "I'd like a big table.",
-   "Seven people."
+   "A table for seven, if possible.",
+   "By the window, if possible.",
+   "Two hours, if possible."
   ],
-  "ex": "問時間就答時間;Seven people 是答人數。"
+  "ex": "問幾點就答時間;table for seven 是人數,窗邊是座位。"
  },
  {
   "id": "d095",
@@ -1228,11 +1228,11 @@
   "line": "I need you to lead the project kickoff.",
   "a": "Sure. Who else will be in the meeting?",
   "d": [
-   "Why me? I think someone else in the team can do it better.",
-   "OK, I need you too.",
-   "Kickoff is football."
+   "Sure. Who's going to lead it, then?",
+   "Sure. How did the kickoff go?",
+   "Thanks, I'll attend the kickoff as a guest."
   ],
-  "ex": "kickoff 是專案啟動會議;接下並問細節。"
+  "ex": "kickoff 是專案啟動會議;你要主持,不能再問誰主持或會議結果。"
  },
  {
   "id": "d096",
@@ -1241,11 +1241,11 @@
   "line": "Did you get my email?",
   "a": "I did, but I haven't had a chance to read it yet.",
   "d": [
-   "I got it, but not read yet it.",
-   "Yes, you sent.",
-   "What email? I never read emails."
+   "I did, but I haven't had a chance to write it yet.",
+   "Yes, I'll send it to you as soon as I get to the office.",
+   "Not yet, but I got your package at the front desk."
   ],
-  "ex": "haven't had a chance to = 還沒空去做。"
+  "ex": "haven't had a chance to = 還沒空去做;寫信、寄信是寄件者的事。"
  },
  {
   "id": "d097",
@@ -1254,11 +1254,11 @@
   "line": "Let's go around the table and introduce ourselves.",
   "a": "Hi everyone, I'm Jason from the data team.",
   "d": [
-   "My name is call Jason.",
-   "Let's go around the table.",
-   "I'm Jason, and you? Please introduce yourself to me also."
+   "Hi everyone, let's go around the table.",
+   "Nice to meet you, Jason. Welcome aboard.",
+   "Hi all, I'm going to the data center."
   ],
-  "ex": "名字加所屬團隊是職場自我介紹基本款。"
+  "ex": "名字加所屬團隊是職場自我介紹基本款;其他是主持人或聽者的話。"
  },
  {
   "id": "d098",
@@ -1267,11 +1267,11 @@
   "line": "I'm sorry, this card was declined.",
   "a": "Oh, that's strange. Let me try another one.",
   "d": [
-   "Your machine is broken, I think. My card always works everywhere.",
-   "Declined is what?",
-   "It's OK, it's declined."
+   "Oh, that's great. Can I get a receipt, then?",
+   "Oh, sorry. Let me try the card machine for you.",
+   "Oh, that's strange. I'll take it, then."
   ],
-  "ex": "declined = 刷卡被拒;冷靜換卡,不怪店家。"
+  "ex": "declined = 刷卡被拒,冷靜換卡;不是好消息,試機器是店員的事。"
  },
  {
   "id": "d099",
@@ -1280,11 +1280,11 @@
   "line": "Thanks for having us over. Dinner was amazing.",
   "a": "I'm glad you enjoyed it. Come again soon!",
   "d": [
-   "Yes, my cooking is amazing.",
-   "No, it was terrible.",
-   "You're welcome to have us over. We will come to your house again."
+   "Thanks for having us over. See you soon!",
+   "Sure, I'd love to come over next time.",
+   "I'm glad you enjoyed it. Who cooked it?"
   ],
-  "ex": "have someone over = 請人到家裡;回應感謝並邀再來。"
+  "ex": "回應感謝並邀再來;其他是客人的台詞,晚餐是你煮的。"
  },
  {
   "id": "d100",
@@ -1293,11 +1293,11 @@
   "line": "Could you keep it down a little? I'm on a call.",
   "a": "Oh, sorry! I didn't realise.",
   "d": [
-   "Keep what down?",
-   "This is my desk.",
-   "OK, I keep it."
+   "Oh, sorry! I'll turn it up.",
+   "Sure, I'll keep it for you.",
+   "Oh, sorry! I'll call you back later."
   ],
-  "ex": "keep it down = 小聲點;立即致歉。"
+  "ex": "keep it down = 小聲點;立即致歉;turn it up 是調大聲。"
  },
  {
   "id": "d101",
@@ -1306,11 +1306,11 @@
   "line": "I'd like you to come back in two weeks.",
   "a": "Sure. Should I book that at the front desk?",
   "d": [
-   "Two weeks later I come back.",
-   "Why? I'm fine now.",
-   "You come back too."
+   "Sure. Should I come back next week, then?",
+   "Sure. How long have you been a doctor?",
+   "Sure. I'll take two weeks off from work, then."
   ],
-  "ex": "答應並詢問如何預約回診。"
+  "ex": "答應並問如何預約回診;兩週後回診,不是下週或請兩週假。"
  },
  {
   "id": "d102",
@@ -1319,11 +1319,11 @@
   "line": "What's the Wi-Fi password?",
   "a": "It's on the whiteboard by the door.",
   "d": [
-   "Password is secret.",
-   "I don't know where is it, maybe you can ask somebody else.",
-   "Wi-Fi is fast here."
+   "It's free for all our visitors.",
+   "Yes, the Wi-Fi is fast here.",
+   "The restroom is down the hall."
   ],
-  "ex": "告訴對方在哪裡找;間接問句語序是 where it is。"
+  "ex": "告訴對方在哪看密碼;免費、速度快、廁所位置都沒回答密碼。"
  },
  {
   "id": "d103",
@@ -1332,11 +1332,11 @@
   "line": "Please confirm your attendance at the training on May 3.",
   "a": "Confirmed — I'll be there. Thanks.",
   "d": [
-   "I confirm to attend it.",
-   "What is training?",
-   "May 3 is a Monday."
+   "Confirmed — I really enjoyed the training.",
+   "Confirmed — I'll send you the agenda by May 3.",
+   "Thanks — I attended it last year."
   ],
-  "ex": "簡短確認出席即可。"
+  "ex": "簡短確認出席;還沒上課不能說很喜歡,寄議程是人資的事。"
  },
  {
   "id": "d104",
@@ -1345,11 +1345,11 @@
   "line": "Are you coming to Amy's party?",
   "a": "Yes! What should I bring?",
   "d": [
-   "Yes, I am come.",
-   "Party is coming.",
-   "I came to Amy's party last year, it was really fun and crowded."
+   "Yes! How was the party?",
+   "Yes! Happy birthday to you, Amy!",
+   "Sure! I'll ask Amy if she's coming."
   ],
-  "ex": "答應並問要帶什麼,很自然。"
+  "ex": "答應並問要帶什麼;派對還沒辦,也不是在跟 Amy 說話。"
  },
  {
   "id": "d105",
@@ -1358,11 +1358,11 @@
   "line": "Can you jump on a quick call?",
   "a": "Sure, give me two minutes.",
   "d": [
-   "Jump where?",
-   "Quick call is OK?",
-   "No, I'm too busy now, bye."
+   "Sure, I'll email you next week.",
+   "Sure, the call went well.",
+   "Sure, I'll book a room."
   ],
-  "ex": "jump on a call = 馬上通個電話。"
+  "ex": "jump on a call = 馬上通個電話;約下週或談過去的電話都不對。"
  },
  {
   "id": "d106",
@@ -1371,11 +1371,11 @@
   "line": "I disagree. I think the old design was better.",
   "a": "Fair enough. What did you like about it?",
   "d": [
-   "You are wrong.",
-   "I disagree your disagree, because the new design is more modern.",
-   "OK, old design."
+   "Thanks! I'm glad you agree with me on that.",
+   "Fair enough. Let's go with the new design, then.",
+   "Fair enough. When did you draw it?"
   ],
-  "ex": "Fair enough 先接住意見,再請對方說明。"
+  "ex": "Fair enough 先接住意見再請對方說明;對方是不同意,不是同意。"
  },
  {
   "id": "d107",
@@ -1384,11 +1384,11 @@
   "line": "Good news — your room has been upgraded to a suite.",
   "a": "Wow, thank you! That's very kind.",
   "d": [
-   "Upgraded is suite?",
-   "I don't want, give me small room.",
-   "Thank you for your upgrading me, I am very appreciate it."
+   "Wow, sorry to hear that.",
+   "Great, I'll check out now.",
+   "You're welcome. Enjoy your stay!"
   ],
-  "ex": "開心道謝即可。"
+  "ex": "升級是好消息,開心道謝即可;其他是櫃檯台詞或回應壞消息。"
  },
  {
   "id": "d108",
@@ -1397,11 +1397,11 @@
   "line": "Can I get a name for the order?",
   "a": "Sure, it's Ken.",
   "d": [
-   "Name is Ken order.",
-   "You can get.",
-   "I ordered a latte."
+   "Sure, a latte.",
+   "Sure, to go.",
+   "Sure, I'll get it."
   ],
-  "ex": "問名字就給名字;You can get 是字面誤解。"
+  "ex": "問名字就給名字;點飲料、內外帶答錯問題,get 不是要你去拿。"
  },
  {
   "id": "d109",
@@ -1410,9 +1410,9 @@
   "line": "Would you be able to review my code this afternoon?",
   "a": "I can do it after lunch. Send me the PR link.",
   "d": [
-   "I can review you.",
-   "Your code is bad anyway.",
-   "This afternoon is busy for me to review, maybe you ask other people."
+   "I reviewed it after lunch. It looks good.",
+   "Sure, I'll write the code after lunch, then.",
+   "Thanks, I'll fix the bugs you found."
   ],
   "ex": "答應並說時間、要連結,溝通清楚。"
  },
@@ -1423,11 +1423,11 @@
   "line": "Do you mind if I take the highway? It's faster.",
   "a": "Not at all, go ahead.",
   "d": [
-   "Yes, take it.",
-   "Highway is fast.",
-   "I don't care."
+   "Not at all, I'll drive, then.",
+   "Sure, I'll take the bus.",
+   "Not at all, keep the change."
   ],
-  "ex": "Do you mind 同意答 Not at all;I don't care 聽起來冷淡。"
+  "ex": "Do you mind 同意答 Not at all, go ahead;開車是司機的事,還沒付錢。"
  },
  {
   "id": "d111",
@@ -1436,11 +1436,11 @@
   "line": "I think you have the wrong number.",
   "a": "Oh, I'm sorry to bother you.",
   "d": [
-   "No, you have wrong number.",
-   "Wrong number is who?",
-   "Then who are you? I want to talk to Mr. Chen, please give him."
+   "Oh, who's calling, please?",
+   "No problem, it happens.",
+   "Oh, what's your new number?"
   ],
-  "ex": "打錯電話就道歉掛斷。"
+  "ex": "打錯電話就道歉;問誰打來、說沒關係是接電話那方的話。"
  },
  {
   "id": "d112",
@@ -1449,11 +1449,11 @@
   "line": "How long have you worked here?",
   "a": "Almost three years now.",
   "d": [
-   "I worked here three years ago.",
-   "Since three years.",
-   "I work here every day."
+   "About three years ago.",
+   "Almost three hours a day.",
+   "Every three years or so."
   ],
-  "ex": "How long 問期間,用 ___ years now 回答。"
+  "ex": "How long 問期間,用 ___ years now;ago 是時間點,其他是頻率。"
  },
  {
   "id": "d113",
@@ -1462,11 +1462,11 @@
   "line": "Do you want to split the bill?",
   "a": "Sure, let's go halves.",
   "d": [
-   "Split is OK?",
-   "No, you pay all.",
-   "Bill is split."
+   "Sure, let's go home now.",
+   "Sure, I'll split the cake.",
+   "Sure, it's on me."
   ],
-  "ex": "go halves = 平分付款。"
+  "ex": "go halves = 平分付款;it's on me 是我請客,和平分矛盾。"
  },
  {
   "id": "d114",
@@ -1475,9 +1475,9 @@
   "line": "Could you give me a quick update on the project?",
   "a": "Sure — we're on track, but testing is a bit behind.",
   "d": [
-   "Yes, quick update is good.",
-   "Project is update.",
-   "Why do you always ask me? I already sent you an update last month."
+   "Sure — I'll update the app to the latest version tonight.",
+   "Sure — could you send me an update on the project, too?",
+   "Sure — we finished the project last year."
   ],
   "ex": "on track = 進度正常;補充落後項目。"
  },
@@ -1488,11 +1488,11 @@
   "line": "Anything to declare?",
   "a": "No, nothing.",
   "d": [
-   "I declare nothing to you.",
-   "Yes, I am declare.",
-   "Declare what? I don't understand you."
+   "No, thanks.",
+   "Just me.",
+   "Tourism."
   ],
-  "ex": "declare 指申報物品,沒有就答 No, nothing。"
+  "ex": "declare 是申報物品,沒有答 No, nothing;Tourism 答來訪目的。"
  },
  {
   "id": "d116",
@@ -1501,11 +1501,11 @@
   "line": "Would you like to see the dessert menu?",
   "a": "We're fine, thanks. Just the check, please.",
   "d": [
-   "Dessert is menu?",
-   "No, I'd like to see. Bring me the dessert menu and the check also.",
-   "Check me, please."
+   "Yes, please. We'd like to see the drinks menu.",
+   "We're fine, thanks. We're ready to order now.",
+   "Yes, please. Could we get a table for two?"
   ],
-  "ex": "the check = 帳單;婉拒甜點直接買單。"
+  "ex": "the check = 帳單;婉拒甜點直接買單;用餐尾聲不會再點菜或要位子。"
  },
  {
   "id": "d117",
@@ -1514,11 +1514,11 @@
   "line": "It's my last day today.",
   "a": "Oh, really? We'll miss you. Keep in touch!",
   "d": [
-   "Congratulations, finally! You must be very happy to leave us.",
-   "Last day is today.",
-   "OK, bye."
+   "Oh, really? Welcome to the team!",
+   "Oh, really? Happy birthday! How old are you?",
+   "Oh, really? See you tomorrow, then!"
   ],
-  "ex": "表達不捨並保持聯絡;Finally 像是很高興他走。"
+  "ex": "表達不捨並保持聯絡;最後一天不是新人報到或生日,也不會明天見。"
  },
  {
   "id": "d118",
@@ -1527,11 +1527,11 @@
   "line": "Your package was delivered to my place by mistake.",
   "a": "Oh, thank you so much for letting me know!",
   "d": [
-   "Why did you take my package? You should give it to the guard.",
-   "My package is your place.",
-   "Mistake is delivery."
+   "Oh, thanks! I'll deliver it to you tomorrow.",
+   "Oh, no problem. I'll leave it at your door, then.",
+   "Oh, you're welcome. Have a nice day!"
   ],
-  "ex": "感謝對方告知;質問很失禮。"
+  "ex": "感謝對方告知;送過去、說不客氣是鄰居的台詞。"
  },
  {
   "id": "d119",
@@ -1540,11 +1540,11 @@
   "line": "Is this a gift? We can wrap it for you.",
   "a": "That would be great, thanks.",
   "d": [
-   "Yes, wrap me.",
-   "It's a gift for wrap.",
-   "No need, I gift it."
+   "No, it's a gift from my boss.",
+   "Thanks, I'll wrap it up.",
+   "Sure, here's the receipt."
   ],
-  "ex": "That would be great 接受提議。"
+  "ex": "That would be great 接受包裝;包裝是店員做的,這也不是別人送的。"
  },
  {
   "id": "d120",
@@ -1553,11 +1553,11 @@
   "line": "Are you using this machine?",
   "a": "Almost done — just one more set.",
   "d": [
-   "Yes, I'm using it forever.",
-   "I use it every day at this time, so you can come back tomorrow.",
-   "This machine is good."
+   "Yes, I bought a new one last month.",
+   "Yes, I work out here three times a week.",
+   "Sure, I'll show you how."
   ],
-  "ex": "告訴對方快好了,讓他能等。"
+  "ex": "告訴對方快好了,讓他能等;其他沒回答是否正在用。"
  },
  {
   "id": "d121",
@@ -1566,11 +1566,11 @@
   "line": "Sorry, did I catch you at a bad time?",
   "a": "Actually, I'm about to go into a meeting. Can I call you back?",
   "d": [
-   "Yes, you catch me.",
-   "Bad time is now.",
-   "No, you didn't catch me. I am free, but I'm going into a meeting now."
+   "Actually, I caught it on TV last night. It was a really great show!",
+   "Not at all — thanks for calling me back so quickly, I appreciate it.",
+   "Actually, I just caught the train in time. Thanks so much for asking!"
   ],
-  "ex": "catch you at a bad time = 打擾到你;說明並約回電。"
+  "ex": "catch you at a bad time = 打擾到你;說明並約回電;catch 不是看節目或趕車。"
  },
  {
   "id": "d122",
@@ -1579,11 +1579,11 @@
   "line": "The plumber can come on Wednesday morning.",
   "a": "Perfect. I'll make sure someone's home.",
   "d": [
-   "Plumber is coming Wednesday?",
-   "Morning is no good, come at eleven p.m.",
-   "OK, I come Wednesday."
+   "Perfect. I'll be out of town all day Wednesday.",
+   "Perfect. I'll make sure to come over on Wednesday.",
+   "Perfect. How was the plumber this morning?"
   ],
-  "ex": "確認並安排有人在家。"
+  "ex": "確認並安排有人在家;不在家矛盾,上門是水電工的事。"
  },
  {
   "id": "d123",
@@ -1592,11 +1592,11 @@
   "line": "I got the job!",
   "a": "That's fantastic! When do you start?",
   "d": [
-   "Which job? I forgot.",
-   "Really? I don't believe.",
-   "Congratulation for you! I knew you can get it because you are smart."
+   "That's fantastic! How long have you worked there?",
+   "That's fantastic! When did you retire?",
+   "Oh no, I'm sorry. Are you OK?"
   ],
-  "ex": "恭喜並問何時開始;不相信聽起來很傷人。"
+  "ex": "恭喜並問何時開始;剛錄取不會問待多久,也不是壞消息或退休。"
  },
  {
   "id": "d124",
@@ -1605,11 +1605,11 @@
   "line": "Can I borrow your charger for a minute?",
   "a": "Sure, here you go.",
   "d": [
-   "Yes, you can lend.",
-   "Charger is mine.",
-   "No, buy your own."
+   "Sure, can I borrow yours?",
+   "Sure, I'll charge it.",
+   "Thanks, I'm fine."
   ],
-  "ex": "borrow 借入、lend 借出;here you go 遞東西。"
+  "ex": "borrow 借入;here you go 遞東西;其他把借的人搞反或誤解 charger。"
  },
  {
   "id": "d125",
@@ -1618,9 +1618,9 @@
   "line": "How would you like your steak?",
   "a": "Medium, please.",
   "d": [
-   "Yes, do it well.",
-   "Done is well.",
-   "I like steak very much."
+   "To go, please.",
+   "Cash, please.",
+   "Just one, thanks."
   ],
   "ex": "問熟度,答 rare/medium/well-done 之一。"
  },
@@ -1631,9 +1631,9 @@
   "line": "Unfortunately, we need to reschedule Thursday's meeting.",
   "a": "No problem. Would Friday morning work for you?",
   "d": [
-   "Why do you always reschedule?",
-   "OK, reschedule is fine for Thursday, see you on Thursday then.",
-   "Unfortunately, me too."
+   "No problem. I'll see you on Thursday as planned, then.",
+   "Sorry about that. Could we move Thursday's meeting instead?",
+   "Thanks for the update. Friday's meeting went really well, too."
   ],
   "ex": "接受並主動提新時間。"
  },
@@ -1644,9 +1644,9 @@
   "line": "FYI, the deadline moved to next Monday.",
   "a": "Thanks for the heads-up!",
   "d": [
-   "FYI too.",
-   "Monday is next.",
-   "Why didn't you tell me earlier?"
+   "No worries, take your time!",
+   "Congrats on the launch!",
+   "Sorry, I'll be late!"
   ],
   "ex": "heads-up = 事先提醒;FYI = 供你參考。"
  },
@@ -1657,9 +1657,9 @@
   "line": "Could you introduce me to someone on the legal team?",
   "a": "Sure — I'll cc you on an email to Grace.",
   "d": [
-   "I'll introduce legal to you.",
-   "Legal team is busy.",
-   "You can find them by yourself on the company website, it's easy."
+   "Sure — I'll ask Grace to introduce me to them.",
+   "Thanks — I'd love to meet someone from legal.",
+   "Sure — the legal team is on the third floor."
   ],
   "ex": "寫信給對方並副本(cc)給他,是常見引薦方式。"
  },
@@ -1670,9 +1670,9 @@
   "line": "Just a reminder that rent is due on the 5th.",
   "a": "Thanks, I'll transfer it tomorrow.",
   "d": [
-   "Remind is received.",
-   "Why remind me?",
-   "The 5th is due."
+   "Thanks, I'll pick up the keys on the 5th.",
+   "Thanks, I'll return it tomorrow.",
+   "Sure, the 5th works for me."
   ],
   "ex": "due = 到期;說明何時轉帳。"
  },
@@ -1683,11 +1683,11 @@
   "line": "Have you met our new manager yet?",
   "a": "Not yet. What's she like?",
   "d": [
-   "Yes, not yet.",
-   "I haven't meet her, but I heard she is very strict person.",
-   "Manager is new."
+   "Yes, I've worked here for years.",
+   "Not yet. I'll introduce you later.",
+   "Yes, she's starting next month."
   ],
-  "ex": "What's she like? 問人的個性;haven't 後接 met。"
+  "ex": "Not yet 承認還沒見過,再用 What's she like? 問個性;其他答非所問或時態矛盾。"
  },
  {
   "id": "d131",
@@ -1696,11 +1696,11 @@
   "line": "We can deliver it on Monday or Wednesday.",
   "a": "Wednesday would be better for me.",
   "d": [
-   "Wednesday is more better.",
-   "Deliver on Monday Wednesday both.",
-   "I deliver Wednesday."
+   "I'd prefer to pay by card, if that's OK.",
+   "Yes, it fits perfectly in my living room.",
+   "I bought it here last Wednesday, actually."
   ],
-  "ex": "better 本身已是比較級,不加 more。"
+  "ex": "對方給兩個送貨日,要選一天;其他是付款、尺寸或過去的事。"
  },
  {
   "id": "d132",
@@ -1709,11 +1709,11 @@
   "line": "I'm really nervous about my interview tomorrow.",
   "a": "You'll be fine. You've prepared a lot.",
   "d": [
-   "Why nervous? It's just an interview. I did many interviews before.",
-   "Me too nervous.",
-   "Interview is tomorrow."
+   "Thanks, I'm sure I'll do fine.",
+   "Congrats! When do you start?",
+   "How did it go? Did they like you?"
   ],
-  "ex": "給予鼓勵;輕描淡寫對方的緊張顯得不體貼。"
+  "ex": "朋友緊張要給鼓勵;其他像自己要面試、或當成已面試完。"
  },
  {
   "id": "d133",
@@ -1722,9 +1722,9 @@
   "line": "Let's touch base next week.",
   "a": "Sounds good. I'll set up a time.",
   "d": [
-   "Touch what base?",
-   "OK, we touch next week.",
-   "Base is good."
+   "Sounds good. How was your trip last week?",
+   "Thanks. I'll touch up the slides next week.",
+   "Sure. Did you enjoy the baseball game?"
   ],
   "ex": "touch base = 簡短聯繫、對一下進度。"
  },
@@ -1735,9 +1735,9 @@
   "line": "Do you have a minute?",
   "a": "Sure, what's up?",
   "d": [
-   "I have one minute only.",
-   "No.",
-   "Yes, a minute is short."
+   "It's almost three.",
+   "Not much, and you?",
+   "I'd love one, thanks."
   ],
   "ex": "Do you have a minute 是問方便聊嗎,不是真的一分鐘。"
  },
@@ -1748,9 +1748,9 @@
   "line": "You need exact change.",
   "a": "Oh, can I use my transit card instead?",
   "d": [
-   "Change me, please.",
-   "I have no exactly money, can you change for me one hundred dollars?",
-   "Exact is change."
+   "Oh, could you tell me when we get downtown?",
+   "Oh, no need — please keep the change, then.",
+   "Oh, do I need to get off at the next stop?"
   ],
   "ex": "exact change = 剛好的零錢,詢問能否用卡。"
  },
@@ -1761,9 +1761,9 @@
   "line": "Is there anything I can do to help?",
   "a": "Actually, yes — could you check these numbers for me?",
   "d": [
-   "You can do anything.",
-   "Help is there.",
-   "No, you can't help me, you're too slow."
+   "Actually, I'm happy to help — just send me the details.",
+   "Sure — what would you like me to help you with?",
+   "Yes, I helped them move the boxes yesterday."
   ],
   "ex": "接受幫忙並具體說要做什麼。"
  },
@@ -1774,9 +1774,9 @@
   "line": "Have you been taking the medicine regularly?",
   "a": "Mostly, but I missed a couple of doses.",
   "d": [
-   "I take medicine regular, every day two times, but sometimes I forget.",
-   "Yes, I've been taken.",
-   "Medicine is regular."
+   "Yes, I'll start taking it from tomorrow.",
+   "I usually take the bus, actually.",
+   "Twice a day, after meals, right?"
   ],
   "ex": "誠實說明,missed doses = 漏吃幾次。"
  },
@@ -1787,9 +1787,9 @@
   "line": "Sorry, I can't hear you — you're breaking up.",
   "a": "Let me call you back in a sec.",
   "d": [
-   "I'm not breaking up with you!",
-   "You can't hear me?",
-   "Speak louder, please, louder!"
+   "Oh no, how long were you two together?",
+   "Sure, I can hear you fine.",
+   "Sorry, I'll slow down a bit."
   ],
   "ex": "breaking up 在電話中指斷訊,不是分手。"
  },
@@ -1800,9 +1800,9 @@
   "line": "Sorry, could you remind me of your name?",
   "a": "Sure, it's Wei. We met at the training.",
   "d": [
-   "You forgot me? We met at the training only two weeks ago!",
-   "My name is remind.",
-   "Could you remind me yours?"
+   "Sure, I'll send you a reminder this afternoon.",
+   "No worries, I'll remember yours next time.",
+   "Sure, it was at the training."
   ],
   "ex": "大方再說一次並提示在哪見過。"
  },
@@ -1813,9 +1813,9 @@
   "line": "Would you like help with your bags?",
   "a": "That's OK, I can manage. Thanks.",
   "d": [
-   "Help my bags.",
-   "Bags are heavy, yes.",
-   "No, don't touch."
+   "Yes, a wake-up call at seven, please.",
+   "Sure, I can help you carry them up.",
+   "Thanks, the room is perfect. No complaints."
   ],
   "ex": "I can manage = 我自己來;婉拒要加謝謝。"
  },
@@ -1826,9 +1826,9 @@
   "line": "Can everyone see my screen?",
   "a": "Yes, it's showing fine.",
   "d": [
-   "I see you.",
-   "Screen is see.",
-   "Can you see mine?"
+   "Sorry, my camera's not working.",
+   "Yes, let me share it now.",
+   "Yes, I'll mute myself."
   ],
   "ex": "確認畫面有出來。"
  },
@@ -1839,9 +1839,9 @@
   "line": "We apologise for the delay in your shipment.",
   "a": "Thanks for letting me know. Do you have a new delivery date?",
   "d": [
-   "Apology accept.",
-   "Delay is your fault. If it happens again, I'll never order from you.",
-   "We also apologise."
+   "We apologise as well. We'll ship your order as soon as we can.",
+   "Thanks for letting me know. The shipment arrived on time.",
+   "Thanks. When should we expect your payment, then?"
   ],
   "ex": "感謝告知並追問新日期。"
  },
@@ -1852,11 +1852,11 @@
   "line": "Are you going to the team dinner on Friday?",
   "a": "I'm not sure yet. I'll let you know tomorrow.",
   "d": [
-   "Maybe yes maybe no.",
-   "I went to the team dinner last Friday, and the food was really good.",
-   "Team dinner is Friday."
+   "Yes, I went last Friday and the food was great.",
+   "Sure, I'll book the restaurant for the team now.",
+   "It's on Friday at seven, at the Italian place."
   ],
-  "ex": "未定時說明何時回覆;Maybe yes maybe no 是中式。"
+  "ex": "未定時說明何時回覆;其他是過去、訂位或回答時間地點。"
  },
  {
   "id": "d144",
@@ -1865,9 +1865,9 @@
   "line": "I think we should cut the marketing budget by half.",
   "a": "That's an interesting idea, but I'm worried it might hurt our Q3 numbers.",
   "d": [
-   "That's a stupid idea.",
-   "I am agree with you partly not, because Q3 numbers are very important for us.",
-   "Half is fifty percent."
+   "That's a great idea, and I think we should double the marketing budget for Q3 as well.",
+   "Thanks for asking, but I'm not sure who's in charge of the marketing budget this year.",
+   "Thanks, I'm glad you agree that we should cut the marketing budget by half."
   ],
   "ex": "先肯定再提出顧慮,是外交式反對的典型句型。"
  },
@@ -1878,9 +1878,9 @@
   "line": "Your price is about 15% higher than your competitor's.",
   "a": "I understand. Our price includes on-site support, though. Could we talk about volume?",
   "d": [
-   "Then buy from them.",
-   "Our price is higher because it's higher.",
-   "15% is not so much, just accept it."
+   "I understand. Our competitor's price is 15% higher than ours, so we're already very competitive.",
+   "I understand. Could you lower your price by 15% so that we can match your competitor's offer?",
+   "I understand. We'll pay the difference by the end of the month, if that's acceptable to you."
   ],
   "ex": "說明價值並轉向數量折扣,保住談判空間。"
  },
@@ -1891,9 +1891,9 @@
   "line": "I'd like you to take on the Singapore account as well.",
   "a": "I'd be happy to, but I'd need to hand off some of my current work. Can we discuss priorities?",
   "d": [
-   "No, I'm already too busy.",
-   "OK, I take everything.",
-   "Singapore is far away."
+   "That's great news. Congratulations on taking over the Singapore account — you'll do well there.",
+   "I'd be happy to, and I've already handed off the Singapore account to someone else.",
+   "Thanks, but I've never been to Singapore. Could you recommend a good hotel?"
   ],
   "ex": "答應但提出條件、討論優先順序,專業不吃虧。"
  },
@@ -1904,11 +1904,11 @@
   "line": "Front desk, how can I help you?",
   "a": "Hi, I'm afraid the air conditioning in my room isn't working.",
   "d": [
-   "Your air conditioner in my room is broken, send someone to fix it now!",
-   "Air con is no work.",
-   "I want to help you."
+   "Hi, this is the front desk. How can I help you?",
+   "Hi, I'm afraid I can't help you with that request.",
+   "Hi, I'm doing well, thanks. And how are you?"
   ],
-  "ex": "I'm afraid 讓投訴聽起來客氣;命令式太兇。"
+  "ex": "櫃檯問需要什麼,應說明問題;其他是櫃檯的台詞或當成問候。"
  },
  {
   "id": "d148",
@@ -1917,11 +1917,11 @@
   "line": "Do you think you could take a look at my slides before tomorrow?",
   "a": "Happy to. I've got some time after four, if that works.",
   "d": [
-   "I could, but I won't.",
-   "Yes, I think I could, but I'm not sure if I will have time or not.",
-   "Your slides are tomorrow."
+   "Happy to. I looked at them last week and they looked great.",
+   "Thanks, I'd appreciate it. I'll send you my slides tonight.",
+   "Happy to. I'm free next Friday afternoon, if that works for you."
   ],
-  "ex": "Happy to 爽快答應並給時段;Yes, I think I could 沒給下文。"
+  "ex": "Happy to 爽快答應並給明天前的時段;其他時間錯或角色反了。"
  },
  {
   "id": "d149",
@@ -1930,11 +1930,11 @@
   "line": "Why wasn't this flagged earlier?",
   "a": "That's fair. I noticed it on Tuesday but underestimated the impact.",
   "d": [
-   "It's not my fault.",
-   "Because nobody asked me about it, so I thought it was not my job.",
-   "Earlier was flagged."
+   "That's fair. Let me know if you notice anything else.",
+   "Sure, I'll put a flag on the message right away.",
+   "Because it's going to be fixed by Tuesday at the latest."
   ],
-  "ex": "承認判斷失誤比推卸責任專業;flag = 提出警示。"
+  "ex": "主管問為何沒早回報,應承認判斷失誤;flag = 提出警示。"
  },
  {
   "id": "d150",
@@ -1943,9 +1943,9 @@
   "line": "We need the delivery two weeks earlier.",
   "a": "Let me check with production. Would a partial shipment help in the meantime?",
   "d": [
-   "Impossible.",
-   "Two weeks earlier is when?",
-   "You should have told us that before."
+   "Let me check with production. Would two weeks later work better for you instead?",
+   "Thanks for the early delivery — we'll let production know it arrived two weeks ahead.",
+   "Let me check. Could you send us the order two weeks earlier, then?"
   ],
   "ex": "不直接拒絕,先查再提替代方案(分批出貨)。"
  },
@@ -1956,9 +1956,9 @@
   "line": "What would you say is your biggest weakness?",
   "a": "I tend to take on too much myself, so I've been working on delegating earlier.",
   "d": [
-   "I have no weakness.",
-   "My weakness is weak.",
-   "I'm lazy and often late."
+   "I'd say my biggest strength is that I'm very good at delegating work.",
+   "I think the biggest weakness of your product is the price point.",
+   "I've been working here for about five years, mostly on backend systems."
   ],
   "ex": "誠實說缺點並說明如何改善,是面試標準答法。"
  },
@@ -1969,9 +1969,9 @@
   "line": "I'm swamped — is there any chance we could push back the review?",
   "a": "Sure, how about Thursday instead?",
   "d": [
-   "No chance.",
-   "Push back what?",
-   "Swamped is busy? I don't understand swamped."
+   "Sure, I'll push it to the repo.",
+   "Sure, let's do it right now.",
+   "Thanks, I'm free all week."
   ],
   "ex": "swamped = 忙翻;push back = 延後。"
  },
@@ -1982,9 +1982,9 @@
   "line": "I'm so sorry, the kitchen made a mistake with your order.",
   "a": "These things happen. How long will the new one take?",
   "d": [
-   "You always make mistakes.",
-   "It's OK, mistakes are normal for you, I know this kitchen is always slow.",
-   "I'm sorry too."
+   "No problem. I'll make sure the kitchen fixes it right away.",
+   "Oh, I'm sorry. I should have ordered earlier.",
+   "Great, thanks. It tastes really good."
   ],
   "ex": "These things happen 表示體諒,再問等待時間。"
  },
@@ -1995,11 +1995,11 @@
   "line": "Would you mind keeping the music down after ten? My baby's sleeping.",
   "a": "Oh, I'm sorry — I had no idea. I'll keep it down.",
   "d": [
-   "It's my apartment, so I can listen to music any time I want.",
-   "Yes, I mind.",
-   "After ten I keep it."
+   "Oh, congratulations! Is it a boy or a girl? When's it due?",
+   "Oh, I'm sorry — is the baby feeling any better now?",
+   "Sure, I'll keep it down until ten, then."
   ],
-  "ex": "致歉並配合;強調是自己家會引起衝突。"
+  "ex": "鄰居請你十點後小聲,應致歉配合;其他誤解寶寶或時間。"
  },
  {
   "id": "d155",
@@ -2008,9 +2008,9 @@
   "line": "So are we all agreed on the timeline?",
   "a": "Mostly, but I'd like to revisit the testing phase — it looks tight.",
   "d": [
-   "Agreed is all.",
-   "No, I never agree.",
-   "Yes, we all are agreed totally."
+   "Mostly, but I'd like to revisit the testing phase — it went well last time.",
+   "Thanks for agreeing. I'll update the timeline and send it out tonight.",
+   "Sure, I'll send everyone a calendar invite for the next meeting."
   ],
   "ex": "Mostly, but… 部分同意並提出要再討論的點。"
  },
@@ -2021,9 +2021,9 @@
   "line": "We were disappointed with the quality of the last batch.",
   "a": "I'm sorry to hear that. Could you send photos of the issue so we can investigate?",
   "d": [
-   "Our quality is always good.",
-   "Disappointed? Why?",
-   "Sorry for your disappointing."
+   "I'm glad to hear that. Could you send photos so we can share them with our team?",
+   "I'm sorry to hear that. Could you send us a replacement batch by the end of next week?",
+   "Thank you for your feedback. We're very happy with the quality of the last batch too."
   ],
   "ex": "先致歉再要具體資料,展現處理誠意。"
  },
@@ -2034,9 +2034,9 @@
   "line": "I won't be able to make the deadline. Can we talk?",
   "a": "Thanks for flagging it early. I'm free at 2 — let's figure out a plan.",
   "d": [
-   "Why not? You had two weeks.",
-   "OK, deadline is cancelled.",
-   "I can't make it too."
+   "Thanks for letting me know. Good luck meeting the deadline!",
+   "Sure. Sorry I couldn't make the deadline — can we talk at 2?",
+   "Great job finishing early! Let's talk about the next project."
   ],
   "ex": "肯定對方提早告知,再約時間解決。"
  },
@@ -2047,11 +2047,11 @@
   "line": "Hey, did you get a chance to look at my PR?",
   "a": "Not yet, sorry — it's next on my list.",
   "d": [
-   "Chance is yes.",
-   "I looked at your PR maybe.",
-   "Stop asking me about it, I'm busy."
+   "Yes, I'll send you mine tonight.",
+   "Not yet. Did you get a chance?",
+   "Sure, I'll add you as a reviewer."
   ],
-  "ex": "next on my list = 下一個就處理;不耐煩回應傷關係。"
+  "ex": "next on my list = 下一個就處理;其他角色反了或沒回答。"
  },
  {
   "id": "d159",
@@ -2060,9 +2060,9 @@
   "line": "That's our final offer.",
   "a": "I appreciate that. Let me take it back to my team and get back to you tomorrow.",
   "d": [
-   "Final offer is final.",
-   "OK, I accept final, but give me more.",
-   "Fine, then we're done here, goodbye."
+   "I appreciate that. Could you send us your first offer in writing by tomorrow?",
+   "Thanks. Let me take it back to my team — we'll send you our final offer tomorrow.",
+   "I appreciate that. Let me know if you'd like to make another offer next week, then."
   ],
   "ex": "不當場決定,帶回討論,保留空間。"
  },
@@ -2073,9 +2073,9 @@
   "line": "Your blood pressure is a little high.",
   "a": "Is that something I should be worried about?",
   "d": [
-   "My blood is high?",
-   "No, it's not.",
-   "A little high is OK for me, because my father also has high blood pressure."
+   "Great, so I can stop taking the medicine, then?",
+   "Thanks. Should I roll up my sleeve for you, then?",
+   "Thanks, I'll come back for the results next week."
   ],
   "ex": "詢問是否需擔心,是自然的追問。"
  },
@@ -2086,9 +2086,9 @@
   "line": "Did you hear they're restructuring the department?",
   "a": "I've heard rumours, but nothing official yet.",
   "d": [
-   "Yes, I heard restructure.",
-   "They are restructuring me and my team, I'm very worried about my job.",
-   "Department is big."
+   "No, I didn't hear anything — could you speak up a bit?",
+   "Yes, I'm the one who announced it this morning.",
+   "Yes, they finished it last year."
   ],
   "ex": "rumours = 傳聞;謹慎回應不散播。"
  },
@@ -2099,9 +2099,9 @@
   "line": "I've been on hold for twenty minutes!",
   "a": "I'm really sorry about the wait. Let me sort this out for you now.",
   "d": [
-   "Everyone waits twenty minutes.",
-   "Hold is normal.",
-   "Sorry, I was having my lunch. Everybody needs to eat lunch, right?"
+   "I'm really sorry, but I've been on hold too. Could you transfer me to a manager?",
+   "No problem — I'm happy to wait. Please take as long as you need to.",
+   "Thanks for calling. Our office hours are from nine to five, Monday to Friday."
   ],
   "ex": "先道歉再承諾處理;sort out = 解決。"
  },
@@ -2112,9 +2112,9 @@
   "line": "I need this by tomorrow morning.",
   "a": "I can get you a first draft by then, but the full analysis will take until Thursday.",
   "d": [
-   "Tomorrow morning is no.",
-   "Yes, I need it too.",
-   "I'll try, but no promise, maybe."
+   "I can get you a first draft by Thursday, but the full analysis will take until next month.",
+   "Sure. Could you send me your report by tomorrow morning so I can review it?",
+   "I can't make it tomorrow morning, but I'm free for a meeting in the afternoon."
   ],
   "ex": "給出可行的部分交付並說明完整時程。"
  },
@@ -2125,9 +2125,9 @@
   "line": "I really don't think this approach will work.",
   "a": "What makes you say that?",
   "d": [
-   "You never think anything works.",
-   "Approach is working.",
-   "OK, I don't think too, so it won't work."
+   "What makes you so sure it will?",
+   "Thanks, I'm glad you like it.",
+   "How long have you worked on it?"
   ],
   "ex": "開放提問了解疑慮,不急著辯護。"
  },
@@ -2138,9 +2138,9 @@
   "line": "Do you fancy going to that new Thai place?",
   "a": "I'd be up for that. Is Saturday any good?",
   "d": [
-   "I fancy you.",
-   "Thai is far.",
-   "Fancy is expensive? I don't want to go to a fancy restaurant."
+   "I'd be up for that. How was the food when you went?",
+   "No, I've never been to Thailand.",
+   "Sure, I'll wear something fancy."
   ],
   "ex": "fancy = 想要(英式);be up for = 有興趣。"
  },
@@ -2151,9 +2151,9 @@
   "line": "I'm afraid this flight is overbooked. Would you be willing to take a later flight?",
   "a": "That depends. What kind of compensation are you offering?",
   "d": [
-   "Overbooked is your problem.",
-   "I'm afraid too.",
-   "Yes, I'm willing to be late flight, but you must give me business class."
+   "That depends. Would you be willing to take a later flight?",
+   "I'm sorry to hear that. How many seats are still left?",
+   "That depends. Could I get a window seat on this flight, then?"
   ],
   "ex": "超賣時先問補償再決定,合理且禮貌。"
  },
@@ -2164,9 +2164,9 @@
   "line": "Could you elaborate on that point?",
   "a": "Sure. What I mean is that the costs will shift to the customer, not disappear.",
   "d": [
-   "I elaborated already.",
-   "That point is elaborate.",
-   "Yes, I could."
+   "Sure. Could you elaborate on yours first, so I understand where you're coming from?",
+   "Sure. The elevator is at the end of the hall, next to the meeting room.",
+   "Thanks. I'm glad the point about costs was clear to everyone."
   ],
   "ex": "elaborate = 詳細說明;What I mean is 換句話說。"
  },
@@ -2177,11 +2177,11 @@
   "line": "How do you feel about relocating to the Kaohsiung office?",
   "a": "It's an interesting opportunity. Could I have a few days to talk it over with my family?",
   "d": [
-   "I feel relocation.",
-   "Kaohsiung is too hot for me and my family, so absolutely no way.",
-   "I feel good, thanks."
+   "I feel great, thanks. I just got back from a holiday in Kaohsiung with my family.",
+   "It's an interesting opportunity. How long have you been working at the Kaohsiung office yourself?",
+   "It's an interesting opportunity. I relocated there last year, so I know the office quite well."
   ],
-  "ex": "重大決定先爭取考慮時間;I feel good 答非所問。"
+  "ex": "重大決定先爭取考慮時間;I feel great 誤解成問近況。"
  },
  {
   "id": "d169",
@@ -2190,9 +2190,9 @@
   "line": "Would you be open to co-presenting at the conference?",
   "a": "Definitely — I'd enjoy that. When's the submission deadline?",
   "d": [
-   "I am open.",
-   "Co-present what?",
-   "Conference is opening."
+   "Definitely — I'd enjoy that. Who's presenting at the conference with you?",
+   "Thanks for the invite. Is the conference open to the public this year?",
+   "Sure — could you send me your slides after the talk?"
   ],
   "ex": "be open to = 願意考慮;答應並問期限。"
  },
@@ -2203,9 +2203,9 @@
   "line": "I'm going to have to raise the rent next year.",
   "a": "I see. Could you tell me by how much? I'd like to plan ahead.",
   "d": [
-   "Raise is high.",
-   "You're greedy. The apartment is old and the rent is already too high.",
-   "Next year I raise too."
+   "I see. Could you tell me how much I owe you for this month's rent?",
+   "That's great news. Thanks for lowering it — I'll plan ahead.",
+   "I see. Could you fix the heater before the end of the year?"
   ],
   "ex": "冷靜詢問漲幅以便規劃。"
  },
@@ -2216,9 +2216,9 @@
   "line": "We'd like to invite you for a second interview.",
   "a": "Thank you — I'd be delighted. I'm available any time Wednesday or Thursday.",
   "d": [
-   "OK, invite me.",
-   "Second is better than first.",
-   "Why not just hire me directly?"
+   "Thank you for interviewing with us. We'll be in touch by Wednesday.",
+   "Thanks for letting me know. I'm sorry the position has been filled.",
+   "Thank you — sorry I missed the first one. Could we reschedule it?"
   ],
   "ex": "道謝並主動提供可行時段。"
  },
@@ -2229,11 +2229,11 @@
   "line": "This item is non-refundable, but we can offer store credit.",
   "a": "I see. In that case, store credit is fine.",
   "d": [
-   "Non-refundable is illegal!",
-   "Store credit is what kind of card? I only want my money back in cash.",
-   "OK, refund me."
+   "OK. Could I get a cash refund, then?",
+   "Great, could you refund it to my card?",
+   "Thanks, I'll pay by credit card instead."
   ],
-  "ex": "store credit = 店內抵用金;OK, refund me 與對方說法矛盾。"
+  "ex": "store credit = 店內抵用金;不能退款就別再要退款。"
  },
  {
   "id": "d173",
@@ -2242,9 +2242,9 @@
   "line": "Sorry, I think you're on mute.",
   "a": "Oops — can you hear me now?",
   "d": [
-   "I'm on mute.",
-   "You're on mute too.",
-   "Mute is what?"
+   "Thanks — can you unmute yourself?",
+   "Sorry, my camera is off.",
+   "Oops — can you see me now?"
   ],
   "ex": "解除靜音後確認對方聽得到。"
  },
@@ -2255,9 +2255,9 @@
   "line": "Your proposal is a bit too long. Could you tighten it up?",
   "a": "Sure. Would a one-page summary with an appendix work?",
   "d": [
-   "It's long because it's important. I can't remove anything from it.",
-   "Tighten is how?",
-   "OK, I make it tight."
+   "Sure. Would a longer version with more detail work?",
+   "Thanks, I'm glad you liked the length of it.",
+   "Sure. Could you send me your proposal so I can review it today?"
   ],
   "ex": "tighten up = 精簡;提出具體改法。"
  },
@@ -2268,9 +2268,9 @@
   "line": "I'm really sorry I snapped at you yesterday.",
   "a": "It's OK. I know you've been under a lot of pressure.",
   "d": [
-   "Snap is OK, I don't know what snap means but no problem for me.",
-   "Yes, you were very rude.",
-   "Yesterday snapped."
+   "Sorry, I didn't mean to snap at you yesterday.",
+   "It's OK. Did you get some good photos?",
+   "Thanks, I had a really great time yesterday too."
   ],
   "ex": "snap at = 對人發脾氣;表示理解對方壓力。"
  },
@@ -2281,9 +2281,9 @@
   "line": "Is there any flexibility on the payment terms?",
   "a": "We could consider 60 days instead of 30 for orders above 500 units.",
   "d": [
-   "Flexibility is yes.",
-   "No. Pay now.",
-   "Payment is terms."
+   "Yes, our system is flexible — we accept all major cards.",
+   "Could you pay within 30 days instead of 60 for larger orders?",
+   "We'd need the delivery by the end of next month at the latest."
   ],
   "ex": "有條件讓步是談判常見做法。"
  },
@@ -2294,9 +2294,9 @@
   "line": "Can I run something by you?",
   "a": "Of course, go ahead.",
   "d": [
-   "Run where?",
-   "Run by me fast, because I have only one minute for you today.",
-   "Not now. Never."
+   "Sure, the gym's downstairs.",
+   "Thanks, I'd love your input.",
+   "Sure, I'll run it for you."
   ],
   "ex": "run something by someone = 請人聽聽看意見。"
  },
@@ -2307,9 +2307,9 @@
   "line": "Can you loop in Daniel on this thread?",
   "a": "Done — just added him.",
   "d": [
-   "Loop is done.",
-   "Daniel loop in?",
-   "Why Daniel? He's useless."
+   "Done — just removed him.",
+   "Thanks for adding me.",
+   "Sure, I'll read it."
   ],
   "ex": "loop in = 拉人進來討論。"
  },
@@ -2320,9 +2320,9 @@
   "line": "I'd like to propose that we meet weekly instead of monthly.",
   "a": "I can see the benefit, though maybe every two weeks would be a good compromise?",
   "d": [
-   "Weekly is too much, no.",
-   "I propose monthly weekly.",
-   "Yes, I'd like to propose too."
+   "I can see the benefit, though maybe every two months would be a good compromise?",
+   "I agree with you, so let's keep meeting monthly as we always have.",
+   "Thanks for supporting my proposal to meet weekly — I'll send invites."
   ],
   "ex": "肯定好處再提折衷方案(compromise)。"
  },
@@ -2333,9 +2333,9 @@
   "line": "Unfortunately, your warranty expired last month.",
   "a": "That's a pity. Is there a paid repair option?",
   "d": [
-   "Expired is OK for me.",
-   "Warranty is your fault, you should tell me before it expired.",
-   "Last month is too far."
+   "That's great. Can I get a free replacement, then?",
+   "That's a pity. When did you buy the item?",
+   "That's a pity. Is it still under warranty, then?"
   ],
   "ex": "接受事實並詢問付費維修。"
  },
@@ -2346,9 +2346,9 @@
   "line": "I've got a lot on my plate this week.",
   "a": "Want me to take the vendor calls off your hands?",
   "d": [
-   "Eat slower, then your plate will be empty soon.",
-   "So what? Everybody is busy this week, not only you.",
-   "That's your problem."
+   "Want me to send you a few more tasks this week?",
+   "That's great — it sounds like you've had a pretty quiet week.",
+   "Want me to order you some lunch? You must be hungry."
   ],
   "ex": "a lot on my plate = 事情很多;off your hands = 替你分擔。"
  },
@@ -2359,9 +2359,9 @@
   "line": "I'd recommend some blood tests to rule out anything serious.",
   "a": "Sure. Do I need to fast beforehand?",
   "d": [
-   "Rule out is what? I don't understand, I think I'm not serious sick.",
-   "I'm not serious.",
-   "Recommend is good."
+   "Great, so it's nothing serious?",
+   "Thanks. When did you get yours?",
+   "OK. How serious is it, then?"
   ],
   "ex": "rule out = 排除;fast 在此為空腹禁食。"
  },
@@ -2372,9 +2372,9 @@
   "line": "Can you summarise the key takeaways from yesterday's workshop?",
   "a": "Sure — I'll send a short summary by noon.",
   "d": [
-   "Takeaways are food.",
-   "The workshop was yesterday.",
-   "Key takeaways: many, many. I can't remember all of them, sorry."
+   "Sure — I'll order takeaways for everyone by noon.",
+   "Thanks — could you send me your summary by noon?",
+   "Sure — it was a really great workshop."
   ],
   "ex": "takeaways = 重點收穫,不是外帶食物。"
  },
@@ -2385,9 +2385,9 @@
   "line": "We're thinking of pivoting to a subscription model.",
   "a": "Interesting. Have we tested whether customers would pay monthly?",
   "d": [
-   "Pivot is turning.",
-   "Subscription is good, everyone does it, just do it.",
-   "We are thinking too."
+   "Interesting. How long have customers been paying us monthly, then?",
+   "Interesting. Should we stop the subscription and switch to one-time sales?",
+   "Interesting. Have you tested pivot tables in Excel for the sales data?"
   ],
   "ex": "pivot = 轉型;提出驗證問題是建設性回應。"
  },
@@ -2398,9 +2398,9 @@
   "line": "We have no record of your booking, I'm afraid.",
   "a": "That's odd — I have a confirmation email. Could you check under my company name?",
   "d": [
-   "You lost it, it's your fault!",
-   "No record is no booking.",
-   "I'm afraid too."
+   "That's great — so I can check in right away, then? Could I get a room on a high floor?",
+   "I'm afraid we have no record of your booking either. Could you check under your name?",
+   "That's odd — I cancelled it last week. Could you charge the cancellation fee to my card?"
   ],
   "ex": "冷靜提供證據並請對方換方式查。"
  },
@@ -2411,9 +2411,9 @@
   "line": "No offence, but your code is hard to read.",
   "a": "None taken. Any suggestions on what to change first?",
   "d": [
-   "I'm offended.",
-   "Your code is harder to read than mine, so you shouldn't say that.",
-   "Offence is taken."
+   "No offence taken. Any suggestions on what to read first?",
+   "None taken. Could you help me make your code easier to read?",
+   "Thanks! I worked really hard on making it clear."
   ],
   "ex": "None taken 是 No offence 的標準回應。"
  },
@@ -2424,11 +2424,11 @@
   "line": "Do you know if the water will be off tomorrow?",
   "a": "I think it's just from 9 to noon — there's a notice in the lobby.",
   "d": [
-   "The water was off yesterday.",
-   "Building is water.",
-   "Ask the guard, not me. I'm not the building manager, you know."
+   "I think the water bill is due tomorrow — there's a notice in the lobby.",
+   "It was off yesterday from 9 to noon — there was a notice in the lobby.",
+   "Yes, I usually turn it off when I leave for work in the morning."
   ],
-  "ex": "提供資訊與來源;叫對方去問別人不友善。"
+  "ex": "鄰居問明天停水,給時段與資訊來源;其他誤解或時態錯。"
  },
  {
   "id": "d188",
@@ -2437,9 +2437,9 @@
   "line": "Could you hold the line for a moment?",
   "a": "Sure, no problem.",
   "d": [
-   "Hold what?",
-   "I hold you.",
-   "No, I'm in a hurry, quickly, quickly."
+   "Sure, hold on.",
+   "Yes, it's me.",
+   "Bye, thanks!"
   ],
   "ex": "hold the line = 電話別掛,稍等。"
  },
@@ -2450,9 +2450,9 @@
   "line": "I've decided to give the project to Anna.",
   "a": "I understand. Could I ask what I could do differently next time?",
   "d": [
-   "That's unfair!",
-   "Anna is not good enough for it. I have more experience than her.",
-   "OK, give Anna."
+   "Thanks! I'll do my best to make the project a success.",
+   "Congratulations, Anna! You really deserve this one.",
+   "I see. How long has Anna been with the company?"
   ],
   "ex": "接受決定並請教改進,展現成熟。"
  },
@@ -2463,9 +2463,9 @@
   "line": "Would you like to come to my wedding in Kyoto? I know it's far.",
   "a": "I'd be honoured. Let me check flights and confirm by the end of the month.",
   "d": [
-   "Kyoto is far, so no.",
-   "Wedding is far.",
-   "Yes, I'd love, I come."
+   "I'd be honoured. Could you send me a few photos of the ceremony afterwards?",
+   "Congratulations! How was the wedding? I heard Kyoto is beautiful this time of year.",
+   "Thank you so much for coming all this way. It means a lot to both of us."
   ],
   "ex": "表達榮幸並給確認時間。"
  },
@@ -2476,9 +2476,9 @@
   "line": "Just following up on my email from last week.",
   "a": "Apologies for the slow reply — I'll have an answer for you by tomorrow.",
   "d": [
-   "I received it last week.",
-   "Follow up is received.",
-   "I was busy, don't push me."
+   "Thanks for following up. I'll forward my email from last week again.",
+   "No worries — I haven't had a chance to read your reply yet.",
+   "Thanks for the reminder — I'll follow up with you next month."
   ],
   "ex": "致歉並承諾回覆時間。"
  },
@@ -2489,9 +2489,9 @@
   "line": "Can we park that for now and come back to it?",
   "a": "Sure, let's add it to next week's agenda.",
   "d": [
-   "Park where?",
-   "No, we discuss it now, because if we park it, everyone will forget.",
-   "Come back is OK."
+   "Sure, I'll find a parking spot near the office.",
+   "Sure, let's discuss it in detail right now, then.",
+   "Thanks for coming back. Where did we leave off?"
   ],
   "ex": "park = 先擱置;放入下次議程。"
  },
@@ -2502,9 +2502,9 @@
   "line": "We can't do a refund without the original packaging.",
   "a": "I understand. Would it be possible to speak to a manager?",
   "d": [
-   "That's a stupid policy. No other shop asks for the original packaging.",
-   "Packaging is not have.",
-   "I don't need packaging."
+   "I understand. Could you tell me how long the refund usually takes?",
+   "I understand. Could you put it back in the original box?",
+   "Great, so I'll get the refund back on my card today?"
   ],
   "ex": "有禮地要求找主管,而非攻擊政策。"
  },
@@ -2515,9 +2515,9 @@
   "line": "I owe you one for covering my shift.",
   "a": "Don't mention it. You'd do the same for me.",
   "d": [
-   "Yes, you owe me one hundred dollars. Pay me back tomorrow, OK?",
-   "One what?",
-   "Covering is easy."
+   "Don't mention it. I hope you enjoy your first shift here.",
+   "No problem. How much do I owe you for it?",
+   "Sorry, I can't make it. Maybe next time?"
   ],
   "ex": "I owe you one = 欠你一次;Don't mention it 別客氣。"
  },
@@ -2528,9 +2528,9 @@
   "line": "Ugh, my flight got cancelled.",
   "a": "Oh no! Have they rebooked you?",
   "d": [
-   "Cancelled is good.",
-   "My flight is OK.",
-   "You should buy a better airline."
+   "Oh no! Did you get there OK?",
+   "Nice! Where are you flying?",
+   "Oh no! Was the food bad?"
   ],
   "ex": "表達同情並問後續;rebook = 改訂。"
  },
@@ -2541,9 +2541,9 @@
   "line": "We're considering other vendors.",
   "a": "I understand. Is there anything specific we could improve to keep your business?",
   "d": [
-   "Go ahead, we don't care.",
-   "Other vendors are worse.",
-   "Considering is thinking."
+   "I understand. Which other customers are you considering working with instead of us?",
+   "Thank you. We're also considering other vendors, so let's compare our options together.",
+   "That's great news. When would you like to sign the contract with us, then?"
   ],
   "ex": "詢問改善點以留住客戶。"
  },
@@ -2554,9 +2554,9 @@
   "line": "Can you walk me through the numbers?",
   "a": "Sure. Let's start with revenue.",
   "d": [
-   "Walk where?",
-   "The numbers are on page 3, read it.",
-   "I walk you."
+   "Sure. Let me walk you to the elevator.",
+   "Sure. Could you send me your numbers?",
+   "Sure. The total was higher last year."
   ],
   "ex": "walk someone through = 帶人逐步說明。"
  },
@@ -2567,9 +2567,9 @@
   "line": "I'm thinking of applying for the team lead role. Thoughts?",
   "a": "Go for it — you'd be great. Want me to look over your application?",
   "d": [
-   "Team lead is hard, forget it.",
-   "I thought about it.",
-   "Thoughts are many."
+   "Thanks — I'm applying too. Want to compare notes?",
+   "Congratulations on getting the role! When do you start?",
+   "I'd say the team is great, and the office is in a nice area."
   ],
   "ex": "Go for it = 放手去做;主動提供協助。"
  },
@@ -2580,9 +2580,9 @@
   "line": "Frankly, I'm not convinced the numbers add up.",
   "a": "That's a fair challenge. Let me walk you through the assumptions.",
   "d": [
-   "The numbers add up to 100.",
-   "You don't understand finance, so maybe you should ask the accounting team.",
-   "Frankly, me neither, but let's go ahead anyway."
+   "That's a fair challenge. Could you walk me through your numbers first, then?",
+   "Thanks, I'm glad you're convinced. Let's move on to the next item, then.",
+   "That's fair. Could you add them up again with a calculator?"
   ],
   "ex": "add up = 說得通;接受質疑並解釋假設。"
  },
@@ -2593,9 +2593,9 @@
   "line": "Between you and me, I think the merger's going to fall through.",
   "a": "Really? What makes you think so?",
   "d": [
-   "Between you and me is a secret.",
-   "Interesting, I'll tell everyone in the team so they can be ready.",
-   "The merger fell."
+   "Great news! When does it close?",
+   "When was it announced, then?",
+   "Really? Which team are you on?"
   ],
   "ex": "fall through = 告吹;between you and me = 私下說。"
  },
@@ -2606,9 +2606,9 @@
   "line": "I'll level with you — the budget's been slashed.",
   "a": "I appreciate you being upfront. Which projects are most affected?",
   "d": [
-   "Level with me what?",
-   "Slash is cutting?",
-   "Then I quit. I can't work on a project without enough money."
+   "I appreciate the good news. Which projects will get the extra budget?",
+   "Thanks for being upfront. Could you tell me how much budget you need?",
+   "I see. Could you tell me when the budget was approved?"
   ],
   "ex": "level with = 坦白;upfront = 直接坦率。"
  },
@@ -2619,9 +2619,9 @@
   "line": "We'd like to explore a longer-term partnership, provided the pilot goes well.",
   "a": "That sounds promising. Shall we agree upfront on what 'going well' looks like?",
   "d": [
-   "Provided is given.",
-   "The pilot will definitely be perfect, sign now.",
-   "Long term is long."
+   "Thanks for agreeing to the partnership. We'll send the long-term contract today.",
+   "That sounds promising. When did the pilot finish, and how did it go?",
+   "That sounds promising. Should we skip the pilot and sign today, then?"
   ],
   "ex": "provided = 前提是;先定義成功標準很專業。"
  },
@@ -2632,9 +2632,9 @@
   "line": "I hate to be the bearer of bad news, but the client pulled out.",
   "a": "Ah, that's a blow. Did they give a reason?",
   "d": [
-   "Bear the news.",
-   "Why do you always bring bad news? Can't you tell me something good?",
-   "The client pulled."
+   "Ah, that's great news. When do they start with us?",
+   "Ah, that's a blow. When are they joining the project?",
+   "Don't worry, I'll tell the client the bad news myself."
   ],
   "ex": "pull out = 退出;a blow = 打擊。"
  },
@@ -2645,9 +2645,9 @@
   "line": "We're not in a position to commit to those volumes at this stage.",
   "a": "Understood. Would a smaller initial commitment with an option to scale work for you?",
   "d": [
-   "Then why are we even talking?",
-   "Your position is bad.",
-   "Commit at next stage, please."
+   "Understood. Would a larger initial commitment with a longer contract work better for you?",
+   "Thanks for committing to those volumes. We'll send the contract over to you this afternoon.",
+   "Great. Could you send over the signed order for those volumes by the end of the week?"
   ],
   "ex": "提出較小起始量加擴充選項,讓談判續行。"
  },
@@ -2658,9 +2658,9 @@
   "line": "Let's not reinvent the wheel here.",
   "a": "Agreed — we can adapt last year's framework.",
   "d": [
-   "The wheel is round.",
-   "I don't reinvent anything, I only use what the company gives me.",
-   "Let's invent a new wheel."
+   "Agreed — let's design a brand-new framework from scratch.",
+   "Sure, I'll ask about a spare wheel.",
+   "Thanks — I didn't invent it, though."
   ],
   "ex": "reinvent the wheel = 重新發明輪子、白費功夫。"
  },
@@ -2671,9 +2671,9 @@
   "line": "With all due respect, that's not what the data shows.",
   "a": "Fair point — I may have oversimplified. Let me pull up the figures.",
   "d": [
-   "Respect is due.",
-   "Don't disrespect me.",
-   "The data shows what I said. Maybe you are reading the wrong chart."
+   "Good to hear the data supports it. Let's go ahead with the plan, then.",
+   "Thank you for your respect. I'm glad we agree on the data.",
+   "Fair point — the data shows exactly what I said, so let's move on."
   ],
   "ex": "With all due respect 是禮貌的反對;以數據回應。"
  },
@@ -2684,9 +2684,9 @@
   "line": "I'm afraid we'll have to put the project on hold pending budget approval.",
   "a": "Understood. Please keep us posted, and let us know if we can prepare anything in the meantime.",
   "d": [
-   "Hold is pending.",
-   "This is unacceptable, you promised.",
-   "Pending is approved."
+   "Understood. Please let us know when the budget is approved so we can put it on hold.",
+   "Great news — thanks for approving the budget. We'll start on the project next week.",
+   "Understood. Please hold the line, and let us know if we can prepare anything for you."
   ],
   "ex": "pending = 等待…期間;keep us posted = 隨時告知。"
  },
@@ -2697,9 +2697,9 @@
   "line": "He's a bit of a loose cannon, isn't he?",
   "a": "He can be unpredictable, but his ideas are often good.",
   "d": [
-   "He's a cannon?",
-   "Yes, he is loose.",
-   "I'll tell him you said that, because I think he should know."
+   "He's predictable — you always know what he'll do.",
+   "Yes, his shirts are always a bit loose.",
+   "Yes, I'm sure he'll be on time, as always."
   ],
   "ex": "loose cannon = 難以預測的人;平衡回應不落井下石。"
  },
@@ -2710,9 +2710,9 @@
   "line": "I'm going to play devil's advocate for a second.",
   "a": "Go ahead — it's useful to stress-test the plan.",
   "d": [
-   "The devil is bad.",
-   "Don't be the devil, please. We need positive people in this team.",
-   "Advocate for me."
+   "Thanks — I'm glad you agree with the plan, then.",
+   "Sure — which lawyer should we call?",
+   "Go ahead — I'll be back in a second."
   ],
   "ex": "play devil's advocate = 故意唱反調來檢驗想法。"
  },
@@ -2723,9 +2723,9 @@
   "line": "That ship has sailed, I'm afraid.",
   "a": "Fair enough. Let's focus on what we can still influence.",
   "d": [
-   "Which ship?",
-   "Let's sail it again — we can still try to catch the ship tomorrow.",
-   "I'm afraid of ships."
+   "Fair enough. How long was the cruise, and where did it stop?",
+   "Fair enough. Let's apply for it before the deadline.",
+   "Sorry, I'm afraid I can't make it to the meeting."
   ],
   "ex": "that ship has sailed = 時機已過。"
  },
@@ -2736,9 +2736,9 @@
   "line": "To be honest, we've had our fingers burned with outsourcing before.",
   "a": "That's understandable. What went wrong last time, if you don't mind me asking?",
   "d": [
-   "Burned fingers hurt.",
-   "We are different, trust us 100%.",
-   "Honest is good."
+   "That's great to hear. How many projects have you outsourced successfully?",
+   "That's understandable. Would you like to outsource the whole project to us?",
+   "Sorry to hear that. Have you seen a doctor about the burn?"
   ],
   "ex": "have fingers burned = 吃過虧;先了解過去問題。"
  },
@@ -2749,9 +2749,9 @@
   "line": "Let's take this offline.",
   "a": "Sure, I'll grab you after the meeting.",
   "d": [
-   "Turn off the internet?",
-   "Offline is no network.",
-   "No, let's discuss it now in front of everyone."
+   "Sure, I'll post it online after the meeting.",
+   "Sure, I'll turn off my Wi-Fi for now.",
+   "Sure, let's keep discussing it here."
   ],
   "ex": "take this offline = 會後私下討論,與網路無關。"
  },
@@ -2762,9 +2762,9 @@
   "line": "Could you circle back with legal before we sign off on this?",
   "a": "Will do. I'll loop them in today and update you once I hear back.",
   "d": [
-   "Circle is round.",
-   "Legal circle back.",
-   "We already signed, too late."
+   "Will do. I'll sign off on it today and send it to legal later.",
+   "Sure. Could you check with legal for me before I sign?",
+   "Will do. I'll draw a circle around the key points."
   ],
   "ex": "circle back = 回頭確認;sign off = 正式核准。"
  },
@@ -2775,9 +2775,9 @@
   "line": "You're cutting it a bit fine, aren't you?",
   "a": "I know — but if the train's on time, I'll make it.",
   "d": [
-   "I'm cutting it fine, thank you, I like to be fine.",
-   "Fine is good.",
-   "Fine, thanks."
+   "I know — I'll cut it into smaller pieces on the train.",
+   "Thanks — I took the earlier train, so I've got plenty of time.",
+   "Yes, I got my hair cut just last week."
   ],
   "ex": "cut it fine = 時間抓得很緊。"
  },
@@ -2788,9 +2788,9 @@
   "line": "If you can meet us halfway on price, we can sign today.",
   "a": "Halfway is a stretch, but we could do 5% if you extend the contract to two years.",
   "d": [
-   "Let's meet at the halfway station.",
-   "OK, any price, sign now.",
-   "Halfway is 50%?"
+   "Halfway is a stretch, but we could meet you at the station at noon.",
+   "Great, we'll pay the full price then, and you can sign today.",
+   "Sure. Which half of the order would you like to sign for today?"
   ],
   "ex": "meet halfway = 各退一步;讓步要換取條件。"
  },
@@ -2801,9 +2801,9 @@
   "line": "I could be wrong, but isn't the launch date clashing with the trade fair?",
   "a": "Good catch — you're right. We should move it.",
   "d": [
-   "You're wrong. I already checked the calendar and there is no problem.",
-   "Clash is fight.",
-   "I could be wrong too."
+   "Good catch — let's hold both on the same day, then.",
+   "I'll buy us tickets to the fair, then.",
+   "Thanks — I'm glad they match so well."
   ],
   "ex": "Good catch = 抓得好;clash = 時間衝突。"
  },
@@ -2814,9 +2814,9 @@
   "line": "Your work has been solid, but I'd like to see you take more initiative.",
   "a": "That's helpful feedback. Could you give me an example of where I could have stepped up?",
   "d": [
-   "I always take initiative.",
-   "Solid is hard.",
-   "Initiative is not my job."
+   "That's helpful feedback. Could you tell me which initiative the company is launching next year?",
+   "Thanks, I'm glad you think my work has been solid enough that I don't need to change anything.",
+   "That's helpful. Could you take more initiative on the next project, then?"
   ],
   "ex": "接受回饋並要具體例子;step up = 主動承擔。"
  },
@@ -2827,9 +2827,9 @@
   "line": "So, what do you make of all this AI hype?",
   "a": "Some of it's justified, but a lot of companies are overpromising.",
   "d": [
-   "I make AI.",
-   "Hype is high.",
-   "I don't make anything of it, I'm just an engineer, not a businessman."
+   "I made most of it myself, but a lot of the decorations were bought online.",
+   "Thanks, I'm glad you're enjoying it — the AI team worked really hard on tonight.",
+   "I make about the same as most engineers here, to be honest."
   ],
   "ex": "what do you make of = 你怎麼看;給平衡觀點。"
  },
@@ -2840,9 +2840,9 @@
   "line": "Not to nitpick, but the chart's y-axis is mislabelled.",
   "a": "Good catch, thanks — fixing it now.",
   "d": [
-   "Nitpick is pick.",
-   "Then don't nitpick. Nobody looks at the y-axis anyway.",
-   "The y-axis is labelled."
+   "Thanks — could you fix my chart's labels, too?",
+   "Good catch — I'll relabel the x-axis, then.",
+   "Thanks — glad you like the chart."
   ],
   "ex": "nitpick = 挑小毛病;大方感謝並修正。"
  },
@@ -2853,9 +2853,9 @@
   "line": "I'm on the fence about whether to take the offer.",
   "a": "What's holding you back?",
   "d": [
-   "Get off the fence.",
-   "Fences are dangerous.",
-   "Take it, obviously. Are you crazy?"
+   "Congrats! When do you start?",
+   "Why did they turn you down?",
+   "What did you end up offering?"
   ],
   "ex": "on the fence = 猶豫不決;問顧慮比替人決定好。"
  },
@@ -2866,9 +2866,9 @@
   "line": "Let's take this offline.",
   "a": "Sure — I'll set up a quick call with you this afternoon.",
   "d": [
-   "OK, I'll turn off my laptop now.",
-   "Great, so we'll keep discussing it here for a few more minutes.",
-   "Why? The Wi-Fi is working fine."
+   "Sure — I'll turn off my laptop after the meeting.",
+   "Sure — let's keep going with it right now, then.",
+   "Thanks — I'll set up a call with the whole team now."
   ],
   "ex": "take this offline = 會後私下再談,不是斷網。"
  },
@@ -2879,9 +2879,9 @@
   "line": "Could you do me a favour and look over my slides before three?",
   "a": "Happy to. Send them over and I'll get back to you by two.",
   "d": [
-   "No, I can't look at them, because I'm looking at my own.",
-   "I'll look over them sometime next week.",
-   "Yes, I can look. Favour accepted."
+   "Happy to. Send them over and I'll get back to you next week.",
+   "Thanks — I'll send you my slides before three, if that works.",
+   "Happy to. I looked over them yesterday, and they were great."
   ],
   "ex": "爽快答應並給時間點;next week 已錯過三點的期限。"
  },
@@ -2892,9 +2892,9 @@
   "line": "I'm afraid that doesn't quite work for us.",
   "a": "I see. Could you tell me which part is the sticking point?",
   "d": [
-   "Why are you afraid? There's nothing to worry about.",
-   "Great, so we can sign today.",
-   "Then that's your problem, not ours."
+   "I see. Could you tell me which part works best for you, then?",
+   "Great! I'll send the contract over this afternoon, then.",
+   "Don't be afraid — I'll walk you through it step by step."
   ],
   "ex": "I'm afraid… 是委婉拒絕;應追問卡在哪裡。"
  },
@@ -2905,9 +2905,9 @@
   "line": "Where are we on the Q3 report?",
   "a": "It's about 80% done — I'm just waiting on the sales figures.",
   "d": [
-   "We're in the meeting room on the third floor.",
-   "The Q3 report is a report about Q3.",
-   "I don't know, ask someone else."
+   "Could you send me the Q3 report once it's done? I'd like to review it.",
+   "We're on the third floor, in the room next to the kitchen.",
+   "It was due at the end of Q2, so we sent it in June."
   ],
   "ex": "Where are we on X? = X 的進度如何。"
  },
@@ -2918,9 +2918,9 @@
   "line": "Have you got a sec?",
   "a": "Sure, what's up?",
   "d": [
-   "Yes, I have a second watch.",
-   "I've got a few seconds left on my timer.",
-   "No. Goodbye."
+   "Sure, it's ten to four.",
+   "Sure, I've got a spare.",
+   "Not much, and you?"
   ],
   "ex": "Have you got a sec? = 有空一下嗎。"
  },
@@ -2931,9 +2931,9 @@
   "line": "That presentation really hit the mark.",
   "a": "Thanks — I was worried it ran a bit long.",
   "d": [
-   "Sorry, I didn't mean to hit anyone.",
-   "Which mark? I didn't see one on the slides.",
-   "Yes, I know. I'm always the best presenter here."
+   "Thanks — sorry I missed the mark on the timing.",
+   "Thanks — what did you think of my presentation?",
+   "Sorry — I'll try to do better next time."
   ],
   "ex": "hit the mark = 正中要點;謙虛回應最自然。"
  },
@@ -2944,9 +2944,9 @@
   "line": "Sorry, I think we're going off on a tangent here.",
   "a": "Good point — let's park that and come back to the budget.",
   "d": [
-   "A tangent is a line that touches a curve.",
-   "Yes, let's keep going in this direction then.",
-   "Sorry, I wasn't going anywhere."
+   "Good point — let's go off and grab a coffee before the budget.",
+   "Good point — let's spend a bit more time on that topic, then.",
+   "Good point — I'll draw the tangent line on the whiteboard now."
   ],
   "ex": "go off on a tangent = 離題;park that = 先擱著。"
  },
@@ -2957,9 +2957,9 @@
   "line": "We'd need it by Friday at the latest.",
   "a": "Friday's tight, but doable if we get your approval today.",
   "d": [
-   "At the latest technology? Sure.",
-   "No problem, we'll deliver it next Tuesday.",
-   "Friday is the fifth day of the week."
+   "Friday's tight, but doable if you can wait until next Tuesday.",
+   "Sure, we'll need it from you by Friday at the latest, too.",
+   "Friday's great — I'll be in the office late, so drop by anytime."
   ],
   "ex": "at the latest = 最晚;要回應可行性與條件。"
  },
@@ -2970,9 +2970,9 @@
   "line": "I'm swamped this week.",
   "a": "Anything I can take off your plate?",
   "d": [
-   "Did it rain a lot at your place?",
-   "Me too, so don't ask me for anything.",
-   "Swamps are bad for your health."
+   "Great! Want to grab a drink, then?",
+   "Can I give you more work, then?",
+   "Lucky you! Any plans for it?"
   ],
   "ex": "swamped = 忙翻;take off your plate = 幫你分擔。"
  },
@@ -2983,9 +2983,9 @@
   "line": "What would you say is your biggest weakness?",
   "a": "I sometimes take on too much myself, so I've been learning to delegate earlier.",
   "d": [
-   "I don't have any weaknesses.",
-   "My biggest weakness is that I'm always late and lazy.",
-   "I would say nothing."
+   "I'd say my biggest strength is delegating, so I've been learning to take on more.",
+   "I think your company's biggest weakness is its slow hiring process.",
+   "I'd say my biggest achievement was leading the migration project last year."
   ],
   "ex": "說一個真實但可控的缺點並說明改進。"
  },
@@ -2996,9 +2996,9 @@
   "line": "I think there's room for improvement on the client emails.",
   "a": "Thanks for flagging it. Could you point me to an example?",
   "d": [
-   "There's no room — this office is too small.",
-   "My emails are perfect, so I disagree.",
-   "OK. Improvement room is where?"
+   "Thanks for flagging it. Could you send me the room number, please?",
+   "Thanks for flagging it. Could you improve your client emails, too?",
+   "Thanks — I'm glad you liked the client emails."
   ],
   "ex": "room for improvement = 有改進空間;請對方給例子。"
  },
@@ -3009,9 +3009,9 @@
   "line": "Fancy grabbing a bite after work?",
   "a": "I'd love to, but I've got a thing tonight. Rain check?",
   "d": [
-   "I don't fancy biting anything.",
-   "Yes, I'll grab one for you and bring it tomorrow.",
-   "No. I hate eating with people."
+   "Thanks, but I've already got a ride home tonight.",
+   "Sounds fun! How was it? Did you go with Amy?",
+   "I'm fine, thanks — I just had a bite of cake."
   ],
   "ex": "Fancy…? = 想不想…;rain check = 改天。"
  },
@@ -3022,9 +3022,9 @@
   "line": "I'll keep you in the loop.",
   "a": "Thanks, I appreciate it.",
   "d": [
-   "Please don't put me in a loop, I get dizzy.",
-   "What loop? We don't have a loop here.",
-   "No need, I don't care what happens."
+   "Thanks, I'll keep you posted.",
+   "Sorry, I'm out of the loop.",
+   "Great, what time does it start?"
   ],
   "ex": "keep you in the loop = 隨時讓你知道進度。"
  },
@@ -3035,9 +3035,9 @@
   "line": "Is there any wiggle room on the price?",
   "a": "There might be a little if you can commit to a longer contract.",
   "d": [
-   "The room is quite small, I'm afraid.",
-   "Wiggle is a funny word.",
-   "No. The price is the price. Take it or leave it, idiot."
+   "There's plenty of room — the price includes free parking.",
+   "Could you lower the price a little if we sign for longer?",
+   "Sure, the price is listed on our website under Plans."
   ],
   "ex": "wiggle room = 彈性空間(議價)。"
  },
@@ -3048,9 +3048,9 @@
   "line": "Well, that went down like a lead balloon.",
   "a": "Yeah, tough crowd. Maybe the joke needed more context.",
   "d": [
-   "Oh no, did someone drop a balloon?",
-   "Great! Everyone loved it, then.",
-   "Lead balloons can't fly, actually."
+   "Yeah, everyone loved it. Maybe we should do it again next week.",
+   "Yeah, tough crowd. Maybe I should order more balloons for the party.",
+   "Thanks — I worked really hard on that joke. Glad you liked it."
   ],
   "ex": "go down like a lead balloon = 完全冷場、反應很差。"
  },
@@ -3061,9 +3061,9 @@
   "line": "We may need to move the goalposts a bit.",
   "a": "Understood, but if the targets change, can we revisit the deadline too?",
   "d": [
-   "Should I call the football club?",
-   "So the targets stay exactly the same?",
-   "I refuse to move anything heavy."
+   "Understood. As the targets aren't changing, we'll keep the deadline.",
+   "Thanks — I'm glad we're sticking to the original plan.",
+   "Understood. When did you move into the new office?"
   ],
   "ex": "move the goalposts = 中途改變目標或標準。"
  },
@@ -3074,9 +3074,9 @@
   "line": "I think the new manager is a bit out of his depth.",
   "a": "Maybe, but it's early days. Let's give him a chance.",
   "d": [
-   "Yes, he can't swim well.",
-   "So he's an expert in this area.",
-   "His depth is about two meters."
+   "I agree — he's clearly very experienced and knows the job well.",
+   "Yes, he started here years ago, so he knows everyone well.",
+   "Maybe, but it's early days. When does he officially retire?"
   ],
   "ex": "out of one's depth = 力不從心;early days = 還早。"
  },
@@ -3087,9 +3087,9 @@
   "line": "Let's circle back on this next week.",
   "a": "Sounds good. I'll send a calendar invite for Tuesday.",
   "d": [
-   "Why should we walk in a circle?",
-   "OK, so we're finished and never need to talk again.",
-   "Next week I'm going back to my hometown."
+   "Sounds good. I'll draw a circle around the main points for you.",
+   "Sounds good. Let's wrap it up today, then — I'll sign now.",
+   "Sounds good. Could you send me the calendar invite for last Tuesday?"
   ],
   "ex": "circle back = 之後再回頭討論。"
  },
@@ -3100,9 +3100,9 @@
   "line": "Honestly, this project has been a bit of a poisoned chalice.",
   "a": "I can imagine — high visibility, but no budget to match.",
   "d": [
-   "Did you report the poison to HR?",
-   "Lucky you, it's a great gift.",
-   "A chalice is a kind of cup used in church."
+   "I can imagine — it's been an easy win with a huge budget, right?",
+   "Really? Did someone get sick from the drinks at the party?",
+   "I can imagine — everyone's been fighting to join the team."
   ],
   "ex": "poisoned chalice = 看似榮耀實則燙手山芋。"
  },
@@ -3113,9 +3113,9 @@
   "line": "How's everything tasting?",
   "a": "Lovely, thanks. Could we get some more water when you have a chance?",
   "d": [
-   "It's tasting the food.",
-   "Everything tastes like everything.",
-   "Why do you keep asking me questions?"
+   "Lovely, thanks. Could we see the menu, please? We haven't ordered yet.",
+   "It's a table for two, please. Could we sit by the window, if possible?",
+   "Everything's been fine at home, thanks. How's your family been lately?"
   ],
   "ex": "禮貌回應並順帶提出需求。"
  },
@@ -3126,9 +3126,9 @@
   "line": "I'm afraid we've had to upgrade you to a suite.",
   "a": "Oh, that's no problem at all — thank you!",
   "d": [
-   "I'm afraid too. Let's be afraid together.",
-   "Please downgrade me, I'm angry.",
-   "Why are you afraid of me?"
+   "Oh no, is there anything you can do?",
+   "Oh no — could I get a refund, then?",
+   "Thanks, I'll wait in the lobby, then."
   ],
   "ex": "I'm afraid 有時只是客套開頭,這裡其實是好消息。"
  },
@@ -3139,9 +3139,9 @@
   "line": "Sorry about the noise last night.",
   "a": "Oh, no worries — I hardly noticed.",
   "d": [
-   "Yes, you should be sorry. I'm calling the police.",
-   "What noise? I made a lot of noise too.",
-   "The noise was last night, not today."
+   "Oh, thanks — it was a great party, wasn't it?",
+   "Sorry, I'll keep it down tonight.",
+   "Oh, really? What did you hear?"
   ],
   "ex": "no worries / I hardly noticed = 大方帶過。"
  },
@@ -3152,9 +3152,9 @@
   "line": "We're doing a farewell lunch for Jen on Friday — you in?",
   "a": "Count me in. Where are we going?",
   "d": [
-   "I'm in the office on Friday.",
-   "Who is Jen? I don't go to lunches.",
-   "In what? In the restaurant?"
+   "Count me in. When's her first day?",
+   "Sure, I'll tell Jen you're coming.",
+   "Yes, I'm in the office."
   ],
   "ex": "you in? = 你要參加嗎;count me in = 算我一份。"
  },
@@ -3165,9 +3165,9 @@
   "line": "With hindsight, we should have flagged the risk earlier.",
   "a": "Agreed. Let's add a risk check to the kickoff checklist.",
   "d": [
-   "Hindsight is my favorite movie.",
-   "No, we flagged it perfectly late.",
-   "I can't see behind me."
+   "Agreed. Luckily, we flagged the risk early, so no harm done.",
+   "Agreed. Let's skip the risk check next time to save some time.",
+   "Agreed. When will we have the hindsight report ready for review?"
   ],
   "ex": "with hindsight = 事後看來;提出改進措施。"
  },
@@ -3178,9 +3178,9 @@
   "line": "Bear with me while I pull up your account.",
   "a": "Sure, take your time.",
   "d": [
-   "I'm not a bear.",
-   "Pull it up where? To the ceiling?",
-   "Hurry up, I don't have all day."
+   "Sure, I'll pull it up.",
+   "Sure, I can wait outside.",
+   "Thanks, goodbye!"
   ],
   "ex": "bear with me = 請稍等。"
  },
@@ -3191,9 +3191,9 @@
   "line": "What's your take on the new office layout?",
   "a": "I like the open space, but it's hard to focus when it gets noisy.",
   "d": [
-   "I take the bus to the new office.",
-   "Take what? I didn't take anything.",
-   "It's laid out on the floor."
+   "I'll take the desk by the window, if nobody else has claimed it yet.",
+   "It's on the third floor, next to the kitchen and the meeting rooms.",
+   "Thanks — I designed most of it myself, so I'm really glad you like it."
   ],
   "ex": "What's your take on…? = 你對…的看法。"
  },
@@ -3204,9 +3204,9 @@
   "line": "That's a non-starter for us.",
   "a": "Understood. What would you need to see to make it workable?",
   "d": [
-   "Great, so we can start now.",
-   "Who's the starter? Is it a race?",
-   "OK then, we'll just do it anyway."
+   "Great! When can we start, then? I'll send the contract over.",
+   "Understood. Could you tell me who will be starting the meeting?",
+   "Understood. Let's sign the agreement as it is, then."
   ],
   "ex": "non-starter = 完全不可行的提案。"
  },
@@ -3217,9 +3217,9 @@
   "line": "I've got a lot on my plate right now.",
   "a": "No problem — it can wait until next week.",
   "d": [
-   "Do you want some of my food?",
-   "Your plate looks empty to me.",
-   "Too bad, I need it in an hour."
+   "No problem — I'll add a few more tasks to it.",
+   "Thanks, I'm not hungry right now.",
+   "Great — so you can take this on today?"
   ],
   "ex": "a lot on my plate = 手上事情很多。"
  }

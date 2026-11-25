@@ -1672,9 +1672,9 @@
   "q": "Can you look ___ my cat while I'm away?",
   "a": "after",
   "d": [
-   "for",
-   "at",
-   "up"
+   "around",
+   "through",
+   "toward"
   ],
   "zh": "照顧",
   "ex": "look after 照顧。"
@@ -1757,8 +1757,8 @@
   "a": "over",
   "d": [
    "on",
-   "off",
-   "at"
+   "after",
+   "around"
   ],
   "zh": "檢查複習",
   "ex": "go over 仔細檢查、複習。"
@@ -1798,9 +1798,9 @@
   "q": "The printer broke ___ again.",
   "a": "down",
   "d": [
-   "up",
-   "out",
-   "off"
+   "through",
+   "loose",
+   "evenly"
   ],
   "zh": "故障",
   "ex": "break down 機器故障。"
@@ -1882,9 +1882,9 @@
   "q": "Let me think it ___ and get back to you.",
   "a": "over",
   "d": [
-   "up",
-   "off",
-   "in"
+   "under",
+   "across",
+   "aside"
   ],
   "zh": "考慮一下",
   "ex": "think it over 仔細考慮。"
@@ -1910,9 +1910,9 @@
   "q": "Kevin will take ___ the project while Amy is on leave.",
   "a": "over",
   "d": [
-   "off",
+   "after",
    "in",
-   "out"
+   "off"
   ],
   "zh": "接手",
   "ex": "take over 接手、接管。"
@@ -1967,8 +1967,8 @@
   "a": "around",
   "d": [
    "up",
-   "on",
-   "off"
+   "off",
+   "over"
   ],
   "zh": "閒晃",
   "ex": "hang around 閒待、閒晃。"
@@ -1994,9 +1994,9 @@
   "q": "The deal fell ___ at the last minute.",
   "a": "through",
   "d": [
-   "down",
-   "over",
-   "away"
+   "into place",
+   "overboard",
+   "backwards"
   ],
   "zh": "告吹",
   "ex": "fall through 計畫、交易告吹。"
@@ -2162,9 +2162,9 @@
   "q": "I'll look ___ the problem and let you know what I find.",
   "a": "into",
   "d": [
-   "up",
    "on",
-   "out"
+   "after",
+   "beyond"
   ],
   "zh": "調查",
   "ex": "look into 調查、研究。"
@@ -2204,7 +2204,7 @@
   "q": "Let me write ___ your phone number.",
   "a": "down",
   "d": [
-   "in",
+   "up",
    "on",
    "off"
   ],
@@ -2290,7 +2290,7 @@
   "d": [
    "for",
    "to",
-   "by"
+   "about"
   ],
   "zh": "想出",
   "ex": "come up with 想出；介系詞固定 with。"
@@ -2484,9 +2484,9 @@
   "q": "We still need to [iron out] a few details in the contract.",
   "a": "解決（細節問題）",
   "d": [
-   "熨平衣服",
-   "列出",
-   "刪除"
+   "用熨斗把文件燙平整",
+   "把細節全部列成清單",
+   "把多餘的細節刪除掉"
   ],
   "zh": "解決小問題",
   "ex": "iron out 消除、解決分歧或小問題。"
@@ -2498,8 +2498,8 @@
   "q": "The project [fell apart] after the CEO left.",
   "a": "瓦解失敗",
   "d": [
-   "被分開",
-   "掉下來",
+   "分開",
+   "掉落",
    "延期"
   ],
   "zh": "瓦解",
@@ -2611,8 +2611,8 @@
   "a": "由…組成",
   "d": [
    "化妝",
-   "捏造",
-   "和好"
+   "編造出來的",
+   "跟某人和好"
   ],
   "zh": "由…組成",
   "ex": "be made up of 由…構成。"
@@ -2654,7 +2654,7 @@
   "d": [
    "關掉",
    "出席",
-   "拒絕"
+   "拒絕接受"
   ],
   "zh": "結果證明",
   "ex": "turn out (to be) 結果是。"
@@ -2680,9 +2680,9 @@
   "q": "I need to [brush up on] my English before the trip.",
   "a": "複習加強",
   "d": [
-   "刷牙",
-   "放棄",
-   "炫耀"
+   "把牙齒刷乾淨",
+   "完全放棄學習",
+   "在人前炫耀"
   ],
   "zh": "溫習",
   "ex": "brush up on 複習、加強。"
@@ -2722,9 +2722,9 @@
   "q": "The CEO [stepped down] last month.",
   "a": "辭職下台",
   "d": [
-   "走下樓",
+   "退步",
    "降價",
-   "退步"
+   "從樓上走下來"
   ],
   "zh": "卸任",
   "ex": "step down 辭職、卸任。"
@@ -2792,9 +2792,9 @@
   "q": "She really [takes after] her mother.",
   "a": "長得像（遺傳）",
   "d": [
-   "跟在後面",
-   "照顧",
-   "接手"
+   "照顧母親",
+   "接手她的工作",
+   "一直跟在她後面走"
   ],
   "zh": "像（長輩）",
   "ex": "take after 長相或個性像長輩。"
@@ -2863,8 +2863,8 @@
   "a": "流行起來",
   "d": [
    "抓住",
-   "著火",
-   "趕上"
+   "著火燒起來",
+   "趕上進度了"
   ],
   "zh": "流行",
   "ex": "catch on 流行開來。"
@@ -2876,9 +2876,9 @@
   "q": "Please [bear with] me while I find the file.",
   "a": "請稍候、耐心等",
   "d": [
-   "跟我走",
-   "支持我",
-   "相信我"
+   "請跟著我一起走過去",
+   "請在這件事上支持我",
+   "請相信我說的每句話"
   ],
   "zh": "耐心等候",
   "ex": "bear with me 請稍等，客服電話常用。"
@@ -2890,9 +2890,9 @@
   "q": "I've been meaning to clean the garage, but I haven't [gotten around to] it.",
   "a": "抽出時間去做",
   "d": [
-   "繞過",
-   "到處走",
-   "避開"
+   "想辦法繞過去避開",
+   "到處走來走去閒晃",
+   "把它四處轉來轉去"
   ],
   "zh": "抽空做",
   "ex": "get around to 終於有空去做。"
@@ -2906,7 +2906,7 @@
   "d": [
    "陪我走過去",
    "讓我通過",
-   "拒絕我"
+   "陪我走路去那邊參觀"
   ],
   "zh": "逐步講解",
   "ex": "walk someone through 一步步說明。"
@@ -2933,8 +2933,8 @@
   "a": "身心俱疲",
   "d": [
    "燒傷",
-   "燒完了",
-   "很生氣"
+   "很生氣",
+   "東西燒完了"
   ],
   "zh": "過勞",
   "ex": "burned out 精疲力竭、職業倦怠。"
@@ -2947,8 +2947,8 @@
   "a": "處理好",
   "d": [
    "分類",
-   "挑出",
-   "放棄"
+   "挑選出來",
+   "放棄申請"
   ],
   "zh": "搞定",
   "ex": "sort out 解決、處理好。"
@@ -2960,9 +2960,9 @@
   "q": "Everyone [chipped in] to buy a gift for our manager.",
   "a": "出點錢",
   "d": [
-   "切片",
-   "包裝",
-   "退出"
+   "切成小片",
+   "幫忙包裝",
+   "一起退出"
   ],
   "zh": "湊錢",
   "ex": "chip in 大家湊錢。"
@@ -2988,9 +2988,9 @@
   "q": "Let me [sleep on it] and give you an answer tomorrow.",
   "a": "考慮一晚再決定",
   "d": [
-   "睡在上面",
-   "睡過頭",
-   "忽略它"
+   "把它放在床上睡覺",
+   "一覺睡到隔天中午",
+   "先把這件事忘掉吧"
   ],
   "zh": "想一晚再說",
   "ex": "sleep on it 隔一晚再做決定。"
@@ -3044,8 +3044,8 @@
   "q": "We need to [factor in] the cost of shipping.",
   "a": "把…考慮進去",
   "d": [
-   "分解",
-   "刪除",
+   "把…分解成因數",
+   "把…從中刪除掉",
    "加倍"
   ],
   "zh": "列入考量",
@@ -3072,9 +3072,9 @@
   "q": "Before we start, let's make sure we're all [on the same page].",
   "a": "想法一致",
   "d": [
-   "在同一頁",
+   "同一頁",
    "同時間",
-   "同一團隊"
+   "同團隊"
   ],
   "zh": "有共識",
   "ex": "on the same page 對事情理解一致。"
@@ -3101,7 +3101,7 @@
   "a": "今天先到這",
   "d": [
    "叫它一天",
-   "打電話",
+   "打電話叫人來",
    "過一天算一天"
   ],
   "zh": "收工",
@@ -3116,7 +3116,7 @@
   "d": [
    "一塊蛋糕",
    "甜點",
-   "小禮物"
+   "小小的禮物"
   ],
   "zh": "小菜一碟",
   "ex": "a piece of cake 輕而易舉。"
@@ -3128,8 +3128,8 @@
   "q": "He told a funny story to [break the ice].",
   "a": "打破冷場",
   "d": [
-   "打破冰塊",
-   "破壞關係",
+   "把冰塊敲碎",
+   "破壞彼此關係",
    "冒險"
   ],
   "zh": "破冰",
@@ -3144,7 +3144,7 @@
   "d": [
    "打馬路",
    "撞車",
-   "迷路"
+   "在路上迷路"
   ],
   "zh": "上路",
   "ex": "hit the road 出發、離開。"
@@ -3157,8 +3157,8 @@
   "a": "身體不舒服",
   "d": [
    "天氣不好",
-   "在雨中",
-   "在戶外"
+   "淋雨淋得很濕",
+   "待在戶外工作"
   ],
   "zh": "身體微恙",
   "ex": "under the weather 有點不舒服。"
@@ -3170,9 +3170,9 @@
   "q": "That new phone [cost an arm and a leg].",
   "a": "非常貴",
   "d": [
-   "害人受傷",
-   "很划算",
-   "很累人"
+   "划算",
+   "便宜",
+   "累人"
   ],
   "zh": "貴得要命",
   "ex": "cost an arm and a leg 價格昂貴。"
@@ -3213,8 +3213,8 @@
   "a": "回到原點",
   "d": [
    "回到第一名",
-   "回到廣場",
-   "重新排隊"
+   "回到市中心廣場",
+   "重新排隊等候"
   ],
   "zh": "從頭來過",
   "ex": "back to square one 一切重來。"
@@ -3227,8 +3227,8 @@
   "a": "跳脫框架思考",
   "d": [
    "在戶外思考",
-   "打開箱子",
-   "想太多"
+   "把箱子打開來看",
+   "想得太多太複雜"
   ],
   "zh": "創新思考",
   "ex": "think outside the box 跳脫既有框架。"
@@ -3240,9 +3240,9 @@
   "q": "[The bottom line] is that we need more customers.",
   "a": "重點是",
   "d": [
-   "最低價格",
-   "最後一行",
-   "最底層"
+   "底價",
+   "末行",
+   "底層"
   ],
   "zh": "結論重點",
   "ex": "the bottom line 最關鍵的重點。"
@@ -3256,7 +3256,7 @@
   "d": [
    "幫你寄信",
    "把你貼上去",
-   "讓你留下"
+   "讓你留下來"
   ],
   "zh": "保持更新",
   "ex": "keep someone posted 隨時告知進度。"
@@ -3268,9 +3268,9 @@
   "q": "I only eat fast food [once in a blue moon].",
   "a": "難得一次",
   "d": [
-   "月圓的時候",
+   "月圓時",
    "每個月",
-   "很憂鬱時"
+   "心情很憂鬱時"
   ],
   "zh": "難得",
   "ex": "once in a blue moon 非常罕見。"
@@ -3282,9 +3282,9 @@
   "q": "Pizza or noodles? [It's up to you].",
   "a": "由你決定",
   "d": [
-   "輪到你了",
-   "你比較高",
-   "你來付錢"
+   "輪到你",
+   "你較高",
+   "你付錢"
   ],
   "zh": "你決定",
   "ex": "It's up to you. 你決定就好。"
@@ -3296,9 +3296,9 @@
   "q": "I know the project is tough. [Hang in there]!",
   "a": "撐住",
   "d": [
-   "掛在那裡",
-   "在那等",
-   "待著別動"
+   "放手",
+   "等著",
+   "躲好"
   ],
   "zh": "堅持",
   "ex": "hang in there 撐下去、加油。"
@@ -3310,9 +3310,9 @@
   "q": "Stop [beating around the bush] and tell me what happened.",
   "a": "拐彎抹角",
   "d": [
-   "打草驚蛇",
-   "到處亂逛",
-   "說謊"
+   "亂逛",
+   "說謊",
+   "在草叢裡打蛇"
   ],
   "zh": "繞圈子",
   "ex": "beat around the bush 不直說。"
@@ -3324,9 +3324,9 @@
   "q": "I've sent you my offer. [The ball is in your court] now.",
   "a": "輪到你決定了",
   "d": [
-   "你輸了",
-   "你負責打掃",
-   "你在場上"
+   "你已經輸掉這局了",
+   "你要負責打掃球場",
+   "你人站在球場上"
   ],
   "zh": "換你回應",
   "ex": "the ball is in your court 下一步看你。"
@@ -3338,9 +3338,9 @@
   "q": "If we [cut corners] on safety, someone could get hurt.",
   "a": "偷工減料",
   "d": [
-   "切掉角落",
-   "繞遠路",
-   "提早下班"
+   "把桌子角落切掉",
+   "抄近路走捷徑",
+   "提早一點下班"
   ],
   "zh": "草率行事",
   "ex": "cut corners 為省錢省時而偷工減料。"
@@ -3352,9 +3352,9 @@
   "q": "Our support team always [goes the extra mile] for customers.",
   "a": "多付出努力",
   "d": [
-   "多走一英里",
-   "繞遠路",
-   "出差"
+   "多走一英里路",
+   "繞遠路去上班",
+   "去外地出差洽公"
   ],
   "zh": "額外用心",
   "ex": "go the extra mile 做得比要求更多。"
@@ -3367,8 +3367,8 @@
   "a": "掌握訣竅",
   "d": [
    "把它掛起來",
-   "放棄它",
-   "對它生氣"
+   "直接放棄它",
+   "對它很生氣"
   ],
   "zh": "上手",
   "ex": "get the hang of 熟悉、抓到訣竅。"
@@ -3382,7 +3382,7 @@
   "d": [
    "頭痛的事",
    "難題",
-   "笨方法"
+   "很笨的處理方法"
   ],
   "zh": "顯而易見",
   "ex": "a no-brainer 不必多想的選擇。"
@@ -3423,8 +3423,8 @@
   "a": "臨陣退縮",
   "d": [
    "腳很冷",
-   "感冒了",
-   "態度冷淡"
+   "得了重感冒",
+   "態度很冷淡"
   ],
   "zh": "打退堂鼓",
   "ex": "get cold feet 臨陣畏縮。"
@@ -3436,9 +3436,9 @@
   "q": "I'm still [on the fence] about taking the job.",
   "a": "猶豫不決",
   "d": [
-   "在圍牆上",
-   "冷眼旁觀",
-   "強烈反對"
+   "坐在圍牆上",
+   "在一旁冷眼旁觀",
+   "反對"
   ],
   "zh": "拿不定主意",
   "ex": "on the fence 舉棋不定。"
@@ -3452,7 +3452,7 @@
   "d": [
    "在天上",
    "很開心",
-   "出差中"
+   "正在出差中"
   ],
   "zh": "懸而未決",
   "ex": "up in the air 未定案。"
@@ -3465,8 +3465,8 @@
   "a": "見機行事",
   "d": [
    "靠聽力",
-   "唱歌",
-   "邊聽邊學"
+   "邊唱歌邊做",
+   "邊聽邊學習"
   ],
   "zh": "隨機應變",
   "ex": "play it by ear 看情況再說。"
@@ -3478,9 +3478,9 @@
   "q": "The budget cut is [the elephant in the room]. Nobody wants to talk about it.",
   "a": "大家避而不談的明顯問題",
   "d": [
-   "房間裡的大人物",
-   "難搞的客人",
-   "很擠的空間"
+   "坐在房間裡最有權勢的大人物",
+   "公司裡最難搞的那位大客戶",
+   "擠滿了人又悶熱的狹小空間"
   ],
   "zh": "明顯卻被忽略的問題",
   "ex": "elephant in the room 大家都知道卻不說的事。"
@@ -3492,8 +3492,8 @@
   "q": "Getting the contract is [a long shot], but let's try.",
   "a": "機會很小",
   "d": [
-   "遠距離射擊",
-   "長期計畫",
+   "遠射",
+   "長計畫",
    "拍很久"
   ],
   "zh": "希望渺茫",
@@ -3506,9 +3506,9 @@
   "q": "The party [got out of hand] and the neighbors called the police.",
   "a": "失控",
   "d": [
-   "放手了",
-   "離開了",
-   "被交出去"
+   "散場",
+   "失手",
+   "結束"
   ],
   "zh": "失控",
   "ex": "get out of hand 情況失控。"
@@ -3522,7 +3522,7 @@
   "d": [
    "落後",
    "在舞台上",
-   "過時"
+   "已經過時"
   ],
   "zh": "幕後",
   "ex": "behind the scenes 幕後、不公開地。"
@@ -3534,9 +3534,9 @@
   "q": "Our auditor does everything [by the book].",
   "a": "照規矩來",
   "d": [
-   "看書學習",
-   "隨便做",
-   "依直覺"
+   "邊看書邊學習",
+   "隨隨便便地做",
+   "全憑自己直覺"
   ],
   "zh": "按規定",
   "ex": "by the book 嚴格照規定。"
@@ -3549,8 +3549,8 @@
   "a": "說得一針見血",
   "d": [
    "打釘子",
-   "出錯",
-   "很生氣"
+   "說得有點太誇張了",
+   "完全搞錯了重點"
   ],
   "zh": "說中要害",
   "ex": "hit the nail on the head 切中要點。"
@@ -3562,8 +3562,8 @@
   "q": "Don't [spill the beans] about the surprise party!",
   "a": "洩漏秘密",
   "d": [
-   "打翻豆子",
-   "浪費食物",
+   "打翻豆",
+   "浪費",
    "做錯菜"
   ],
   "zh": "說溜嘴",
@@ -3576,9 +3576,9 @@
   "q": "The manager will be here soon. Just [sit tight].",
   "a": "耐心等著",
   "d": [
-   "坐很擠",
-   "穿緊身衣",
-   "坐立難安"
+   "坐得很擁擠",
+   "穿上緊身衣",
+   "坐立不安地亂動"
   ],
   "zh": "稍安勿躁",
   "ex": "sit tight 原地耐心等待。"
@@ -3590,9 +3590,9 @@
   "q": "I can't make it to dinner tonight. Can I take a [rain check]?",
   "a": "改天再約",
   "d": [
-   "下雨檢查",
    "支票",
-   "天氣預報"
+   "雨傘",
+   "收據"
   ],
   "zh": "改天",
   "ex": "take a rain check 這次不行，改天。"
@@ -3604,9 +3604,9 @@
   "q": "Put your wallet away. Dinner is [my treat].",
   "a": "我請客",
   "d": [
-   "我的點心",
-   "我的待遇",
-   "招待我"
+   "點心",
+   "待遇",
+   "禮物"
   ],
   "zh": "我請客",
   "ex": "my treat 我請客。"
@@ -3618,9 +3618,9 @@
   "q": "You have an idea? [I'm all ears].",
   "a": "我洗耳恭聽",
   "d": [
-   "我耳朵很大",
-   "我聽不見",
-   "我很忙"
+   "我耳朵長得很大",
+   "我完全聽不見",
+   "我現在非常忙"
   ],
   "zh": "說吧我在聽",
   "ex": "I'm all ears. 我專心聽。"
@@ -3632,9 +3632,9 @@
   "q": "Just get up at 5 a.m. every day? That's [easier said than done].",
   "a": "說起來容易做起來難",
   "d": [
-   "先說再做",
-   "說了就做",
-   "很容易做到"
+   "先說出來然後再去做事",
+   "說了就一定會馬上去做",
+   "其實很容易就能夠做到"
   ],
   "zh": "知易行難",
   "ex": "easier said than done 說比做容易。"
@@ -3646,9 +3646,9 @@
   "q": "You finally sent the report? [Better late than never].",
   "a": "遲做總比不做好",
   "d": [
-   "晚到比較好",
-   "永遠不晚",
-   "不要遲到"
+   "晚一點到比較好一些",
+   "永遠都不會太晚的啦",
+   "下次千萬不要再遲到"
   ],
   "zh": "亡羊補牢",
   "ex": "better late than never 晚總比沒有好。"
@@ -3661,8 +3661,8 @@
   "a": "店家招待免費",
   "d": [
    "在屋頂上",
-   "住在家裡",
-   "外帶"
+   "住在自己的家裡",
+   "可以外帶回家吃"
   ],
   "zh": "免費招待",
   "ex": "on the house 店家請客。"
@@ -3676,7 +3676,7 @@
   "d": [
    "扯你後腿",
    "拉你一把",
-   "絆倒你"
+   "故意絆倒你一下"
   ],
   "zh": "逗你的",
   "ex": "pull someone's leg 開玩笑。注意不是扯後腿。"
@@ -3688,9 +3688,9 @@
   "q": "This box is heavy. Can you [give me a hand]?",
   "a": "幫我一下",
   "d": [
-   "牽我的手",
-   "跟我握手",
-   "給我一份"
+   "牽著我的手",
+   "跟我握握手",
+   "分給我一份"
   ],
   "zh": "幫忙",
   "ex": "give someone a hand 幫忙。"
@@ -3702,9 +3702,9 @@
   "q": "You've worked hard all week. [Take it easy] this weekend.",
   "a": "放輕鬆",
   "d": [
-   "拿得容易",
-   "很簡單",
-   "慢慢拿"
+   "簡單",
+   "拿走",
+   "拿得很容易"
   ],
   "zh": "放輕鬆",
   "ex": "take it easy 放輕鬆、別太累。"
@@ -3716,9 +3716,9 @@
   "q": "My old boss called me [out of the blue] yesterday.",
   "a": "突然、出乎意料",
   "d": [
-   "從天上掉下來",
-   "心情很差",
-   "藍色的"
+   "從天上直接掉下來",
+   "心情一直都非常差",
+   "穿著一身藍色衣服"
   ],
   "zh": "突然",
   "ex": "out of the blue 毫無預警地。"
@@ -3730,9 +3730,9 @@
   "q": "My manager and I don't always [see eye to eye].",
   "a": "意見一致",
   "d": [
-   "互相瞪眼",
+   "互瞪",
    "面對面",
-   "看得清楚"
+   "看清楚"
   ],
   "zh": "看法一致",
   "ex": "see eye to eye 意見相同。"
@@ -3744,9 +3744,9 @@
   "q": "At a small startup, you have to [wear many hats].",
   "a": "身兼數職",
   "d": [
-   "戴很多帽子",
-   "很愛打扮",
-   "常換工作"
+   "戴帽子",
+   "愛打扮",
+   "換工作"
   ],
   "zh": "一人多職",
   "ex": "wear many hats 一人分飾多角。"
@@ -3758,9 +3758,9 @@
   "q": "The new deal is [a win-win] for both companies.",
   "a": "雙贏",
   "d": [
-   "連勝",
-   "一直贏",
-   "贏兩次"
+   "連勝三場",
+   "一直都贏",
+   "連贏兩次"
   ],
   "zh": "雙贏",
   "ex": "a win-win (situation) 雙贏局面。"
@@ -3774,7 +3774,7 @@
   "d": [
    "掉落的水果",
    "便宜貨",
-   "次要的人"
+   "樹上掛得很低的水果"
   ],
   "zh": "容易的成果",
   "ex": "low-hanging fruit 先做容易見效的事。"
@@ -3786,9 +3786,9 @@
   "q": "A 2% discount won't really [move the needle].",
   "a": "帶來明顯影響",
   "d": [
-   "縫補東西",
-   "找麻煩",
-   "小題大作"
+   "拿針線縫補衣服",
+   "故意找別人麻煩",
+   "把小事情鬧太大"
   ],
   "zh": "產生明顯效果",
   "ex": "move the needle 造成顯著改變。"
@@ -3814,7 +3814,7 @@
   "q": "I forgot to send the invoice. I really [dropped the ball].",
   "a": "搞砸了",
   "d": [
-   "掉東西",
+   "東西掉了",
    "休息一下",
    "放棄比賽"
   ],
@@ -3828,8 +3828,8 @@
   "q": "Just a [heads-up]: the office will be closed on Friday.",
   "a": "事先提醒",
   "d": [
-   "抬頭挺胸",
-   "領導人",
+   "抬頭挺胸站好",
+   "公司的領導人",
    "頭痛"
   ],
   "zh": "提醒",
@@ -3843,8 +3843,8 @@
   "a": "優缺點",
   "d": [
    "專業和業餘",
-   "贊成的人",
-   "利潤和成本"
+   "贊成",
+   "成本"
   ],
   "zh": "利弊",
   "ex": "pros and cons 優缺點。"
@@ -3856,9 +3856,9 @@
   "q": "Stop tapping your pen. It's [getting on my nerves].",
   "a": "讓我心煩",
   "d": [
-   "刺激神經",
-   "讓我感動",
-   "讓我害怕"
+   "刺激我的神經",
+   "讓我很感動",
+   "讓我很害怕"
   ],
   "zh": "惹人煩",
   "ex": "get on someone's nerves 惹人厭煩。"
@@ -3872,7 +3872,7 @@
   "d": [
    "燒油",
    "浪費錢",
-   "半夜煮飯"
+   "煮宵夜"
   ],
   "zh": "開夜車",
   "ex": "burn the midnight oil 熬夜趕工。"
@@ -3884,9 +3884,9 @@
   "q": "The store needs to sell 300 units a month just to [break even].",
   "a": "損益兩平",
   "d": [
-   "打破平衡",
-   "破產",
-   "平分利潤"
+   "打破原本平衡",
+   "宣告破產倒閉",
+   "大家平分利潤"
   ],
   "zh": "不賺不賠",
   "ex": "break even 收支打平。"
@@ -3899,8 +3899,8 @@
   "a": "長遠來看",
   "d": [
    "跑長跑",
-   "很久以後",
-   "長期出差"
+   "很久很久以後",
+   "長期出差的時候"
   ],
   "zh": "長期而言",
   "ex": "in the long run 長期來看。"
@@ -3912,9 +3912,9 @@
   "q": "We can't afford to [rock the boat] right before the merger.",
   "a": "惹事生非、破壞現狀",
   "d": [
-   "划船",
-   "搖搖晃晃",
-   "去度假"
+   "在湖上悠閒地划著小船",
+   "在船上搖搖晃晃站不穩",
+   "請假出國去海邊度假了"
   ],
   "zh": "節外生枝",
   "ex": "rock the boat 打亂現狀、製造麻煩。"
@@ -3928,7 +3928,7 @@
   "d": [
    "跌倒了",
    "跑步上班",
-   "很快離職"
+   "一上任就很快地離職了"
   ],
   "zh": "立刻上手",
   "ex": "hit the ground running 一開始就迅速進入狀況。"
@@ -5480,9 +5480,9 @@
   "q": "Can you ___ up the meeting notes and send them round?",
   "a": "write",
   "d": [
-   "take",
-   "make",
-   "put"
+   "freshen",
+   "settle",
+   "make"
   ],
   "zh": "整理成文",
   "ex": "write up = 整理寫成正式紀錄。"
@@ -5606,9 +5606,9 @@
   "q": "He tends to ___ over the problems instead of fixing them.",
   "a": "gloss",
   "d": [
-   "look",
+   "puzzle",
    "get",
-   "go"
+   "look"
   ],
   "zh": "粉飾帶過",
   "ex": "gloss over = 輕描淡寫帶過;look over 是瀏覽檢查。"
@@ -5634,9 +5634,9 @@
   "q": "I'll ___ up with the client and get back to you.",
   "a": "follow",
   "d": [
-   "make",
-   "keep",
-   "check"
+   "partner",
+   "measure",
+   "make"
   ],
   "zh": "後續跟進",
   "ex": "follow up with = 跟進(check in with 也可,但 up 要接 follow)。"
@@ -5676,9 +5676,9 @@
   "q": "The project was ___ by budget cuts and staff turnover.",
   "a": "bogged down",
   "d": [
-   "bogged up",
-   "stuck on",
-   "held off"
+   "ironed out",
+   "bogged under",
+   "carried along"
   ],
   "zh": "陷入泥沼",
   "ex": "be bogged down = 進展受阻。"
@@ -5706,7 +5706,7 @@
   "d": [
    "見面握手",
    "回到原點",
-   "打好基礎"
+   "把公司的基礎打得更穩固"
   ],
   "zh": "聯絡進度",
   "ex": "touch base = 簡短聯絡、確認進度。"
@@ -5719,8 +5719,8 @@
   "a": "一上任就立刻進入狀況",
   "d": [
    "一開始就跌倒",
-   "跑得很快",
-   "在地上跑步"
+   "一開始就重重摔在地上了",
+   "在地上跑來跑去停不下來"
   ],
   "zh": "立刻上手",
   "ex": "hit the ground running = 一開始就全速投入。"
@@ -5734,7 +5734,7 @@
   "d": [
    "站在圍牆邊",
    "被排除在外",
-   "完全不想要"
+   "已經決定要接受這份工作"
   ],
   "zh": "猶豫",
   "ex": "on the fence = 舉棋不定。"
@@ -5747,7 +5747,7 @@
   "a": "模糊地帶",
   "d": [
    "灰色系的區域",
-   "違法的事",
+   "違法的事情",
    "沒人去的地方"
   ],
   "zh": "模糊地帶",
@@ -5760,9 +5760,9 @@
   "q": "Moving the deadline was [the last straw] for the team.",
   "a": "讓人忍無可忍的最後一根稻草",
   "d": [
-   "最後的機會",
-   "最便宜的選擇",
-   "最後的希望"
+   "最後一次的機會",
+   "最便宜的那個選擇",
+   "大家心中最後僅存的那一點希望"
   ],
   "zh": "忍無可忍",
   "ex": "the last straw = 壓垮駱駝的最後一根稻草。"
@@ -5774,9 +5774,9 @@
   "q": "His explanation [doesn't hold water].",
   "a": "站不住腳",
   "d": [
-   "不夠詳細",
-   "沒有說服別人喝水",
-   "很難懂"
+   "不詳細",
+   "很難懂",
+   "會漏水"
   ],
   "zh": "站不住腳",
   "ex": "not hold water = (論點)站不住腳。"
@@ -5802,9 +5802,9 @@
   "q": "Relax — the first round of interviews is [a piece of cake].",
   "a": "非常容易",
   "d": [
-   "很甜",
-   "很少見",
-   "需要分段"
+   "味道很甜美",
+   "非常罕見的",
+   "需要分段完成"
   ],
   "zh": "很簡單",
   "ex": "a piece of cake = 輕而易舉。"
@@ -5816,9 +5816,9 @@
   "q": "The manager [threw her under the bus] to save himself.",
   "a": "推她出去當替死鬼",
   "d": [
-   "開車撞她",
-   "讓她搭公車",
-   "把她調職"
+   "開車把她撞倒在路上",
+   "讓她自己搭公車回家",
+   "把她調職到別的部門"
   ],
   "zh": "拿人當替死鬼",
   "ex": "throw someone under the bus = 出賣別人以自保。"
@@ -5830,9 +5830,9 @@
   "q": "I'll [play it by ear] — I'm not sure how long the meeting will run.",
   "a": "見機行事",
   "d": [
-   "用聽的學",
-   "邊聽音樂邊做",
-   "照計畫進行"
+   "用聽的",
+   "聽音樂",
+   "照計畫"
   ],
   "zh": "見機行事",
   "ex": "play it by ear = 看情況隨機應變。"
@@ -5845,8 +5845,8 @@
   "a": "白費力氣重做已有的東西",
   "d": [
    "發明新產品",
-   "換輪胎",
-   "從零開始創新是好事"
+   "幫車子換輪胎",
+   "從零開始創新總是一件好事"
   ],
   "zh": "重造輪子",
   "ex": "reinvent the wheel = 重複做已有現成方法的事。"
@@ -5858,9 +5858,9 @@
   "q": "The new feature is still [in the pipeline].",
   "a": "正在籌備中",
   "d": [
-   "卡在管線裡",
-   "已經上線",
-   "被取消了"
+   "卡在管線",
+   "已上線",
+   "被取消"
   ],
   "zh": "籌備中",
   "ex": "in the pipeline = 正在進行/準備中。"
